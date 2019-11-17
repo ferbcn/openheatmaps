@@ -1,0 +1,5067 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6340352,
+                    41.0488849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0238506,
+                    41.1119109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3859958,
+                    41.1352731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8081781,
+                    41.3449942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5011196,
+                    42.0670165
+                ]
+            },
+            "properties": {
+                "name": "Bar Kotrri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0112897,
+                    41.6087991
+                ]
+            },
+            "properties": {
+                "name": "Bar Muca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0120814,
+                    41.6120957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0119682,
+                    41.6124025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8955708,
+                    41.6834819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8179435,
+                    41.3224057
+                ]
+            },
+            "properties": {
+                "name": "Sky Club Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4460208,
+                    41.3244688
+                ]
+            },
+            "properties": {
+                "name": "Bar FIORENTINA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4485332,
+                    41.324459
+                ]
+            },
+            "properties": {
+                "name": "Bar FLAMURTARI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4440583,
+                    41.3254391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4456176,
+                    41.3247129
+                ]
+            },
+            "properties": {
+                "name": "klub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4517108,
+                    41.3247088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.445297,
+                    41.3256268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4480426,
+                    41.3246999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6126074,
+                    40.1537832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5143504,
+                    42.0671716
+                ]
+            },
+            "properties": {
+                "name": "Chicago Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5575132,
+                    41.1843427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5358785,
+                    41.2036177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5429917,
+                    41.1998782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.805185,
+                    41.3154252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7464281,
+                    40.1004466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9984329,
+                    39.7716291
+                ]
+            },
+            "properties": {
+                "name": "The old man's pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1466654,
+                    40.5703835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1470542,
+                    40.5712526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2250341,
+                    40.5042664
+                ]
+            },
+            "properties": {
+                "name": "Bar Hotel Sokoli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2268636,
+                    40.5022258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2270286,
+                    40.5024406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2252446,
+                    40.5036657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1487914,
+                    40.077122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3545743,
+                    40.2331323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3517935,
+                    40.2333118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3576268,
+                    40.2313974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6484383,
+                    41.4004946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.668891,
+                    41.0786042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8167695,
+                    41.3362679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0051986,
+                    39.8040399
+                ]
+            },
+            "properties": {
+                "name": "Bar Restraunt Pasqyra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7776,
+                    41.331714
+                ]
+            },
+            "properties": {
+                "name": "Miri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0800011,
+                    41.1129457
+                ]
+            },
+            "properties": {
+                "name": "Skampini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3560606,
+                    40.2317013
+                ]
+            },
+            "properties": {
+                "name": "Sky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1676415,
+                    40.0854132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0194696,
+                    39.8635762
+                ]
+            },
+            "properties": {
+                "name": "Rixhi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.074258,
+                    42.3587422
+                ]
+            },
+            "properties": {
+                "name": "Mejdani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8145024,
+                    41.3296753
+                ]
+            },
+            "properties": {
+                "name": "Kafe Flora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8161365,
+                    41.3211982
+                ]
+            },
+            "properties": {
+                "name": "Trilotazh club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7954109,
+                    41.3234314
+                ]
+            },
+            "properties": {
+                "name": "Bar Angel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7938006,
+                    41.3235038
+                ]
+            },
+            "properties": {
+                "name": "Bar Dollia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9688676,
+                    40.700756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4494658,
+                    41.3134821
+                ]
+            },
+            "properties": {
+                "name": "Ok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7958962,
+                    41.323808
+                ]
+            },
+            "properties": {
+                "name": "Xha.ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2880072,
+                    40.7868944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8187162,
+                    41.3173481
+                ]
+            },
+            "properties": {
+                "name": "4 PM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7814967,
+                    41.3238631
+                ]
+            },
+            "properties": {
+                "name": "unique bar fitnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4845852,
+                    41.1832211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5170754,
+                    42.069396
+                ]
+            },
+            "properties": {
+                "name": "Colonial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5150014,
+                    42.0682176
+                ]
+            },
+            "properties": {
+                "name": "Metropolitan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8226667,
+                    41.3234908
+                ]
+            },
+            "properties": {
+                "name": "Komiteti - Kafe Muzeum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6613752,
+                    41.3912588
+                ]
+            },
+            "properties": {
+                "name": "Bar Coffe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.556551,
+                    40.7256091
+                ]
+            },
+            "properties": {
+                "name": "Versace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2202509,
+                    41.7600275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3233277,
+                    41.7358237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5970463,
+                    41.8076802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5932441,
+                    41.8109948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.482054,
+                    40.380077
+                ]
+            },
+            "properties": {
+                "name": "Iliri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8254144,
+                    41.3195376
+                ]
+            },
+            "properties": {
+                "name": "GrAal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8164464,
+                    41.3134558
+                ]
+            },
+            "properties": {
+                "name": "Forest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8159569,
+                    41.3141105
+                ]
+            },
+            "properties": {
+                "name": "Triangolo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8235301,
+                    41.3199901
+                ]
+            },
+            "properties": {
+                "name": "City Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.822881,
+                    41.3199567
+                ]
+            },
+            "properties": {
+                "name": "Fusion @Coin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8240698,
+                    41.3223863
+                ]
+            },
+            "properties": {
+                "name": "Meduza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8306156,
+                    41.3225571
+                ]
+            },
+            "properties": {
+                "name": "Bar Peroni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8195968,
+                    41.3222835
+                ]
+            },
+            "properties": {
+                "name": "Caramel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5142506,
+                    42.0686774
+                ]
+            },
+            "properties": {
+                "name": "FACES MUSIC CLUB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5143195,
+                    42.0686208
+                ]
+            },
+            "properties": {
+                "name": "LONDON EYE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5145672,
+                    42.0693876
+                ]
+            },
+            "properties": {
+                "name": "AVATAR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5155855,
+                    42.0699168
+                ]
+            },
+            "properties": {
+                "name": "PIANO BAR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5568077,
+                    40.7241141
+                ]
+            },
+            "properties": {
+                "name": "Bar Palma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5571018,
+                    40.7240531
+                ]
+            },
+            "properties": {
+                "name": "Underground 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4993768,
+                    42.0358869
+                ]
+            },
+            "properties": {
+                "name": "BAR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.817148,
+                    41.3221028
+                ]
+            },
+            "properties": {
+                "name": "Pepper Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8052688,
+                    41.3329955
+                ]
+            },
+            "properties": {
+                "name": "Trinity Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5164054,
+                    42.0699086
+                ]
+            },
+            "properties": {
+                "name": "BAR FUSION"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5162499,
+                    42.0697951
+                ]
+            },
+            "properties": {
+                "name": "Bar BROOKLYN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.516338,
+                    42.0698665
+                ]
+            },
+            "properties": {
+                "name": "CLICK BAR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5161494,
+                    42.0697221
+                ]
+            },
+            "properties": {
+                "name": "club DIAMOND"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5162552,
+                    42.0697326
+                ]
+            },
+            "properties": {
+                "name": "club INSOMNIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7941916,
+                    41.3238682
+                ]
+            },
+            "properties": {
+                "name": "Xha.ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.811351,
+                    41.3211761
+                ]
+            },
+            "properties": {
+                "name": "Emergency"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5815265,
+                    41.7020061
+                ]
+            },
+            "properties": {
+                "name": "Havana Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8133724,
+                    41.3235429
+                ]
+            },
+            "properties": {
+                "name": "REN Wine Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8134156,
+                    41.323421
+                ]
+            },
+            "properties": {
+                "name": "Ox Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.815335,
+                    41.330089
+                ]
+            },
+            "properties": {
+                "name": "Baste Sportive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8155808,
+                    41.3301237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8158109,
+                    41.3297269
+                ]
+            },
+            "properties": {
+                "name": "Candy Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8158187,
+                    41.329674
+                ]
+            },
+            "properties": {
+                "name": "Verde e Rosso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8161088,
+                    41.3275703
+                ]
+            },
+            "properties": {
+                "name": "Banka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8160801,
+                    41.3276547
+                ]
+            },
+            "properties": {
+                "name": "CR7=AM7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8160409,
+                    41.3278038
+                ]
+            },
+            "properties": {
+                "name": "Ideal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8169457,
+                    41.324841
+                ]
+            },
+            "properties": {
+                "name": "Baste Live"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8172553,
+                    41.3238639
+                ]
+            },
+            "properties": {
+                "name": "Amorino Lounge Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8159001,
+                    41.3252966
+                ]
+            },
+            "properties": {
+                "name": "Serrano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.85804,
+                    41.3506931
+                ]
+            },
+            "properties": {
+                "name": "Eja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5011195,
+                    42.060564
+                ]
+            },
+            "properties": {
+                "name": "Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8342281,
+                    41.3307315
+                ]
+            },
+            "properties": {
+                "name": "Zuko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8269334,
+                    41.3386426
+                ]
+            },
+            "properties": {
+                "name": "Jusra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8270112,
+                    41.338687
+                ]
+            },
+            "properties": {
+                "name": "Tiki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5595632,
+                    41.4276437
+                ]
+            },
+            "properties": {
+                "name": "Bar Kulla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0515179,
+                    41.0637127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0735597,
+                    42.3573569
+                ]
+            },
+            "properties": {
+                "name": "Grand Caf\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0014279,
+                    39.8009288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4888651,
+                    40.4606472
+                ]
+            },
+            "properties": {
+                "name": "Kali i Trojes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4855484,
+                    40.4522894
+                ]
+            },
+            "properties": {
+                "name": "Taushani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4896583,
+                    40.4234814
+                ]
+            },
+            "properties": {
+                "name": "Bar Shpella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4853275,
+                    40.4518289
+                ]
+            },
+            "properties": {
+                "name": "Green Corner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.488329,
+                    40.4596671
+                ]
+            },
+            "properties": {
+                "name": "2 Palmat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4905671,
+                    40.4658221
+                ]
+            },
+            "properties": {
+                "name": "Ini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4857209,
+                    40.4527552
+                ]
+            },
+            "properties": {
+                "name": "Britania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.495378,
+                    40.4436
+                ]
+            },
+            "properties": {
+                "name": "Da Vinci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4878857,
+                    40.4579589
+                ]
+            },
+            "properties": {
+                "name": "Pasticeri Izraelite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4871077,
+                    40.4555063
+                ]
+            },
+            "properties": {
+                "name": "Rimix Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4868472,
+                    40.4553646
+                ]
+            },
+            "properties": {
+                "name": "Bar Kampionet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4869382,
+                    40.4543233
+                ]
+            },
+            "properties": {
+                "name": "Da Capo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4855048,
+                    40.4524749
+                ]
+            },
+            "properties": {
+                "name": "Taushani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4885422,
+                    40.4598391
+                ]
+            },
+            "properties": {
+                "name": "Bar Topolino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4692054,
+                    40.3273916
+                ]
+            },
+            "properties": {
+                "name": "Las Bello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4885989,
+                    40.4605743
+                ]
+            },
+            "properties": {
+                "name": "Pasticeri Arjoli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.487216,
+                    40.4559049
+                ]
+            },
+            "properties": {
+                "name": "Bar WhiXy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8156275,
+                    41.3219948
+                ]
+            },
+            "properties": {
+                "name": "Tribecca bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8134671,
+                    41.3217864
+                ]
+            },
+            "properties": {
+                "name": "Soba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8133389,
+                    41.3234621
+                ]
+            },
+            "properties": {
+                "name": "Friendsbook House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8152961,
+                    41.3218889
+                ]
+            },
+            "properties": {
+                "name": "Vila Palma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8289745,
+                    41.3266283
+                ]
+            },
+            "properties": {
+                "name": "Erlin bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8173932,
+                    41.3223803
+                ]
+            },
+            "properties": {
+                "name": "Capriccio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9411975,
+                    40.705343
+                ]
+            },
+            "properties": {
+                "name": "Eldorado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8057198,
+                    40.8445681
+                ]
+            },
+            "properties": {
+                "name": "Pit Stop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8199998,
+                    41.3314356
+                ]
+            },
+            "properties": {
+                "name": "Elite Hokah Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6716213,
+                    40.1268126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8128216,
+                    41.3209811
+                ]
+            },
+            "properties": {
+                "name": "Biss Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8090072,
+                    41.3251208
+                ]
+            },
+            "properties": {
+                "name": "London City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8030065,
+                    41.3274121
+                ]
+            },
+            "properties": {
+                "name": "Grand Bar Oslo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8049146,
+                    41.3236349
+                ]
+            },
+            "properties": {
+                "name": "Santa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0027144,
+                    39.77129
+                ]
+            },
+            "properties": {
+                "name": "Nebo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7910045,
+                    41.3387973
+                ]
+            },
+            "properties": {
+                "name": "blloku gintash"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.417714,
+                    42.077132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8135506,
+                    41.3192002
+                ]
+            },
+            "properties": {
+                "name": "Bla Bla Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4555483,
+                    41.3186221
+                ]
+            },
+            "properties": {
+                "name": "Glamour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3285336,
+                    41.6846385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3373769,
+                    41.8064848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3705089,
+                    41.1529298
+                ]
+            },
+            "properties": {
+                "name": "Nogu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5500801,
+                    41.0696792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3107708,
+                    41.1827054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4959759,
+                    41.4287815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0141294,
+                    39.8700666
+                ]
+            },
+            "properties": {
+                "name": "cocktail bar orange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9490628,
+                    40.943724
+                ]
+            },
+            "properties": {
+                "name": "Caffe Ssine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3514246,
+                    40.2347569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7891676,
+                    41.3173145
+                ]
+            },
+            "properties": {
+                "name": "V\u00ebllezrit \u00c7ela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1372713,
+                    40.0790228
+                ]
+            },
+            "properties": {
+                "name": "La Bi\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8129739,
+                    41.3300304
+                ]
+            },
+            "properties": {
+                "name": "Bar Foster"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8336181,
+                    41.3338405
+                ]
+            },
+            "properties": {
+                "name": "Oslo Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8082579,
+                    41.3334437
+                ]
+            },
+            "properties": {
+                "name": "Kafe LIVE kafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.817462,
+                    41.3224039
+                ]
+            },
+            "properties": {
+                "name": "coffe&cofee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8192162,
+                    41.3194782
+                ]
+            },
+            "properties": {
+                "name": "Bar Pasha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8187881,
+                    41.3195496
+                ]
+            },
+            "properties": {
+                "name": "Medussa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5297317,
+                    40.2567321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8292152,
+                    41.3178775
+                ]
+            },
+            "properties": {
+                "name": "Garage Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8082027,
+                    41.3225538
+                ]
+            },
+            "properties": {
+                "name": "Trendafili i bardh\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.475368,
+                    40.4660929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4480591,
+                    41.3100394
+                ]
+            },
+            "properties": {
+                "name": "Fly Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1387729,
+                    40.074741
+                ]
+            },
+            "properties": {
+                "name": "Bar Clavis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1386918,
+                    40.074586
+                ]
+            },
+            "properties": {
+                "name": "Shehu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7717721,
+                    41.3621372
+                ]
+            },
+            "properties": {
+                "name": "Diamond Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3761661,
+                    41.72943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8141123,
+                    41.323331
+                ]
+            },
+            "properties": {
+                "name": "Tea room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.800779,
+                    41.334496
+                ]
+            },
+            "properties": {
+                "name": "Oslo Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8027335,
+                    41.3332872
+                ]
+            },
+            "properties": {
+                "name": "Soho Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5063474,
+                    42.0622972
+                ]
+            },
+            "properties": {
+                "name": "Juice Fresh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8148046,
+                    41.3211402
+                ]
+            },
+            "properties": {
+                "name": "Nouvelle Vague"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8055649,
+                    41.3333726
+                ]
+            },
+            "properties": {
+                "name": "Te pema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8122864,
+                    41.3295813
+                ]
+            },
+            "properties": {
+                "name": "Hemingway Bar Tirana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.008755,
+                    41.6093433
+                ]
+            },
+            "properties": {
+                "name": "Kafe Parisi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0097544,
+                    41.6082171
+                ]
+            },
+            "properties": {
+                "name": "Ballabani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9766145,
+                    41.5847279
+                ]
+            },
+            "properties": {
+                "name": "bar Molla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5166719,
+                    42.0699177
+                ]
+            },
+            "properties": {
+                "name": "VIP club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8076657,
+                    41.3240184
+                ]
+            },
+            "properties": {
+                "name": "MOMO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8063179,
+                    41.3236581
+                ]
+            },
+            "properties": {
+                "name": "RIO BAR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5214404,
+                    42.073032
+                ]
+            },
+            "properties": {
+                "name": "CLUB ROGERS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.805686,
+                    41.3350775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7717993,
+                    41.3608479
+                ]
+            },
+            "properties": {
+                "name": "Charlie Brown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7722075,
+                    41.3608459
+                ]
+            },
+            "properties": {
+                "name": "The coffee store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8077605,
+                    41.323648
+                ]
+            },
+            "properties": {
+                "name": "Sanremo bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8059849,
+                    41.3220762
+                ]
+            },
+            "properties": {
+                "name": "Sanleo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8044763,
+                    41.3217888
+                ]
+            },
+            "properties": {
+                "name": "Bridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8056745,
+                    41.3236569
+                ]
+            },
+            "properties": {
+                "name": "Rio bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8333787,
+                    41.3297017
+                ]
+            },
+            "properties": {
+                "name": "Mio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8051143,
+                    41.3329884
+                ]
+            },
+            "properties": {
+                "name": "Trinity Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8044249,
+                    41.3277548
+                ]
+            },
+            "properties": {
+                "name": "bar Esss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8035062,
+                    41.3274899
+                ]
+            },
+            "properties": {
+                "name": "Le vin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7885518,
+                    41.3424729
+                ]
+            },
+            "properties": {
+                "name": "Bar kafe 21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4833195,
+                    40.4680904
+                ]
+            },
+            "properties": {
+                "name": "Fega Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7794345,
+                    41.3302746
+                ]
+            },
+            "properties": {
+                "name": "2 Palmat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8387191,
+                    41.3181342
+                ]
+            },
+            "properties": {
+                "name": "Bar Sara 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8169053,
+                    41.3216017
+                ]
+            },
+            "properties": {
+                "name": "Lizard Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8150914,
+                    41.3201398
+                ]
+            },
+            "properties": {
+                "name": "Radio Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8134262,
+                    41.3307645
+                ]
+            },
+            "properties": {
+                "name": "Melbourne Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8069438,
+                    41.3335214
+                ]
+            },
+            "properties": {
+                "name": "Wall Street Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.823072,
+                    41.3219211
+                ]
+            },
+            "properties": {
+                "name": "Lloto \"Eurolloto\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.823129,
+                    41.3220819
+                ]
+            },
+            "properties": {
+                "name": "Padam Boutique Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8042884,
+                    41.3373751
+                ]
+            },
+            "properties": {
+                "name": "Golden Day"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8230293,
+                    41.3228317
+                ]
+            },
+            "properties": {
+                "name": "Bukowski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8230837,
+                    41.3221824
+                ]
+            },
+            "properties": {
+                "name": "Tirana Rock Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8239506,
+                    41.3223679
+                ]
+            },
+            "properties": {
+                "name": "Casa Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8238026,
+                    41.3223399
+                ]
+            },
+            "properties": {
+                "name": "CityArt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8125158,
+                    41.3209345
+                ]
+            },
+            "properties": {
+                "name": "Izzy Living"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8043625,
+                    41.3365065
+                ]
+            },
+            "properties": {
+                "name": "Amelia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.801747,
+                    41.3101991
+                ]
+            },
+            "properties": {
+                "name": "Bonavita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8081656,
+                    41.3191781
+                ]
+            },
+            "properties": {
+                "name": "Grand Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8081154,
+                    41.3187966
+                ]
+            },
+            "properties": {
+                "name": "Atika Lounge Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8047689,
+                    41.3388993
+                ]
+            },
+            "properties": {
+                "name": "Queen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5181611,
+                    42.0654018
+                ]
+            },
+            "properties": {
+                "name": "Kin's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8348563,
+                    41.3349581
+                ]
+            },
+            "properties": {
+                "name": "BAR TISS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3536055,
+                    40.2329574
+                ]
+            },
+            "properties": {
+                "name": "Funky Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8272692,
+                    40.5199732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8341677,
+                    41.3213442
+                ]
+            },
+            "properties": {
+                "name": "XXL Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8218771,
+                    41.3266372
+                ]
+            },
+            "properties": {
+                "name": "Segafredo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8219419,
+                    41.3264104
+                ]
+            },
+            "properties": {
+                "name": "Mumja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8171324,
+                    41.3211931
+                ]
+            },
+            "properties": {
+                "name": "Temple Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8111393,
+                    41.3327165
+                ]
+            },
+            "properties": {
+                "name": "Shelter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4282313,
+                    41.6849614
+                ]
+            },
+            "properties": {
+                "name": "New York-Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8040795,
+                    41.3194271
+                ]
+            },
+            "properties": {
+                "name": "Bar Relax"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0735401,
+                    41.1129956
+                ]
+            },
+            "properties": {
+                "name": "Ikibana Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0911158,
+                    41.1150218
+                ]
+            },
+            "properties": {
+                "name": "Don Camilo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7727956,
+                    41.3188049
+                ]
+            },
+            "properties": {
+                "name": "cahani family"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4948648,
+                    40.4513279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8843513,
+                    41.3224166
+                ]
+            },
+            "properties": {
+                "name": "Bar - Restorant \"Ullishtja\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3514633,
+                    40.2341711
+                ]
+            },
+            "properties": {
+                "name": "piazza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7624685,
+                    41.3846064
+                ]
+            },
+            "properties": {
+                "name": "Piazza Arkensi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7623719,
+                    41.3848278
+                ]
+            },
+            "properties": {
+                "name": "Bar Palma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7964472,
+                    41.3245541
+                ]
+            },
+            "properties": {
+                "name": "Bar Kafe \"Vespa 29\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8070886,
+                    41.3173814
+                ]
+            },
+            "properties": {
+                "name": "masazha tiran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6003472,
+                    41.7998403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8379044,
+                    41.3451049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8264705,
+                    42.1084945
+                ]
+            },
+            "properties": {
+                "name": "Shpia e Drinit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5671701,
+                    40.731165
+                ]
+            },
+            "properties": {
+                "name": "Bar Tepelena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5669214,
+                    40.7310306
+                ]
+            },
+            "properties": {
+                "name": "Bar Neon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8172749,
+                    41.3217475
+                ]
+            },
+            "properties": {
+                "name": "Charl's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5022933,
+                    41.3050221
+                ]
+            },
+            "properties": {
+                "name": "Cannabis Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.676301,
+                    40.8871476
+                ]
+            },
+            "properties": {
+                "name": "Bar \"Mukja\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4577798,
+                    40.3280458
+                ]
+            },
+            "properties": {
+                "name": "SHTEPIA E PESHKUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8029885,
+                    41.3284626
+                ]
+            },
+            "properties": {
+                "name": "Kingston"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8006386,
+                    41.3281022
+                ]
+            },
+            "properties": {
+                "name": "Buffitos's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6828702,
+                    40.9003963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8034713,
+                    41.3283991
+                ]
+            },
+            "properties": {
+                "name": "Green Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5005835,
+                    42.0556837
+                ]
+            },
+            "properties": {
+                "name": "Dankhloe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3590881,
+                    41.1558719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5063234,
+                    42.0622717
+                ]
+            },
+            "properties": {
+                "name": "simple"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5069714,
+                    42.0634015
+                ]
+            },
+            "properties": {
+                "name": "ZonaZ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8248389,
+                    41.3297641
+                ]
+            },
+            "properties": {
+                "name": "Back Home"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4468763,
+                    41.3128192
+                ]
+            },
+            "properties": {
+                "name": "The Wall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8173165,
+                    41.3217287
+                ]
+            },
+            "properties": {
+                "name": "Libraria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5151918,
+                    42.0683578
+                ]
+            },
+            "properties": {
+                "name": "Retro rooftop bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.486713,
+                    40.4532946
+                ]
+            },
+            "properties": {
+                "name": "Carpe diem winebar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.817754,
+                    41.3215588
+                ]
+            },
+            "properties": {
+                "name": "whisky bar tirana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8093944,
+                    41.3182292
+                ]
+            },
+            "properties": {
+                "name": "fuel cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8119483,
+                    41.3071154
+                ]
+            },
+            "properties": {
+                "name": "GAD BAR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8085322,
+                    41.333463
+                ]
+            },
+            "properties": {
+                "name": "Arjel Bar 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4394697,
+                    42.3453842
+                ]
+            },
+            "properties": {
+                "name": "Bar Kafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6981219,
+                    40.9007318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4279859,
+                    41.6850093
+                ]
+            },
+            "properties": {
+                "name": "Eurolive Koltraka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7167584,
+                    40.9022148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5166814,
+                    42.0640136
+                ]
+            },
+            "properties": {
+                "name": "Bar kafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8175864,
+                    41.322413
+                ]
+            },
+            "properties": {
+                "name": "Hausbrandt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8030796,
+                    41.3284028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.609814,
+                    40.1556671
+                ]
+            },
+            "properties": {
+                "name": "Num club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0022479,
+                    39.7726271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7771692,
+                    41.3247152
+                ]
+            },
+            "properties": {
+                "name": "Coffee Toffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8149262,
+                    41.3044464
+                ]
+            },
+            "properties": {
+                "name": "Tissi Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5873439,
+                    40.1667079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4955255,
+                    40.4384358
+                ]
+            },
+            "properties": {
+                "name": "City lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.495787,
+                    40.4361281
+                ]
+            },
+            "properties": {
+                "name": "Mazana Caffe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4953217,
+                    40.4414977
+                ]
+            },
+            "properties": {
+                "name": "Bizzare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.495745,
+                    40.437195
+                ]
+            },
+            "properties": {
+                "name": "Aurora Real"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4954222,
+                    40.4397226
+                ]
+            },
+            "properties": {
+                "name": "Bar Koral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1390789,
+                    40.07537
+                ]
+            },
+            "properties": {
+                "name": "Medusa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4905752,
+                    41.3075142
+                ]
+            },
+            "properties": {
+                "name": "ANTIGUA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4405674,
+                    41.3104117
+                ]
+            },
+            "properties": {
+                "name": "Tivoli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4927231,
+                    41.3033806
+                ]
+            },
+            "properties": {
+                "name": "Puerto Del Sol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4969909,
+                    41.2996602
+                ]
+            },
+            "properties": {
+                "name": "RRESHKA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4472945,
+                    41.3097614
+                ]
+            },
+            "properties": {
+                "name": "Carpe Diem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9058318,
+                    41.368203
+                ]
+            },
+            "properties": {
+                "name": "Bar Belvedere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3855588,
+                    41.1361508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.490536,
+                    41.3070759
+                ]
+            },
+            "properties": {
+                "name": "Keols"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8141665,
+                    41.3351376
+                ]
+            },
+            "properties": {
+                "name": "Bar Voks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8141938,
+                    41.3346224
+                ]
+            },
+            "properties": {
+                "name": "Bar Milano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8140833,
+                    41.3353406
+                ]
+            },
+            "properties": {
+                "name": "Bar Sunrise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8145243,
+                    41.3354862
+                ]
+            },
+            "properties": {
+                "name": "Bar & Restorant Colombo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8013495,
+                    41.3412096
+                ]
+            },
+            "properties": {
+                "name": "Caffe & Lloto Prado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8027922,
+                    41.3394217
+                ]
+            },
+            "properties": {
+                "name": "Baron Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8148723,
+                    41.3194566
+                ]
+            },
+            "properties": {
+                "name": "Top Sport Bar & Lloto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8029369,
+                    41.3394783
+                ]
+            },
+            "properties": {
+                "name": "Bar Ilirian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8030068,
+                    41.3394989
+                ]
+            },
+            "properties": {
+                "name": "Bar & Restorant & Pizzeri Berluscon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4659791,
+                    40.561466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4834862,
+                    40.4695162
+                ]
+            },
+            "properties": {
+                "name": "Kej Caffe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4467505,
+                    41.3212371
+                ]
+            },
+            "properties": {
+                "name": "Baron's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8179639,
+                    41.3223317
+                ]
+            },
+            "properties": {
+                "name": "Rooftop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8173808,
+                    41.3216963
+                ]
+            },
+            "properties": {
+                "name": "Colonial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8333731,
+                    41.3213939
+                ]
+            },
+            "properties": {
+                "name": "Instanbul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4283713,
+                    41.6838885
+                ]
+            },
+            "properties": {
+                "name": "Vip Beer lottosport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4521901,
+                    41.3159594
+                ]
+            },
+            "properties": {
+                "name": "Zodiac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4897475,
+                    41.3058133
+                ]
+            },
+            "properties": {
+                "name": "Riviera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4896416,
+                    41.3056041
+                ]
+            },
+            "properties": {
+                "name": "Beach bar Germany Hotel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4904621,
+                    41.3069889
+                ]
+            },
+            "properties": {
+                "name": "Keols"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2307367,
+                    41.162325
+                ]
+            },
+            "properties": {
+                "name": "Ahmet Hoxha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2306388,
+                    41.162397
+                ]
+            },
+            "properties": {
+                "name": "Ahmet Hoxha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7966537,
+                    41.3251376
+                ]
+            },
+            "properties": {
+                "name": "Casa Caffe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.006746,
+                    39.776291
+                ]
+            },
+            "properties": {
+                "name": "marikseli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.833552,
+                    41.3213729
+                ]
+            },
+            "properties": {
+                "name": "Bar Quaranta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8345065,
+                    41.3210638
+                ]
+            },
+            "properties": {
+                "name": "Bar Saccaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8345638,
+                    41.3213757
+                ]
+            },
+            "properties": {
+                "name": "Bar Monopoly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8348481,
+                    41.321299
+                ]
+            },
+            "properties": {
+                "name": "Bar Iris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8392032,
+                    41.3204391
+                ]
+            },
+            "properties": {
+                "name": "Bar Brooklyn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8241976,
+                    41.3354845
+                ]
+            },
+            "properties": {
+                "name": "Rio bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6037593,
+                    41.3706359
+                ]
+            },
+            "properties": {
+                "name": "Paris Caff\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5012688,
+                    42.0791725
+                ]
+            },
+            "properties": {
+                "name": "Bar Kafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8232018,
+                    41.3334317
+                ]
+            },
+            "properties": {
+                "name": "Ges Bar Tarrace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0854647,
+                    41.1143683
+                ]
+            },
+            "properties": {
+                "name": "Living Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0801057,
+                    41.1123273
+                ]
+            },
+            "properties": {
+                "name": "Divino Play"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0853038,
+                    41.1106743
+                ]
+            },
+            "properties": {
+                "name": "Bar Atlas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0872242,
+                    41.1144168
+                ]
+            },
+            "properties": {
+                "name": "Amigos Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0889033,
+                    41.1194605
+                ]
+            },
+            "properties": {
+                "name": "Aloha Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.087235,
+                    41.1116524
+                ]
+            },
+            "properties": {
+                "name": "Bar Class Diva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0889033,
+                    41.1194605
+                ]
+            },
+            "properties": {
+                "name": "Aloha Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0826967,
+                    41.115795
+                ]
+            },
+            "properties": {
+                "name": "Plazza Lounge Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0824875,
+                    41.1188947
+                ]
+            },
+            "properties": {
+                "name": "Bar 4 Stinet "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0876963,
+                    41.1144815
+                ]
+            },
+            "properties": {
+                "name": "Avenue Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0910947,
+                    41.1113452
+                ]
+            },
+            "properties": {
+                "name": "Bar ARLEI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0910947,
+                    41.1113452
+                ]
+            },
+            "properties": {
+                "name": "Bar ARLEI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3551705,
+                    39.912366
+                ]
+            },
+            "properties": {
+                "name": "bar poseidon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8339298,
+                    41.3319357
+                ]
+            },
+            "properties": {
+                "name": "New"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8328237,
+                    41.3343403
+                ]
+            },
+            "properties": {
+                "name": "DiSti bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8154326,
+                    41.3287324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5289962,
+                    40.9954222
+                ]
+            },
+            "properties": {
+                "name": "Llazi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5324267,
+                    40.9975245
+                ]
+            },
+            "properties": {
+                "name": "Rrudha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8279145,
+                    41.3227331
+                ]
+            },
+            "properties": {
+                "name": "Bar kafe Friends"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4031401,
+                    42.0753034
+                ]
+            },
+            "properties": {
+                "name": "Ardoni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7195611,
+                    41.4790624
+                ]
+            },
+            "properties": {
+                "name": "Baste Live"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7677114,
+                    41.4873654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7166197,
+                    41.4787864
+                ]
+            },
+            "properties": {
+                "name": "Milan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8211458,
+                    41.3468565
+                ]
+            },
+            "properties": {
+                "name": "Te daja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5706189,
+                    40.7177719
+                ]
+            },
+            "properties": {
+                "name": "Bar Rois"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5346294,
+                    40.6968143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.490524,
+                    40.6770974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5410567,
+                    40.7023418
+                ]
+            },
+            "properties": {
+                "name": "Village Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0220356,
+                    40.2941078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.020802,
+                    40.2932497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1434564,
+                    40.0850943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1434288,
+                    40.0851289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1432439,
+                    40.0853949
+                ]
+            },
+            "properties": {
+                "name": "House of Beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1434034,
+                    40.085162
+                ]
+            },
+            "properties": {
+                "name": "Drino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1780295,
+                    40.0512623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1707322,
+                    39.9191825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0301451,
+                    39.8751919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0122137,
+                    39.8734191
+                ]
+            },
+            "properties": {
+                "name": "Cocktail bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0260178,
+                    39.8474107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0836119,
+                    39.9481034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1756582,
+                    42.1507666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7821726,
+                    40.6184657
+                ]
+            },
+            "properties": {
+                "name": "Bashta Themistokliu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7816373,
+                    40.6173003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7792141,
+                    40.6170948
+                ]
+            },
+            "properties": {
+                "name": "Irish Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7789344,
+                    40.6167708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6623212,
+                    40.8994858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1399467,
+                    40.0812078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6983407,
+                    41.4404401
+                ]
+            },
+            "properties": {
+                "name": "Brazili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8093668,
+                    41.3206125
+                ]
+            },
+            "properties": {
+                "name": "VENA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8333759,
+                    41.334051
+                ]
+            },
+            "properties": {
+                "name": "DiSti Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.572197,
+                    42.0479526
+                ]
+            },
+            "properties": {
+                "name": "Bar Caffe Riku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6922281,
+                    41.5785909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.072721,
+                    41.0337948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7438944,
+                    40.1014826
+                ]
+            },
+            "properties": {
+                "name": "Manolo's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4178038,
+                    40.2078039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4177561,
+                    40.2075777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1924556,
+                    40.3129083
+                ]
+            },
+            "properties": {
+                "name": "Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4328778,
+                    41.8653036
+                ]
+            },
+            "properties": {
+                "name": "Gardelend"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6984892,
+                    40.1214962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7247187,
+                    40.1091408
+                ]
+            },
+            "properties": {
+                "name": "Viamare Beach Lounge Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7300874,
+                    40.1044644
+                ]
+            },
+            "properties": {
+                "name": "Blue Bay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4497709,
+                    41.8648017
+                ]
+            },
+            "properties": {
+                "name": "Avatar Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5107017,
+                    42.0663339
+                ]
+            },
+            "properties": {
+                "name": "Lounge Bar \"B7\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5167139,
+                    42.069697
+                ]
+            },
+            "properties": {
+                "name": "my bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5167304,
+                    42.0697631
+                ]
+            },
+            "properties": {
+                "name": "Crux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4346877,
+                    40.7590724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4287755,
+                    41.8615188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4301679,
+                    41.8612093
+                ]
+            },
+            "properties": {
+                "name": "Astoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.700956,
+                    42.013496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2221621,
+                    41.8095134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5736005,
+                    42.0247119
+                ]
+            },
+            "properties": {
+                "name": "Bar Marku (Juban)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6511868,
+                    41.7776663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4495396,
+                    41.3135458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8177546,
+                    41.3213432
+                ]
+            },
+            "properties": {
+                "name": "Tao Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1363287,
+                    40.0741623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5617991,
+                    40.7284856
+                ]
+            },
+            "properties": {
+                "name": "Bar Rinia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5610288,
+                    40.7279719
+                ]
+            },
+            "properties": {
+                "name": "Bar \u00c7adra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4388651,
+                    41.8601546
+                ]
+            },
+            "properties": {
+                "name": "Summer Time"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4377,
+                    41.8599115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4346675,
+                    41.860421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4276832,
+                    41.8617207
+                ]
+            },
+            "properties": {
+                "name": "Sunshine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4270451,
+                    41.8616799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4962146,
+                    41.2083799
+                ]
+            },
+            "properties": {
+                "name": "Playa Del Este"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8266513,
+                    41.3313316
+                ]
+            },
+            "properties": {
+                "name": "Iron brush"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3700458,
+                    41.1527895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4497105,
+                    41.3137717
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,2789 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5827524,
+                    55.0414223
+                ]
+            },
+            "properties": {
+                "name": "Vilkijos slaugos ir palaikomojo gydymo ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9174214,
+                    54.8936899
+                ]
+            },
+            "properties": {
+                "name": "Kauno centro poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9365796,
+                    54.6375936
+                ]
+            },
+            "properties": {
+                "name": "Trak\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6276078,
+                    56.2321029
+                ]
+            },
+            "properties": {
+                "name": "Joni\u0161kio ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0306776,
+                    54.6013214
+                ]
+            },
+            "properties": {
+                "name": "Versm\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0354488,
+                    54.6005076
+                ]
+            },
+            "properties": {
+                "name": "Tulp\u0117s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0276635,
+                    54.6013382
+                ]
+            },
+            "properties": {
+                "name": "Versm\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7864634,
+                    55.2573839
+                ]
+            },
+            "properties": {
+                "name": "Ukmerg\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0760009,
+                    55.9355852
+                ]
+            },
+            "properties": {
+                "name": "Palangos reabilitacijos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5276213,
+                    56.2734967
+                ]
+            },
+            "properties": {
+                "name": "Klaip\u0117dos apskrities ligonin\u0117, Skuodo filialas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2886826,
+                    55.2552846
+                ]
+            },
+            "properties": {
+                "name": "\u0160eimos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4953704,
+                    54.7571656
+                ]
+            },
+            "properties": {
+                "name": "Kazl\u0173 R\u016bdos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.897415,
+                    54.3316825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9253005,
+                    54.905997
+                ]
+            },
+            "properties": {
+                "name": "Kauno apskrities priklausomyb\u0117s lig\u0173 centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3744088,
+                    55.2268805
+                ]
+            },
+            "properties": {
+                "name": "Baltru\u0161ai\u010di\u0173 medicinos punktas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9226065,
+                    54.9211898
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Radiologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9240505,
+                    54.9202846
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Dant\u0173 ir burnos lig\u0173 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9216863,
+                    54.9184214
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Anesteziologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9182063,
+                    54.9191195
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Vaik\u0173 chirurgijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9205315,
+                    54.9184727
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Pulmonologijos ir imunologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.921204,
+                    54.9185906
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Intensyviosios terapijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9262997,
+                    54.9224443
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Ortodontijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9233604,
+                    54.9198485
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Veido ir \u017eandikauli\u0173 chirurgijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9230892,
+                    54.9215554
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Odos ir venerini\u0173 lig\u0173 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.917075,
+                    54.9193987
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Neurochirurgijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9257143,
+                    54.9225611
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Burnos prie\u017ei\u016bros ir vaik\u0173 odontologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9214316,
+                    54.9184354
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Aus\u0173, nosies ir gerkl\u0117s lig\u0173 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9201253,
+                    54.9184956
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Gastroenterologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9244264,
+                    54.918871
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Reabilitacijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9217151,
+                    54.9175783
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK \u0160eimos medicinos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9251535,
+                    54.9192889
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK \u0160irdies, kr\u016btin\u0117s ir kraujagysli\u0173 chirurgijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9182766,
+                    54.9183681
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Neonatologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9179993,
+                    54.919721
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Neurologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9196446,
+                    54.9185133
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Reumatologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9194166,
+                    54.9187222
+                ]
+            },
+            "properties": {
+                "name": "LSMU KK Onkologijos ir hematologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5783661,
+                    54.574906
+                ]
+            },
+            "properties": {
+                "name": "Savi\u010di\u016bn\u0173 medicinos punktas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2871508,
+                    55.2516525
+                ]
+            },
+            "properties": {
+                "name": "Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2899227,
+                    55.2504639
+                ]
+            },
+            "properties": {
+                "name": "Taurag\u0117s visuomen\u0117s sveikatos centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2897865,
+                    55.2546382
+                ]
+            },
+            "properties": {
+                "name": "Medea \u0161eimos Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.462597,
+                    55.4642595
+                ]
+            },
+            "properties": {
+                "name": "Medicinos Centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.318854,
+                    55.5562758
+                ]
+            },
+            "properties": {
+                "name": "Priekul\u0117s Pirmin\u0117s Sveikatos Prie\u017eiuros Centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0871641,
+                    56.0284561
+                ]
+            },
+            "properties": {
+                "name": "\u0160ventosios Ambulatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0686793,
+                    55.9077337
+                ]
+            },
+            "properties": {
+                "name": "Reabelitacijos Centras Vyturys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.391132,
+                    55.068923
+                ]
+            },
+            "properties": {
+                "name": "Vie\u0161vil\u0117s Ambulatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2872446,
+                    55.2472234
+                ]
+            },
+            "properties": {
+                "name": "Odontologijos Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9832836,
+                    55.0717469
+                ]
+            },
+            "properties": {
+                "name": "Gelgaudi\u0161kio Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9318978,
+                    55.727997
+                ]
+            },
+            "properties": {
+                "name": "Rietavo Ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.929251,
+                    55.7251985
+                ]
+            },
+            "properties": {
+                "name": "Rietavo \u0160eimos Daktaras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5760024,
+                    55.0729662
+                ]
+            },
+            "properties": {
+                "name": "Smalinik\u0173 Ambulatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2780168,
+                    54.75322
+                ]
+            },
+            "properties": {
+                "name": "Santari\u0161ki\u0173 klinik\u0173 Kraujo centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.300995,
+                    55.9446793
+                ]
+            },
+            "properties": {
+                "name": "Valstybin\u0117 teismo medicinos tarnyba, \u0160iauli\u0173 skyrius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2208885,
+                    54.7186746
+                ]
+            },
+            "properties": {
+                "name": "Au\u0161ros vart\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3206289,
+                    54.7057471
+                ]
+            },
+            "properties": {
+                "name": "Gemma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9201443,
+                    54.9209608
+                ]
+            },
+            "properties": {
+                "name": "Traum\u0173 ir skubios pagalbos centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2781066,
+                    54.7524955
+                ]
+            },
+            "properties": {
+                "name": "Pri\u0117mimo skyrius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0341667,
+                    54.6521219
+                ]
+            },
+            "properties": {
+                "name": "\u0160eimos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1280627,
+                    55.7567301
+                ]
+            },
+            "properties": {
+                "name": "Onkologin\u0117 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9865685,
+                    55.556562
+                ]
+            },
+            "properties": {
+                "name": "Kv\u0117darnos Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2644887,
+                    55.9070045
+                ]
+            },
+            "properties": {
+                "name": "Liepori\u0173 \u0161eimos sveikatos centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4177618,
+                    54.6836937
+                ]
+            },
+            "properties": {
+                "name": "Respublikin\u0117 Vilniaus psichiatrijos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3163392,
+                    54.7109538
+                ]
+            },
+            "properties": {
+                "name": "Antakalnio poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2828729,
+                    54.7550401
+                ]
+            },
+            "properties": {
+                "name": "Santari\u0161ki\u0173 klinik\u0173 vaik\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2302317,
+                    54.7170182
+                ]
+            },
+            "properties": {
+                "name": "Kardiolita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2932055,
+                    54.7363742
+                ]
+            },
+            "properties": {
+                "name": "Valakupi\u0173 reabilitacijos centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2429808,
+                    54.6653838
+                ]
+            },
+            "properties": {
+                "name": "V\u0161\u012e Vilkp\u0117d\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2565133,
+                    54.688099
+                ]
+            },
+            "properties": {
+                "name": "VUVL filialas Vaiko raidos centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2913929,
+                    54.6683074
+                ]
+            },
+            "properties": {
+                "name": "Vilniaus universitetin\u0117 slaugos ir ilgalaikio gydymo ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3150707,
+                    54.7090411
+                ]
+            },
+            "properties": {
+                "name": "\u0160v. Roko ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.293158,
+                    54.6680736
+                ]
+            },
+            "properties": {
+                "name": "Vilniaus gimdymo namai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2762054,
+                    54.6734479
+                ]
+            },
+            "properties": {
+                "name": "Mykolo Marcinkevi\u010diaus ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4331994,
+                    55.6053775
+                ]
+            },
+            "properties": {
+                "name": "Visagino poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2375815,
+                    54.7223065
+                ]
+            },
+            "properties": {
+                "name": "Vilniaus rajono centrin\u0117 poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2789558,
+                    54.7048585
+                ]
+            },
+            "properties": {
+                "name": "\u017dalgirio klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.225668,
+                    54.7254083
+                ]
+            },
+            "properties": {
+                "name": "Pa\u0161ilai\u010di\u0173 \u0161eimos medicinos centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2699518,
+                    54.7577582
+                ]
+            },
+            "properties": {
+                "name": "Vilniaus universiteto ligonin\u0117s Santari\u0161ki\u0173 klinikos, Fizin\u0117s medicinos ir reabilitacijos centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2852515,
+                    54.6747089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2902975,
+                    55.9432957
+                ]
+            },
+            "properties": {
+                "name": "Onkologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9625013,
+                    54.6307606
+                ]
+            },
+            "properties": {
+                "name": "Prien\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2489875,
+                    54.6879969
+                ]
+            },
+            "properties": {
+                "name": "Infekcini\u0173 lig\u0173 ir tuberkulioz\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9218718,
+                    54.8959244
+                ]
+            },
+            "properties": {
+                "name": "Kauno Raudonojo Kry\u017eiaus klinikin\u0117 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9881278,
+                    55.8371023
+                ]
+            },
+            "properties": {
+                "name": "V\u0161\u012e \u201eKupi\u0161kio ligonin\u0117\u201c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9842927,
+                    54.9138193
+                ]
+            },
+            "properties": {
+                "name": "Dainavos poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0394927,
+                    54.3990493
+                ]
+            },
+            "properties": {
+                "name": "Alytaus apskrities S. Kudirkos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0918252,
+                    55.5450247
+                ]
+            },
+            "properties": {
+                "name": "Krekenavos pirmin\u0117s sveikatos prie\u017ei\u016bros centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1397158,
+                    55.7058551
+                ]
+            },
+            "properties": {
+                "name": "Klaip\u0117dos psichikos sveikatos centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3026833,
+                    55.9429448
+                ]
+            },
+            "properties": {
+                "name": "\u0160iauli\u0173 ligonin\u0117 1 korpusas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0095227,
+                    54.0164057
+                ]
+            },
+            "properties": {
+                "name": "Druskinink\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6248023,
+                    55.5209106
+                ]
+            },
+            "properties": {
+                "name": "\u0160v\u0117k\u0161nos psichiatrin\u0117 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9773409,
+                    54.8601059
+                ]
+            },
+            "properties": {
+                "name": "Kauno onkologijos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3010127,
+                    55.9424642
+                ]
+            },
+            "properties": {
+                "name": "\u0160iauli\u0173 ligonin\u0117 2 korpusas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3002175,
+                    55.9429456
+                ]
+            },
+            "properties": {
+                "name": "\u0160iauli\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.299608,
+                    55.9435614
+                ]
+            },
+            "properties": {
+                "name": "\u0160iauli\u0173 ligonin\u0117 chirurgijos korpusas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2985153,
+                    55.942634
+                ]
+            },
+            "properties": {
+                "name": "\u0160iauli\u0173 psichiatrijos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2994024,
+                    55.9419125
+                ]
+            },
+            "properties": {
+                "name": "Tuberkulioz\u0117s ir plau\u010di\u0173 lig\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.308688,
+                    55.9063694
+                ]
+            },
+            "properties": {
+                "name": "\u0160iauli\u0173 priklausomyb\u0117s lig\u0173 centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9388743,
+                    54.6375882
+                ]
+            },
+            "properties": {
+                "name": "Trak\u0173 poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3798087,
+                    54.3055599
+                ]
+            },
+            "properties": {
+                "name": "\u0160al\u010dinink\u0173 r. savivaldyb\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5815995,
+                    55.9754149
+                ]
+            },
+            "properties": {
+                "name": "Roki\u0161kio psichiatrijos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5816231,
+                    55.9705932
+                ]
+            },
+            "properties": {
+                "name": "Roki\u0161kio rajono ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8429227,
+                    55.9782481
+                ]
+            },
+            "properties": {
+                "name": "Pakruojo ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9912478,
+                    55.8366361
+                ]
+            },
+            "properties": {
+                "name": "V\u0161\u012e Kupi\u0161kio Pirmin\u0117s Sveikatos Prie\u017ei\u016bros Centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2792508,
+                    54.7566788
+                ]
+            },
+            "properties": {
+                "name": "Respublikin\u0117 tuberkulioz\u0117s ir infekcini\u0173 lig\u0173 universitetin\u0117 ligonin\u0117, Santari\u0161ki\u0173 stacionaras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8282729,
+                    55.8988425
+                ]
+            },
+            "properties": {
+                "name": "Plung\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9596503,
+                    54.9235396
+                ]
+            },
+            "properties": {
+                "name": "Kauno Kalnie\u010di\u0173 poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4273283,
+                    54.8539214
+                ]
+            },
+            "properties": {
+                "name": "Kai\u0161iadori\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9210284,
+                    54.918919
+                ]
+            },
+            "properties": {
+                "name": "LSMUL Kauno Klinikos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9215119,
+                    54.9195322
+                ]
+            },
+            "properties": {
+                "name": "LSMU Kauno klinikos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9234234,
+                    54.9201984
+                ]
+            },
+            "properties": {
+                "name": "LSMUL KK Aki\u0173 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9219573,
+                    54.917764
+                ]
+            },
+            "properties": {
+                "name": "LSMUL KK Suaugusi\u0173j\u0173 Skubios Pagalbos Centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9228935,
+                    54.9213305
+                ]
+            },
+            "properties": {
+                "name": "LSMUL KK Endokrinologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8838286,
+                    54.8896554
+                ]
+            },
+            "properties": {
+                "name": "Psichiatrijos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1973797,
+                    55.597853
+                ]
+            },
+            "properties": {
+                "name": "Tytuv\u0117n\u0173 palaikomojo gydymo ir slaugos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8687873,
+                    56.3195366
+                ]
+            },
+            "properties": {
+                "name": "Naujosios Akmen\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8605822,
+                    54.9175592
+                ]
+            },
+            "properties": {
+                "name": "Kauno klinikin\u0117s ligonin\u0117s infekcini\u0173 lig\u0173 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.83189,
+                    54.9232745
+                ]
+            },
+            "properties": {
+                "name": "Romaini\u0173 tuberkulioz\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1262901,
+                    55.7547198
+                ]
+            },
+            "properties": {
+                "name": "Klaip\u0117dos universitetin\u0117 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0897996,
+                    54.6718441
+                ]
+            },
+            "properties": {
+                "name": "Grigi\u0161ki\u0173 palaikomojo gydymo ir slaugos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2786907,
+                    54.7537063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5420832,
+                    55.8105128
+                ]
+            },
+            "properties": {
+                "name": "V\u0161\u012e Radvili\u0161kio rajono pirmin\u0117s sveikatos prie\u017ei\u016bros centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5414176,
+                    55.8112415
+                ]
+            },
+            "properties": {
+                "name": "V\u0161\u012f Radvili\u0161kio ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2556588,
+                    55.7321071
+                ]
+            },
+            "properties": {
+                "name": "Zaras\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9034574,
+                    54.8956276
+                ]
+            },
+            "properties": {
+                "name": "I. Kuprija\u0161kino psichoterapinis kabinetas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9037102,
+                    54.8959715
+                ]
+            },
+            "properties": {
+                "name": "Kauno Kraujo donoryst\u0117s centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9629806,
+                    55.0383766
+                ]
+            },
+            "properties": {
+                "name": "V\u0161\u012e \u0160irvint\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2821272,
+                    55.2529203
+                ]
+            },
+            "properties": {
+                "name": "Taurag\u0117s pirmin\u0117s sveikatos prie\u017ei\u016bros centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1198295,
+                    55.3851986
+                ]
+            },
+            "properties": {
+                "name": "Raseini\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1196583,
+                    55.3840043
+                ]
+            },
+            "properties": {
+                "name": "Raseini\u0173 pirmin\u0117s sveikatos prie\u017ei\u016bros centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0037635,
+                    55.3027562
+                ]
+            },
+            "properties": {
+                "name": "Neringos pirmin\u0117s sveikatos prie\u017ei\u016bros centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2542934,
+                    55.8968864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2536463,
+                    55.8962996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7221475,
+                    55.6389204
+                ]
+            },
+            "properties": {
+                "name": "Baisogalos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2973147,
+                    55.2556159
+                ]
+            },
+            "properties": {
+                "name": "V. Iva\u0161\u010denko ambulatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0871012,
+                    55.9367536
+                ]
+            },
+            "properties": {
+                "name": "J\u016brinink\u0173 ligonin\u0117s Palangos skyrius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9467996,
+                    55.6309922
+                ]
+            },
+            "properties": {
+                "name": "Kelm\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2830139,
+                    55.2538826
+                ]
+            },
+            "properties": {
+                "name": "Taurag\u0117s apskrities ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1692756,
+                    56.0264019
+                ]
+            },
+            "properties": {
+                "name": "Joni\u0161k\u0117lio ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9215451,
+                    54.9047863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4114249,
+                    55.2261904
+                ]
+            },
+            "properties": {
+                "name": "Mol\u0117t\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9373579,
+                    56.0043207
+                ]
+            },
+            "properties": {
+                "name": "Kur\u0161\u0117n\u0173 palaikomojo gydymo ir slaugos skyrius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9371921,
+                    56.0035302
+                ]
+            },
+            "properties": {
+                "name": "Kur\u0161\u0117n\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3669605,
+                    55.7349835
+                ]
+            },
+            "properties": {
+                "name": "Panev\u0117\u017eio resupublikin\u0117 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4809333,
+                    56.0694096
+                ]
+            },
+            "properties": {
+                "name": "Me\u0161kui\u010di\u0173 ambulatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9182911,
+                    54.8936448
+                ]
+            },
+            "properties": {
+                "name": "Respublikin\u0117s Kauno ligonin\u0117s filialas Krik\u0161\u010dioni\u0161kieji gimdymo namai, Gimdymo skyrius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.307633,
+                    54.6912462
+                ]
+            },
+            "properties": {
+                "name": "Vilniaus Universiteto psichiatrijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1276816,
+                    55.7123969
+                ]
+            },
+            "properties": {
+                "name": "Apskrities ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9231121,
+                    54.896715
+                ]
+            },
+            "properties": {
+                "name": "Raudonojo Kry\u017eiaus ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9223255,
+                    54.8965478
+                ]
+            },
+            "properties": {
+                "name": "Raudonojo Kry\u017eiaus ligonin\u0117s Traumatologijos punktas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3386208,
+                    54.7355196
+                ]
+            },
+            "properties": {
+                "name": "Baltijos Amerikos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3046526,
+                    55.749039
+                ]
+            },
+            "properties": {
+                "name": "Adomyn\u0117s medicinos punktas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2762036,
+                    54.6729309
+                ]
+            },
+            "properties": {
+                "name": "Mykolo Marcinkevi\u010diaus ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9088765,
+                    55.1448424
+                ]
+            },
+            "properties": {
+                "name": "Pag\u0117gi\u0173 palaikomojo gydymo, slaugos ir seneli\u0173 globos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2711542,
+                    55.0798923
+                ]
+            },
+            "properties": {
+                "name": "Jonavos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0262597,
+                    54.6506971
+                ]
+            },
+            "properties": {
+                "name": "Vilkavi\u0161kio ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.759469,
+                    56.1885538
+                ]
+            },
+            "properties": {
+                "name": "Bir\u017e\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7215362,
+                    54.3495056
+                ]
+            },
+            "properties": {
+                "name": "V\u0160\u012e Valkinink\u0173 sanatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.984184,
+                    55.3100286
+                ]
+            },
+            "properties": {
+                "name": "K\u0117daini\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2847085,
+                    54.6879286
+                ]
+            },
+            "properties": {
+                "name": "Vilniaus universiteto ligonin\u0117s Santari\u0161ki\u0173 klinik\u0173 Centro filialas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.222709,
+                    54.4143653
+                ]
+            },
+            "properties": {
+                "name": "Kalvarijos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7017118,
+                    54.0963224
+                ]
+            },
+            "properties": {
+                "name": "Veisiej\u0173 ambulatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5902404,
+                    54.8650101
+                ]
+            },
+            "properties": {
+                "name": "\u017dasli\u0173 PSPC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3848882,
+                    54.6068349
+                ]
+            },
+            "properties": {
+                "name": "Skaidi\u0161ki\u0173 ambulatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7040396,
+                    55.2603769
+                ]
+            },
+            "properties": {
+                "name": "Er\u017evilko Pirmin\u0117s Sveikatos Prie\u017eiuros Centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1349195,
+                    55.7158886
+                ]
+            },
+            "properties": {
+                "name": "Klaip\u0117dos medicinin\u0117s slaugos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1551566,
+                    55.1304353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1563353,
+                    55.1271519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5867318,
+                    55.405418
+                ]
+            },
+            "properties": {
+                "name": "Skaudvil\u0117s slaugos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8844105,
+                    55.5857448
+                ]
+            },
+            "properties": {
+                "name": "Tro\u0161k\u016bn\u0173 ambulatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9146619,
+                    55.1330787
+                ]
+            },
+            "properties": {
+                "name": "Pag\u0117gi\u0173 palaikomojo gydymo ir slaugos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8751418,
+                    55.5871329
+                ]
+            },
+            "properties": {
+                "name": "Tro\u0161k\u016bn\u0173 palaikomojo gydymo ir slaugos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7501406,
+                    55.0844218
+                ]
+            },
+            "properties": {
+                "name": "Jurbarko ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9237767,
+                    54.902394
+                ]
+            },
+            "properties": {
+                "name": "V\u0160\u012e Pakaun\u0117s PSPC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3400099,
+                    56.3055302
+                ]
+            },
+            "properties": {
+                "name": "Ma\u017eeiki\u0173 pirmin\u0117s sveikatos prie\u017ei\u016bros centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9179141,
+                    54.8936399
+                ]
+            },
+            "properties": {
+                "name": "Respublikin\u0117s Kauno ligonin\u0117s filialas Krik\u0161\u010dioni\u0161kieji gimdymo namai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9431661,
+                    54.878229
+                ]
+            },
+            "properties": {
+                "name": "V\u0161\u012e Respublikin\u0117 Kauno ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.368172,
+                    55.7335307
+                ]
+            },
+            "properties": {
+                "name": "Panevezio m. greitosios medicinos pagalbos stotis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3629338,
+                    55.7242295
+                ]
+            },
+            "properties": {
+                "name": "Panev\u0117\u017eio infekcin\u0117 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5066355,
+                    54.6137061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7282191,
+                    54.604708
+                ]
+            },
+            "properties": {
+                "name": "\u0160umsko palaikomojo gydymo ir slaugos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0423035,
+                    54.4133591
+                ]
+            },
+            "properties": {
+                "name": "Alytaus tuberkulioz\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2961625,
+                    54.677006
+                ]
+            },
+            "properties": {
+                "name": "M. Marcinkevi\u010diaus ligonin\u0117, Suba\u010diaus padalinys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9833704,
+                    54.8803928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3689784,
+                    55.7317098
+                ]
+            },
+            "properties": {
+                "name": "Panev\u0117\u017eio palaikomojo gydymo ir slaugos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1332088,
+                    55.7179272
+                ]
+            },
+            "properties": {
+                "name": "Respublikin\u0117 Klaip\u0117dos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1355807,
+                    55.7146235
+                ]
+            },
+            "properties": {
+                "name": "Klaip\u0117dos vaik\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1438949,
+                    55.707681
+                ]
+            },
+            "properties": {
+                "name": "Respublikin\u0117s Klaip\u0117dos ligonin\u0117s Psichiatrijos filialas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7715689,
+                    55.0824366
+                ]
+            },
+            "properties": {
+                "name": "Jurbarko \u0161eimos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4719423,
+                    54.8523768
+                ]
+            },
+            "properties": {
+                "name": "Slaugos ir palaikomojo gydymo ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0316872,
+                    54.9550195
+                ]
+            },
+            "properties": {
+                "name": "\u0160aki\u0173 Ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1225225,
+                    55.5202596
+                ]
+            },
+            "properties": {
+                "name": "Anyk\u0161\u010di\u0173 rajono savivaldyb\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6824263,
+                    56.1890361
+                ]
+            },
+            "properties": {
+                "name": "Ventos ambulatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3445248,
+                    56.3165208
+                ]
+            },
+            "properties": {
+                "name": "Ma\u017eeiki\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5692335,
+                    54.2184021
+                ]
+            },
+            "properties": {
+                "name": "V\u0161\u012e Var\u0117nos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3664794,
+                    55.7340546
+                ]
+            },
+            "properties": {
+                "name": "Aku\u0161erijos skyrius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3668022,
+                    55.7439991
+                ]
+            },
+            "properties": {
+                "name": "Varni\u0173 slaugos ir palaikomojo gydymo ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3671201,
+                    55.7435253
+                ]
+            },
+            "properties": {
+                "name": "Varni\u0173 pirmin\u0117s sveikatos prie\u017ei\u016bros centras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6895259,
+                    55.6028521
+                ]
+            },
+            "properties": {
+                "name": "Kra\u017ei\u0173 ambulatorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2326962,
+                    55.984338
+                ]
+            },
+            "properties": {
+                "name": "Tel\u0161i\u0173 apskrities ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5908047,
+                    55.5095143
+                ]
+            },
+            "properties": {
+                "name": "Utenos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6455443,
+                    54.9419303
+                ]
+            },
+            "properties": {
+                "name": "Kulautuvos reabilitacijos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.707964,
+                    54.76701
+                ]
+            },
+            "properties": {
+                "name": "Abromi\u0161ki\u0173 reabilitacijos ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2784673,
+                    54.7553479
+                ]
+            },
+            "properties": {
+                "name": "Vaik\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2738748,
+                    55.9257703
+                ]
+            },
+            "properties": {
+                "name": "Moters ir vaiko klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4595395,
+                    55.3382622
+                ]
+            },
+            "properties": {
+                "name": "\u0160ilut\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3457972,
+                    54.5666009
+                ]
+            },
+            "properties": {
+                "name": "Marijampol\u0117s ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4017755,
+                    55.7095982
+                ]
+            },
+            "properties": {
+                "name": "Klaip\u0117dos rajono savivaldyb\u0117s V\u0160\u012e Garg\u017ed\u0173 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8578757,
+                    54.9149783
+                ]
+            },
+            "properties": {
+                "name": "Kauno klinikin\u0117 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4331338,
+                    55.6065856
+                ]
+            },
+            "properties": {
+                "name": "Visagino ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2773925,
+                    54.7523386
+                ]
+            },
+            "properties": {
+                "name": "Santari\u0161ki\u0173 klinikos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2821416,
+                    54.7517907
+                ]
+            },
+            "properties": {
+                "name": "Vilniaus Universiteto onkologijos institutas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9247149,
+                    54.9192009
+                ]
+            },
+            "properties": {
+                "name": "LSMUL KK Kardiologijos klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6252821,
+                    56.2013115
+                ]
+            },
+            "properties": {
+                "name": "Lik\u0117n\u0173 reabilitacin\u0117 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7201176,
+                    54.930328
+                ]
+            },
+            "properties": {
+                "name": "Ka\u010dergin\u0117s vaik\u0173 sanatorija \u201e\u017dibut\u0117\u201c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3156561,
+                    54.7199899
+                ]
+            },
+            "properties": {
+                "name": "Vilniaus miesto klinikin\u0117s ligonin\u0117s\u00a0Antakalnio\u00a0filialas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4081465,
+                    56.0674341
+                ]
+            },
+            "properties": {
+                "name": "Pasvalio ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2076385,
+                    54.6679547
+                ]
+            },
+            "properties": {
+                "name": "Respublikin\u0117 Vilniaus universitetin\u0117 ligonin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3169887,
+                    54.709315
+                ]
+            },
+            "properties": {
+                "name": "Vilniaus miesto klinikin\u0117 ligonin\u0117"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,226 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8138257,
+                    41.3214034
+                ]
+            },
+            "properties": {
+                "name": "Librari Albania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8193602,
+                    41.3284843
+                ]
+            },
+            "properties": {
+                "name": "Librari Adrion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8130867,
+                    41.3208816
+                ]
+            },
+            "properties": {
+                "name": "Librat & Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8166537,
+                    41.3270138
+                ]
+            },
+            "properties": {
+                "name": "Librari Akolli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8117299,
+                    41.3264178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5089817,
+                    42.0679434
+                ]
+            },
+            "properties": {
+                "name": "Kancelari & Librari Shkollore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5151783,
+                    42.0681066
+                ]
+            },
+            "properties": {
+                "name": "Kancelari shkollore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5116686,
+                    42.0621787
+                ]
+            },
+            "properties": {
+                "name": "Librari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8169738,
+                    41.326228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5080267,
+                    42.064584
+                ]
+            },
+            "properties": {
+                "name": "Librari Albania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8035395,
+                    41.3253558
+                ]
+            },
+            "properties": {
+                "name": "Kancelari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8183983,
+                    41.3193645
+                ]
+            },
+            "properties": {
+                "name": "Libri Universitar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0847468,
+                    41.1143955
+                ]
+            },
+            "properties": {
+                "name": "Librari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8270873,
+                    41.3425403
+                ]
+            },
+            "properties": {
+                "name": "Librari Sara 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8256948,
+                    41.3250885
+                ]
+            },
+            "properties": {
+                "name": "Educational Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5108055,
+                    42.0666224
+                ]
+            },
+            "properties": {
+                "name": "LIBRARI GOGAJ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5088313,
+                    42.0626279
+                ]
+            },
+            "properties": {
+                "name": "Ora e Shkodr\u00ebs"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

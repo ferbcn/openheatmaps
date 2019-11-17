@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9280821,
+                    54.8884014
+                ]
+            },
+            "properties": {
+                "name": "Seks Parduotuv\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2631064,
+                    54.7102433
+                ]
+            },
+            "properties": {
+                "name": "Aistra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2876372,
+                    54.7131684
+                ]
+            },
+            "properties": {
+                "name": "Erotin\u0117s prek\u0117s fantazijos.lt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3677971,
+                    55.7280491
+                ]
+            },
+            "properties": {
+                "name": "Amsterdamo vartai"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

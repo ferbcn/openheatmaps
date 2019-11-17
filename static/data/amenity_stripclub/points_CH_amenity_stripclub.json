@@ -1,0 +1,232 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5439974,
+                    47.3753537
+                ]
+            },
+            "properties": {
+                "name": "Calypso Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5438986,
+                    47.3747519
+                ]
+            },
+            "properties": {
+                "name": "Dolce Vita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3431938,
+                    47.3507121
+                ]
+            },
+            "properties": {
+                "name": "Spittelbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5431906,
+                    47.3724456
+                ]
+            },
+            "properties": {
+                "name": "Imperium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5441638,
+                    47.3755152
+                ]
+            },
+            "properties": {
+                "name": "Chessel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.732243,
+                    47.4980864
+                ]
+            },
+            "properties": {
+                "name": "Baccara Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5436393,
+                    47.3710705
+                ]
+            },
+            "properties": {
+                "name": "Maxim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6286467,
+                    46.5232482
+                ]
+            },
+            "properties": {
+                "name": "Cabaret Tiffany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5433668,
+                    47.3744243
+                ]
+            },
+            "properties": {
+                "name": "Haifisch Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7030864,
+                    47.2113677
+                ]
+            },
+            "properties": {
+                "name": "Paradiesli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.157306,
+                    46.2019181
+                ]
+            },
+            "properties": {
+                "name": "Velvet club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.14582,
+                    46.2027845
+                ]
+            },
+            "properties": {
+                "name": "Cabaret Crazy Paradise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1544688,
+                    46.2025447
+                ]
+            },
+            "properties": {
+                "name": "La Coupole Avenue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1398812,
+                    46.2008462
+                ]
+            },
+            "properties": {
+                "name": "Moulin Rouge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.900981,
+                    45.931038
+                ]
+            },
+            "properties": {
+                "name": "Miroirs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5273266,
+                    47.3799829
+                ]
+            },
+            "properties": {
+                "name": "Gregory Night Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9731333,
+                    45.9369608
+                ]
+            },
+            "properties": {
+                "name": "Strip Club 5"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

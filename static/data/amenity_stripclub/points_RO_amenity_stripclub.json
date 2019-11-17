@@ -1,0 +1,180 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.569869,
+                    46.5388387
+                ]
+            },
+            "properties": {
+                "name": "Night Club 69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1003136,
+                    44.431945
+                ]
+            },
+            "properties": {
+                "name": "Saloo Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0911904,
+                    44.4397938
+                ]
+            },
+            "properties": {
+                "name": "Lucky Love"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1010078,
+                    44.4316331
+                ]
+            },
+            "properties": {
+                "name": "Red Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1010243,
+                    44.4322154
+                ]
+            },
+            "properties": {
+                "name": "The Queen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0962382,
+                    44.4466167
+                ]
+            },
+            "properties": {
+                "name": "Babylon Night Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0995102,
+                    44.4196863
+                ]
+            },
+            "properties": {
+                "name": "Bora Bora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1022095,
+                    44.4379827
+                ]
+            },
+            "properties": {
+                "name": "Diva Night Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.102542,
+                    44.4379426
+                ]
+            },
+            "properties": {
+                "name": "Interdit Night Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9365366,
+                    47.0643472
+                ]
+            },
+            "properties": {
+                "name": "Tropical night club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5853388,
+                    46.7695562
+                ]
+            },
+            "properties": {
+                "name": "Curtezanele Elve\u021biene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0957084,
+                    44.4514553
+                ]
+            },
+            "properties": {
+                "name": "Mon Amoure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5658899,
+                    46.5350996
+                ]
+            },
+            "properties": {
+                "name": "XXL Night Club"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

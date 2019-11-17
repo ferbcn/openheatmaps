@@ -1,0 +1,1661 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4492213,
+                    36.8265716
+                ]
+            },
+            "properties": {
+                "name": "Chamonix Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4234429,
+                    28.1150716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4229834,
+                    28.1153783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6862331,
+                    42.8511899
+                ]
+            },
+            "properties": {
+                "name": "Borsalino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4224501,
+                    28.1147197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1468362,
+                    41.4034407
+                ]
+            },
+            "properties": {
+                "name": "Capricho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.6070636,
+                    41.267912
+                ]
+            },
+            "properties": {
+                "name": "Mens Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6256903,
+                    42.3639805
+                ]
+            },
+            "properties": {
+                "name": "Marengo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4064903,
+                    36.8324085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3747202,
+                    36.8497411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6715783,
+                    42.5237615
+                ]
+            },
+            "properties": {
+                "name": "Las Vias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0211186,
+                    43.3001349
+                ]
+            },
+            "properties": {
+                "name": "El Castillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0201689,
+                    43.299753
+                ]
+            },
+            "properties": {
+                "name": "Trastevere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7736117,
+                    42.6112698
+                ]
+            },
+            "properties": {
+                "name": "Beixos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8880796,
+                    41.6447313
+                ]
+            },
+            "properties": {
+                "name": "Pavarotti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9047588,
+                    41.6392981
+                ]
+            },
+            "properties": {
+                "name": "Deportivo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8884372,
+                    41.6314852
+                ]
+            },
+            "properties": {
+                "name": "La Isla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8957735,
+                    41.6474788
+                ]
+            },
+            "properties": {
+                "name": "La sucursal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8804621,
+                    41.6463799
+                ]
+            },
+            "properties": {
+                "name": "San Brasil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4653925,
+                    36.8405046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1112754,
+                    42.6287959
+                ]
+            },
+            "properties": {
+                "name": "La Palmera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8902569,
+                    42.2785474
+                ]
+            },
+            "properties": {
+                "name": "La Parada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6533381,
+                    42.2165121
+                ]
+            },
+            "properties": {
+                "name": "Moonlight"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6128087,
+                    40.4499666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0942695,
+                    39.4836736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0942127,
+                    39.4839157
+                ]
+            },
+            "properties": {
+                "name": "guancho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.094387,
+                    39.4838411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1357908,
+                    42.4283126
+                ]
+            },
+            "properties": {
+                "name": "Sirocco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5670651,
+                    42.390833
+                ]
+            },
+            "properties": {
+                "name": "Fuente del Rey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0850433,
+                    42.4374486
+                ]
+            },
+            "properties": {
+                "name": "Galicia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6855906,
+                    41.6775404
+                ]
+            },
+            "properties": {
+                "name": "Kriss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0103936,
+                    41.391515
+                ]
+            },
+            "properties": {
+                "name": "Asi\u00e1ticas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8213498,
+                    40.6050113
+                ]
+            },
+            "properties": {
+                "name": "Hermanos Mart\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.609861,
+                    40.683255
+                ]
+            },
+            "properties": {
+                "name": "New Missisipi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6014813,
+                    42.1572522
+                ]
+            },
+            "properties": {
+                "name": "El Cisne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4940138,
+                    42.4414983
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5322296,
+                    42.4085531
+                ]
+            },
+            "properties": {
+                "name": "Pink House Show Girls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4773432,
+                    42.8937217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.473893,
+                    42.8953221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5030359,
+                    42.1013955
+                ]
+            },
+            "properties": {
+                "name": "El Caballero de Monz\u00f3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3602296,
+                    39.4739879
+                ]
+            },
+            "properties": {
+                "name": "Felina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4260749,
+                    42.7775395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7049655,
+                    43.385006
+                ]
+            },
+            "properties": {
+                "name": "Lady's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7153211,
+                    43.3870935
+                ]
+            },
+            "properties": {
+                "name": "Club Carioca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.996484,
+                    43.3312799
+                ]
+            },
+            "properties": {
+                "name": "Whisker\u00eda Gobelas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4673577,
+                    36.6911808
+                ]
+            },
+            "properties": {
+                "name": "Scandalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5630695,
+                    43.0212899
+                ]
+            },
+            "properties": {
+                "name": "Deseo Latino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.2693854,
+                    43.1064958
+                ]
+            },
+            "properties": {
+                "name": "Dolls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3346698,
+                    43.0974593
+                ]
+            },
+            "properties": {
+                "name": "Fuiss Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.936777,
+                    43.2589874
+                ]
+            },
+            "properties": {
+                "name": "Club Do\u00f1a Urraca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9355249,
+                    43.2584706
+                ]
+            },
+            "properties": {
+                "name": "Bilbao Relax"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.123638,
+                    41.3788179
+                ]
+            },
+            "properties": {
+                "name": "Apricots Barcelona Camp Nou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0199559,
+                    43.2997505
+                ]
+            },
+            "properties": {
+                "name": "Zafiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0198244,
+                    43.2997505
+                ]
+            },
+            "properties": {
+                "name": "Fiore di Notte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0195804,
+                    43.299729
+                ]
+            },
+            "properties": {
+                "name": "Golfus de Roma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0193073,
+                    43.2997156
+                ]
+            },
+            "properties": {
+                "name": "Stardust Night"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6197912,
+                    42.1550352
+                ]
+            },
+            "properties": {
+                "name": "Club Gesma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1426559,
+                    41.3975825
+                ]
+            },
+            "properties": {
+                "name": "La vie en rose"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8665089,
+                    40.3213924
+                ]
+            },
+            "properties": {
+                "name": "Copihue 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0429613,
+                    43.3685377
+                ]
+            },
+            "properties": {
+                "name": "Parada de Postas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0379478,
+                    43.3805811
+                ]
+            },
+            "properties": {
+                "name": "Mar\u00eda Cristina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4638039,
+                    40.4434001
+                ]
+            },
+            "properties": {
+                "name": "Princess Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.384788,
+                    39.4825499
+                ]
+            },
+            "properties": {
+                "name": "Even 11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6044446,
+                    42.1571941
+                ]
+            },
+            "properties": {
+                "name": "Falcon Crest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6596773,
+                    43.5373059
+                ]
+            },
+            "properties": {
+                "name": "Kotton Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8412221,
+                    40.2651043
+                ]
+            },
+            "properties": {
+                "name": "Club Social La Moraleja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7064538,
+                    40.4211355
+                ]
+            },
+            "properties": {
+                "name": "Le Papillon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7075615,
+                    40.4234661
+                ]
+            },
+            "properties": {
+                "name": "Naykas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6999174,
+                    40.4611221
+                ]
+            },
+            "properties": {
+                "name": "Vive Madrid. Club nocturno de alterne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5932241,
+                    36.5703489
+                ]
+            },
+            "properties": {
+                "name": "Estark 92"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6855433,
+                    41.6758089
+                ]
+            },
+            "properties": {
+                "name": "Afrodita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.5465585,
+                    37.651166
+                ]
+            },
+            "properties": {
+                "name": "PutiClub LAS DONAS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9931626,
+                    41.4829931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.929878,
+                    43.2558302
+                ]
+            },
+            "properties": {
+                "name": "Club El Ed\u00e9n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4235989,
+                    28.1157832
+                ]
+            },
+            "properties": {
+                "name": "Bar Club Cupido"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4236166,
+                    28.1143841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4226389,
+                    28.1151389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4241044,
+                    28.1145509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4226889,
+                    28.1152407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4227146,
+                    28.1152961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4242429,
+                    28.1148483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.422571,
+                    28.1152961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4226017,
+                    28.1153719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4229569,
+                    28.1158197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4227941,
+                    28.1157756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4230688,
+                    28.1160736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4230918,
+                    28.1161245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4231194,
+                    28.1161776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4230047,
+                    28.1162138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4231406,
+                    28.1162285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4230258,
+                    28.1162585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4233835,
+                    28.116812
+                ]
+            },
+            "properties": {
+                "name": "91"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4233194,
+                    28.116894
+                ]
+            },
+            "properties": {
+                "name": "92"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4234156,
+                    28.116885
+                ]
+            },
+            "properties": {
+                "name": "93"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8950425,
+                    41.6449772
+                ]
+            },
+            "properties": {
+                "name": "Priv\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4518527,
+                    36.8281091
+                ]
+            },
+            "properties": {
+                "name": "Burlesque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4587491,
+                    36.8343416
+                ]
+            },
+            "properties": {
+                "name": "Palmbeach club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8053822,
+                    43.4698822
+                ]
+            },
+            "properties": {
+                "name": "Maria Isabel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1994816,
+                    41.6618908
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6539635,
+                    37.996369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4345982,
+                    28.1398156
+                ]
+            },
+            "properties": {
+                "name": "Club Swinger Privee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4227539,
+                    28.1153941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4235705,
+                    28.1171512
+                ]
+            },
+            "properties": {
+                "name": "103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4234974,
+                    28.117
+                ]
+            },
+            "properties": {
+                "name": "97"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8475773,
+                    42.3719188
+                ]
+            },
+            "properties": {
+                "name": "La Rosa Roja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7836271,
+                    43.397009
+                ]
+            },
+            "properties": {
+                "name": "Borgia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2854353,
+                    37.9261471
+                ]
+            },
+            "properties": {
+                "name": "El cuerpo del Deseo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7037182,
+                    42.2999605
+                ]
+            },
+            "properties": {
+                "name": "La Boheme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7027491,
+                    42.2989377
+                ]
+            },
+            "properties": {
+                "name": "Las Malvinas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7687969,
+                    42.3403413
+                ]
+            },
+            "properties": {
+                "name": "Zafiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8820477,
+                    37.8543902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9162703,
+                    41.5265842
+                ]
+            },
+            "properties": {
+                "name": "Club Jamaica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0328641,
+                    37.1898942
+                ]
+            },
+            "properties": {
+                "name": "Club Los Rosales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9582249,
+                    43.318283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7685037,
+                    42.6400365
+                ]
+            },
+            "properties": {
+                "name": "Pub As Rocas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6861664,
+                    41.6846526
+                ]
+            },
+            "properties": {
+                "name": "Club Mississippi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3223162,
+                    42.5342654
+                ]
+            },
+            "properties": {
+                "name": "Macabucha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7552694,
+                    43.3383075
+                ]
+            },
+            "properties": {
+                "name": "Pub La Frontera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9908018,
+                    42.2263598
+                ]
+            },
+            "properties": {
+                "name": "Puticlub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1377417,
+                    40.1530913
+                ]
+            },
+            "properties": {
+                "name": "Club Entrepinos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.7116541,
+                    36.744173
+                ]
+            },
+            "properties": {
+                "name": "CuoRex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4600109,
+                    42.9516506
+                ]
+            },
+            "properties": {
+                "name": "Trit\u00f3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6978298,
+                    41.7722802
+                ]
+            },
+            "properties": {
+                "name": "Ulises"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3917383,
+                    42.115345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7624723,
+                    40.2597966
+                ]
+            },
+            "properties": {
+                "name": "Hotel La Cantue\u00f1a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8844525,
+                    42.3987639
+                ]
+            },
+            "properties": {
+                "name": "Club Paradies (Brothel)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2840308,
+                    41.708341
+                ]
+            },
+            "properties": {
+                "name": "New Joys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6458908,
+                    40.9890168
+                ]
+            },
+            "properties": {
+                "name": "Club 5\u00ba Pino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.354649,
+                    40.4893288
+                ]
+            },
+            "properties": {
+                "name": "African Queen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4273095,
+                    38.024587
+                ]
+            },
+            "properties": {
+                "name": "Tiffani's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1429583,
+                    43.0840923
+                ]
+            },
+            "properties": {
+                "name": "Ontza, Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2553165,
+                    41.8022112
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.3428986,
+                    36.8524878
+                ]
+            },
+            "properties": {
+                "name": "Hawai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6897227,
+                    37.6183176
+                ]
+            },
+            "properties": {
+                "name": "Club Don Mendo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.38214,
+                    40.4797842
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

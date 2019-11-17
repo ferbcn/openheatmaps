@@ -1,0 +1,4632 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.5124458,
+                    41.0165421
+                ]
+            },
+            "properties": {
+                "name": "Pagos de H\u00edbera - Catedral del Vi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8298956,
+                    28.8634302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8301144,
+                    28.8629277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8311518,
+                    28.8622076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8315825,
+                    28.8619381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8150863,
+                    28.8603636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2535053,
+                    43.2922738
+                ]
+            },
+            "properties": {
+                "name": "Odriozola ardoak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2073034,
+                    43.2970144
+                ]
+            },
+            "properties": {
+                "name": "Txakolina Aizpurua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1942302,
+                    43.2961322
+                ]
+            },
+            "properties": {
+                "name": "Bodega Txakoli Amets Mendi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6970365,
+                    42.347343
+                ]
+            },
+            "properties": {
+                "name": "Las Barricas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0732367,
+                    43.1381829
+                ]
+            },
+            "properties": {
+                "name": "Ardotegi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.4754701,
+                    43.1836584
+                ]
+            },
+            "properties": {
+                "name": "Mahatsondo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3844956,
+                    41.5135048
+                ]
+            },
+            "properties": {
+                "name": "Ca l'espinaler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9661463,
+                    42.5416081
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Castillo de Cuzcurrita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1794557,
+                    41.4225474
+                ]
+            },
+            "properties": {
+                "name": "2D2Dspuma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6967266,
+                    42.3427005
+                ]
+            },
+            "properties": {
+                "name": "El Lagar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7104688,
+                    40.4586899
+                ]
+            },
+            "properties": {
+                "name": "La Esquina de Palomeque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6957574,
+                    42.3486955
+                ]
+            },
+            "properties": {
+                "name": "Casalena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.765029,
+                    38.345804
+                ]
+            },
+            "properties": {
+                "name": "Bodega Alondra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0444887,
+                    38.6457892
+                ]
+            },
+            "properties": {
+                "name": "Bodega Casanova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5689321,
+                    37.4138836
+                ]
+            },
+            "properties": {
+                "name": "Bodega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.532934,
+                    37.9845441
+                ]
+            },
+            "properties": {
+                "name": "El Paseo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4735435,
+                    37.9919728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1922822,
+                    41.913168
+                ]
+            },
+            "properties": {
+                "name": "PISCIS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1889992,
+                    41.914206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0040608,
+                    41.3045558
+                ]
+            },
+            "properties": {
+                "name": "La Vinya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5117716,
+                    38.3900893
+                ]
+            },
+            "properties": {
+                "name": "Premium authentic drinks 45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5523662,
+                    42.2591708
+                ]
+            },
+            "properties": {
+                "name": "Tabacos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8902904,
+                    42.6760257
+                ]
+            },
+            "properties": {
+                "name": "Tabacos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.124411,
+                    41.3949077
+                ]
+            },
+            "properties": {
+                "name": "Lafuente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.15467,
+                    41.4019519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1377216,
+                    41.3942043
+                ]
+            },
+            "properties": {
+                "name": "Vinus & Brindis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0481628,
+                    37.1955646
+                ]
+            },
+            "properties": {
+                "name": "Alambique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0996916,
+                    39.4903011
+                ]
+            },
+            "properties": {
+                "name": "Bodega Benito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6995411,
+                    40.4150912
+                ]
+            },
+            "properties": {
+                "name": "Licores Cabello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.4174701,
+                    42.4990116
+                ]
+            },
+            "properties": {
+                "name": "Tabacos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2956601,
+                    36.5364767
+                ]
+            },
+            "properties": {
+                "name": "Magerit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7350298,
+                    28.0866542
+                ]
+            },
+            "properties": {
+                "name": "Spanish Style"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7525165,
+                    40.4067261
+                ]
+            },
+            "properties": {
+                "name": "Bodega \u00c1lvaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7389584,
+                    28.0903441
+                ]
+            },
+            "properties": {
+                "name": "Don Carlos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2973069,
+                    41.2508407
+                ]
+            },
+            "properties": {
+                "name": "Vin\u00edcola de Nulles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1416172,
+                    36.4227331
+                ]
+            },
+            "properties": {
+                "name": "Bodega Antonio Mu\u00f1oz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.2705854,
+                    42.1609846
+                ]
+            },
+            "properties": {
+                "name": "MEORIGA CAVES AND VINEYARDS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0604395,
+                    42.3431175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.6308556,
+                    41.6111589
+                ]
+            },
+            "properties": {
+                "name": "Gasull"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.9223474,
+                    40.1142718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5712896,
+                    37.4129052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6835547,
+                    41.6727801
+                ]
+            },
+            "properties": {
+                "name": "Vinom\u00eda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7871755,
+                    43.3393231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.8287881,
+                    28.863442
+                ]
+            },
+            "properties": {
+                "name": "Exchange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7907167,
+                    41.4220445
+                ]
+            },
+            "properties": {
+                "name": "Cal Feru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.550687,
+                    43.0759712
+                ]
+            },
+            "properties": {
+                "name": "Vinos El Resbal\u00f3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9211324,
+                    37.2844847
+                ]
+            },
+            "properties": {
+                "name": "Desav\u00edo Botellon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7846823,
+                    38.7819434
+                ]
+            },
+            "properties": {
+                "name": "Bodegues Daniel Belda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7152828,
+                    40.4207224
+                ]
+            },
+            "properties": {
+                "name": "Mundo Licor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0528148,
+                    43.1880796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6068787,
+                    39.5530201
+                ]
+            },
+            "properties": {
+                "name": "Licores Johnny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3901144,
+                    39.6093583
+                ]
+            },
+            "properties": {
+                "name": "Bauz\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1649159,
+                    41.9167251
+                ]
+            },
+            "properties": {
+                "name": "Serra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6972585,
+                    40.3558108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8579388,
+                    40.3173277
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Belmonte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3059358,
+                    38.9801498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5228319,
+                    41.2183793
+                ]
+            },
+            "properties": {
+                "name": "Tabacos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6737007,
+                    41.3711683
+                ]
+            },
+            "properties": {
+                "name": "Tabacos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0660892,
+                    38.7437527
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Parcent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5399992,
+                    41.5780596
+                ]
+            },
+            "properties": {
+                "name": "El Club del Cep"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.8272274,
+                    41.59048
+                ]
+            },
+            "properties": {
+                "name": "Tabacos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7185427,
+                    41.6372341
+                ]
+            },
+            "properties": {
+                "name": "Wine Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6007195,
+                    43.1820345
+                ]
+            },
+            "properties": {
+                "name": "Orujo Los Picos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3880596,
+                    39.3788177
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Pedro Dur\u00e1n Delgado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5379905,
+                    39.5116247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6231143,
+                    43.1534954
+                ]
+            },
+            "properties": {
+                "name": "Licores la Sierra del Oso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2105354,
+                    43.2779551
+                ]
+            },
+            "properties": {
+                "name": "Segundo, Producto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5222836,
+                    38.4017074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7985119,
+                    37.9892463
+                ]
+            },
+            "properties": {
+                "name": "Bodega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2430335,
+                    40.5505443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.2437738,
+                    40.5515694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1104404,
+                    41.8490075
+                ]
+            },
+            "properties": {
+                "name": "Bodega Miquel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1674772,
+                    42.1092888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3625566,
+                    40.4777749
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Ad\u00e1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2083726,
+                    41.6785373
+                ]
+            },
+            "properties": {
+                "name": "Can Sapera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8065673,
+                    37.7975409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1451532,
+                    36.4229383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2851783,
+                    42.5598691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2363668,
+                    41.4515304
+                ]
+            },
+            "properties": {
+                "name": "Bodega Sant Crist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6728533,
+                    42.5310452
+                ]
+            },
+            "properties": {
+                "name": "Almacen de bebidas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2044616,
+                    42.3388954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6962084,
+                    42.3455641
+                ]
+            },
+            "properties": {
+                "name": "Saborazo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4040196,
+                    43.3690416
+                ]
+            },
+            "properties": {
+                "name": "Casa Claudio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8009158,
+                    40.8839137
+                ]
+            },
+            "properties": {
+                "name": "Vins N\u00faria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.4436544,
+                    40.5987886
+                ]
+            },
+            "properties": {
+                "name": "Vins Pomada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6673239,
+                    42.3503133
+                ]
+            },
+            "properties": {
+                "name": "Vilimun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2089463,
+                    41.5377434
+                ]
+            },
+            "properties": {
+                "name": "Bodega Segales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6435545,
+                    37.582527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1787285,
+                    41.3994614
+                ]
+            },
+            "properties": {
+                "name": "La Bona Pinta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7916138,
+                    37.7622144
+                ]
+            },
+            "properties": {
+                "name": "Vino y licores A. Navarro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.794904,
+                    37.7622248
+                ]
+            },
+            "properties": {
+                "name": "La Aceitera Jaenera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9156789,
+                    39.6691545
+                ]
+            },
+            "properties": {
+                "name": "celler de Son Prim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7610651,
+                    37.9422634
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Colonias de Gale\u00f3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7879272,
+                    37.766726
+                ]
+            },
+            "properties": {
+                "name": "A. Navarro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.703196,
+                    41.4506035
+                ]
+            },
+            "properties": {
+                "name": "Vins i Licors PERE ROMEU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.702249,
+                    41.4535934
+                ]
+            },
+            "properties": {
+                "name": "Viticultura CASA CARBONER"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.145694,
+                    41.4021417
+                ]
+            },
+            "properties": {
+                "name": "VINUS & BRINDIS Balmes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1551821,
+                    41.4038918
+                ]
+            },
+            "properties": {
+                "name": "VINUS & BRINDIS Gr\u00e0cia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1360841,
+                    41.3900364
+                ]
+            },
+            "properties": {
+                "name": "VINUS & BRINDIS L'Illa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7081037,
+                    40.4105404
+                ]
+            },
+            "properties": {
+                "name": "La Tienda de la Cerveza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7634505,
+                    38.3810657
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7639076,
+                    38.3818065
+                ]
+            },
+            "properties": {
+                "name": "zara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5934134,
+                    43.6688746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8570868,
+                    38.9999611
+                ]
+            },
+            "properties": {
+                "name": "La Bolsa de los Licores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4420868,
+                    38.9412068
+                ]
+            },
+            "properties": {
+                "name": "Licores \"La Generosa\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.578512,
+                    41.7018639
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Roques\u00e1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6272709,
+                    41.7440856
+                ]
+            },
+            "properties": {
+                "name": "La Vinateria (Comes-Calls)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2509686,
+                    41.7671267
+                ]
+            },
+            "properties": {
+                "name": "Celler Batea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6954522,
+                    42.3494277
+                ]
+            },
+            "properties": {
+                "name": "Cepa y olivo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2554488,
+                    43.2980658
+                ]
+            },
+            "properties": {
+                "name": "Taberna Idoia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7986266,
+                    38.092724
+                ]
+            },
+            "properties": {
+                "name": "Pub Melody"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8635501,
+                    42.4934529
+                ]
+            },
+            "properties": {
+                "name": "O Lagar da Plater\u00eda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2719323,
+                    41.1217892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5542913,
+                    37.5536681
+                ]
+            },
+            "properties": {
+                "name": "Lagar La Primilla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7080242,
+                    40.4162408
+                ]
+            },
+            "properties": {
+                "name": "La Caja de Vinos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7046594,
+                    40.4218524
+                ]
+            },
+            "properties": {
+                "name": "Mega Licores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6925361,
+                    39.5989042
+                ]
+            },
+            "properties": {
+                "name": "Bodegues Suau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6994087,
+                    40.4128615
+                ]
+            },
+            "properties": {
+                "name": "M\u00e1s Que Cervezas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6777986,
+                    40.4372486
+                ]
+            },
+            "properties": {
+                "name": "Siguero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7016428,
+                    40.4302268
+                ]
+            },
+            "properties": {
+                "name": "Cerevisia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7018499,
+                    40.4237814
+                ]
+            },
+            "properties": {
+                "name": "Licores Nieto de Alba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.8263052,
+                    43.1590028
+                ]
+            },
+            "properties": {
+                "name": "Vinos Los Blanco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5217784,
+                    41.9949048
+                ]
+            },
+            "properties": {
+                "name": "Ib\u00e8rics Madruga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6990673,
+                    40.4220522
+                ]
+            },
+            "properties": {
+                "name": "La Buena Cerveza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1396179,
+                    41.4120766
+                ]
+            },
+            "properties": {
+                "name": "El Celleret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7740678,
+                    37.6222381
+                ]
+            },
+            "properties": {
+                "name": "Bodega La Ermita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.780018,
+                    37.622984
+                ]
+            },
+            "properties": {
+                "name": "Bodega La Cueva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8645881,
+                    37.6424583
+                ]
+            },
+            "properties": {
+                "name": "Bodega Vinoteca Cabana de Saura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6276437,
+                    43.1681393
+                ]
+            },
+            "properties": {
+                "name": "SALTSAN CATERING"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7864521,
+                    40.642423
+                ]
+            },
+            "properties": {
+                "name": "Cervezas LEST"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8666215,
+                    38.9940847
+                ]
+            },
+            "properties": {
+                "name": "La Bodega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5353203,
+                    42.8816372
+                ]
+            },
+            "properties": {
+                "name": "Fillos da Malte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5148911,
+                    41.1870184
+                ]
+            },
+            "properties": {
+                "name": "Expo Licor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9949832,
+                    43.2916
+                ]
+            },
+            "properties": {
+                "name": "La Nueva Bodega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1624559,
+                    41.4050824
+                ]
+            },
+            "properties": {
+                "name": "Verema i Collita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9682883,
+                    42.2473149
+                ]
+            },
+            "properties": {
+                "name": "Licors Portet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6964728,
+                    42.3484954
+                ]
+            },
+            "properties": {
+                "name": "More than beer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3335609,
+                    28.0825794
+                ]
+            },
+            "properties": {
+                "name": "Vino Tinto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.142141,
+                    39.932831
+                ]
+            },
+            "properties": {
+                "name": "Biniarbolla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0280613,
+                    42.0107948
+                ]
+            },
+            "properties": {
+                "name": "Celler Cal Vilardell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7628519,
+                    41.2195705
+                ]
+            },
+            "properties": {
+                "name": "Celler del Pont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7631321,
+                    41.2207539
+                ]
+            },
+            "properties": {
+                "name": "Celler Sabat\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0151696,
+                    41.3668611
+                ]
+            },
+            "properties": {
+                "name": "La Bodega Roc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6964085,
+                    40.4608998
+                ]
+            },
+            "properties": {
+                "name": "Licorer\u00eda Margallo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1630407,
+                    41.3911359
+                ]
+            },
+            "properties": {
+                "name": "Colmado Quilez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6612044,
+                    40.965102
+                ]
+            },
+            "properties": {
+                "name": "El Palacio de los Licores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9443129,
+                    43.2700677
+                ]
+            },
+            "properties": {
+                "name": "Mart\u00edn Arag\u00f3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4880844,
+                    43.1799743
+                ]
+            },
+            "properties": {
+                "name": "Likores Baztan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6756934,
+                    40.4030526
+                ]
+            },
+            "properties": {
+                "name": "Vinos, Licores - Grupo Ortega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2516799,
+                    41.4509461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6204009,
+                    41.9683245
+                ]
+            },
+            "properties": {
+                "name": "El Corredor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8242706,
+                    41.9839305
+                ]
+            },
+            "properties": {
+                "name": "K-Bo K-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6765649,
+                    38.2611991
+                ]
+            },
+            "properties": {
+                "name": "Bola 8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6977837,
+                    38.2665709
+                ]
+            },
+            "properties": {
+                "name": "La Chinata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5899266,
+                    43.1409707
+                ]
+            },
+            "properties": {
+                "name": "Picos de Cabariezo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.6034548,
+                    43.1663836
+                ]
+            },
+            "properties": {
+                "name": "Sierra del Oso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5004136,
+                    36.6288652
+                ]
+            },
+            "properties": {
+                "name": "Decantare.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.9120898,
+                    41.3081602
+                ]
+            },
+            "properties": {
+                "name": "Vinos y Viandas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7070271,
+                    40.4266811
+                ]
+            },
+            "properties": {
+                "name": "Palma Brew"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1593354,
+                    37.3724157
+                ]
+            },
+            "properties": {
+                "name": "Bodegas F. Salado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4166498,
+                    42.1439785
+                ]
+            },
+            "properties": {
+                "name": "Bar Bodega Pirineos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9856885,
+                    37.6041435
+                ]
+            },
+            "properties": {
+                "name": "Bodega del Parque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.701674,
+                    40.4327213
+                ]
+            },
+            "properties": {
+                "name": "Vino y Compa\u00f1\u00eda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.0316457,
+                    43.3201917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6236162,
+                    42.1657167
+                ]
+            },
+            "properties": {
+                "name": "Maitines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.694098,
+                    40.4658919
+                ]
+            },
+            "properties": {
+                "name": "Aula espa\u00f1ola del vino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6084557,
+                    43.6693656
+                ]
+            },
+            "properties": {
+                "name": "Ribeirao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.8474086,
+                    28.4927484
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Tenegu\u00eda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5499157,
+                    42.5709889
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Langa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.9596643,
+                    37.7446074
+                ]
+            },
+            "properties": {
+                "name": "Vinotk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4022864,
+                    43.1754827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4028595,
+                    43.1759376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3949015,
+                    38.7651977
+                ]
+            },
+            "properties": {
+                "name": "Bodegas La Invencible"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0184423,
+                    38.7440389
+                ]
+            },
+            "properties": {
+                "name": "Bodega Virgen Pobre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.0138675,
+                    38.7423856
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Riko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0647238,
+                    41.4578821
+                ]
+            },
+            "properties": {
+                "name": "Celler Valldoreix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.0648426,
+                    41.4581065
+                ]
+            },
+            "properties": {
+                "name": "General de Begudes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5517728,
+                    42.5684314
+                ]
+            },
+            "properties": {
+                "name": "Vinoteca Alfonso Moreno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5514241,
+                    42.5690601
+                ]
+            },
+            "properties": {
+                "name": "Vinoteca Las Duelas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4992173,
+                    38.340745
+                ]
+            },
+            "properties": {
+                "name": "Bodega Bernardino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7017219,
+                    40.4226186
+                ]
+            },
+            "properties": {
+                "name": "Vino Premier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8401222,
+                    40.0001815
+                ]
+            },
+            "properties": {
+                "name": "Vitis Vinoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8398479,
+                    40.0012786
+                ]
+            },
+            "properties": {
+                "name": "Sa Bona Birra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2196017,
+                    41.3364522
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Cari\u00f1ena Vit\u00edcola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1733678,
+                    41.3780816
+                ]
+            },
+            "properties": {
+                "name": "Torres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6755592,
+                    41.9941722
+                ]
+            },
+            "properties": {
+                "name": "Bodega Nuestra Senora del Romero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6805258,
+                    41.9966018
+                ]
+            },
+            "properties": {
+                "name": "Bodega Guelbenzu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6744308,
+                    40.4444535
+                ]
+            },
+            "properties": {
+                "name": "Ecolicor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7959438,
+                    42.7031817
+                ]
+            },
+            "properties": {
+                "name": "Cava Beso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.7957765,
+                    42.7028127
+                ]
+            },
+            "properties": {
+                "name": "Caviar Nacarii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6792629,
+                    37.9839941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0197314,
+                    38.8247749
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Leopoldo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5422732,
+                    42.8825986
+                ]
+            },
+            "properties": {
+                "name": "A Atlantica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7156679,
+                    41.2207361
+                ]
+            },
+            "properties": {
+                "name": "Celler Les Parellades"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7292131,
+                    41.2187345
+                ]
+            },
+            "properties": {
+                "name": "Glopets de Vi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7263235,
+                    41.2254851
+                ]
+            },
+            "properties": {
+                "name": "Cal Puput"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.724622,
+                    41.2253108
+                ]
+            },
+            "properties": {
+                "name": "Genito Ib\u00e8rics i Vins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.724718,
+                    41.2262887
+                ]
+            },
+            "properties": {
+                "name": "Vinalium f33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.718283,
+                    41.2211263
+                ]
+            },
+            "properties": {
+                "name": "Abicon Wines SL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7059773,
+                    41.2233302
+                ]
+            },
+            "properties": {
+                "name": "Tobal drinks SL (oficina)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7270922,
+                    41.2397819
+                ]
+            },
+            "properties": {
+                "name": "Puig i Coll SL (Distribuci\u00f3 de gel i derivats)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7193009,
+                    41.2209126
+                ]
+            },
+            "properties": {
+                "name": "Bar Bodega Olivella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7276943,
+                    41.215521
+                ]
+            },
+            "properties": {
+                "name": "L'\u00c0nima Bistr\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7271346,
+                    41.2245001
+                ]
+            },
+            "properties": {
+                "name": "Associaci\u00f3 Singlot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7283181,
+                    41.2257493
+                ]
+            },
+            "properties": {
+                "name": "El Petric\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7238784,
+                    41.2195914
+                ]
+            },
+            "properties": {
+                "name": "MIM La Bodegueta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7249014,
+                    41.228058
+                ]
+            },
+            "properties": {
+                "name": "12 D.O.'s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.1026902,
+                    38.7271365
+                ]
+            },
+            "properties": {
+                "name": "Vinoteca A Catarlo Todo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6301506,
+                    42.4246597
+                ]
+            },
+            "properties": {
+                "name": "Ardandegia-Bodega Vega del Castillo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5018571,
+                    42.5094899
+                ]
+            },
+            "properties": {
+                "name": "Bodega Virgen de Ujue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6487849,
+                    42.0348423
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Principe de Viana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0983119,
+                    38.7282782
+                ]
+            },
+            "properties": {
+                "name": "Bodega Teulada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5317354,
+                    36.5886562
+                ]
+            },
+            "properties": {
+                "name": "Supermercato, alcohol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1203139,
+                    41.7517232
+                ]
+            },
+            "properties": {
+                "name": "Bodega Castell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6500075,
+                    38.0766287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7230711,
+                    41.2233641
+                ]
+            },
+            "properties": {
+                "name": "Avi\u00f1\u00f3 - Vins i licors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.2555824,
+                    41.1150738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3680509,
+                    39.0095372
+                ]
+            },
+            "properties": {
+                "name": "Bodega Yuntero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0047687,
+                    40.6261073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8432751,
+                    36.7589875
+                ]
+            },
+            "properties": {
+                "name": "Tabacos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1101779,
+                    38.5359479
+                ]
+            },
+            "properties": {
+                "name": "Bodega El Barril"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8316095,
+                    41.7110392
+                ]
+            },
+            "properties": {
+                "name": "Wine Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.417299,
+                    42.143022
+                ]
+            },
+            "properties": {
+                "name": "Maridaje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0868239,
+                    41.4644166
+                ]
+            },
+            "properties": {
+                "name": "Bodeegas Heredad Anson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0822023,
+                    41.4718802
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Condales del Norte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7271405,
+                    41.2230176
+                ]
+            },
+            "properties": {
+                "name": "El brindis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7093555,
+                    41.2473743
+                ]
+            },
+            "properties": {
+                "name": "Bodegues Jaume Serra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7210188,
+                    41.2359435
+                ]
+            },
+            "properties": {
+                "name": "Begudes Garraf-Penedes SA (Begipsa)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7107164,
+                    41.2265043
+                ]
+            },
+            "properties": {
+                "name": "Celler de Viticultors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7176788,
+                    41.2290389
+                ]
+            },
+            "properties": {
+                "name": "Nabrisa Distribucions SL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7181492,
+                    41.2288491
+                ]
+            },
+            "properties": {
+                "name": "Destilerias MG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6014727,
+                    43.6570773
+                ]
+            },
+            "properties": {
+                "name": "A Ria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.7274129,
+                    41.2290178
+                ]
+            },
+            "properties": {
+                "name": "Celler Can Pujol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4848982,
+                    38.3438517
+                ]
+            },
+            "properties": {
+                "name": "Vinart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0337084,
+                    40.4375202
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Cuarta Generaci\u00f3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6875901,
+                    41.6293733
+                ]
+            },
+            "properties": {
+                "name": "Vinosribera.com"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.8289455,
+                    41.7312369
+                ]
+            },
+            "properties": {
+                "name": "Reentre\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6882857,
+                    40.4280152
+                ]
+            },
+            "properties": {
+                "name": "La Fuente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8511627,
+                    38.9938986
+                ]
+            },
+            "properties": {
+                "name": "La alacena de Carlos Herrera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6627904,
+                    38.0531758
+                ]
+            },
+            "properties": {
+                "name": "Bodegas del Rosario"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2293645,
+                    36.5947627
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Osbonne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4061307,
+                    42.1362492
+                ]
+            },
+            "properties": {
+                "name": "Vinos San Lorenzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.573388,
+                    42.5208669
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Beramendi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5692797,
+                    42.5221262
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Maximo Abete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.684803,
+                    42.5669607
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Ostatu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6858709,
+                    42.5659856
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Baigorri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5728004,
+                    42.5051062
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Ayerra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7173254,
+                    40.4125924
+                ]
+            },
+            "properties": {
+                "name": "Vinoteca Tierra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6991761,
+                    40.4307344
+                ]
+            },
+            "properties": {
+                "name": "The One Wine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9776193,
+                    42.4768045
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Alconde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6995513,
+                    40.4153549
+                ]
+            },
+            "properties": {
+                "name": "Los Rosales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.4070876,
+                    38.8905127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8420243,
+                    42.5550513
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Macaya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8350662,
+                    42.712561
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Se\u00f1orio de Sarria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7970855,
+                    42.4536216
+                ]
+            },
+            "properties": {
+                "name": "Bodega Inurrieta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7962095,
+                    42.3896499
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Armendariz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9244648,
+                    43.2570661
+                ]
+            },
+            "properties": {
+                "name": "La Catedral Del La Cerveza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9248001,
+                    43.2573272
+                ]
+            },
+            "properties": {
+                "name": "Ultramarinos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7117215,
+                    40.4092264
+                ]
+            },
+            "properties": {
+                "name": "Madrue\u00f1o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9460585,
+                    42.6839405
+                ]
+            },
+            "properties": {
+                "name": "Bastida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7102523,
+                    40.41016
+                ]
+            },
+            "properties": {
+                "name": "Vinoman\u00eda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7651359,
+                    42.5863409
+                ]
+            },
+            "properties": {
+                "name": "Bodega Coop. San Fco. Javier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7466764,
+                    42.6746295
+                ]
+            },
+            "properties": {
+                "name": "Bodega Castillo de Eneriz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.669402,
+                    42.4206289
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Pago de Araiz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3765178,
+                    39.478363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7061017,
+                    40.4191469
+                ]
+            },
+            "properties": {
+                "name": "M. Madrue\u00f1o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6882843,
+                    41.9637118
+                ]
+            },
+            "properties": {
+                "name": "Bodega Coop. Ntra Sra del Camino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1505946,
+                    41.0960697
+                ]
+            },
+            "properties": {
+                "name": "MERCADONA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7092836,
+                    40.4215154
+                ]
+            },
+            "properties": {
+                "name": "La Zurbanita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.079313,
+                    39.9058522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.630953,
+                    41.5127149
+                ]
+            },
+            "properties": {
+                "name": "Tabacos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8346164,
+                    42.6266017
+                ]
+            },
+            "properties": {
+                "name": "Bodega Casa de Lucio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7934882,
+                    42.6921402
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Orvalaiz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.5328936,
+                    42.0168715
+                ]
+            },
+            "properties": {
+                "name": "J.J.J."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4830856,
+                    38.3499005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.0200837,
+                    38.824482
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Anguilar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.213336,
+                    43.4959033
+                ]
+            },
+            "properties": {
+                "name": "Licores Rivas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.4241657,
+                    43.4929164
+                ]
+            },
+            "properties": {
+                "name": "Sidra El Gaitero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.6443636,
+                    28.1456477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.6526595,
+                    28.137425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8808158,
+                    36.7470473
+                ]
+            },
+            "properties": {
+                "name": "La Vega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.7940645,
+                    42.5898014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1752982,
+                    41.3811269
+                ]
+            },
+            "properties": {
+                "name": "LaFuenta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.0877887,
+                    41.4655263
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Virgen de la Fuente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3444128,
+                    38.9195718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.9954547,
+                    37.3964683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8103123,
+                    43.3232703
+                ]
+            },
+            "properties": {
+                "name": "Gloria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9439072,
+                    42.0544386
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Forcada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4321341,
+                    28.1376629
+                ]
+            },
+            "properties": {
+                "name": "La Tienda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4333245,
+                    28.1364518
+                ]
+            },
+            "properties": {
+                "name": "El Buen Aroma Tabaquer\u00eda Licorer\u00eda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9228993,
+                    39.8687367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9225564,
+                    40.9911606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.9226592,
+                    40.9914198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1175496,
+                    41.5318548
+                ]
+            },
+            "properties": {
+                "name": "Licobarna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4665794,
+                    38.6455729
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Los Marcos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6983705,
+                    42.3345188
+                ]
+            },
+            "properties": {
+                "name": "G\u00f3mez Arroyo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7048546,
+                    40.4327497
+                ]
+            },
+            "properties": {
+                "name": "Baco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7128286,
+                    42.6555205
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Nekeas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.2032294,
+                    41.4586775
+                ]
+            },
+            "properties": {
+                "name": "Juanpa Celler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5338406,
+                    38.985121
+                ]
+            },
+            "properties": {
+                "name": "Bodega Ribas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.710106,
+                    40.4272577
+                ]
+            },
+            "properties": {
+                "name": "Wine Attack"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7037345,
+                    40.407499
+                ]
+            },
+            "properties": {
+                "name": "Bendito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7035022,
+                    40.4075531
+                ]
+            },
+            "properties": {
+                "name": "La siemprellena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7083507,
+                    40.4341162
+                ]
+            },
+            "properties": {
+                "name": "Vinos Deliberados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.8404081,
+                    28.2392977
+                ]
+            },
+            "properties": {
+                "name": "Licoreria Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1789895,
+                    41.4213984
+                ]
+            },
+            "properties": {
+                "name": "Bodega Sant Jordi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8567824,
+                    41.188303
+                ]
+            },
+            "properties": {
+                "name": "Celler Vall Llach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1142733,
+                    38.5363817
+                ]
+            },
+            "properties": {
+                "name": "The Wine Barrel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4658695,
+                    42.369709
+                ]
+            },
+            "properties": {
+                "name": "Bdegas Abadia de La Oliva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8044141,
+                    42.0845429
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Cirbonera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.1994224,
+                    43.2940421
+                ]
+            },
+            "properties": {
+                "name": "Txakolina Ameztoi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.7106923,
+                    40.4063153
+                ]
+            },
+            "properties": {
+                "name": "HENEKET"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6790923,
+                    42.8470822
+                ]
+            },
+            "properties": {
+                "name": "Birrak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6804207,
+                    42.8492975
+                ]
+            },
+            "properties": {
+                "name": "UCRA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.9661554,
+                    28.7377828
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Noroeste La Palma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.4807474,
+                    40.5277478
+                ]
+            },
+            "properties": {
+                "name": "Alambique Santa Marta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1565237,
+                    41.9291048
+                ]
+            },
+            "properties": {
+                "name": "Vins i licors Grau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5923479,
+                    42.1404186
+                ]
+            },
+            "properties": {
+                "name": "Guilligans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    0.8556658,
+                    41.1739017
+                ]
+            },
+            "properties": {
+                "name": "Bodega Ferrer Bobet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5993522,
+                    41.31533
+                ]
+            },
+            "properties": {
+                "name": "Caves Bolet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.5981247,
+                    41.3261582
+                ]
+            },
+            "properties": {
+                "name": "Caves Joan Sard\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6042464,
+                    37.1726205
+                ]
+            },
+            "properties": {
+                "name": "Campus Discoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.650328,
+                    36.5394371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.3461827,
+                    41.9734532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7423743,
+                    43.5646917
+                ]
+            },
+            "properties": {
+                "name": "Sidra Pe\u00f1\u00f3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.604545,
+                    43.5016041
+                ]
+            },
+            "properties": {
+                "name": "Sidra Pi\u00f1era"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1215663,
+                    39.3949446
+                ]
+            },
+            "properties": {
+                "name": "Cooperativa Vin\u00edcola del Carmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6197911,
+                    43.4613019
+                ]
+            },
+            "properties": {
+                "name": "Sidra Men\u00e9ndez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.4538383,
+                    43.2221279
+                ]
+            },
+            "properties": {
+                "name": "Cerveza Caleya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.4433298,
+                    43.4657389
+                ]
+            },
+            "properties": {
+                "name": "Sidra Cortina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1164604,
+                    39.3944299
+                ]
+            },
+            "properties": {
+                "name": "Bodega El V\u00ednculo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.114109,
+                    39.4018906
+                ]
+            },
+            "properties": {
+                "name": "Bodegas El S\u00edmbolo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1199086,
+                    39.3962465
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Huertas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1233389,
+                    39.3973713
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Vidal del Saz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.1258223,
+                    39.4012163
+                ]
+            },
+            "properties": {
+                "name": "Bodegas y Vi\u00f1edos Castiblanque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.2259124,
+                    39.7315806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.4349993,
+                    43.4782023
+                ]
+            },
+            "properties": {
+                "name": "Sidra Cortina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.4363058,
+                    43.4784427
+                ]
+            },
+            "properties": {
+                "name": "Sidra Escanciador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.4343532,
+                    43.4763295
+                ]
+            },
+            "properties": {
+                "name": "Sidra Coro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.3302907,
+                    43.514944
+                ]
+            },
+            "properties": {
+                "name": "Sidra Mayador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7188315,
+                    42.5933718
+                ]
+            },
+            "properties": {
+                "name": "Cooperativa Vinos del Bierzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.6678827,
+                    40.9385915
+                ]
+            },
+            "properties": {
+                "name": "Labrador"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7245723,
+                    39.6213117
+                ]
+            },
+            "properties": {
+                "name": "Bodegues T\u00fanel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1233735,
+                    42.1246912
+                ]
+            },
+            "properties": {
+                "name": "Can Ratxelet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3597466,
+                    39.6919685
+                ]
+            },
+            "properties": {
+                "name": "Moy\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2314815,
+                    43.2729767
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Amigo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5073816,
+                    39.5303078
+                ]
+            },
+            "properties": {
+                "name": "Jordi Perell\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7189336,
+                    39.6180023
+                ]
+            },
+            "properties": {
+                "name": "LIMSA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.347437,
+                    39.6911614
+                ]
+            },
+            "properties": {
+                "name": "licors Moy\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7349557,
+                    43.3785859
+                ]
+            },
+            "properties": {
+                "name": "Sidra Fonciello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.0919824,
+                    42.3176345
+                ]
+            },
+            "properties": {
+                "name": "Bodega Cooperativa Nuestra Se\u00f1ora de la Anunciaci\u00f3n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.7867286,
+                    43.3486101
+                ]
+            },
+            "properties": {
+                "name": "Ventas de Santiago"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.898729,
+                    39.4896382
+                ]
+            },
+            "properties": {
+                "name": "Suquers Artesans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.754808,
+                    43.3712341
+                ]
+            },
+            "properties": {
+                "name": "Sidra Fanjul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7544126,
+                    43.3722465
+                ]
+            },
+            "properties": {
+                "name": "Sidra Mu\u00f1iz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7551341,
+                    43.3719472
+                ]
+            },
+            "properties": {
+                "name": "Sidra Vda. de Palacio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7336965,
+                    43.3622914
+                ]
+            },
+            "properties": {
+                "name": "Restaurante Sidra Arbes\u00fa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7558663,
+                    43.3725702
+                ]
+            },
+            "properties": {
+                "name": "Sidreria Juanin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.7336617,
+                    43.3617093
+                ]
+            },
+            "properties": {
+                "name": "Sidreria Arbes\u00fa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8142382,
+                    39.6675946
+                ]
+            },
+            "properties": {
+                "name": "Bodegues Can Ribas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.162536,
+                    37.9383762
+                ]
+            },
+            "properties": {
+                "name": "Bodegas Bernal"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

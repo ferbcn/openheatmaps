@@ -1,0 +1,765 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4660661,
+                    44.5327615
+                ]
+            },
+            "properties": {
+                "name": "Wein vom Fass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9381411,
+                    44.8173362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9332681,
+                    44.8191439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4548413,
+                    42.8920253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0112295,
+                    45.1595368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9334093,
+                    44.8190013
+                ]
+            },
+            "properties": {
+                "name": "Vineria Medulin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5421031,
+                    45.1644174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9966683,
+                    45.7757903
+                ]
+            },
+            "properties": {
+                "name": "Ilo\u010dki podrumi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9771631,
+                    45.7761349
+                ]
+            },
+            "properties": {
+                "name": "Stridon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8576385,
+                    42.9051291
+                ]
+            },
+            "properties": {
+                "name": "Wine shop \"Toreta\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8918259,
+                    42.9278375
+                ]
+            },
+            "properties": {
+                "name": "Vine shop \"Toreta\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4448849,
+                    46.3901356
+                ]
+            },
+            "properties": {
+                "name": "Vinoteka \u010cakovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6291185,
+                    45.0216512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1226558,
+                    45.0924024
+                ]
+            },
+            "properties": {
+                "name": "Catunar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0211017,
+                    45.1543834
+                ]
+            },
+            "properties": {
+                "name": "Ilo\u010dki podrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9532031,
+                    45.8022323
+                ]
+            },
+            "properties": {
+                "name": "Kaoma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1838587,
+                    43.062473
+                ]
+            },
+            "properties": {
+                "name": "Vinoteka Roki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9661844,
+                    45.7993989
+                ]
+            },
+            "properties": {
+                "name": "Galerija vina Miva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5843213,
+                    46.0031099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9470732,
+                    43.3588592
+                ]
+            },
+            "properties": {
+                "name": "Tociona vina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9517319,
+                    43.3570417
+                ]
+            },
+            "properties": {
+                "name": "Vino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4157256,
+                    45.3128533
+                ]
+            },
+            "properties": {
+                "name": "ROTO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6960778,
+                    42.83863
+                ]
+            },
+            "properties": {
+                "name": "Wines Ledini\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.607629,
+                    45.1709875
+                ]
+            },
+            "properties": {
+                "name": "Winery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6053445,
+                    45.1734972
+                ]
+            },
+            "properties": {
+                "name": "Winery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2168482,
+                    42.5818351
+                ]
+            },
+            "properties": {
+                "name": "Wine and Sourvenir Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6921959,
+                    43.4450921
+                ]
+            },
+            "properties": {
+                "name": "Dominik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6941704,
+                    43.4427061
+                ]
+            },
+            "properties": {
+                "name": "Dionis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4459202,
+                    43.5172431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0252213,
+                    45.8169747
+                ]
+            },
+            "properties": {
+                "name": "Ilo\u010dki podrumi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3689375,
+                    45.3552387
+                ]
+            },
+            "properties": {
+                "name": "Vinarija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2332074,
+                    45.8043017
+                ]
+            },
+            "properties": {
+                "name": "Vinarija Sesan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7937693,
+                    42.9392947
+                ]
+            },
+            "properties": {
+                "name": "wineshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8036316,
+                    45.8614361
+                ]
+            },
+            "properties": {
+                "name": "Roto diskont pi\u0107a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4548052,
+                    43.5094329
+                ]
+            },
+            "properties": {
+                "name": "To\u010dionica vina Goran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6839651,
+                    45.5594188
+                ]
+            },
+            "properties": {
+                "name": "Vinoteka Ilo\u010dki podrumi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6821247,
+                    45.556004
+                ]
+            },
+            "properties": {
+                "name": "Vinoto\u010dje \u010co\u010di\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7749046,
+                    45.1437078
+                ]
+            },
+            "properties": {
+                "name": "vinery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4833863,
+                    43.5063118
+                ]
+            },
+            "properties": {
+                "name": "Dalmacijavino br. 35"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5964358,
+                    45.2257121
+                ]
+            },
+            "properties": {
+                "name": "Vinoteka Brbi\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4324383,
+                    43.5067255
+                ]
+            },
+            "properties": {
+                "name": "Little Beer Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9308189,
+                    45.7895971
+                ]
+            },
+            "properties": {
+                "name": "Vrutak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9455336,
+                    45.7655962
+                ]
+            },
+            "properties": {
+                "name": "Magic Beer Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4349155,
+                    43.5111949
+                ]
+            },
+            "properties": {
+                "name": "Ilo\u010dki podrumi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2768796,
+                    45.2917088
+                ]
+            },
+            "properties": {
+                "name": "Peperoncino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4428374,
+                    46.3861626
+                ]
+            },
+            "properties": {
+                "name": "MAGMA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9189645,
+                    43.881111
+                ]
+            },
+            "properties": {
+                "name": "BIBICh Winery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9228,
+                    43.8186865
+                ]
+            },
+            "properties": {
+                "name": "BIBICh Wine Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0019767,
+                    45.8165523
+                ]
+            },
+            "properties": {
+                "name": "Svijet piva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9218859,
+                    43.8172006
+                ]
+            },
+            "properties": {
+                "name": "Le petit enoteque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8941335,
+                    44.5449098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.08532,
+                    44.300993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.637021,
+                    43.7005713
+                ]
+            },
+            "properties": {
+                "name": "Dalmacijavino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6552911,
+                    45.2290175
+                ]
+            },
+            "properties": {
+                "name": "Sempervivum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4367174,
+                    43.5085912
+                ]
+            },
+            "properties": {
+                "name": "Liquor & Tobacco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6333927,
+                    42.8410721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2507926,
+                    43.5173269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4433427,
+                    43.5091826
+                ]
+            },
+            "properties": {
+                "name": "Tobacco Beer Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4532847,
+                    43.5091242
+                ]
+            },
+            "properties": {
+                "name": "To\u010dionica vina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.363706,
+                    45.2246513
+                ]
+            },
+            "properties": {
+                "name": "Ilo\u010dki podrumi - prodaja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5811704,
+                    45.1144099
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

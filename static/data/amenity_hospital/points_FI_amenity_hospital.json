@@ -1,0 +1,5661 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.43894,
+                    60.120488
+                ]
+            },
+            "properties": {
+                "name": "Kirkkonummen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7863028,
+                    60.2180971
+                ]
+            },
+            "properties": {
+                "name": "Kilon terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.055255,
+                    60.2461551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6147188,
+                    63.0846724
+                ]
+            },
+            "properties": {
+                "name": "Vaasan keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6473546,
+                    63.098157
+                ]
+            },
+            "properties": {
+                "name": "Kaupunginsairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2559615,
+                    62.7103305
+                ]
+            },
+            "properties": {
+                "name": "Saarij\u00e4rven terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3259513,
+                    60.6355822
+                ]
+            },
+            "properties": {
+                "name": "M\u00e4nts\u00e4l\u00e4n terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5180699,
+                    65.0075084
+                ]
+            },
+            "properties": {
+                "name": "OYS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1098315,
+                    60.5425165
+                ]
+            },
+            "properties": {
+                "name": "Ohkolan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.624124,
+                    62.9147554
+                ]
+            },
+            "properties": {
+                "name": "Niuvanniemen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.922806,
+                    60.1772904
+                ]
+            },
+            "properties": {
+                "name": "Mehil\u00e4inen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9431777,
+                    63.9261623
+                ]
+            },
+            "properties": {
+                "name": "Nivalan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3911488,
+                    64.1327454
+                ]
+            },
+            "properties": {
+                "name": "Sotkamon terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0409892,
+                    60.4372718
+                ]
+            },
+            "properties": {
+                "name": "Halikon sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2747901,
+                    60.4447144
+                ]
+            },
+            "properties": {
+                "name": "\u00c5bolands sjukhus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.475783,
+                    59.9831781
+                ]
+            },
+            "properties": {
+                "name": "Ek\u00e5sens mentalsjukhus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0874811,
+                    60.4094808
+                ]
+            },
+            "properties": {
+                "name": "Keravan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2679001,
+                    60.4854997
+                ]
+            },
+            "properties": {
+                "name": "Sosiaali- ja terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9044854,
+                    60.2122183
+                ]
+            },
+            "properties": {
+                "name": "SPR Kivihaan veripalvelu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2115004,
+                    61.0598999
+                ]
+            },
+            "properties": {
+                "name": "Armilan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2099955,
+                    61.0652633
+                ]
+            },
+            "properties": {
+                "name": "Keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9858959,
+                    64.4869402
+                ]
+            },
+            "properties": {
+                "name": "Vihannin terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1270039,
+                    60.3754301
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4ivystys, Salon aluesairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1881298,
+                    61.8758118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9259771,
+                    60.7780868
+                ]
+            },
+            "properties": {
+                "name": "Terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5320484,
+                    60.1534762
+                ]
+            },
+            "properties": {
+                "name": "Masalan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7969309,
+                    60.9351286
+                ]
+            },
+            "properties": {
+                "name": "Valkealan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4426028,
+                    60.7214552
+                ]
+            },
+            "properties": {
+                "name": "Elim\u00e4en terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3231641,
+                    60.3453976
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7233294,
+                    63.6807752
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4lsov\u00e5rdscentralen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1496364,
+                    62.3028253
+                ]
+            },
+            "properties": {
+                "name": "Pieks\u00e4m\u00e4en sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5685483,
+                    60.9204629
+                ]
+            },
+            "properties": {
+                "name": "Luum\u00e4en terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.162178,
+                    60.5027097
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4rvenp\u00e4\u00e4n sosiaalisairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.6316406,
+                    62.3128271
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4702275,
+                    65.0089533
+                ]
+            },
+            "properties": {
+                "name": "Oulun Diakonissalaitos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8893187,
+                    62.329772
+                ]
+            },
+            "properties": {
+                "name": "Varkauden sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1116721,
+                    61.050216
+                ]
+            },
+            "properties": {
+                "name": "Sammonlahden terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4712884,
+                    65.0577572
+                ]
+            },
+            "properties": {
+                "name": "YTHS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6022091,
+                    60.846364
+                ]
+            },
+            "properties": {
+                "name": "Korian terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7464149,
+                    60.380146
+                ]
+            },
+            "properties": {
+                "name": "Klaukkalan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3685895,
+                    62.5357426
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0881997,
+                    61.1304108
+                ]
+            },
+            "properties": {
+                "name": "Taipalsaaren sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8174646,
+                    61.5055871
+                ]
+            },
+            "properties": {
+                "name": "Tampereen yliopistollinen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9310135,
+                    60.4608413
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9315371,
+                    60.4612729
+                ]
+            },
+            "properties": {
+                "name": "Kotkansaaren sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.026455,
+                    62.9767669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0705453,
+                    63.1009591
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1844537,
+                    65.8649444
+                ]
+            },
+            "properties": {
+                "name": "Keroputaan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7352867,
+                    63.6874776
+                ]
+            },
+            "properties": {
+                "name": "Folkh\u00e4lsan \u00d6stanlid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2707346,
+                    60.8675949
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4rvel\u00e4n terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7678505,
+                    61.4002437
+                ]
+            },
+            "properties": {
+                "name": "Kuljun terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7931672,
+                    61.6418979
+                ]
+            },
+            "properties": {
+                "name": "Hirvensalmen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0884806,
+                    62.098537
+                ]
+            },
+            "properties": {
+                "name": "Toivakan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1145321,
+                    63.5540487
+                ]
+            },
+            "properties": {
+                "name": "Nurmeksen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.320512,
+                    62.9860303
+                ]
+            },
+            "properties": {
+                "name": "Isonkyr\u00f6n terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4815019,
+                    61.5038735
+                ]
+            },
+            "properties": {
+                "name": "Pertunmaan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2641716,
+                    61.6499692
+                ]
+            },
+            "properties": {
+                "name": "Tuukkalan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8264454,
+                    61.5072657
+                ]
+            },
+            "properties": {
+                "name": "Pirkanmaan hoitokoti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1695381,
+                    67.6040065
+                ]
+            },
+            "properties": {
+                "name": "Yll\u00e4ksen L\u00e4\u00e4k\u00e4rikeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.172498,
+                    67.6039837
+                ]
+            },
+            "properties": {
+                "name": "L\u00e4\u00e4k\u00e4ripalvelu MediYll\u00e4s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4773104,
+                    65.0100067
+                ]
+            },
+            "properties": {
+                "name": "L\u00e4\u00e4k\u00e4rikeskus Mehil\u00e4inen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5388903,
+                    63.5226725
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4lsov\u00e5rdscentralen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0275278,
+                    60.6833297
+                ]
+            },
+            "properties": {
+                "name": "Porlammin terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.121062,
+                    60.2084769
+                ]
+            },
+            "properties": {
+                "name": "Perni\u00f6n terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6477299,
+                    62.3896293
+                ]
+            },
+            "properties": {
+                "name": "Tikkakosken terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8667776,
+                    62.2488398
+                ]
+            },
+            "properties": {
+                "name": "Vaajakosken terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1465692,
+                    60.206356
+                ]
+            },
+            "properties": {
+                "name": "Vuosaaren terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9642423,
+                    60.5514491
+                ]
+            },
+            "properties": {
+                "name": "Jokelan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8622382,
+                    60.9502655
+                ]
+            },
+            "properties": {
+                "name": "Alastaron terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1908035,
+                    62.9686522
+                ]
+            },
+            "properties": {
+                "name": "Berg\u00f6 r\u00e5dgivning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6269755,
+                    62.4223997
+                ]
+            },
+            "properties": {
+                "name": "Hein\u00e4veden terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8122493,
+                    62.6600137
+                ]
+            },
+            "properties": {
+                "name": "Lehmon terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6889404,
+                    65.0919295
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4\u00e4lin neuvola ja hammashoito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2030188,
+                    60.6267301
+                ]
+            },
+            "properties": {
+                "name": "Lapinj\u00e4rven terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9742815,
+                    59.8301973
+                ]
+            },
+            "properties": {
+                "name": "Hangon terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3757651,
+                    61.7894782
+                ]
+            },
+            "properties": {
+                "name": "Sulkava terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7390295,
+                    60.3058866
+                ]
+            },
+            "properties": {
+                "name": "Kalaj\u00e4rven terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1976825,
+                    60.6240116
+                ]
+            },
+            "properties": {
+                "name": "Lapinj\u00e4rven L\u00e4\u00e4k\u00e4riasema Oy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8793687,
+                    60.2055252
+                ]
+            },
+            "properties": {
+                "name": "L\u00e4\u00e4k\u00e4rikeskus Dextra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6912245,
+                    61.1542001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6773688,
+                    63.0876812
+                ]
+            },
+            "properties": {
+                "name": "Vaasan Keskussairaala Psykiatrian yksikk\u00f6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7111277,
+                    63.0718898
+                ]
+            },
+            "properties": {
+                "name": "Vanhan Vaasan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.851327,
+                    60.2772309
+                ]
+            },
+            "properties": {
+                "name": "Martinlaakson sosiaali- ja terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.21253,
+                    62.0185126
+                ]
+            },
+            "properties": {
+                "name": "Haukiniemen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.2878326,
+                    61.9134933
+                ]
+            },
+            "properties": {
+                "name": "Kerim\u00e4en terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9489961,
+                    60.1801328
+                ]
+            },
+            "properties": {
+                "name": "Mehil\u00e4inen Hakaniemi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8557564,
+                    61.5947928
+                ]
+            },
+            "properties": {
+                "name": "Noormarkun sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.786009,
+                    66.5214992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8278985,
+                    61.8969529
+                ]
+            },
+            "properties": {
+                "name": "Kes\u00e4dlahden terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7811857,
+                    61.5583056
+                ]
+            },
+            "properties": {
+                "name": "Suodenniemen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7017432,
+                    62.9807458
+                ]
+            },
+            "properties": {
+                "name": "terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2758998,
+                    60.4393487
+                ]
+            },
+            "properties": {
+                "name": "M\u00e4ntym\u00e4en terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3262117,
+                    60.2985032
+                ]
+            },
+            "properties": {
+                "name": "Sipoon terveyskeskuksen S\u00f6derkullan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8260634,
+                    61.8618099
+                ]
+            },
+            "properties": {
+                "name": "Kuoreveden terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8242315,
+                    62.6352471
+                ]
+            },
+            "properties": {
+                "name": "T\u00f6ys\u00e4n terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6768815,
+                    62.7666204
+                ]
+            },
+            "properties": {
+                "name": "Ahonkyl\u00e4n neuvola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9227536,
+                    60.1816389
+                ]
+            },
+            "properties": {
+                "name": "T\u00f6\u00f6l\u00f6n tapaturma-asema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0079886,
+                    65.3601123
+                ]
+            },
+            "properties": {
+                "name": "Pudasj\u00e4rven terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6863485,
+                    62.8938022
+                ]
+            },
+            "properties": {
+                "name": "Kuopion terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7506568,
+                    62.2455538
+                ]
+            },
+            "properties": {
+                "name": "YTHS Jyv\u00e4skyl\u00e4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3681658,
+                    61.4317885
+                ]
+            },
+            "properties": {
+                "name": "Rautj\u00e4rven hyvinvointiasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8487903,
+                    61.4503668
+                ]
+            },
+            "properties": {
+                "name": "Hervannan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3445893,
+                    61.4769118
+                ]
+            },
+            "properties": {
+                "name": "Siuron terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0711514,
+                    63.8265159
+                ]
+            },
+            "properties": {
+                "name": "Koivuhaan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9660685,
+                    60.3161486
+                ]
+            },
+            "properties": {
+                "name": "Mehil\u00e4inen Airport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.603306,
+                    60.7210283
+                ]
+            },
+            "properties": {
+                "name": "Riihikosken terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3654121,
+                    61.6634272
+                ]
+            },
+            "properties": {
+                "name": "Oriveden terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6996951,
+                    60.6713775
+                ]
+            },
+            "properties": {
+                "name": "Miehikk\u00e4l\u00e4n terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.9448807,
+                    61.8697203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5565776,
+                    65.7342713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4091069,
+                    64.80853
+                ]
+            },
+            "properties": {
+                "name": "Limingan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3644597,
+                    61.0360342
+                ]
+            },
+            "properties": {
+                "name": "Parolannummen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6652906,
+                    62.8862727
+                ]
+            },
+            "properties": {
+                "name": "Alavan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0760426,
+                    60.2259209
+                ]
+            },
+            "properties": {
+                "name": "Myllypuron terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5638502,
+                    60.1608458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7210887,
+                    63.090514
+                ]
+            },
+            "properties": {
+                "name": "Ristinummen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8211088,
+                    63.6793495
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.762818,
+                    61.2063017
+                ]
+            },
+            "properties": {
+                "name": "Viialan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3688254,
+                    61.7968094
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.839345,
+                    61.6291883
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4mmenniemen Terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1931562,
+                    61.6375447
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4meenkyr\u00f6n terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4826878,
+                    61.0506899
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8006693,
+                    62.269989
+                ]
+            },
+            "properties": {
+                "name": "Huhtasuon terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6691027,
+                    61.5202335
+                ]
+            },
+            "properties": {
+                "name": "Lielahden terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0056378,
+                    60.0443862
+                ]
+            },
+            "properties": {
+                "name": "Inkoon terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.540207,
+                    62.6123414
+                ]
+            },
+            "properties": {
+                "name": "Terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.673248,
+                    60.68729
+                ]
+            },
+            "properties": {
+                "name": "Vehmaan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2111467,
+                    61.0641216
+                ]
+            },
+            "properties": {
+                "name": "Etel\u00e4-Karjalan Keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9445765,
+                    59.9477215
+                ]
+            },
+            "properties": {
+                "name": "R\u00e5dgivningen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8137134,
+                    60.2211359
+                ]
+            },
+            "properties": {
+                "name": "HUSLAB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0384385,
+                    60.2929475
+                ]
+            },
+            "properties": {
+                "name": "Tikkurilan sosiaali- ja terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5447427,
+                    62.9456095
+                ]
+            },
+            "properties": {
+                "name": "Malax-Korsn\u00e4s HVC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1761876,
+                    62.657867
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4lsostation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.737194,
+                    60.4714525
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4iv\u00e4sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.63195,
+                    62.8901541
+                ]
+            },
+            "properties": {
+                "name": "Terveystalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8459719,
+                    60.565885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8210494,
+                    61.2214645
+                ]
+            },
+            "properties": {
+                "name": "Honkaharjun sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.821849,
+                    61.2214811
+                ]
+            },
+            "properties": {
+                "name": "Honkaharjun terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7649227,
+                    67.3271439
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7946502,
+                    60.1092213
+                ]
+            },
+            "properties": {
+                "name": "Mj\u00f6lbolsta sjukhus Karis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.3454736,
+                    62.222047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8451414,
+                    62.8982289
+                ]
+            },
+            "properties": {
+                "name": "The Finnish Brain Research and Rehabilitation Center Neuron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8518928,
+                    63.0706271
+                ]
+            },
+            "properties": {
+                "name": "Viitasaaren terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0349025,
+                    60.2748096
+                ]
+            },
+            "properties": {
+                "name": "Puistolan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0999702,
+                    60.4774873
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4rvenp\u00e4\u00e4n uusi sosiaali- ja terveysasema JUST"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9317617,
+                    60.1699441
+                ]
+            },
+            "properties": {
+                "name": "Terveystalo Kamppi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9229997,
+                    60.1822493
+                ]
+            },
+            "properties": {
+                "name": "YTHS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5264737,
+                    60.4220257
+                ]
+            },
+            "properties": {
+                "name": "Piikki\u00f6n Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7153017,
+                    61.1783292
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskuksen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7486917,
+                    61.3176503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3803072,
+                    60.5917335
+                ]
+            },
+            "properties": {
+                "name": "Paattisten neuvola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6805513,
+                    62.1293719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4448239,
+                    60.263917
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0346301,
+                    61.2059306
+                ]
+            },
+            "properties": {
+                "name": "Heinolan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4717481,
+                    65.0106371
+                ]
+            },
+            "properties": {
+                "name": "Pihlajalinna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0264446,
+                    60.7862742
+                ]
+            },
+            "properties": {
+                "name": "Hausj\u00e4rven Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1347806,
+                    61.0903932
+                ]
+            },
+            "properties": {
+                "name": "Kalvolan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8320702,
+                    60.1908983
+                ]
+            },
+            "properties": {
+                "name": "YTHS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7132401,
+                    62.2310906
+                ]
+            },
+            "properties": {
+                "name": "S\u00e4desairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7075688,
+                    62.233232
+                ]
+            },
+            "properties": {
+                "name": "Kyll\u00f6n terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9343698,
+                    60.2348493
+                ]
+            },
+            "properties": {
+                "name": "Maunulan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3266541,
+                    60.6356325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.855735,
+                    60.260582
+                ]
+            },
+            "properties": {
+                "name": "Myyrm\u00e4en sosiaali- ja terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1089039,
+                    60.532518
+                ]
+            },
+            "properties": {
+                "name": "Kellokosken sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9644018,
+                    60.2278422
+                ]
+            },
+            "properties": {
+                "name": "Oulunkyl\u00e4n terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0699207,
+                    60.3213062
+                ]
+            },
+            "properties": {
+                "name": "HYKS Vanhuspsykiatrian osasto P4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7457439,
+                    62.2874934
+                ]
+            },
+            "properties": {
+                "name": "Palokan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6606157,
+                    60.1489161
+                ]
+            },
+            "properties": {
+                "name": "Espoonlahden terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6984035,
+                    60.2197989
+                ]
+            },
+            "properties": {
+                "name": "Kaunialan sotavammasairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7159766,
+                    60.2145187
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6988949,
+                    63.1226743
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4lsov\u00e5rdscentral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.829719,
+                    60.6100835
+                ]
+            },
+            "properties": {
+                "name": "Hyvink\u00e4\u00e4n sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6542005,
+                    60.202006
+                ]
+            },
+            "properties": {
+                "name": "Samarian terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0752221,
+                    60.260182
+                ]
+            },
+            "properties": {
+                "name": "Jakom\u00e4en terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8139468,
+                    60.2215298
+                ]
+            },
+            "properties": {
+                "name": "Lepp\u00e4vaaran terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5175048,
+                    65.0076394
+                ]
+            },
+            "properties": {
+                "name": "Oulun yliopistollinen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9632007,
+                    60.2167425
+                ]
+            },
+            "properties": {
+                "name": "Koskelan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9259746,
+                    60.1934705
+                ]
+            },
+            "properties": {
+                "name": "Auroran sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9186521,
+                    60.1789782
+                ]
+            },
+            "properties": {
+                "name": "Kivel\u00e4n sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9223364,
+                    60.1813384
+                ]
+            },
+            "properties": {
+                "name": "T\u00f6\u00f6l\u00f6n sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9493381,
+                    60.1615011
+                ]
+            },
+            "properties": {
+                "name": "Kirurginen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7487035,
+                    60.16019
+                ]
+            },
+            "properties": {
+                "name": "Matinkyl\u00e4n terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9330075,
+                    60.2348386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.75718,
+                    61.0001072
+                ]
+            },
+            "properties": {
+                "name": "Ahtialan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1771413,
+                    60.576964
+                ]
+            },
+            "properties": {
+                "name": "Haminan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5666314,
+                    60.9938199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5686756,
+                    60.9928411
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4ij\u00e4t-H\u00e4meen keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6207394,
+                    60.9688542
+                ]
+            },
+            "properties": {
+                "name": "Varuskuntasairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6639511,
+                    60.9808137
+                ]
+            },
+            "properties": {
+                "name": "Lahden kaupunginsairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2782787,
+                    61.6917361
+                ]
+            },
+            "properties": {
+                "name": "Mikkelin Keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.7785962,
+                    62.5917121
+                ]
+            },
+            "properties": {
+                "name": "Pohjois-Karjalan keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7328398,
+                    66.4936779
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5203103,
+                    65.0066255
+                ]
+            },
+            "properties": {
+                "name": "Oulun yliopistollinen sairaala OYS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.773876,
+                    66.4920596
+                ]
+            },
+            "properties": {
+                "name": "Lapin keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5716762,
+                    62.736781
+                ]
+            },
+            "properties": {
+                "name": "Ilmajoen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1502394,
+                    61.3109956
+                ]
+            },
+            "properties": {
+                "name": "Harjavallan Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8164361,
+                    62.6141415
+                ]
+            },
+            "properties": {
+                "name": "Rantakyl\u00e4n terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4217506,
+                    65.0665661
+                ]
+            },
+            "properties": {
+                "name": "Rajakyl\u00e4n sosiaali- ja terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4821503,
+                    65.060907
+                ]
+            },
+            "properties": {
+                "name": "Kaijonharjun terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7552566,
+                    61.4844797
+                ]
+            },
+            "properties": {
+                "name": "Hatanp\u00e4\u00e4n kantasairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5160864,
+                    65.0104025
+                ]
+            },
+            "properties": {
+                "name": "Kontinkankaan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5138598,
+                    65.010605
+                ]
+            },
+            "properties": {
+                "name": "Oys psykiatrian osastot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5167888,
+                    65.0098577
+                ]
+            },
+            "properties": {
+                "name": "Rokua Kuntoutussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8066392,
+                    62.2673283
+                ]
+            },
+            "properties": {
+                "name": "Kangasvuoren sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5147692,
+                    65.0092971
+                ]
+            },
+            "properties": {
+                "name": "Oulun kaupunginsairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6386441,
+                    62.8969529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6370821,
+                    62.897257
+                ]
+            },
+            "properties": {
+                "name": "Harjulan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5028671,
+                    61.4789047
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6466282,
+                    62.8975724
+                ]
+            },
+            "properties": {
+                "name": "Kuopion yliopistollinen sairaala (KYS)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5225949,
+                    65.0064704
+                ]
+            },
+            "properties": {
+                "name": "Oulun yliopistollinen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6865379,
+                    62.8939252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8873431,
+                    61.4329339
+                ]
+            },
+            "properties": {
+                "name": "Ulvilan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3433826,
+                    60.8966686
+                ]
+            },
+            "properties": {
+                "name": "Iitin terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.612963,
+                    61.3090474
+                ]
+            },
+            "properties": {
+                "name": "Kirkonkyl\u00e4n terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3971326,
+                    63.3648077
+                ]
+            },
+            "properties": {
+                "name": "Lapinlahden terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5560062,
+                    65.7339324
+                ]
+            },
+            "properties": {
+                "name": "L\u00e4nsi-Pohjan keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4750332,
+                    60.9989525
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4meenlinnan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1590913,
+                    63.8400781
+                ]
+            },
+            "properties": {
+                "name": "Terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5287428,
+                    64.0743271
+                ]
+            },
+            "properties": {
+                "name": "Ylivieskan terveskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5154427,
+                    65.0160561
+                ]
+            },
+            "properties": {
+                "name": "OYS Psykiatria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0592155,
+                    62.5643414
+                ]
+            },
+            "properties": {
+                "name": "Per\u00e4sein\u00e4joen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2999199,
+                    62.0628525
+                ]
+            },
+            "properties": {
+                "name": "Rantasalmen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5616398,
+                    61.0824186
+                ]
+            },
+            "properties": {
+                "name": "Urjalan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4129426,
+                    60.9877401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0430836,
+                    62.9681731
+                ]
+            },
+            "properties": {
+                "name": "Lapuan Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6221631,
+                    61.3610144
+                ]
+            },
+            "properties": {
+                "name": "Luvian Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4190427,
+                    60.9831444
+                ]
+            },
+            "properties": {
+                "name": "Jukolan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4985226,
+                    61.0055213
+                ]
+            },
+            "properties": {
+                "name": "Id\u00e4np\u00e4\u00e4n terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4375351,
+                    61.0117544
+                ]
+            },
+            "properties": {
+                "name": "Ojoisten terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.819173,
+                    62.7842363
+                ]
+            },
+            "properties": {
+                "name": "Suomen terveystalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.660839,
+                    63.0672772
+                ]
+            },
+            "properties": {
+                "name": "Tarinan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0249862,
+                    60.4016162
+                ]
+            },
+            "properties": {
+                "name": "Hyryl\u00e4n terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9407716,
+                    64.2614009
+                ]
+            },
+            "properties": {
+                "name": "Kalajoen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5705333,
+                    64.9822213
+                ]
+            },
+            "properties": {
+                "name": "Maikkulan terveysneuvola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.52367,
+                    61.1306371
+                ]
+            },
+            "properties": {
+                "name": "Rauman aluesairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7981117,
+                    60.1783225
+                ]
+            },
+            "properties": {
+                "name": "Tapiolan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7518243,
+                    62.4843071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5054487,
+                    62.8072222
+                ]
+            },
+            "properties": {
+                "name": "Kuortaneen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2077059,
+                    62.8715167
+                ]
+            },
+            "properties": {
+                "name": "Soinin Terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2509146,
+                    64.4638355
+                ]
+            },
+            "properties": {
+                "name": "Pyh\u00e4joen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6310857,
+                    62.638292
+                ]
+            },
+            "properties": {
+                "name": "Rantat\u00f6ys\u00e4n ty\u00f6terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4832467,
+                    62.9741645
+                ]
+            },
+            "properties": {
+                "name": "Kaavin terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3764033,
+                    63.2975173
+                ]
+            },
+            "properties": {
+                "name": "Oravais h\u00e4lsov\u00e5rdscental"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6835595,
+                    60.5035647
+                ]
+            },
+            "properties": {
+                "name": "Kiljavan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8272803,
+                    62.9966416
+                ]
+            },
+            "properties": {
+                "name": "Alaj\u00e4rven terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1534763,
+                    66.1114001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1184961,
+                    62.6296303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.833492,
+                    60.746629
+                ]
+            },
+            "properties": {
+                "name": "Terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.408692,
+                    64.9347226
+                ]
+            },
+            "properties": {
+                "name": "Oulunsalon terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4600157,
+                    60.5073067
+                ]
+            },
+            "properties": {
+                "name": "Liedon terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4128892,
+                    62.9307196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.35912,
+                    65.1714977
+                ]
+            },
+            "properties": {
+                "name": "Haukiputaan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8198969,
+                    62.7706232
+                ]
+            },
+            "properties": {
+                "name": "Sein\u00e4joen keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0340669,
+                    61.2061185
+                ]
+            },
+            "properties": {
+                "name": "Heinolan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0839388,
+                    61.4583303
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1866932,
+                    64.837902
+                ]
+            },
+            "properties": {
+                "name": "Lumijoen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6374269,
+                    61.4613635
+                ]
+            },
+            "properties": {
+                "name": "Pirkkalan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5798704,
+                    61.4786812
+                ]
+            },
+            "properties": {
+                "name": "Pitk\u00e4niemen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6838918,
+                    66.4873984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9864976,
+                    61.11338
+                ]
+            },
+            "properties": {
+                "name": "Vekaranj\u00e4rven terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8304697,
+                    62.7686133
+                ]
+            },
+            "properties": {
+                "name": "T\u00f6rn\u00e4v\u00e4n sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7107729,
+                    62.2630073
+                ]
+            },
+            "properties": {
+                "name": "Keuruun Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3140945,
+                    63.759354
+                ]
+            },
+            "properties": {
+                "name": "Haapaj\u00e4rven terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1945798,
+                    65.9651135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1942129,
+                    65.963993
+                ]
+            },
+            "properties": {
+                "name": "Kuusamon Neuvola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.775159,
+                    65.1290155
+                ]
+            },
+            "properties": {
+                "name": "Kiimingin terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7368066,
+                    60.4918241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9092531,
+                    62.8269947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5265985,
+                    60.4220344
+                ]
+            },
+            "properties": {
+                "name": "Piikki\u00f6n terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.719235,
+                    60.7975237
+                ]
+            },
+            "properties": {
+                "name": "Orimattilan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0258935,
+                    62.0059926
+                ]
+            },
+            "properties": {
+                "name": "Parkanon Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7540374,
+                    63.3599521
+                ]
+            },
+            "properties": {
+                "name": "Varpaisj\u00e4rven terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9204958,
+                    63.8968258
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8194776,
+                    63.1615365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6118948,
+                    63.6585766
+                ]
+            },
+            "properties": {
+                "name": "Kiuruveden terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5253381,
+                    63.6710313
+                ]
+            },
+            "properties": {
+                "name": "Sonkaj\u00e4rven terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6551253,
+                    64.761563
+                ]
+            },
+            "properties": {
+                "name": "Tyrn\u00e4v\u00e4n terveyskeskus, Kirkkotie 9, 91800 TYRN\u00c4V\u00c4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8392617,
+                    64.2678158
+                ]
+            },
+            "properties": {
+                "name": "OULASKANKAAN SAIRAALA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2755377,
+                    61.3568431
+                ]
+            },
+            "properties": {
+                "name": "Padasjoen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6358614,
+                    60.1547227
+                ]
+            },
+            "properties": {
+                "name": "Kivenlahden terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0583152,
+                    60.3199553
+                ]
+            },
+            "properties": {
+                "name": "Koivukyl\u00e4n Sosiaali-ja terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.742221,
+                    60.227668
+                ]
+            },
+            "properties": {
+                "name": "Viherlaakson Terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0164696,
+                    60.2660753
+                ]
+            },
+            "properties": {
+                "name": "Paloniemen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.373334,
+                    64.137586
+                ]
+            },
+            "properties": {
+                "name": "Haapaveden terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2513724,
+                    63.775976
+                ]
+            },
+            "properties": {
+                "name": "Toholammin terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6650744,
+                    62.8862556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7420191,
+                    60.4898647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6465807,
+                    64.0586771
+                ]
+            },
+            "properties": {
+                "name": "Himangan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0263325,
+                    60.4692808
+                ]
+            },
+            "properties": {
+                "name": "Naantalin terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7450205,
+                    63.2411891
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1597145,
+                    61.5593231
+                ]
+            },
+            "properties": {
+                "name": "Kuhmoisten terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.073665,
+                    61.7696718
+                ]
+            },
+            "properties": {
+                "name": "Ikaalisten terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6213468,
+                    60.8180975
+                ]
+            },
+            "properties": {
+                "name": "Tervakosken terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0766272,
+                    61.982293
+                ]
+            },
+            "properties": {
+                "name": "Ruoveden terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4707926,
+                    63.3673814
+                ]
+            },
+            "properties": {
+                "name": "Evij\u00e4rven terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.47233,
+                    64.6967916
+                ]
+            },
+            "properties": {
+                "name": "Raahen aluesairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4423088,
+                    66.7051511
+                ]
+            },
+            "properties": {
+                "name": "Sairaala Lapponia Kemij\u00e4rvi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7735332,
+                    62.2259482
+                ]
+            },
+            "properties": {
+                "name": "Kuokkalan sosiaali- ja terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7591525,
+                    62.2408441
+                ]
+            },
+            "properties": {
+                "name": "Virtain Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3946412,
+                    62.6264468
+                ]
+            },
+            "properties": {
+                "name": "Kurikan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8050809,
+                    63.1468964
+                ]
+            },
+            "properties": {
+                "name": "Ylih\u00e4rm\u00e4n terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2927248,
+                    60.4533512
+                ]
+            },
+            "properties": {
+                "name": "Turun yliopistollinen keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7354856,
+                    60.4650853
+                ]
+            },
+            "properties": {
+                "name": "TYKS Paimio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6875409,
+                    60.4409718
+                ]
+            },
+            "properties": {
+                "name": "Paimion p\u00e4\u00e4terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8377837,
+                    63.1614135
+                ]
+            },
+            "properties": {
+                "name": "Kvevlax h\u00e4lsostation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8663541,
+                    61.8940962
+                ]
+            },
+            "properties": {
+                "name": "Juvan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7291144,
+                    61.4994053
+                ]
+            },
+            "properties": {
+                "name": "Tipotien sosiaali- ja terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5427621,
+                    65.7987393
+                ]
+            },
+            "properties": {
+                "name": "Keminmaan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0172709,
+                    60.2233049
+                ]
+            },
+            "properties": {
+                "name": "Lohjan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0063187,
+                    62.7334005
+                ]
+            },
+            "properties": {
+                "name": "Outokummun terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4988412,
+                    60.0187988
+                ]
+            },
+            "properties": {
+                "name": "Taalintehtaan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1560162,
+                    62.8008018
+                ]
+            },
+            "properties": {
+                "name": "Enon terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.336918,
+                    63.0712542
+                ]
+            },
+            "properties": {
+                "name": "Juankosken terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6966031,
+                    60.3778729
+                ]
+            },
+            "properties": {
+                "name": "Porvoon sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2507751,
+                    62.494936
+                ]
+            },
+            "properties": {
+                "name": "Kiihtelysvaaran terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5998139,
+                    61.5467747
+                ]
+            },
+            "properties": {
+                "name": "Yl\u00f6j\u00e4rven terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.69353,
+                    60.8708454
+                ]
+            },
+            "properties": {
+                "name": "Marjoniemen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9848488,
+                    60.8688071
+                ]
+            },
+            "properties": {
+                "name": "Hirvikosken terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.182111,
+                    63.5634715
+                ]
+            },
+            "properties": {
+                "name": "Iisalmen aluesairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.85948,
+                    60.6363302
+                ]
+            },
+            "properties": {
+                "name": "Hyvink\u00e4\u00e4n p\u00e4\u00e4terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.80727,
+                    60.4683316
+                ]
+            },
+            "properties": {
+                "name": "Nurmij\u00e4rven terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6801708,
+                    61.508228
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.9727178,
+                    62.4392462
+                ]
+            },
+            "properties": {
+                "name": "Pyh\u00e4sel\u00e4n terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6366144,
+                    61.99286
+                ]
+            },
+            "properties": {
+                "name": "Kangasniemen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5190209,
+                    65.9243484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8262404,
+                    62.1812166
+                ]
+            },
+            "properties": {
+                "name": "Joroisten terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.276534,
+                    61.6556313
+                ]
+            },
+            "properties": {
+                "name": "Moision sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9992562,
+                    60.2534431
+                ]
+            },
+            "properties": {
+                "name": "Malmin sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0394312,
+                    60.2972792
+                ]
+            },
+            "properties": {
+                "name": "Tikkurilan neuvola ja ravitsemusterapia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5137941,
+                    63.544246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6305785,
+                    60.9068844
+                ]
+            },
+            "properties": {
+                "name": "Kuusankosken terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4274241,
+                    60.7186988
+                ]
+            },
+            "properties": {
+                "name": "Lopen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3769099,
+                    61.7984591
+                ]
+            },
+            "properties": {
+                "name": "Kankaanp\u00e4\u00e4n terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0049982,
+                    61.0877933
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7441759,
+                    60.7465327
+                ]
+            },
+            "properties": {
+                "name": "Kanta-H\u00e4meen keskussairaala, Riihim\u00e4en yksikk\u00f6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.932466,
+                    60.115744
+                ]
+            },
+            "properties": {
+                "name": "\u00c5lands h\u00e4lso och sjukv\u00e5rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9434269,
+                    61.4107506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9584784,
+                    62.9023579
+                ]
+            },
+            "properties": {
+                "name": "Karttulan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7501211,
+                    62.4906956
+                ]
+            },
+            "properties": {
+                "name": "Jalasj\u00e4rven terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9401315,
+                    60.5158651
+                ]
+            },
+            "properties": {
+                "name": "Karhulan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0266633,
+                    62.9771624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8739312,
+                    60.3462192
+                ]
+            },
+            "properties": {
+                "name": "Katriinan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0718735,
+                    62.5538328
+                ]
+            },
+            "properties": {
+                "name": "\u00c4ht\u00e4rin sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2319521,
+                    65.5690475
+                ]
+            },
+            "properties": {
+                "name": "Taivalkosken terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6266008,
+                    62.586214
+                ]
+            },
+            "properties": {
+                "name": "Alavuden terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2309247,
+                    60.1360631
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4884289,
+                    67.1220041
+                ]
+            },
+            "properties": {
+                "name": "Pelkosenniemen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7279523,
+                    64.2142094
+                ]
+            },
+            "properties": {
+                "name": "Kainuun Keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4232886,
+                    60.7957943
+                ]
+            },
+            "properties": {
+                "name": "Tyks Vakka-Suomen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0492757,
+                    60.8520221
+                ]
+            },
+            "properties": {
+                "name": "Loimaan aluesairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1275937,
+                    60.3753581
+                ]
+            },
+            "properties": {
+                "name": "Salon aluesairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6235738,
+                    60.9139711
+                ]
+            },
+            "properties": {
+                "name": "Pohjois-Kymen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6304705,
+                    62.9324984
+                ]
+            },
+            "properties": {
+                "name": "Julkulan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6361313,
+                    62.0078015
+                ]
+            },
+            "properties": {
+                "name": "M\u00e4nt\u00e4n Aluesairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.37626,
+                    60.4063458
+                ]
+            },
+            "properties": {
+                "name": "Kaarinan p\u00e4\u00e4terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0592228,
+                    60.3315348
+                ]
+            },
+            "properties": {
+                "name": "Peijaksen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4036858,
+                    62.2727874
+                ]
+            },
+            "properties": {
+                "name": "Bottenhavets sjukhus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4416794,
+                    59.9689006
+                ]
+            },
+            "properties": {
+                "name": "Raaseporin sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0320721,
+                    61.2705807
+                ]
+            },
+            "properties": {
+                "name": "Valkeakosken sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1131555,
+                    63.8460107
+                ]
+            },
+            "properties": {
+                "name": "Maria-katariinan talo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6758248,
+                    66.319653
+                ]
+            },
+            "properties": {
+                "name": "Ylitornion terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4293903,
+                    63.2079306
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6984985,
+                    60.3442069
+                ]
+            },
+            "properties": {
+                "name": "Sauvon terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9121315,
+                    60.4775538
+                ]
+            },
+            "properties": {
+                "name": "Kymenlaakson keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1425658,
+                    60.5028327
+                ]
+            },
+            "properties": {
+                "name": "Raision terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8990242,
+                    60.1996696
+                ]
+            },
+            "properties": {
+                "name": "Tilkka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6831986,
+                    67.962721
+                ]
+            },
+            "properties": {
+                "name": "Muonion terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9259052,
+                    67.6480818
+                ]
+            },
+            "properties": {
+                "name": "Kittil\u00e4n terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2760187,
+                    60.4400804
+                ]
+            },
+            "properties": {
+                "name": "Kaupunginsairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9214136,
+                    61.3375173
+                ]
+            },
+            "properties": {
+                "name": "Vammalan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1080064,
+                    63.8453149
+                ]
+            },
+            "properties": {
+                "name": "Keski-Pohjanmaan keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8127055,
+                    66.0854787
+                ]
+            },
+            "properties": {
+                "name": "Tervolan Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6716082,
+                    66.824083
+                ]
+            },
+            "properties": {
+                "name": "Sallan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9064949,
+                    60.1881723
+                ]
+            },
+            "properties": {
+                "name": "Meilahden sairaala-alue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8951019,
+                    60.1915725
+                ]
+            },
+            "properties": {
+                "name": "Iho- ja allergiasairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9177596,
+                    60.1923399
+                ]
+            },
+            "properties": {
+                "name": "Laakson sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8764678,
+                    60.2015514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.904038,
+                    60.2222699
+                ]
+            },
+            "properties": {
+                "name": "Haagan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8796063,
+                    60.2391267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0552733,
+                    60.1784797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0402219,
+                    60.1495431
+                ]
+            },
+            "properties": {
+                "name": "Santahaminan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9100731,
+                    60.1595688
+                ]
+            },
+            "properties": {
+                "name": "Docrates Sy\u00f6p\u00e4sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2256546,
+                    60.5395497
+                ]
+            },
+            "properties": {
+                "name": "Karkkilan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8936925,
+                    60.2079521
+                ]
+            },
+            "properties": {
+                "name": "Pohjola Sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6380125,
+                    60.8207723
+                ]
+            },
+            "properties": {
+                "name": "Forssan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8532545,
+                    61.8711466
+                ]
+            },
+            "properties": {
+                "name": "Savonlinnan keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8475009,
+                    61.8740408
+                ]
+            },
+            "properties": {
+                "name": "Savonlinnan p\u00e4\u00e4terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9231126,
+                    62.6687034
+                ]
+            },
+            "properties": {
+                "name": "Ilomantsin terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1295123,
+                    62.0966802
+                ]
+            },
+            "properties": {
+                "name": "Kiteen terveysakeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9805757,
+                    60.1879706
+                ]
+            },
+            "properties": {
+                "name": "Kalasataman terveys- ja hyvinvointikeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.171946,
+                    62.4244088
+                ]
+            },
+            "properties": {
+                "name": "Kauhajoen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7759285,
+                    60.7431099
+                ]
+            },
+            "properties": {
+                "name": "Riihim\u00e4en seudun terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.4980918,
+                    61.5592172
+                ]
+            },
+            "properties": {
+                "name": "Parikkalan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4957311,
+                    60.6316519
+                ]
+            },
+            "properties": {
+                "name": "Someron terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4888285,
+                    64.9143419
+                ]
+            },
+            "properties": {
+                "name": "Kempeleen terveyskeskuksen laajennus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6852667,
+                    60.2220909
+                ]
+            },
+            "properties": {
+                "name": "Espoon sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7523665,
+                    60.5287829
+                ]
+            },
+            "properties": {
+                "name": "Rajam\u00e4en terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6451069,
+                    60.3853097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6894453,
+                    60.2227386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8637449,
+                    61.4194767
+                ]
+            },
+            "properties": {
+                "name": "M\u00e4ntyharjun terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9688334,
+                    63.6833571
+                ]
+            },
+            "properties": {
+                "name": "Pyh\u00e4j\u00e4rven terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.677199,
+                    61.199889
+                ]
+            },
+            "properties": {
+                "name": "Savitaipaleen hyvinvointiasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7586438,
+                    66.5187334
+                ]
+            },
+            "properties": {
+                "name": "Pulkamontien terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7981411,
+                    62.4870953
+                ]
+            },
+            "properties": {
+                "name": "Lepp\u00e4virran terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1893704,
+                    61.5195292
+                ]
+            },
+            "properties": {
+                "name": "Puumalan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6887415,
+                    60.221621
+                ]
+            },
+            "properties": {
+                "name": "Jorvin sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6505192,
+                    64.510821
+                ]
+            },
+            "properties": {
+                "name": "Rantsilan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.601392,
+                    60.5254428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9260469,
+                    60.9461955
+                ]
+            },
+            "properties": {
+                "name": "Nastolan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8697609,
+                    64.2770079
+                ]
+            },
+            "properties": {
+                "name": "Pulkkilan terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7597574,
+                    63.9794809
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4rs\u00e4m\u00e4en terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0363124,
+                    60.2074258
+                ]
+            },
+            "properties": {
+                "name": "Herttoniemen sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.279714,
+                    60.4385021
+                ]
+            },
+            "properties": {
+                "name": "Kaskenlinnan sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0093548,
+                    64.1781444
+                ]
+            },
+            "properties": {
+                "name": "Terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.403944,
+                    65.3199843
+                ]
+            },
+            "properties": {
+                "name": "Iin terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8514009,
+                    63.0706617
+                ]
+            },
+            "properties": {
+                "name": "Viitasaaren terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7180336,
+                    64.2295547
+                ]
+            },
+            "properties": {
+                "name": "Kajaanin p\u00e4\u00e4terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0325662,
+                    64.8120001
+                ]
+            },
+            "properties": {
+                "name": "Muhoksen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9741041,
+                    59.8297407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9420391,
+                    60.1577467
+                ]
+            },
+            "properties": {
+                "name": "Eiran sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8904209,
+                    62.3297814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7103262,
+                    62.2298222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5105327,
+                    64.1283748
+                ]
+            },
+            "properties": {
+                "name": "Kuhmon terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8320633,
+                    60.1908165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8960207,
+                    64.8819546
+                ]
+            },
+            "properties": {
+                "name": "Suomussalmi terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4924351,
+                    64.6807716
+                ]
+            },
+            "properties": {
+                "name": "Hyrynsalmen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.840096,
+                    65.3710761
+                ]
+            },
+            "properties": {
+                "name": "Yli-Iin terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8301754,
+                    64.5593401
+                ]
+            },
+            "properties": {
+                "name": "Vaalan terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1369494,
+                    61.4267124
+                ]
+            },
+            "properties": {
+                "name": "Kaivannon sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.7259305,
+                    62.6160385
+                ]
+            },
+            "properties": {
+                "name": "Siilaisen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3649729,
+                    61.6632743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5641045,
+                    67.4288696
+                ]
+            },
+            "properties": {
+                "name": "Sodankyl\u00e4n terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6851918,
+                    60.2220504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.64721,
+                    62.8973754
+                ]
+            },
+            "properties": {
+                "name": "Kuopion Yliopistollinen Sairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5666314,
+                    60.9938199
+                ]
+            },
+            "properties": {
+                "name": "PHKS psykiatrian osastot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6535734,
+                    60.9639792
+                ]
+            },
+            "properties": {
+                "name": "Launeen terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7535515,
+                    61.4823192
+                ]
+            },
+            "properties": {
+                "name": "Hatanp\u00e4\u00e4n puistosairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7103831,
+                    62.2295244
+                ]
+            },
+            "properties": {
+                "name": "Keski-Suomen keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.769534,
+                    61.4862123
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4\u00e4terveysasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1523916,
+                    65.8502309
+                ]
+            },
+            "properties": {
+                "name": "Tornion terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7804944,
+                    61.4734984
+                ]
+            },
+            "properties": {
+                "name": "Satakunnan keskussairaala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8391656,
+                    64.2671429
+                ]
+            },
+            "properties": {
+                "name": "Oulaisten terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4893715,
+                    64.9146365
+                ]
+            },
+            "properties": {
+                "name": "Kempeleen terveyskeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0013868,
+                    60.2539946
+                ]
+            },
+            "properties": {
+                "name": "Malmin terveysasema ja hammashoitola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4143502,
+                    60.9898424
+                ]
+            },
+            "properties": {
+                "name": "Kanta-H\u00e4meen keskussairaala"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

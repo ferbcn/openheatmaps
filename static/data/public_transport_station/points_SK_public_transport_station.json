@@ -1,0 +1,1358 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4142506,
+                    48.2135899
+                ]
+            },
+            "properties": {
+                "name": "Senec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1608573,
+                    48.2089564
+                ]
+            },
+            "properties": {
+                "name": "Bratislava-Ra\u010da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6680045,
+                    48.3343031
+                ]
+            },
+            "properties": {
+                "name": "Lu\u010denec,,AS MHD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9609838,
+                    48.2509963
+                ]
+            },
+            "properties": {
+                "name": "Dev\u00ednske Jazero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.007729,
+                    48.3729853
+                ]
+            },
+            "properties": {
+                "name": "Plaveck\u00fd \u0160tvrtok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0190459,
+                    48.6077391
+                ]
+            },
+            "properties": {
+                "name": "Sekule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4313908,
+                    49.1227923
+                ]
+            },
+            "properties": {
+                "name": "Pova\u017esk\u00e1 Bystrica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5286582,
+                    49.3100208
+                ]
+            },
+            "properties": {
+                "name": "Ni\u017en\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5628426,
+                    49.3369711
+                ]
+            },
+            "properties": {
+                "name": "Tvrdo\u0161\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7371503,
+                    49.4469393
+                ]
+            },
+            "properties": {
+                "name": "Rakov\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1332642,
+                    48.1867327
+                ]
+            },
+            "properties": {
+                "name": "Bratislava-Vinohrady"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3060412,
+                    49.1162688
+                ]
+            },
+            "properties": {
+                "name": "P\u00fachov zast\u00e1vka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3169694,
+                    49.107434
+                ]
+            },
+            "properties": {
+                "name": "P\u00fachov z\u00e1vody"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1212093,
+                    48.7716973
+                ]
+            },
+            "properties": {
+                "name": "Kop\u010dany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1776594,
+                    48.8283348
+                ]
+            },
+            "properties": {
+                "name": "K\u00e1tov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7187935,
+                    49.1756856
+                ]
+            },
+            "properties": {
+                "name": "Lietavsk\u00e1 L\u00fa\u010dka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6277872,
+                    49.4036271
+                ]
+            },
+            "properties": {
+                "name": "Turzovka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9473414,
+                    48.3342068
+                ]
+            },
+            "properties": {
+                "name": "L\u00e1bske jazero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0232184,
+                    48.4330165
+                ]
+            },
+            "properties": {
+                "name": "Malacky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9913216,
+                    48.3257401
+                ]
+            },
+            "properties": {
+                "name": "Zohor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8445664,
+                    48.3775169
+                ]
+            },
+            "properties": {
+                "name": "Z\u00e1horsk\u00e1 Ves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0186066,
+                    48.5092841
+                ]
+            },
+            "properties": {
+                "name": "Ve\u013ek\u00e9 Lev\u00e1re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0075893,
+                    48.5391021
+                ]
+            },
+            "properties": {
+                "name": "Z\u00e1vod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0506417,
+                    48.1849926
+                ]
+            },
+            "properties": {
+                "name": "Bratislava-Lama\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0727633,
+                    48.1745972
+                ]
+            },
+            "properties": {
+                "name": "Bratislava-\u017delezn\u00e1 studienka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0230683,
+                    48.6926583
+                ]
+            },
+            "properties": {
+                "name": "Brodsk\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9763686,
+                    48.2190576
+                ]
+            },
+            "properties": {
+                "name": "Dev\u00ednska Nov\u00e1 Ves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0837073,
+                    48.7124934
+                ]
+            },
+            "properties": {
+                "name": "Gbely zast\u00e1vka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.091149,
+                    48.7235417
+                ]
+            },
+            "properties": {
+                "name": "Gbely"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1500644,
+                    48.8146562
+                ]
+            },
+            "properties": {
+                "name": "Hol\u00ed\u010d nad Moravou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0474958,
+                    48.6619577
+                ]
+            },
+            "properties": {
+                "name": "K\u00faty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0088103,
+                    48.5870645
+                ]
+            },
+            "properties": {
+                "name": "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2183381,
+                    48.8499062
+                ]
+            },
+            "properties": {
+                "name": "Skalica na Slovensku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1466543,
+                    48.1719607
+                ]
+            },
+            "properties": {
+                "name": "Bratislava - Nov\u00e9 Mesto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2066981,
+                    48.1948891
+                ]
+            },
+            "properties": {
+                "name": "Bratislava-Vajnory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.820788,
+                    47.8344732
+                ]
+            },
+            "properties": {
+                "name": "Bodza, zast\u00e1vka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6937433,
+                    47.967303
+                ]
+            },
+            "properties": {
+                "name": "Doln\u00fd Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.306139,
+                    48.1978803
+                ]
+            },
+            "properties": {
+                "name": "Bernol\u00e1kovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4500505,
+                    48.305491
+                ]
+            },
+            "properties": {
+                "name": "B\u00e1ho\u0148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4865678,
+                    48.3229688
+                ]
+            },
+            "properties": {
+                "name": "C\u00edfer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7232912,
+                    48.1850312
+                ]
+            },
+            "properties": {
+                "name": "Galanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2596307,
+                    48.1947599
+                ]
+            },
+            "properties": {
+                "name": "Ivanka pri Dunaji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4553602,
+                    48.2193712
+                ]
+            },
+            "properties": {
+                "name": "Reca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2705643,
+                    48.2826441
+                ]
+            },
+            "properties": {
+                "name": "Pezinok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2466263,
+                    48.2673985
+                ]
+            },
+            "properties": {
+                "name": "Pezinok-zast\u00e1vka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5434677,
+                    48.2081896
+                ]
+            },
+            "properties": {
+                "name": "Pust\u00e9 \u00da\u013eany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6294897,
+                    48.1956487
+                ]
+            },
+            "properties": {
+                "name": "Sl\u00e1dkovi\u010dovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2178018,
+                    48.2476049
+                ]
+            },
+            "properties": {
+                "name": "Sv\u00e4t\u00fd Jur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3620236,
+                    48.2060926
+                ]
+            },
+            "properties": {
+                "name": "Ve\u013ek\u00fd Biel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3458624,
+                    48.3018886
+                ]
+            },
+            "properties": {
+                "name": "\u0160enkvice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4908623,
+                    49.1712803
+                ]
+            },
+            "properties": {
+                "name": "Plevn\u00edk - Drienov\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5354822,
+                    49.1975138
+                ]
+            },
+            "properties": {
+                "name": "Predmier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1725606,
+                    49.1448131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1508592,
+                    48.0465716
+                ]
+            },
+            "properties": {
+                "name": "Rusovce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3058056,
+                    49.0663263
+                ]
+            },
+            "properties": {
+                "name": "Ru\u017eomberok - Mal\u00e9 N\u00e1dra\u017eie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3047195,
+                    49.0562798
+                ]
+            },
+            "properties": {
+                "name": "Z\u00e1palk\u00e1re\u0148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2679978,
+                    48.7205581
+                ]
+            },
+            "properties": {
+                "name": "Ko\u0161ice, Autobusov\u00e1 stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1463412,
+                    48.1717096
+                ]
+            },
+            "properties": {
+                "name": "Bratislava - Nov\u00e9 Mesto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0503269,
+                    48.1848711
+                ]
+            },
+            "properties": {
+                "name": "Bratislava - Lama\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0075198,
+                    48.3731365
+                ]
+            },
+            "properties": {
+                "name": "Plaveck\u00fd \u0160tvrtok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2675452,
+                    48.72137
+                ]
+            },
+            "properties": {
+                "name": "Ko\u0161ice, AS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7861239,
+                    49.3842659
+                ]
+            },
+            "properties": {
+                "name": "Star\u00e1 stanica - Such\u00e1 Hora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1736111,
+                    47.9948187
+                ]
+            },
+            "properties": {
+                "name": "\u017delezni\u010dn\u00e1 stanica Nov\u00e9 Z\u00e1mky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8863769,
+                    48.9213101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2344966,
+                    49.0344948
+                ]
+            },
+            "properties": {
+                "name": "Stanica Dulov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3009295,
+                    48.2546013
+                ]
+            },
+            "properties": {
+                "name": "Vr\u00e1ble"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3767808,
+                    48.3858379
+                ]
+            },
+            "properties": {
+                "name": "Zlat\u00e9 Moravce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2240241,
+                    48.8453362
+                ]
+            },
+            "properties": {
+                "name": "Skalica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2184459,
+                    48.8497749
+                ]
+            },
+            "properties": {
+                "name": "Skalica na Slovensku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3619331,
+                    48.2061179
+                ]
+            },
+            "properties": {
+                "name": "Ve\u013ek\u00fd Biel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0074367,
+                    48.5390233
+                ]
+            },
+            "properties": {
+                "name": "Z\u00e1vod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0227224,
+                    48.692483
+                ]
+            },
+            "properties": {
+                "name": "Brodsk\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1607037,
+                    48.209123
+                ]
+            },
+            "properties": {
+                "name": "\u017delezni\u010dn\u00e1 stanica Bratislava-Ra\u010da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1336647,
+                    48.186825
+                ]
+            },
+            "properties": {
+                "name": "Bratislava-Vinohrady"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5275384,
+                    49.3092282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4250724,
+                    49.1192827
+                ]
+            },
+            "properties": {
+                "name": "Autobusov\u00e1 stanica Pova\u017esk\u00e1 Bystrica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4320367,
+                    49.1223416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5843975,
+                    48.3702594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1777293,
+                    48.8282489
+                ]
+            },
+            "properties": {
+                "name": "K\u00e1tov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2205573,
+                    48.1312934
+                ]
+            },
+            "properties": {
+                "name": "Podunajsk\u00e9 Biskupice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.582061,
+                    48.3696242
+                ]
+            },
+            "properties": {
+                "name": "Trnava, Autobusov\u00e1 stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1697826,
+                    48.5624387
+                ]
+            },
+            "properties": {
+                "name": "\u017delezni\u010dn\u00e1 stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1226326,
+                    48.3796529
+                ]
+            },
+            "properties": {
+                "name": "Pernek pri Zohore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0088318,
+                    48.5874237
+                ]
+            },
+            "properties": {
+                "name": "Moravsk\u00fd Sv\u00e4t\u00fd J\u00e1n"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0471242,
+                    48.6619906
+                ]
+            },
+            "properties": {
+                "name": "K\u00faty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2708072,
+                    48.1557076
+                ]
+            },
+            "properties": {
+                "name": "Ma\u0148a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1706232,
+                    48.5620772
+                ]
+            },
+            "properties": {
+                "name": "Autobusov\u00e1 stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4141523,
+                    48.2138147
+                ]
+            },
+            "properties": {
+                "name": "Senec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8164297,
+                    48.5969937
+                ]
+            },
+            "properties": {
+                "name": "Autobusov\u00e1 stanica Pie\u0161\u0165any"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2819661,
+                    49.2978711
+                ]
+            },
+            "properties": {
+                "name": "Autobusov\u00e1 stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2206481,
+                    48.1310948
+                ]
+            },
+            "properties": {
+                "name": "Podunajsk\u00e9 Biskupice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1158771,
+                    48.3719624
+                ]
+            },
+            "properties": {
+                "name": "Podhorany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9767095,
+                    48.2191294
+                ]
+            },
+            "properties": {
+                "name": "\u017delezni\u010dn\u00e1 stanica Dev\u00ednska Nov\u00e1 Ves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0183762,
+                    48.5091682
+                ]
+            },
+            "properties": {
+                "name": "Ve\u013ek\u00e9 Lev\u00e1re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3596873,
+                    48.3430577
+                ]
+            },
+            "properties": {
+                "name": "Tes\u00e1rske Mly\u0148any"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2328787,
+                    48.0980199
+                ]
+            },
+            "properties": {
+                "name": "\u00da\u013eany nad \u017ditavou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1731092,
+                    48.0851094
+                ]
+            },
+            "properties": {
+                "name": "\u0160urany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9136619,
+                    48.333569
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 pri Morave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2927244,
+                    49.0590801
+                ]
+            },
+            "properties": {
+                "name": "Autobusov\u00e1 stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3910469,
+                    48.384107
+                ]
+            },
+            "properties": {
+                "name": "Zlat\u00e9 Moravce, Autobusov\u00e1 stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7242021,
+                    48.1856543
+                ]
+            },
+            "properties": {
+                "name": "Galanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1289534,
+                    48.1452719
+                ]
+            },
+            "properties": {
+                "name": "Bratislava, Autobusov\u00e1 stanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7729593,
+                    47.8596718
+                ]
+            },
+            "properties": {
+                "name": "SAD DS - Ve\u013ek\u00fd Meder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6421069,
+                    47.8885889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4247932,
+                    49.1190925
+                ]
+            },
+            "properties": {
+                "name": "Pova\u017esk\u00e1 Bystrica,,AS"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

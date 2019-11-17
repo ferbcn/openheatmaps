@@ -1,0 +1,148 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2372925,
+                    42.4419396
+                ]
+            },
+            "properties": {
+                "name": "Studentska menza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2411699,
+                    42.4434547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2570793,
+                    42.432001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9280613,
+                    42.3880975
+                ]
+            },
+            "properties": {
+                "name": "Likovna akademija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5132938,
+                    42.4594587
+                ]
+            },
+            "properties": {
+                "name": "Fakultet za menad\u017ement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2563746,
+                    42.4460242
+                ]
+            },
+            "properties": {
+                "name": "Fakultet Politi\u010dkih Nauka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2706126,
+                    42.4282133
+                ]
+            },
+            "properties": {
+                "name": "Univerzitet Mediteran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2570396,
+                    42.4461407
+                ]
+            },
+            "properties": {
+                "name": "Ekonomski fakultet Podgorica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2564924,
+                    42.4460179
+                ]
+            },
+            "properties": {
+                "name": "Pravni fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2402984,
+                    42.4427131
+                ]
+            },
+            "properties": {
+                "name": "Univerzitet Crne Gore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9549335,
+                    42.774248
+                ]
+            },
+            "properties": {
+                "name": "Filozofski fakultet"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

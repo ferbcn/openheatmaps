@@ -1,0 +1,275 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.1704267,
+                    41.3752623
+                ]
+            },
+            "properties": {
+                "name": "Bagdad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6714951,
+                    42.5237138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.6707375,
+                    42.524796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5076587,
+                    42.1803256
+                ]
+            },
+            "properties": {
+                "name": "Show Girls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.3095354,
+                    38.9716671
+                ]
+            },
+            "properties": {
+                "name": "New Star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5044354,
+                    40.4504588
+                ]
+            },
+            "properties": {
+                "name": "Club Metr\u00f3polis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9692248,
+                    38.8741478
+                ]
+            },
+            "properties": {
+                "name": "Tatoo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.7320161,
+                    28.0655425
+                ]
+            },
+            "properties": {
+                "name": "Saints"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8815107,
+                    43.4413684
+                ]
+            },
+            "properties": {
+                "name": "Casablanca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.8829581,
+                    43.4415156
+                ]
+            },
+            "properties": {
+                "name": "Parnaso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5498913,
+                    40.4253848
+                ]
+            },
+            "properties": {
+                "name": "Eros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5496915,
+                    40.4253287
+                ]
+            },
+            "properties": {
+                "name": "KissMe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5499417,
+                    40.425399
+                ]
+            },
+            "properties": {
+                "name": "Oasis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6950748,
+                    40.4589239
+                ]
+            },
+            "properties": {
+                "name": "Sapphire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.6920197,
+                    40.4565573
+                ]
+            },
+            "properties": {
+                "name": "Zoros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.891771,
+                    41.6453122
+                ]
+            },
+            "properties": {
+                "name": "La Isla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.0907472,
+                    36.743684
+                ]
+            },
+            "properties": {
+                "name": "Pub Consuelo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.2961803,
+                    39.6326368
+                ]
+            },
+            "properties": {
+                "name": "Paris Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1920852,
+                    39.7824162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.3821022,
+                    40.4797604
+                ]
+            },
+            "properties": {
+                "name": "Sala Private"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.8416938,
+                    41.2238299
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

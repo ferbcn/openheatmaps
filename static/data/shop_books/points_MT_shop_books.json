@@ -1,0 +1,148 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4965383,
+                    35.8864279
+                ]
+            },
+            "properties": {
+                "name": "Preca Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4126208,
+                    35.9520853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5276876,
+                    35.8828596
+                ]
+            },
+            "properties": {
+                "name": "DLS Bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.465221,
+                    35.9007478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4103528,
+                    35.9460928
+                ]
+            },
+            "properties": {
+                "name": "Tommy's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5077706,
+                    35.872791
+                ]
+            },
+            "properties": {
+                "name": "The Catholic Bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5268719,
+                    35.8870246
+                ]
+            },
+            "properties": {
+                "name": "Schola Direct"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4793176,
+                    35.891098
+                ]
+            },
+            "properties": {
+                "name": "Sierra Book Distributors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4849512,
+                    35.8970291
+                ]
+            },
+            "properties": {
+                "name": "IMS Ltd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4146414,
+                    35.950136
+                ]
+            },
+            "properties": {
+                "name": "Charlie's Stationery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2395559,
+                    36.0424327
+                ]
+            },
+            "properties": {
+                "name": "Book and arts"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,5603 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0522983,
+                    52.2515735
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Wschodnia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.678605,
+                    50.0104958
+                ]
+            },
+            "properties": {
+                "name": "Jaros\u0142aw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8283212,
+                    49.939721
+                ]
+            },
+            "properties": {
+                "name": "Radymno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.947802,
+                    50.0686663
+                ]
+            },
+            "properties": {
+                "name": "Krak\u00f3w G\u0142\u00f3wny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.031126,
+                    53.339557
+                ]
+            },
+            "properties": {
+                "name": "Stargard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3496721,
+                    50.151106
+                ]
+            },
+            "properties": {
+                "name": "Szymocice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3524706,
+                    49.6606244
+                ]
+            },
+            "properties": {
+                "name": "Pewel Wielka Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.717021,
+                    51.0743908
+                ]
+            },
+            "properties": {
+                "name": "Namys\u0142\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3026729,
+                    50.8163038
+                ]
+            },
+            "properties": {
+                "name": "Wa\u0142brzych Szczawienko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7499748,
+                    51.0379927
+                ]
+            },
+            "properties": {
+                "name": "K\u0105ty Wroc\u0142awskie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8246851,
+                    51.0560102
+                ]
+            },
+            "properties": {
+                "name": "Sadowice Wroc\u0142awskie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8815989,
+                    51.071488
+                ]
+            },
+            "properties": {
+                "name": "Smolec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9298695,
+                    52.2907599
+                ]
+            },
+            "properties": {
+                "name": "M\u0142ociny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3533583,
+                    49.8557919
+                ]
+            },
+            "properties": {
+                "name": "Andrych\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3888565,
+                    50.1422541
+                ]
+            },
+            "properties": {
+                "name": "G\u00f3rki \u015al\u0105skie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0082813,
+                    52.2037727
+                ]
+            },
+            "properties": {
+                "name": "Bel\u0119cin Wlkp."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0478563,
+                    52.1674036
+                ]
+            },
+            "properties": {
+                "name": "Tuchorza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1765096,
+                    50.1407811
+                ]
+            },
+            "properties": {
+                "name": "Imielin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1545344,
+                    50.1971369
+                ]
+            },
+            "properties": {
+                "name": "Mys\u0142owice Brzezinka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2806898,
+                    50.7433935
+                ]
+            },
+            "properties": {
+                "name": "Wa\u0142brzych G\u0142\u00f3wny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9572875,
+                    52.4084276
+                ]
+            },
+            "properties": {
+                "name": "Maltanka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6165293,
+                    52.8636124
+                ]
+            },
+            "properties": {
+                "name": "Ciechan\u00f3w Przemys\u0142owy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1999186,
+                    50.0417378
+                ]
+            },
+            "properties": {
+                "name": "O\u015bwi\u0119cim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0453155,
+                    49.8298605
+                ]
+            },
+            "properties": {
+                "name": "Bielsko-Bia\u0142a G\u0142\u00f3wna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3118622,
+                    52.0731691
+                ]
+            },
+            "properties": {
+                "name": "B\u0119d\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7783945,
+                    52.4253307
+                ]
+            },
+            "properties": {
+                "name": "Jan\u00f3wek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7240617,
+                    52.4252729
+                ]
+            },
+            "properties": {
+                "name": "Nowy Dw\u00f3r Mazowiecki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4028867,
+                    54.7927514
+                ]
+            },
+            "properties": {
+                "name": "W\u0142adys\u0142awowo, dworzec autobusowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7731749,
+                    52.4934842
+                ]
+            },
+            "properties": {
+                "name": "Pszczew"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3769394,
+                    50.6970702
+                ]
+            },
+            "properties": {
+                "name": "Grodk\u00f3w P.Dw."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9115788,
+                    52.4016269
+                ]
+            },
+            "properties": {
+                "name": "Pozna\u0144 G\u0142\u00f3wny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.830266,
+                    49.6963793
+                ]
+            },
+            "properties": {
+                "name": "Ustro\u0144 Polana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8167182,
+                    49.7205013
+                ]
+            },
+            "properties": {
+                "name": "Ustro\u0144 Zdr\u00f3j"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8134059,
+                    49.8305843
+                ]
+            },
+            "properties": {
+                "name": "Pier\u015bciec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8112484,
+                    49.8703035
+                ]
+            },
+            "properties": {
+                "name": "Zaborze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7791496,
+                    49.7721313
+                ]
+            },
+            "properties": {
+                "name": "Skocz\u00f3w B\u0142adnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1253609,
+                    50.2697299
+                ]
+            },
+            "properties": {
+                "name": "Sosnowiec Po\u0142udniowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6851834,
+                    50.148788
+                ]
+            },
+            "properties": {
+                "name": "Czerwionka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8743587,
+                    50.4451293
+                ]
+            },
+            "properties": {
+                "name": "Z\u0142oty Stok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0749723,
+                    49.9862997
+                ]
+            },
+            "properties": {
+                "name": "Wieliczka Kampus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8760729,
+                    49.6216894
+                ]
+            },
+            "properties": {
+                "name": "Wis\u0142a G\u0142\u0119bce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8483545,
+                    49.6774733
+                ]
+            },
+            "properties": {
+                "name": "Wis\u0142a Ob\u0142aziec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8259007,
+                    50.7976434
+                ]
+            },
+            "properties": {
+                "name": "Kowary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2117431,
+                    51.2007309
+                ]
+            },
+            "properties": {
+                "name": "\u015al\u0105ska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2852337,
+                    50.7862286
+                ]
+            },
+            "properties": {
+                "name": "Wa\u0142brzych Miasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6770728,
+                    49.6302188
+                ]
+            },
+            "properties": {
+                "name": "Nowy S\u0105cz Che\u0142miec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7357645,
+                    52.8486478
+                ]
+            },
+            "properties": {
+                "name": "\u017bnin W\u0105skotorowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5713799,
+                    51.2519475
+                ]
+            },
+            "properties": {
+                "name": "Dworzec G\u0142\u00f3wny PKS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8180588,
+                    50.6698523
+                ]
+            },
+            "properties": {
+                "name": "Chr\u00f3\u015bcina Opolska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8401985,
+                    52.9741084
+                ]
+            },
+            "properties": {
+                "name": "\u0141apy Osse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9081454,
+                    53.0039049
+                ]
+            },
+            "properties": {
+                "name": "Uhowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7825137,
+                    52.9541569
+                ]
+            },
+            "properties": {
+                "name": "Zdrody Nowe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7099944,
+                    52.9290158
+                ]
+            },
+            "properties": {
+                "name": "Racibory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9542513,
+                    52.1057274
+                ]
+            },
+            "properties": {
+                "name": "\u0141owicz G\u0142\u00f3wny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8629815,
+                    52.6076266
+                ]
+            },
+            "properties": {
+                "name": "Sadowne W\u0119growskie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5257736,
+                    53.977148
+                ]
+            },
+            "properties": {
+                "name": "Starogard Gda\u0144ski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7897812,
+                    54.0972478
+                ]
+            },
+            "properties": {
+                "name": "Tczew"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7741844,
+                    53.9661642
+                ]
+            },
+            "properties": {
+                "name": "Kamie\u0144 Pomorski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1154933,
+                    49.9496574
+                ]
+            },
+            "properties": {
+                "name": "Jawiszowice Ja\u017anik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1548147,
+                    49.9958653
+                ]
+            },
+            "properties": {
+                "name": "Brzeszcze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0828247,
+                    49.9374329
+                ]
+            },
+            "properties": {
+                "name": "Dankowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9574154,
+                    50.0481266
+                ]
+            },
+            "properties": {
+                "name": "Krak\u00f3w Zab\u0142ocie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9237583,
+                    50.0659203
+                ]
+            },
+            "properties": {
+                "name": "Kobi\u00f3r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6875326,
+                    52.5339648
+                ]
+            },
+            "properties": {
+                "name": "\u0141och\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7030198,
+                    51.9614039
+                ]
+            },
+            "properties": {
+                "name": "G\u0142owno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7339944,
+                    51.8932419
+                ]
+            },
+            "properties": {
+                "name": "Pleszew W\u0105skotorowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7836063,
+                    51.8911299
+                ]
+            },
+            "properties": {
+                "name": "Pleszew Miasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1354095,
+                    52.2371411
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Goc\u0142awek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7559869,
+                    50.9025882
+                ]
+            },
+            "properties": {
+                "name": "Jelenia G\u00f3ra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.927888,
+                    52.2910984
+                ]
+            },
+            "properties": {
+                "name": "Metro M\u0142ociny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5960418,
+                    49.4290954
+                ]
+            },
+            "properties": {
+                "name": "Ustrzyki Dolne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5632126,
+                    50.0945555
+                ]
+            },
+            "properties": {
+                "name": "Rybnik Ligota - Ligocka Ku\u017ania Wiadukt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.556545,
+                    51.4829988
+                ]
+            },
+            "properties": {
+                "name": "\u017bytkowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8172588,
+                    51.5420504
+                ]
+            },
+            "properties": {
+                "name": "Zajezierze ko\u0142o D\u0119blina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7239081,
+                    51.5173688
+                ]
+            },
+            "properties": {
+                "name": "B\u0105kowiec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1767524,
+                    53.1978735
+                ]
+            },
+            "properties": {
+                "name": "Wasilk\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5635649,
+                    53.6487368
+                ]
+            },
+            "properties": {
+                "name": "Ruciane Nida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8209928,
+                    49.3406059
+                ]
+            },
+            "properties": {
+                "name": "Andrzej\u00f3wka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8039259,
+                    49.3627503
+                ]
+            },
+            "properties": {
+                "name": "\u017begiest\u00f3w Zdr\u00f3j"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6846909,
+                    51.4105247
+                ]
+            },
+            "properties": {
+                "name": "Piotrk\u00f3w Trybunalski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8210204,
+                    49.8875944
+                ]
+            },
+            "properties": {
+                "name": "Chybie Mnich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6055648,
+                    51.0559123
+                ]
+            },
+            "properties": {
+                "name": "Janin\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9061939,
+                    49.903888
+                ]
+            },
+            "properties": {
+                "name": "Zabrzeg Czarnolesie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9387433,
+                    49.9076132
+                ]
+            },
+            "properties": {
+                "name": "Zabrzeg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2373654,
+                    52.3461992
+                ]
+            },
+            "properties": {
+                "name": "Wo\u0142omin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6181629,
+                    50.8745075
+                ]
+            },
+            "properties": {
+                "name": "Kielce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9494429,
+                    50.0684473
+                ]
+            },
+            "properties": {
+                "name": "Dworzec G\u0142\u00f3wny Wsch\u00f3d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9388195,
+                    54.1052069
+                ]
+            },
+            "properties": {
+                "name": "PKS Suwa\u0142ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1855382,
+                    50.0729534
+                ]
+            },
+            "properties": {
+                "name": "Nowy Bieru\u0144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7323171,
+                    51.8925552
+                ]
+            },
+            "properties": {
+                "name": "Pleszew"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0415175,
+                    49.8415432
+                ]
+            },
+            "properties": {
+                "name": "Bielsko-Bia\u0142a P\u00f3\u0142noc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8218491,
+                    50.1956897
+                ]
+            },
+            "properties": {
+                "name": "G\u0142ubczyce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.97742,
+                    49.5043198
+                ]
+            },
+            "properties": {
+                "name": "Zwardo\u0144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4136556,
+                    50.3621132
+                ]
+            },
+            "properties": {
+                "name": "Nowy Las"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4811159,
+                    50.344592
+                ]
+            },
+            "properties": {
+                "name": "Szybowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8755824,
+                    50.3475027
+                ]
+            },
+            "properties": {
+                "name": "G\u0142og\u00f3wek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4425758,
+                    50.4757774
+                ]
+            },
+            "properties": {
+                "name": "Kubice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4764642,
+                    50.4890834
+                ]
+            },
+            "properties": {
+                "name": "Ma\u0144kowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5037742,
+                    50.504169
+                ]
+            },
+            "properties": {
+                "name": "Jasienica Dolna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8669866,
+                    50.6447826
+                ]
+            },
+            "properties": {
+                "name": "Chmielowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6687869,
+                    51.7356531
+                ]
+            },
+            "properties": {
+                "name": "Zasieki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4857574,
+                    52.7819484
+                ]
+            },
+            "properties": {
+                "name": "Mieszkowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4651147,
+                    53.032931
+                ]
+            },
+            "properties": {
+                "name": "Trzcianka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2510525,
+                    52.9158811
+                ]
+            },
+            "properties": {
+                "name": "Laskownica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2490356,
+                    54.0676284
+                ]
+            },
+            "properties": {
+                "name": "Fiszewo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1838404,
+                    50.1093504
+                ]
+            },
+            "properties": {
+                "name": "Che\u0142m \u015al\u0105ski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.957168,
+                    50.0059262
+                ]
+            },
+            "properties": {
+                "name": "Rzesz\u00f3w Zwi\u0119czyca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0991358,
+                    53.7713289
+                ]
+            },
+            "properties": {
+                "name": "Po\u0142czyn-Zdr\u00f3j (niecz.)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0601809,
+                    51.0509549
+                ]
+            },
+            "properties": {
+                "name": "Starachowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0803318,
+                    51.0415471
+                ]
+            },
+            "properties": {
+                "name": "Starachowice Wschodnie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.63164,
+                    53.4722358
+                ]
+            },
+            "properties": {
+                "name": "Czuprynowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9610673,
+                    52.6592661
+                ]
+            },
+            "properties": {
+                "name": "Prosty\u0144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7515533,
+                    52.5599218
+                ]
+            },
+            "properties": {
+                "name": "Ostr\u00f3wek W\u0119growski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.811978,
+                    52.5845746
+                ]
+            },
+            "properties": {
+                "name": "Top\u00f3r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3986912,
+                    52.4156243
+                ]
+            },
+            "properties": {
+                "name": "Jasienica Mazowiecka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3131866,
+                    52.3788971
+                ]
+            },
+            "properties": {
+                "name": "Dobczyn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.082982,
+                    52.4600632
+                ]
+            },
+            "properties": {
+                "name": "Nurzec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2106772,
+                    52.1620483
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Falenica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9778134,
+                    50.2260023
+                ]
+            },
+            "properties": {
+                "name": "Katowice Ligota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1318247,
+                    51.2998274
+                ]
+            },
+            "properties": {
+                "name": "Wierusz\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3209664,
+                    49.652422
+                ]
+            },
+            "properties": {
+                "name": "Jele\u015bnia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3918857,
+                    50.4300849
+                ]
+            },
+            "properties": {
+                "name": "\u0141azy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5745468,
+                    50.8552785
+                ]
+            },
+            "properties": {
+                "name": "Kielce Bia\u0142ogon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8592043,
+                    50.049699
+                ]
+            },
+            "properties": {
+                "name": "Bobr\u00f3wka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5190241,
+                    51.248141
+                ]
+            },
+            "properties": {
+                "name": "79"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5198914,
+                    51.2411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5682327,
+                    51.2317416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.215567,
+                    52.336929
+                ]
+            },
+            "properties": {
+                "name": "Koby\u0142ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3819731,
+                    52.6184921
+                ]
+            },
+            "properties": {
+                "name": "PKS P\u0142o\u0144sk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6559473,
+                    50.9851285
+                ]
+            },
+            "properties": {
+                "name": "Mietk\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5781401,
+                    50.9633658
+                ]
+            },
+            "properties": {
+                "name": "Imbramowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0075878,
+                    52.2293788
+                ]
+            },
+            "properties": {
+                "name": "Warszawa \u015ar\u00f3dmie\u015bcie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0638032,
+                    50.2491737
+                ]
+            },
+            "properties": {
+                "name": "S\u0142omniki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1362578,
+                    49.6095576
+                ]
+            },
+            "properties": {
+                "name": "Ci\u0119cina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6091002,
+                    50.5554824
+                ]
+            },
+            "properties": {
+                "name": "Sowin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8211634,
+                    50.6316658
+                ]
+            },
+            "properties": {
+                "name": "Komprachcice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9534358,
+                    49.974984
+                ]
+            },
+            "properties": {
+                "name": "Pszczyna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2238694,
+                    51.7200566
+                ]
+            },
+            "properties": {
+                "name": "Kobylin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4337187,
+                    52.430439
+                ]
+            },
+            "properties": {
+                "name": "T\u0142uszcz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.547546,
+                    50.0889081
+                ]
+            },
+            "properties": {
+                "name": "Rybnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2365539,
+                    52.1361673
+                ]
+            },
+            "properties": {
+                "name": "J\u00f3zef\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2245038,
+                    52.1482862
+                ]
+            },
+            "properties": {
+                "name": "Michalin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2631488,
+                    52.10957
+                ]
+            },
+            "properties": {
+                "name": "Otwock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2516158,
+                    52.1210036
+                ]
+            },
+            "properties": {
+                "name": "\u015awider"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5656133,
+                    50.1027883
+                ]
+            },
+            "properties": {
+                "name": "Rybnik Paruszowiec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6176364,
+                    50.1397517
+                ]
+            },
+            "properties": {
+                "name": "Leszczyny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9766208,
+                    49.9357557
+                ]
+            },
+            "properties": {
+                "name": "Gocza\u0142kowice Zdr\u00f3j"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0110551,
+                    50.4784247
+                ]
+            },
+            "properties": {
+                "name": "Paczk\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5408407,
+                    50.0933527
+                ]
+            },
+            "properties": {
+                "name": "Rybnik \u015ar\u00f3dmie\u015bcie S\u0105d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5535279,
+                    54.4578138
+                ]
+            },
+            "properties": {
+                "name": "Sopot Kamienny Porok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8634678,
+                    50.3524054
+                ]
+            },
+            "properties": {
+                "name": "G\u0142og\u00f3wek D.A."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6305684,
+                    54.3735304
+                ]
+            },
+            "properties": {
+                "name": "Gda\u0144sk Nowe Szkoty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5228275,
+                    53.7841295
+                ]
+            },
+            "properties": {
+                "name": "Brodowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8181758,
+                    52.2426128
+                ]
+            },
+            "properties": {
+                "name": "Zb\u0105szynek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7094928,
+                    52.7382734
+                ]
+            },
+            "properties": {
+                "name": "Przystanek autobusowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9143552,
+                    52.4112791
+                ]
+            },
+            "properties": {
+                "name": "Legionowo Przystanek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8847443,
+                    52.4157092
+                ]
+            },
+            "properties": {
+                "name": "Chotom\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9858307,
+                    52.3341174
+                ]
+            },
+            "properties": {
+                "name": "Warszawa P\u0142udy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.923829,
+                    53.4125267
+                ]
+            },
+            "properties": {
+                "name": "Kolno D.A."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4741254,
+                    50.175256
+                ]
+            },
+            "properties": {
+                "name": "Papro\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6769406,
+                    50.3010936
+                ]
+            },
+            "properties": {
+                "name": "Gliwice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7871281,
+                    50.3052986
+                ]
+            },
+            "properties": {
+                "name": "Zabrze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3698785,
+                    50.1608781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5855917,
+                    50.0885702
+                ]
+            },
+            "properties": {
+                "name": "Ligota Skrzy\u017cowanie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5109638,
+                    50.2000298
+                ]
+            },
+            "properties": {
+                "name": "Stanice W\u0105skotorowe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6123872,
+                    50.0466065
+                ]
+            },
+            "properties": {
+                "name": "Boguszowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4859509,
+                    52.7547011
+                ]
+            },
+            "properties": {
+                "name": "Janowiec Wielkopolski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9027965,
+                    50.4299172
+                ]
+            },
+            "properties": {
+                "name": "Nak\u0142o \u015al\u0105skie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0264508,
+                    53.8525409
+                ]
+            },
+            "properties": {
+                "name": "August\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9452519,
+                    54.1058765
+                ]
+            },
+            "properties": {
+                "name": "Suwa\u0142ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8796564,
+                    51.1160416
+                ]
+            },
+            "properties": {
+                "name": "Skar\u017cysko-Kamienna D.K."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9213683,
+                    50.6345402
+                ]
+            },
+            "properties": {
+                "name": "Zbydni\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1856696,
+                    49.6791207
+                ]
+            },
+            "properties": {
+                "name": "\u017bywiec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.972637,
+                    50.6177994
+                ]
+            },
+            "properties": {
+                "name": "Turbia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.633291,
+                    51.7667065
+                ]
+            },
+            "properties": {
+                "name": "PKP Leokadia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4941863,
+                    51.9686382
+                ]
+            },
+            "properties": {
+                "name": "Jarocin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2868579,
+                    52.3022822
+                ]
+            },
+            "properties": {
+                "name": "Pora\u017cyn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0171456,
+                    50.2576071
+                ]
+            },
+            "properties": {
+                "name": "Katowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5013981,
+                    50.0664029
+                ]
+            },
+            "properties": {
+                "name": "Przeworsk W\u0105skotorowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1331351,
+                    52.3041129
+                ]
+            },
+            "properties": {
+                "name": "Nowy Tomy\u015bl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.991727,
+                    52.2813762
+                ]
+            },
+            "properties": {
+                "name": "Chro\u015bnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8947648,
+                    52.2594116
+                ]
+            },
+            "properties": {
+                "name": "Zb\u0105szy\u0144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6939492,
+                    52.2643757
+                ]
+            },
+            "properties": {
+                "name": "Szczaniec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6140108,
+                    52.2573853
+                ]
+            },
+            "properties": {
+                "name": "Kupienino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5399619,
+                    52.2452509
+                ]
+            },
+            "properties": {
+                "name": "\u015awiebodzin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2611547,
+                    52.2602013
+                ]
+            },
+            "properties": {
+                "name": "Topor\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0595084,
+                    52.3124364
+                ]
+            },
+            "properties": {
+                "name": "Torzym"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9462366,
+                    52.3267469
+                ]
+            },
+            "properties": {
+                "name": "Bocz\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8152866,
+                    52.3499173
+                ]
+            },
+            "properties": {
+                "name": "Rzepin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8544783,
+                    49.658645
+                ]
+            },
+            "properties": {
+                "name": "Wis\u0142a Uzdrowisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6390664,
+                    52.3418192
+                ]
+            },
+            "properties": {
+                "name": "Kunowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1568511,
+                    52.3114582
+                ]
+            },
+            "properties": {
+                "name": "Zielonka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2805848,
+                    52.3648837
+                ]
+            },
+            "properties": {
+                "name": "Zago\u015bciniec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4740111,
+                    52.4467704
+                ]
+            },
+            "properties": {
+                "name": "Chrz\u0119sne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4993365,
+                    52.4571401
+                ]
+            },
+            "properties": {
+                "name": "Mokra Wie\u015b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5625729,
+                    52.4829276
+                ]
+            },
+            "properties": {
+                "name": "Szewnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0337964,
+                    52.6943171
+                ]
+            },
+            "properties": {
+                "name": "Ma\u0142kinia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1410582,
+                    52.7312168
+                ]
+            },
+            "properties": {
+                "name": "Zar\u0119by Ko\u015bcielne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3422765,
+                    52.7997796
+                ]
+            },
+            "properties": {
+                "name": "Czy\u017cew"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1794334,
+                    52.7442615
+                ]
+            },
+            "properties": {
+                "name": "Kietlanka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2271543,
+                    52.7604408
+                ]
+            },
+            "properties": {
+                "name": "Szulborze Koty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4587459,
+                    52.8411579
+                ]
+            },
+            "properties": {
+                "name": "D\u0105browa \u0141azy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4215189,
+                    52.8280251
+                ]
+            },
+            "properties": {
+                "name": "Kity"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5410554,
+                    52.8700412
+                ]
+            },
+            "properties": {
+                "name": "Szepietowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6046366,
+                    52.8924322
+                ]
+            },
+            "properties": {
+                "name": "Szymbory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4727811,
+                    49.7120591
+                ]
+            },
+            "properties": {
+                "name": "Lachowice Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6507455,
+                    52.9084279
+                ]
+            },
+            "properties": {
+                "name": "Jab\u0142o\u0144 Ko\u015bcielna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8842468,
+                    52.9903414
+                ]
+            },
+            "properties": {
+                "name": "\u0141apy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9497808,
+                    53.0277081
+                ]
+            },
+            "properties": {
+                "name": "Bojary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9834305,
+                    53.0469938
+                ]
+            },
+            "properties": {
+                "name": "Baciuty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0809097,
+                    53.1030051
+                ]
+            },
+            "properties": {
+                "name": "Klepacze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0457628,
+                    53.0825979
+                ]
+            },
+            "properties": {
+                "name": "Niewodnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0249055,
+                    53.0708294
+                ]
+            },
+            "properties": {
+                "name": "Trypucie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1353831,
+                    53.1336381
+                ]
+            },
+            "properties": {
+                "name": "Bia\u0142ystok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0566478,
+                    49.9856441
+                ]
+            },
+            "properties": {
+                "name": "Wieliczka Rynek-Kopalnia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0493336,
+                    49.9891052
+                ]
+            },
+            "properties": {
+                "name": "Wieliczka Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2093638,
+                    53.2492124
+                ]
+            },
+            "properties": {
+                "name": "Czarny Blok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2798443,
+                    53.305864
+                ]
+            },
+            "properties": {
+                "name": "Czarna Bia\u0142ostocka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2431713,
+                    53.2791475
+                ]
+            },
+            "properties": {
+                "name": "W\u00f3lka Ratowiecka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3179722,
+                    53.3314851
+                ]
+            },
+            "properties": {
+                "name": "Machnacz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.365454,
+                    53.3590109
+                ]
+            },
+            "properties": {
+                "name": "Rozedranka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4356608,
+                    53.3823118
+                ]
+            },
+            "properties": {
+                "name": "Gieniusze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5066903,
+                    53.4031557
+                ]
+            },
+            "properties": {
+                "name": "Sok\u00f3\u0142ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5908597,
+                    53.4394826
+                ]
+            },
+            "properties": {
+                "name": "Kundzin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6424065,
+                    53.5119984
+                ]
+            },
+            "properties": {
+                "name": "Ku\u017anica Bia\u0142ostocka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5442756,
+                    50.0924453
+                ]
+            },
+            "properties": {
+                "name": "Rybnik \u015ar\u00f3dmie\u015bcie 3 Maja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1182937,
+                    53.0966636
+                ]
+            },
+            "properties": {
+                "name": "Bia\u0142o\u015bliwie W\u0105skotorowe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9446804,
+                    50.2784252
+                ]
+            },
+            "properties": {
+                "name": "Chorz\u00f3w Batory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9895811,
+                    50.2638657
+                ]
+            },
+            "properties": {
+                "name": "Katowice Za\u0142\u0119\u017ce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1634387,
+                    54.7794916
+                ]
+            },
+            "properties": {
+                "name": "Krokowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2277146,
+                    54.6056608
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Autobusowy Wejherowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0439777,
+                    52.244745
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Stadion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9652859,
+                    52.2200627
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Zachodnia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9897333,
+                    50.038491
+                ]
+            },
+            "properties": {
+                "name": "Rzesz\u00f3w Staroniwa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1068857,
+                    52.2497745
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Olszynka Grochowska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1599414,
+                    52.212993
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Anin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.168978,
+                    52.2039216
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Mi\u0119dzylesie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1871497,
+                    52.1857228
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Rado\u015b\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2002174,
+                    52.1726622
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Miedzeszyn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9919642,
+                    52.2590164
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Gda\u0144ska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9187624,
+                    50.8785015
+                ]
+            },
+            "properties": {
+                "name": "Janowice Wielkie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0058584,
+                    50.0429801
+                ]
+            },
+            "properties": {
+                "name": "Rzesz\u00f3w G\u0142\u00f3wny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5188896,
+                    51.1436151
+                ]
+            },
+            "properties": {
+                "name": "Czarniecka G\u00f3ra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8971943,
+                    50.5362227
+                ]
+            },
+            "properties": {
+                "name": "Kamieniec Z\u0105bkowicki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4041528,
+                    50.0539304
+                ]
+            },
+            "properties": {
+                "name": "D\u0119bica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6300605,
+                    51.4948043
+                ]
+            },
+            "properties": {
+                "name": "Garbatka Letnisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4412516,
+                    51.4719342
+                ]
+            },
+            "properties": {
+                "name": "Pionki Zachodnie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1208041,
+                    50.8084337
+                ]
+            },
+            "properties": {
+                "name": "Cz\u0119stochowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2730235,
+                    50.6230975
+                ]
+            },
+            "properties": {
+                "name": "\u017barki Letnisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1263859,
+                    50.27895
+                ]
+            },
+            "properties": {
+                "name": "Sosnowiec G\u0142\u00f3wny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6076933,
+                    52.1865382
+                ]
+            },
+            "properties": {
+                "name": "B\u0142onie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3483624,
+                    52.2271533
+                ]
+            },
+            "properties": {
+                "name": "Kutno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4003069,
+                    52.3097374
+                ]
+            },
+            "properties": {
+                "name": "Opalenica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1494647,
+                    52.22348
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Wawer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9188831,
+                    51.5009742
+                ]
+            },
+            "properties": {
+                "name": "Go\u0142\u0105b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3651331,
+                    50.7194055
+                ]
+            },
+            "properties": {
+                "name": "Mi\u0105sowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2756734,
+                    50.6445096
+                ]
+            },
+            "properties": {
+                "name": "J\u0119drzej\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8210551,
+                    52.02057
+                ]
+            },
+            "properties": {
+                "name": "Domaniewice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6025373,
+                    50.8858958
+                ]
+            },
+            "properties": {
+                "name": "Kielce Herbskie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.447284,
+                    50.8706552
+                ]
+            },
+            "properties": {
+                "name": "Piekosz\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3788417,
+                    50.8681394
+                ]
+            },
+            "properties": {
+                "name": "Rykoszyn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3126263,
+                    50.8650094
+                ]
+            },
+            "properties": {
+                "name": "Wierna Rzeka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.272798,
+                    50.8502132
+                ]
+            },
+            "properties": {
+                "name": "Ma\u0142ogoszcz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1626707,
+                    50.8518711
+                ]
+            },
+            "properties": {
+                "name": "Ludynia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0149933,
+                    50.8377209
+                ]
+            },
+            "properties": {
+                "name": "W\u0142oszczowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.858556,
+                    50.8038128
+                ]
+            },
+            "properties": {
+                "name": "\u017belis\u0142awice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2162721,
+                    50.2720968
+                ]
+            },
+            "properties": {
+                "name": "Sosnowiec Por\u0105bka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5389278,
+                    50.1367581
+                ]
+            },
+            "properties": {
+                "name": "Try\u0144cza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0935492,
+                    49.5550153
+                ]
+            },
+            "properties": {
+                "name": "Mil\u00f3wka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3326192,
+                    50.0460293
+                ]
+            },
+            "properties": {
+                "name": "Grabiny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5798601,
+                    50.0783583
+                ]
+            },
+            "properties": {
+                "name": "Ropczyce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9462275,
+                    50.0293189
+                ]
+            },
+            "properties": {
+                "name": "Krak\u00f3w Bonarka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9281054,
+                    50.0003673
+                ]
+            },
+            "properties": {
+                "name": "Krak\u00f3w Swoszowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8746169,
+                    49.9855309
+                ]
+            },
+            "properties": {
+                "name": "Krak\u00f3w Sidzina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1586737,
+                    50.0409591
+                ]
+            },
+            "properties": {
+                "name": "Podgrabie Wis\u0142a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8294013,
+                    52.6574819
+                ]
+            },
+            "properties": {
+                "name": "Oborniki Wielkopolskie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5807161,
+                    49.7406266
+                ]
+            },
+            "properties": {
+                "name": "Sucha Beskidzka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5035978,
+                    49.7234461
+                ]
+            },
+            "properties": {
+                "name": "Lachowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4074103,
+                    49.6885245
+                ]
+            },
+            "properties": {
+                "name": "Hucisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4438928,
+                    50.2044879
+                ]
+            },
+            "properties": {
+                "name": "Rudy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4641521,
+                    50.1899257
+                ]
+            },
+            "properties": {
+                "name": "Rudy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0071846,
+                    49.3762155
+                ]
+            },
+            "properties": {
+                "name": "Bia\u0142y Dunajec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0035237,
+                    49.3432232
+                ]
+            },
+            "properties": {
+                "name": "Poronin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9150227,
+                    52.7081832
+                ]
+            },
+            "properties": {
+                "name": "Parkowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9630757,
+                    49.3007955
+                ]
+            },
+            "properties": {
+                "name": "Zakopane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5016523,
+                    49.8853687
+                ]
+            },
+            "properties": {
+                "name": "Wadowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6902517,
+                    49.621243
+                ]
+            },
+            "properties": {
+                "name": "Nowy S\u0105cz Miasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0595573,
+                    49.6940214
+                ]
+            },
+            "properties": {
+                "name": "Wola \u0141u\u017ca\u0144ska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8494234,
+                    49.9146701
+                ]
+            },
+            "properties": {
+                "name": "P\u0119tla autobusowa / przystanek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7449933,
+                    51.700011
+                ]
+            },
+            "properties": {
+                "name": "Bojanowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7254355,
+                    50.3791394
+                ]
+            },
+            "properties": {
+                "name": "Majdan Kr\u00f3lewski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6679145,
+                    50.7329088
+                ]
+            },
+            "properties": {
+                "name": "Przecza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.877762,
+                    50.3039358
+                ]
+            },
+            "properties": {
+                "name": "Ruda Chebzie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8505569,
+                    50.3159215
+                ]
+            },
+            "properties": {
+                "name": "Ruda \u015al\u0105ska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3419525,
+                    50.4776491
+                ]
+            },
+            "properties": {
+                "name": "Nysa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4815065,
+                    50.8412151
+                ]
+            },
+            "properties": {
+                "name": "\u015awidnica Miasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4288522,
+                    50.9124681
+                ]
+            },
+            "properties": {
+                "name": "Jaworzyna \u015al\u0105ska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1623303,
+                    50.1704988
+                ]
+            },
+            "properties": {
+                "name": "Mys\u0142owice Kosztowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1470967,
+                    50.2132882
+                ]
+            },
+            "properties": {
+                "name": "Mys\u0142owice Brz\u0119czkowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9641781,
+                    50.1357681
+                ]
+            },
+            "properties": {
+                "name": "Tychy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9531674,
+                    50.1100675
+                ]
+            },
+            "properties": {
+                "name": "Tychy \u017bwak\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9400276,
+                    50.0126862
+                ]
+            },
+            "properties": {
+                "name": "Piasek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7923607,
+                    50.0350047
+                ]
+            },
+            "properties": {
+                "name": "Suszec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6238376,
+                    50.0879847
+                ]
+            },
+            "properties": {
+                "name": "Rybnik Gotartowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5861389,
+                    50.0965044
+                ]
+            },
+            "properties": {
+                "name": "Rybnik Piaski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.270162,
+                    50.1132299
+                ]
+            },
+            "properties": {
+                "name": "Racib\u00f3rz Markowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9823778,
+                    50.117337
+                ]
+            },
+            "properties": {
+                "name": "Tychy Aleja Bielska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9787851,
+                    50.1211508
+                ]
+            },
+            "properties": {
+                "name": "Tychy Zachodnie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9860432,
+                    50.1141544
+                ]
+            },
+            "properties": {
+                "name": "Tychy Grota Roweckiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0008785,
+                    50.1077384
+                ]
+            },
+            "properties": {
+                "name": "Tychy Lodowisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.865627,
+                    49.6474214
+                ]
+            },
+            "properties": {
+                "name": "Wis\u0142a Dziechcinka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8609002,
+                    54.578885
+                ]
+            },
+            "properties": {
+                "name": "Ustka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8191911,
+                    51.6343162
+                ]
+            },
+            "properties": {
+                "name": "Trzebiel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6512659,
+                    52.3073556
+                ]
+            },
+            "properties": {
+                "name": "Port \u015awiecko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2103054,
+                    51.0710559
+                ]
+            },
+            "properties": {
+                "name": "Biskupice ko\u0142o Kluczborka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.949504,
+                    51.0899487
+                ]
+            },
+            "properties": {
+                "name": "Wroc\u0142aw Zachodni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3328311,
+                    50.8601928
+                ]
+            },
+            "properties": {
+                "name": "\u015awiebodzice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2670481,
+                    50.7613941
+                ]
+            },
+            "properties": {
+                "name": "Wa\u0142brzych Fabryczny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1274664,
+                    50.7938256
+                ]
+            },
+            "properties": {
+                "name": "Witk\u00f3w \u015al\u0105ski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0698493,
+                    50.8134159
+                ]
+            },
+            "properties": {
+                "name": "S\u0119dzis\u0142aw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0076011,
+                    50.8514982
+                ]
+            },
+            "properties": {
+                "name": "Marcisz\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9798559,
+                    50.865419
+                ]
+            },
+            "properties": {
+                "name": "Ciechanowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.872031,
+                    50.8832177
+                ]
+            },
+            "properties": {
+                "name": "Trzci\u0144sko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8212863,
+                    50.8847457
+                ]
+            },
+            "properties": {
+                "name": "Wojan\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.004277,
+                    51.140438
+                ]
+            },
+            "properties": {
+                "name": "Zgorzelec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0177339,
+                    51.1740916
+                ]
+            },
+            "properties": {
+                "name": "J\u0119drzychowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3515749,
+                    51.5028725
+                ]
+            },
+            "properties": {
+                "name": "Wierzchowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6197194,
+                    53.0123138
+                ]
+            },
+            "properties": {
+                "name": "Toru\u0144 Miasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1933497,
+                    50.6693093
+                ]
+            },
+            "properties": {
+                "name": "Mierosz\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0084133,
+                    51.9351356
+                ]
+            },
+            "properties": {
+                "name": "Kunowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0281295,
+                    52.2337064
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Powi\u015ble"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9286122,
+                    50.6630885
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Autobusowy OPKS Opole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.992445,
+                    52.3997487
+                ]
+            },
+            "properties": {
+                "name": "Zwierzyniec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7015744,
+                    51.6005677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1935499,
+                    51.3960505
+                ]
+            },
+            "properties": {
+                "name": "Lubin G\u00f3rniczy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7658406,
+                    53.972704
+                ]
+            },
+            "properties": {
+                "name": "Kamie\u0144 Pomorski Port"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6681946,
+                    52.580192
+                ]
+            },
+            "properties": {
+                "name": "Przytoczna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8403413,
+                    51.608747
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Autobusowy Rawicz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0569472,
+                    49.9851363
+                ]
+            },
+            "properties": {
+                "name": "Wieliczka Rynek-Kopalnia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9605966,
+                    50.0789647
+                ]
+            },
+            "properties": {
+                "name": "Krak\u00f3w Olsza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3408836,
+                    50.4780476
+                ]
+            },
+            "properties": {
+                "name": "Nysa Dworzec Autobusowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9493799,
+                    52.3967126
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Rataje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3944233,
+                    50.3301598
+                ]
+            },
+            "properties": {
+                "name": "G\u0142ucho\u0142azy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9300245,
+                    52.2920271
+                ]
+            },
+            "properties": {
+                "name": "Metro M\u0142ociny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3252033,
+                    49.4761202
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Autobusowy Lesko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0042977,
+                    50.0422405
+                ]
+            },
+            "properties": {
+                "name": "Rzesz\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5650191,
+                    50.5374739
+                ]
+            },
+            "properties": {
+                "name": "\u0141ambinowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7054795,
+                    50.6060209
+                ]
+            },
+            "properties": {
+                "name": "Szyd\u0142\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4526329,
+                    54.4222198
+                ]
+            },
+            "properties": {
+                "name": "Gda\u0144sk Osowa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6476805,
+                    52.5177099
+                ]
+            },
+            "properties": {
+                "name": "Barch\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1879677,
+                    49.679519
+                ]
+            },
+            "properties": {
+                "name": "Dworzec autobusowy w \u017bywcu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6185303,
+                    52.0926476
+                ]
+            },
+            "properties": {
+                "name": "Sulech\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5144061,
+                    50.397589
+                ]
+            },
+            "properties": {
+                "name": "Polanica Zdr\u00f3j"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8585567,
+                    52.9189089
+                ]
+            },
+            "properties": {
+                "name": "My\u015blib\u00f3rz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9167034,
+                    52.4649107
+                ]
+            },
+            "properties": {
+                "name": "Os. Sobieskiego"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9545752,
+                    52.4094378
+                ]
+            },
+            "properties": {
+                "name": "Dworzec \u015ar\u00f3dka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8273752,
+                    54.5707564
+                ]
+            },
+            "properties": {
+                "name": "Ustka Koszary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5337288,
+                    50.1015172
+                ]
+            },
+            "properties": {
+                "name": "Rybnik \u2014 Dworzec Komunikacji Miejskiej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9220523,
+                    51.6064434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4894548,
+                    52.6638468
+                ]
+            },
+            "properties": {
+                "name": "P\u0119ckowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0237402,
+                    52.1797703
+                ]
+            },
+            "properties": {
+                "name": "Metro Wilanowska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4995452,
+                    49.885425
+                ]
+            },
+            "properties": {
+                "name": "PKS Wadowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9264056,
+                    50.0114598
+                ]
+            },
+            "properties": {
+                "name": "Borek Fa\u0142\u0119cki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9744021,
+                    50.0966869
+                ]
+            },
+            "properties": {
+                "name": "Pr\u0105dnik Czerwony"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9313699,
+                    50.0887637
+                ]
+            },
+            "properties": {
+                "name": "Krowodrza G\u00f3rka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6219046,
+                    50.3403883
+                ]
+            },
+            "properties": {
+                "name": "Gliwice \u0141ab\u0119dy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9421367,
+                    52.3343153
+                ]
+            },
+            "properties": {
+                "name": "Nowodwory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0706068,
+                    50.3338742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9599685,
+                    50.0045555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.99125,
+                    54.4530548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3186723,
+                    51.8019836
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Autobusowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0916347,
+                    50.0890135
+                ]
+            },
+            "properties": {
+                "name": "Dworzec autobusowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0065556,
+                    49.9144891
+                ]
+            },
+            "properties": {
+                "name": "Czechowice-Dziedzice Dworzec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6938384,
+                    50.0476545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0173474,
+                    50.262697
+                ]
+            },
+            "properties": {
+                "name": "Katowice Dworzec Autobusowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.017617,
+                    50.2584154
+                ]
+            },
+            "properties": {
+                "name": "Katowice Dworzec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9004876,
+                    50.172107
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Autobusowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9837439,
+                    50.2445019
+                ]
+            },
+            "properties": {
+                "name": "Katowice Bryn\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9603301,
+                    50.1829715
+                ]
+            },
+            "properties": {
+                "name": "Katowice Podlesie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0566132,
+                    50.257186
+                ]
+            },
+            "properties": {
+                "name": "Katowice Zawodzie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.969971,
+                    50.2132328
+                ]
+            },
+            "properties": {
+                "name": "Katowice Piotrowice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.688806,
+                    50.673187
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Autobusowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9684658,
+                    53.7995801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9388835,
+                    54.1048763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8705665,
+                    52.2892116
+                ]
+            },
+            "properties": {
+                "name": "PKS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9494152,
+                    52.340762
+                ]
+            },
+            "properties": {
+                "name": "P\u0119tla Winnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9430495,
+                    52.3240136
+                ]
+            },
+            "properties": {
+                "name": "Tarchomin Ko\u015bcielny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6494249,
+                    50.598165
+                ]
+            },
+            "properties": {
+                "name": "Tu\u0142owice Niemodli\u0144skie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6368316,
+                    50.1317361
+                ]
+            },
+            "properties": {
+                "name": "Dworzec autobusowy w Krzeszowicach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9518541,
+                    51.1193769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2710288,
+                    52.1657347
+                ]
+            },
+            "properties": {
+                "name": "Dworzec PKS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8710121,
+                    52.4277579
+                ]
+            },
+            "properties": {
+                "name": "Dworzec PKS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2545923,
+                    52.2441015
+                ]
+            },
+            "properties": {
+                "name": "Zak\u0142ad Komunikacji Miejskiej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5440709,
+                    50.0959175
+                ]
+            },
+            "properties": {
+                "name": "Rybnik \u015ar\u00f3dmie\u015bcie Plac Wolno\u015bci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.715915,
+                    51.0750156
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Autobusowy Namys\u0142\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9140696,
+                    52.4025766
+                ]
+            },
+            "properties": {
+                "name": "Dworzec PKS Pozna\u0144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6265067,
+                    52.0835385
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Autobusowy Sulech\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9328205,
+                    50.0460949
+                ]
+            },
+            "properties": {
+                "name": "Osiedle Podwawelskie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9331543,
+                    50.0458778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.96073,
+                    49.3001502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1265136,
+                    52.0361226
+                ]
+            },
+            "properties": {
+                "name": "Bia\u0142a Podlaska Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7437626,
+                    53.4293431
+                ]
+            },
+            "properties": {
+                "name": "Szczecin Za\u0142om"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5148138,
+                    50.7949562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1635744,
+                    49.8575151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.503278,
+                    54.546688
+                ]
+            },
+            "properties": {
+                "name": "Stena Line Terminal Morski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8502742,
+                    52.4334968
+                ]
+            },
+            "properties": {
+                "name": "Pozna\u0144 Wola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8494513,
+                    52.4341206
+                ]
+            },
+            "properties": {
+                "name": "Pozna\u0144 Wola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7898874,
+                    52.4758196
+                ]
+            },
+            "properties": {
+                "name": "Kiekrz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0284973,
+                    52.4095606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9714801,
+                    52.4182475
+                ]
+            },
+            "properties": {
+                "name": "Pozna\u0144 Wsch\u00f3d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9368438,
+                    52.4164401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9813927,
+                    52.4383904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9753173,
+                    52.3418214
+                ]
+            },
+            "properties": {
+                "name": "Pozna\u0144 Krzesiny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8812288,
+                    52.3803344
+                ]
+            },
+            "properties": {
+                "name": "Pozna\u0144 G\u00f3rczyn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5857891,
+                    52.6033006
+                ]
+            },
+            "properties": {
+                "name": "Szamotu\u0142y"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7109331,
+                    52.2814845
+                ]
+            },
+            "properties": {
+                "name": "St\u0119szew"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8894162,
+                    50.0182249
+                ]
+            },
+            "properties": {
+                "name": "Czerwone Maki P+R"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9494104,
+                    50.0678226
+                ]
+            },
+            "properties": {
+                "name": "Ma\u0142opolski Dworzec Autobusowy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5591819,
+                    54.1750552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2277595,
+                    54.6056469
+                ]
+            },
+            "properties": {
+                "name": "Dworzec Autobusowy Wejherowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.187907,
+                    49.6797208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0033376,
+                    52.2288103
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Centralna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1666064,
+                    51.2128523
+                ]
+            },
+            "properties": {
+                "name": "Dworzec PKS w Legnicy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4264138,
+                    53.0684674
+                ]
+            },
+            "properties": {
+                "name": "PKS Rypin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9633899,
+                    50.0422162
+                ]
+            },
+            "properties": {
+                "name": "Podg\u00f3rze SKA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5058883,
+                    52.0221375
+                ]
+            },
+            "properties": {
+                "name": "PKS Turek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0177973,
+                    52.2635348
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Zoo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.022369,
+                    52.2774976
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Praga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.013243,
+                    52.2937469
+                ]
+            },
+            "properties": {
+                "name": "Warszawa Toru\u0144ska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9989358,
+                    52.314144
+                ]
+            },
+            "properties": {
+                "name": "Warszawa \u017bera\u0144"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9409935,
+                    52.4019129
+                ]
+            },
+            "properties": {
+                "name": "Legionowo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9427196,
+                    52.4126056
+                ]
+            },
+            "properties": {
+                "name": "Legionowo Piaski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9628547,
+                    52.4226194
+                ]
+            },
+            "properties": {
+                "name": "Micha\u0142\u00f3w-Regin\u00f3w"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9747605,
+                    52.4281997
+                ]
+            },
+            "properties": {
+                "name": "Wieliszew"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4310244,
+                    50.2917197
+                ]
+            },
+            "properties": {
+                "name": "Dworzec autobusowy"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

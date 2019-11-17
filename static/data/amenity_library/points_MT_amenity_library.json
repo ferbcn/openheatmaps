@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5233294,
+                    35.87159
+                ]
+            },
+            "properties": {
+                "name": "Fgura Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2387707,
+                    36.0421033
+                ]
+            },
+            "properties": {
+                "name": "Librerija Pubblika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2410855,
+                    36.0421525
+                ]
+            },
+            "properties": {
+                "name": "Gozo Lending Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.496451,
+                    35.8868135
+                ]
+            },
+            "properties": {
+                "name": "SDC Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4834593,
+                    35.902609
+                ]
+            },
+            "properties": {
+                "name": "University of Malta Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2672211,
+                    36.050981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5426675,
+                    35.8407951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5095418,
+                    35.8707663
+                ]
+            },
+            "properties": {
+                "name": "Paola Public Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4251986,
+                    35.9101323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5272396,
+                    35.8897063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5045951,
+                    35.8963872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5135943,
+                    35.8982236
+                ]
+            },
+            "properties": {
+                "name": "National Library"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

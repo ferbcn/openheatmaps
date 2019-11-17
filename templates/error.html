@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Error!
+{% endblock %}
+
+{% block body %}
+<div class="container">
+    <h5>Error</h5>
+    <div id="bottom">
+      <p>{{ message }}</p>
+      <p><a href="{{ link }}"">Continue</a></p>
+    </div>
+</div>
+{% endblock %}

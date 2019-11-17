@@ -1,0 +1,1559 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6470457,
+                    66.072058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9112846,
+                    64.5987091
+                ]
+            },
+            "properties": {
+                "name": "Einkunnir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3358873,
+                    66.0433208
+                ]
+            },
+            "properties": {
+                "name": "Skr\u00fa\u00f0gar\u00f0ur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3064371,
+                    65.0346819
+                ]
+            },
+            "properties": {
+                "name": "Gr\u00e6nafell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9989246,
+                    64.1501997
+                ]
+            },
+            "properties": {
+                "name": "Bakkagardur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9133606,
+                    64.1370848
+                ]
+            },
+            "properties": {
+                "name": "Klambrat\u00fan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8737678,
+                    64.1236161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8730954,
+                    64.1273426
+                ]
+            },
+            "properties": {
+                "name": "Grundarger\u00f0isgar\u00f0ur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.914904,
+                    64.083783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9231931,
+                    64.0851379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9630524,
+                    64.0746392
+                ]
+            },
+            "properties": {
+                "name": "V\u00ed\u00f0ista\u00f0at\u00fan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9442217,
+                    64.0681752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.1185141,
+                    66.07371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9364438,
+                    64.1467552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.247654,
+                    63.4427725
+                ]
+            },
+            "properties": {
+                "name": "Gaujulundur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8234862,
+                    64.0736743
+                ]
+            },
+            "properties": {
+                "name": "Gu\u00f0mundarlundur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9417531,
+                    64.1409965
+                ]
+            },
+            "properties": {
+                "name": "Hlj\u00f3msk\u00e1lagar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9443038,
+                    64.1384798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7356838,
+                    64.152624
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00f3gr\u00e6ktarf\u00e9lag Mosfellsb\u00e6jar \u00ed Hamrahl\u00ed\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8718509,
+                    64.1386074
+                ]
+            },
+            "properties": {
+                "name": "Fj\u00f6lskyldu- og h\u00fasd\u00fdragar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8672317,
+                    64.1373445
+                ]
+            },
+            "properties": {
+                "name": "Fj\u00f6lskyldu- og h\u00fasd\u00fdragar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8720048,
+                    64.142782
+                ]
+            },
+            "properties": {
+                "name": "Grasagar\u00f0ur Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8521073,
+                    64.1278135
+                ]
+            },
+            "properties": {
+                "name": "Steinahl\u00ed\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9203112,
+                    64.5398002
+                ]
+            },
+            "properties": {
+                "name": "Skallagrimsgar\u00f0ur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9443174,
+                    64.1435859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9389855,
+                    64.1434508
+                ]
+            },
+            "properties": {
+                "name": "Hallargar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.1881856,
+                    64.0009391
+                ]
+            },
+            "properties": {
+                "name": "Hverager\u00f0i Geothermal Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.6910719,
+                    64.1685401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9403391,
+                    64.1465422
+                ]
+            },
+            "properties": {
+                "name": "Al\u00feingisgar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9385277,
+                    64.143516
+                ]
+            },
+            "properties": {
+                "name": "Hestar\u00e9tt Thors Jensen, \"Litli Hall\u00f3\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8177484,
+                    64.1100464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8196885,
+                    64.1076205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9305481,
+                    64.1424228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8996627,
+                    64.1356904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9324131,
+                    64.1385517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9093297,
+                    64.1427361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9582063,
+                    64.071518
+                ]
+            },
+            "properties": {
+                "name": "Hellisger\u00f0i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8851883,
+                    64.1415022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9168543,
+                    64.109794
+                ]
+            },
+            "properties": {
+                "name": "R\u00fatst\u00fan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2279233,
+                    63.754493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.3003276,
+                    64.31199
+                ]
+            },
+            "properties": {
+                "name": "Haukadalur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9266405,
+                    64.1428967
+                ]
+            },
+            "properties": {
+                "name": "Frakkland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8575668,
+                    64.1100521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9520857,
+                    64.0709071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8526302,
+                    64.1392377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8810394,
+                    64.148715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8022204,
+                    64.1472004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8608556,
+                    64.125903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7859298,
+                    64.1092305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8405556,
+                    64.0945252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.846876,
+                    64.1018806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.1294343,
+                    66.0757715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.2511572,
+                    66.1571342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9467144,
+                    66.4462784
+                ]
+            },
+            "properties": {
+                "name": "t\u00fan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9510119,
+                    66.443962
+                ]
+            },
+            "properties": {
+                "name": "Pallat\u00fan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9144184,
+                    64.5615057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.3846855,
+                    63.8552225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.6849829,
+                    64.1649182
+                ]
+            },
+            "properties": {
+                "name": "St\u00f3riteigur Mini-Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8703171,
+                    64.1062625
+                ]
+            },
+            "properties": {
+                "name": "K\u00f3pavogsdalur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9020069,
+                    64.1066534
+                ]
+            },
+            "properties": {
+                "name": "Hl\u00ed\u00f0argar\u00f0ur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8966206,
+                    64.1094726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9025435,
+                    64.1094266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8098914,
+                    64.0867693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8532805,
+                    64.115538
+                ]
+            },
+            "properties": {
+                "name": "Yndisgar\u00f0urinn Fossvogi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.837974,
+                    64.0953292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.065937,
+                    64.321447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9603339,
+                    64.074015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9339653,
+                    64.0737211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8645463,
+                    64.150242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9521247,
+                    64.059848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9397748,
+                    64.1472052
+                ]
+            },
+            "properties": {
+                "name": "Austurv\u00f6llur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.3177796,
+                    64.1296587
+                ]
+            },
+            "properties": {
+                "name": "Ungmennaf\u00e9lagsgar\u00f0ur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8682011,
+                    64.1240195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8777538,
+                    64.1233711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8468157,
+                    64.0979597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.375548,
+                    65.269362
+                ]
+            },
+            "properties": {
+                "name": "Sigf\u00fasarlundur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8803633,
+                    64.1474294
+                ]
+            },
+            "properties": {
+                "name": "Fyrrverandi brettav\u00f6llur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9294642,
+                    64.1417967
+                ]
+            },
+            "properties": {
+                "name": "H\u00f6ggmyndagar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.6872992,
+                    65.1480822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8424271,
+                    64.0960664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9450383,
+                    64.1477611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9443633,
+                    64.1476494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9427258,
+                    64.148737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.5400562,
+                    64.0403039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.7468467,
+                    64.0765623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.981926,
+                    63.9364757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9971959,
+                    63.9347504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.4000282,
+                    65.2621791
+                ]
+            },
+            "properties": {
+                "name": "Listigar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.396045,
+                    65.2636866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3888709,
+                    65.2677567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2726189,
+                    63.4370243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0913196,
+                    65.6818142
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00e1tagil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.1827098,
+                    64.0016467
+                ]
+            },
+            "properties": {
+                "name": "Skr\u00fa\u00f0gar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9978295,
+                    63.927443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.997984,
+                    63.9369291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0961152,
+                    65.6794917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.1016461,
+                    65.6803922
+                ]
+            },
+            "properties": {
+                "name": "Hamarkotst\u00fan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0943135,
+                    65.6751828
+                ]
+            },
+            "properties": {
+                "name": "Lystigar\u00f0ur Akureyrar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0904167,
+                    65.6860784
+                ]
+            },
+            "properties": {
+                "name": "Ei\u00f0sv\u00f6llur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0918823,
+                    65.6877044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0977746,
+                    65.6868526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.1235275,
+                    65.693656
+                ]
+            },
+            "properties": {
+                "name": "Seljagar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.1779806,
+                    65.7103976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7999544,
+                    64.1541484
+                ]
+            },
+            "properties": {
+                "name": "Hallsteinsgar\u00f0ur Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0855507,
+                    65.6664578
+                ]
+            },
+            "properties": {
+                "name": "Minjasafnsgar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.677662,
+                    64.1663897
+                ]
+            },
+            "properties": {
+                "name": "Alafoss seasonal market and recreation area"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.6831798,
+                    64.1740583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.6648966,
+                    64.1620343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.700661,
+                    64.1667601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9850358,
+                    64.0792881
+                ]
+            },
+            "properties": {
+                "name": "Bali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7087539,
+                    64.8944129
+                ]
+            },
+            "properties": {
+                "name": "Sj\u00f3mannagar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.0316171,
+                    65.5663099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.948347,
+                    66.462286
+                ]
+            },
+            "properties": {
+                "name": "faxah\u00f6ll"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9488218,
+                    66.445439
+                ]
+            },
+            "properties": {
+                "name": "Berjam\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9611929,
+                    66.4524737
+                ]
+            },
+            "properties": {
+                "name": "Egilssta\u00f0ir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9499064,
+                    66.4586928
+                ]
+            },
+            "properties": {
+                "name": "Hestager\u00f0i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.4135733,
+                    66.142592
+                ]
+            },
+            "properties": {
+                "name": "\u00de\u00f3rsm\u00f6rk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.5479143,
+                    63.9925717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.556115,
+                    64.0017503
+                ]
+            },
+            "properties": {
+                "name": "Skr\u00fa\u00f0gar\u00f0ur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.5467612,
+                    63.9879859
+                ]
+            },
+            "properties": {
+                "name": "Skr\u00fa\u00f0gar\u00f0ur Njar\u00f0v\u00edks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9509459,
+                    64.0719831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8427732,
+                    64.097359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.1202974,
+                    66.1089124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8631488,
+                    64.1446785
+                ]
+            },
+            "properties": {
+                "name": "Kambsv\u00f6llur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8693234,
+                    64.1408607
+                ]
+            },
+            "properties": {
+                "name": "Grasagar\u00f0ur Reykjav\u00edkur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9304695,
+                    64.1469174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9343411,
+                    64.1480261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9341853,
+                    64.1476806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9335194,
+                    64.1476859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9330322,
+                    64.1475786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9321081,
+                    64.1482832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9327227,
+                    64.1478485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9329051,
+                    64.1483063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9333283,
+                    64.1479621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9335575,
+                    64.1481821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.93278,
+                    64.1485704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9319467,
+                    64.1484237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9322117,
+                    64.1484267
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

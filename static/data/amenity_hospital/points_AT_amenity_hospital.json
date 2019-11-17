@@ -1,0 +1,2773 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6041389,
+                    47.2209594
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Stiftung Maria Ebene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3201406,
+                    48.2353812
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Frauenklinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3980293,
+                    48.1951412
+                ]
+            },
+            "properties": {
+                "name": "Herz-Jesu-Krankenhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4109058,
+                    46.9472189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2816669,
+                    48.1607774
+                ]
+            },
+            "properties": {
+                "name": "Neurologisches Zentrum Rosenh\u00fcgel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.205134,
+                    48.3864485
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Stockerau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3860573,
+                    48.2050873
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Sankt Elisabeth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3454714,
+                    48.1923503
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der Barmherzigen Schwestern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0872426,
+                    47.6162253
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Thermenregion Hochegg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9222638,
+                    47.8385036
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der Barmherzigen Br\u00fcder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5279956,
+                    47.0916793
+                ]
+            },
+            "properties": {
+                "name": "Barmherzige Br\u00fcder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.257896,
+                    48.0913958
+                ]
+            },
+            "properties": {
+                "name": "Spital M\u00f6dling, Abtlg Jugendpsychiatrie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5095926,
+                    47.5072726
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3852477,
+                    47.2604852
+                ]
+            },
+            "properties": {
+                "name": "Unfallambulanz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9887397,
+                    46.6995002
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Laas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7605355,
+                    47.4250476
+                ]
+            },
+            "properties": {
+                "name": "Unfallkrankenhaus Kalwang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4671278,
+                    47.3854043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7455172,
+                    47.4968541
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Bregenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3848305,
+                    47.2614901
+                ]
+            },
+            "properties": {
+                "name": "Notaufnahme Allgemeine Chirurgie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5152274,
+                    47.2823792
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0228034,
+                    47.2130928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.539311,
+                    46.8324219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.580626,
+                    48.0096223
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Lilienfeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5118552,
+                    47.2848721
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrisches Krankenhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7402125,
+                    47.4062965
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Dornbirn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.580208,
+                    47.2310752
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Feldkirch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3458191,
+                    48.2164533
+                ]
+            },
+            "properties": {
+                "name": "ISOTOPIX Ambulatorium f\u00fcr Nuklearmedizin GmbH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5672326,
+                    48.2103719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7637302,
+                    47.2742309
+                ]
+            },
+            "properties": {
+                "name": "Ambulatorium Optimed Sportmedizin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.395523,
+                    47.0520436
+                ]
+            },
+            "properties": {
+                "name": "Milit\u00e4rspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6936749,
+                    47.5869164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6943503,
+                    47.5853184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7312396,
+                    47.6513417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3513979,
+                    48.1746512
+                ]
+            },
+            "properties": {
+                "name": "Notaufnahme Kaiser-Franz-Josef-Spital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0876857,
+                    47.9288094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0870616,
+                    46.733406
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Waiern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9761106,
+                    46.9750338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5605327,
+                    48.1205594
+                ]
+            },
+            "properties": {
+                "name": "Medizinische Ambulanz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3102247,
+                    46.9623261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4172255,
+                    47.0597672
+                ]
+            },
+            "properties": {
+                "name": "Dialysezentrum Graz-West"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4659568,
+                    47.0840619
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus-Universit\u00e4tsklinikum Graz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3223544,
+                    47.0500162
+                ]
+            },
+            "properties": {
+                "name": "LKH G\u00fcssing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2884471,
+                    48.3000103
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der barmherzigen Br\u00fcder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3237285,
+                    48.3077859
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Donauregion Klosterneuburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7804236,
+                    47.9163603
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Gmunden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.275657,
+                    48.171246
+                ]
+            },
+            "properties": {
+                "name": "Pavillion 3a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2736478,
+                    48.1706142
+                ]
+            },
+            "properties": {
+                "name": "Pavillion 11, Neurologische Abteilung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3223145,
+                    48.2279534
+                ]
+            },
+            "properties": {
+                "name": "Orthop\u00e4disches Krankenhaus Gersthof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.344074,
+                    48.1727477
+                ]
+            },
+            "properties": {
+                "name": "Unfallkrankenhaus Meidling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.090847,
+                    48.5627841
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Weinviertel Hollabrunn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4196196,
+                    48.2935993
+                ]
+            },
+            "properties": {
+                "name": "Heeresspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0175184,
+                    47.8133574
+                ]
+            },
+            "properties": {
+                "name": "Christian Doppler Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5790777,
+                    47.2306871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7130505,
+                    47.4733478
+                ]
+            },
+            "properties": {
+                "name": "Bezirkskrankenhaus Reutte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5815791,
+                    48.5675501
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Mistelbach-G\u00e4nserndorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0262084,
+                    48.173693
+                ]
+            },
+            "properties": {
+                "name": "Klinikum Wels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3510414,
+                    48.1735527
+                ]
+            },
+            "properties": {
+                "name": "Sozialmedizinisches Zentrum S\u00fcd - Kaiser-Franz-Josef-Spital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6156832,
+                    48.4120096
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsklinikum Krems"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2034252,
+                    47.2798849
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Oberwart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6381199,
+                    48.0032693
+                ]
+            },
+            "properties": {
+                "name": "Strahlenzentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6138837,
+                    47.710279
+                ]
+            },
+            "properties": {
+                "name": "Herz-Kreislauf-Sonderkrankenanstalt d Sozialversicherungsanstalt d gewerbl Wirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6270231,
+                    48.2144524
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsklinikum St. P\u00f6lten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2855576,
+                    48.8128984
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Waldviertel Waidhofen/Thaya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6613308,
+                    48.6685961
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Waldviertel Horn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3049437,
+                    46.6341491
+                ]
+            },
+            "properties": {
+                "name": "Klinikum Klagenfurt am W\u00f6rthersee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5095684,
+                    47.5070596
+                ]
+            },
+            "properties": {
+                "name": "Allgemein \u00f6ffentliches Krankenhaus Oberpullendorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5584696,
+                    46.7698991
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Wagna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.435669,
+                    48.4552567
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Sch\u00e4rding"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6386652,
+                    48.002271
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus V\u00f6cklabruck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1277168,
+                    47.102526
+                ]
+            },
+            "properties": {
+                "name": "Sonderkrankenanstalt der Bauern, Bauernkrankenkasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3665446,
+                    47.2395657
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Natters"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0260582,
+                    48.1735991
+                ]
+            },
+            "properties": {
+                "name": "Bau 6 - Eltern-Kind-Zentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0850159,
+                    47.3803056
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Hochsteiermark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2969478,
+                    48.2808832
+                ]
+            },
+            "properties": {
+                "name": "Kepler Universit\u00e4tsklinikum - Neuromed Campus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2961398,
+                    46.6182167
+                ]
+            },
+            "properties": {
+                "name": "Unfallkrankenhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0340422,
+                    47.8075873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2941354,
+                    48.3048576
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der Elisabethinen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3053832,
+                    48.3033837
+                ]
+            },
+            "properties": {
+                "name": "Kepler Universit\u00e4tsklinikum - Med Campus\u00a0III"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3089276,
+                    48.3044714
+                ]
+            },
+            "properties": {
+                "name": "Unfallkrankenhaus Linz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2885608,
+                    48.2991077
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der barmherzigen Schwestern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3467376,
+                    47.5655318
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Abtenau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3980807,
+                    47.0786791
+                ]
+            },
+            "properties": {
+                "name": "Unfallkrankenhaus Graz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3995497,
+                    47.0777264
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Graz S\u00fcd-West, Standort West"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.392916,
+                    47.0790133
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der Barmherzigen Br\u00fcder Graz-Eggenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3282609,
+                    48.7009984
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Waldviertel Allentsteig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1882408,
+                    47.1187434
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Stolzalpe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1937758,
+                    47.1206241
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Stolzalpe HausII"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3004639,
+                    48.2108626
+                ]
+            },
+            "properties": {
+                "name": "Wilhelminenspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2918925,
+                    48.1995718
+                ]
+            },
+            "properties": {
+                "name": "Hanusch-Krankenhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3402429,
+                    48.197849
+                ]
+            },
+            "properties": {
+                "name": "Sozialmedizinisches Zentrum Sophienspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5803262,
+                    48.0093928
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Voralpen Lilienfeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.285224,
+                    48.8125822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2851233,
+                    48.812911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2447176,
+                    47.283292
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Hochzirl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.788464,
+                    47.9528106
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Mostviertel Waidhofen/Ybbs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2670053,
+                    47.4229038
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Bruck an der Mur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8827734,
+                    47.4044271
+                ]
+            },
+            "properties": {
+                "name": "Marienkrankenhaus Vorau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1409198,
+                    47.0521952
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Voitsberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2771693,
+                    48.2098144
+                ]
+            },
+            "properties": {
+                "name": "Otto-Wagner-Spital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1404317,
+                    47.0524825
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Voitsberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.230693,
+                    46.8120796
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Deutschlandsberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0307699,
+                    47.806236
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Salzburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3370127,
+                    48.3434463
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Weinviertel Korneuburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3534516,
+                    46.769158
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der Barmherzigen Br\u00fcder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3451611,
+                    48.1691981
+                ]
+            },
+            "properties": {
+                "name": "Ambulatorium S\u00fcd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.426267,
+                    47.0695838
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der Elisabethinen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3058077,
+                    48.3011821
+                ]
+            },
+            "properties": {
+                "name": "Kepler Universit\u00e4tsklinikum - Med Campus\u00a0IV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3016032,
+                    48.3045013
+                ]
+            },
+            "properties": {
+                "name": "Diakonissen-Krankenhaus Linz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5936364,
+                    47.1616308
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus St.\u202fVinzenz Zams"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.957629,
+                    48.1430537
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Thermenregion Hainburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.763996,
+                    46.8353581
+                ]
+            },
+            "properties": {
+                "name": "Bezirkskrankenhaus Lienz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6243758,
+                    47.7061358
+                ]
+            },
+            "properties": {
+                "name": "LKH Bad Ischl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3931338,
+                    48.0447
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Steyr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0241038,
+                    48.1736348
+                ]
+            },
+            "properties": {
+                "name": "Bau 0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6812515,
+                    47.3629119
+                ]
+            },
+            "properties": {
+                "name": "LKH Hohenems"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3241605,
+                    47.2705478
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Theresienhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1244277,
+                    47.9085451
+                ]
+            },
+            "properties": {
+                "name": "LKH Kirchdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1501487,
+                    47.5713033
+                ]
+            },
+            "properties": {
+                "name": "A. \u00f6. Bezirkskrankenhaus Kufstein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.298827,
+                    46.6329589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8575463,
+                    46.6158779
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3911704,
+                    48.1958702
+                ]
+            },
+            "properties": {
+                "name": "Krankenanstalt Rudolfstiftung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3028534,
+                    46.6316192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9470266,
+                    47.9365107
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus/Rehabilitationszentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.509372,
+                    47.5079907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2963656,
+                    46.6274106
+                ]
+            },
+            "properties": {
+                "name": "Privatklinik Maria Hilf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2623535,
+                    48.194068
+                ]
+            },
+            "properties": {
+                "name": "St. Josef Krankenhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2529469,
+                    48.0000233
+                ]
+            },
+            "properties": {
+                "name": "Thermenklinikum Baden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0770684,
+                    47.7879918
+                ]
+            },
+            "properties": {
+                "name": "Diakonissen-Krankenhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9771178,
+                    47.3261426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1126417,
+                    47.6853087
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Hallein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3812223,
+                    48.2151401
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der Barmherzigen Br\u00fcder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2484737,
+                    47.8151127
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Wiener Neustadt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3671104,
+                    47.5253158
+                ]
+            },
+            "properties": {
+                "name": "LKH Rottenmann"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3685137,
+                    47.5247349
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Rottenmann"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2746952,
+                    48.1722435
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Hietzing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3468788,
+                    48.2436555
+                ]
+            },
+            "properties": {
+                "name": "Rudolfinerhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8204811,
+                    48.2383926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8207283,
+                    48.2382404
+                ]
+            },
+            "properties": {
+                "name": "Klinikum Grieskirchen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.404781,
+                    48.2543324
+                ]
+            },
+            "properties": {
+                "name": "Sozialmedizinisches Zentrum Floridsdorf, Geriatriezentrum, SMZ Nord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4061603,
+                    48.2539328
+                ]
+            },
+            "properties": {
+                "name": "Sozialmedizinisches Zentrum Floridsdorf, Krankenhaus, SMZ Nord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2746466,
+                    48.171526
+                ]
+            },
+            "properties": {
+                "name": "Pavillion VII"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0656757,
+                    48.0927071
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Kittsee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6763315,
+                    47.3920753
+                ]
+            },
+            "properties": {
+                "name": "Klinik Diakonissen Schladming"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.311199,
+                    47.1373015
+                ]
+            },
+            "properties": {
+                "name": "LKH H\u00f6rgas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.992111,
+                    46.6922027
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Bad Radkersburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8823503,
+                    47.5467635
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Hochsteiermark Standort Eisenerz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8815829,
+                    46.9507177
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Feldbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0854515,
+                    47.0467847
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus F\u00fcrstenfeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9668988,
+                    47.2730569
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Hartberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6555788,
+                    47.1660657
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Judenburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8204471,
+                    47.2153974
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Knittelfeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3046061,
+                    47.7892812
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Mariazell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6683891,
+                    47.6000342
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus M\u00fcrzzuschlag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6367426,
+                    47.212564
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Weiz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.112522,
+                    47.6853374
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Hallein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8207834,
+                    47.1596454
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Bludenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7784522,
+                    47.9144663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3221627,
+                    48.2278522
+                ]
+            },
+            "properties": {
+                "name": "Orthop\u00e4disches Krankenhaus Gersthof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0562241,
+                    47.7993089
+                ]
+            },
+            "properties": {
+                "name": "Unfallkrankenhaus Salzburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.917799,
+                    48.2314709
+                ]
+            },
+            "properties": {
+                "name": "Gesundheitszentrum Linzerheim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9172909,
+                    48.2316754
+                ]
+            },
+            "properties": {
+                "name": "Ambulatorium Kurhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3459339,
+                    48.2240351
+                ]
+            },
+            "properties": {
+                "name": "Evangelisches Krankenhaus Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3464822,
+                    48.2239185
+                ]
+            },
+            "properties": {
+                "name": "Evangelisches Krankenhaus Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8093774,
+                    47.129165
+                ]
+            },
+            "properties": {
+                "name": "Landesklinik Tamsweg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7743263,
+                    47.6066301
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Bad Aussee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8102483,
+                    48.2067097
+                ]
+            },
+            "properties": {
+                "name": "Zeileis Gesundheitszentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3036236,
+                    48.2283775
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus G\u00f6ttlicher Heiland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.087052,
+                    46.7333714
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliches Krankenhaus WAIERN / Feldkirchen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4911705,
+                    46.8019631
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Spittal/Drau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7046467,
+                    47.3444907
+                ]
+            },
+            "properties": {
+                "name": "Bezirkskrankenhaus Schwaz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8056383,
+                    48.0920043
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Mostviertel Amstetten-Mauer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2972365,
+                    48.0893666
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Thermenregion M\u00f6dling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.483351,
+                    47.1817112
+                ]
+            },
+            "properties": {
+                "name": "Sonderkrankenanstalt Rehabilitationszentrum St. Radegund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4298156,
+                    47.5207406
+                ]
+            },
+            "properties": {
+                "name": "Bezirkskrankenhaus St. Johann in Tirol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0515593,
+                    47.7974119
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Barmherzige Br\u00fcder Salzburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5807797,
+                    47.2314144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6473235,
+                    47.2603221
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Rankweil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2820922,
+                    48.1636413
+                ]
+            },
+            "properties": {
+                "name": "Orthop\u00e4disches Spital Speising"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4636839,
+                    48.2179371
+                ]
+            },
+            "properties": {
+                "name": "Donauspital / SMZ-Ost"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3866274,
+                    47.2620872
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsklinik Innsbruck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3588613,
+                    48.2393278
+                ]
+            },
+            "properties": {
+                "name": "Privatklinik D\u00f6bling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4320106,
+                    47.0718585
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der Barmherzigen Br\u00fcder Graz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0655082,
+                    48.3221401
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsklinikum Tulln"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6830744,
+                    47.8573979
+                ]
+            },
+            "properties": {
+                "name": "Sonderkrankenanstalt Rehabilitationszentrum Weyer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8149074,
+                    47.3392159
+                ]
+            },
+            "properties": {
+                "name": "Tauernklinikum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.483945,
+                    47.2810313
+                ]
+            },
+            "properties": {
+                "name": "A.\u00f6. Tauernklinikum Mittersill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5142079,
+                    47.2838691
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9575193,
+                    48.1427681
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Thermenregion Hainburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3401066,
+                    48.2266381
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Mostviertel Melk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1622189,
+                    48.5998067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9752108,
+                    48.7611866
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Gm\u00fcnd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4891443,
+                    46.8737242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9823076,
+                    48.5709823
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Rohrbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5138737,
+                    47.8466873
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der Barmherzigen Br\u00fcder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4979402,
+                    48.4922612
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Freistadt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1621035,
+                    48.5998183
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Zwettl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2820431,
+                    48.1634839
+                ]
+            },
+            "properties": {
+                "name": "Orthop\u00e4disches Spital Speising"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1537007,
+                    47.321696
+                ]
+            },
+            "properties": {
+                "name": "Kardinal Schwarzenberg Klinikum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3443677,
+                    48.2161983
+                ]
+            },
+            "properties": {
+                "name": "St. Anna Kinderspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3816643,
+                    48.2151407
+                ]
+            },
+            "properties": {
+                "name": "KH der Barmherzigen Br\u00fcder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1609612,
+                    47.3322531
+                ]
+            },
+            "properties": {
+                "name": "Landesklinik St. Veit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.31737,
+                    46.626093
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus der Elisabethinen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8480768,
+                    46.8330678
+                ]
+            },
+            "properties": {
+                "name": "LKH Wolfsberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.362257,
+                    48.1883316
+                ]
+            },
+            "properties": {
+                "name": "Franziskus Spital Margareten GmbH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3834435,
+                    48.2369047
+                ]
+            },
+            "properties": {
+                "name": "Unfallkrankenhaus Lorenz B\u00f6hler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3031265,
+                    47.1453506
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus H\u00f6rgas-Enzenbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7381077,
+                    47.1908473
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Judenburg-Knittelfeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0751394,
+                    47.4631531
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Hochsteiermark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4870939,
+                    47.6941792
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus M\u00fcrzzuschlag-Mariazell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3685137,
+                    47.5247349
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Rottenmann-Bad Aussee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1630536,
+                    48.01209
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Mostviertel Scheibbs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3476622,
+                    48.2199724
+                ]
+            },
+            "properties": {
+                "name": "Allgemeines Krankenhaus Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0562578,
+                    47.7993041
+                ]
+            },
+            "properties": {
+                "name": "Unfallkrankenhaus Salzburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0334414,
+                    48.2559731
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus St. Josef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4106644,
+                    47.0567982
+                ]
+            },
+            "properties": {
+                "name": "Landeskrankenhaus Graz S\u00fcd-West"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0867068,
+                    47.7262894
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Neunkirchen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4925345,
+                    48.2104748
+                ]
+            },
+            "properties": {
+                "name": "Allgemeines \u00d6ffentliches Krankenhaus der Barmherzigen Schwestern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8812087,
+                    48.1276027
+                ]
+            },
+            "properties": {
+                "name": "Landesklinikum Mostviertel"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

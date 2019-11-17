@@ -1,0 +1,1256 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2021461,
+                    42.8506893
+                ]
+            },
+            "properties": {
+                "name": "M-Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2743165,
+                    42.4360685
+                ]
+            },
+            "properties": {
+                "name": "Lukoil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2465831,
+                    42.4473327
+                ]
+            },
+            "properties": {
+                "name": "Euro Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2322063,
+                    42.4286191
+                ]
+            },
+            "properties": {
+                "name": "Montenegro petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9298289,
+                    42.3884092
+                ]
+            },
+            "properties": {
+                "name": "Eko Cetinje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8074152,
+                    42.2932426
+                ]
+            },
+            "properties": {
+                "name": "Lukoil - Jaz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7486813,
+                    42.3806017
+                ]
+            },
+            "properties": {
+                "name": "Eko Radanovi\u0107i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2326331,
+                    42.4372342
+                ]
+            },
+            "properties": {
+                "name": "Lukoil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7695822,
+                    42.4194003
+                ]
+            },
+            "properties": {
+                "name": "Eko Kotor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.274434,
+                    42.4186017
+                ]
+            },
+            "properties": {
+                "name": "Dekar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.739197,
+                    42.3896982
+                ]
+            },
+            "properties": {
+                "name": "Vuk Petrol Radanovi\u0107i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5566646,
+                    42.4545737
+                ]
+            },
+            "properties": {
+                "name": "Eko Meljine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2291567,
+                    41.9271169
+                ]
+            },
+            "properties": {
+                "name": "Kalamper Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2187028,
+                    41.9371086
+                ]
+            },
+            "properties": {
+                "name": "Eko Ulcinj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2968278,
+                    42.0047379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3102056,
+                    42.0093974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2343973,
+                    42.4363896
+                ]
+            },
+            "properties": {
+                "name": "CMC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3342671,
+                    42.507642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3059263,
+                    42.4841245
+                ]
+            },
+            "properties": {
+                "name": "N Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9366561,
+                    42.5995508
+                ]
+            },
+            "properties": {
+                "name": "EKO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7444368,
+                    42.9933481
+                ]
+            },
+            "properties": {
+                "name": "Eko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.870947,
+                    42.8475547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5775482,
+                    42.9639327
+                ]
+            },
+            "properties": {
+                "name": "Eko Mojkovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1263944,
+                    43.1536229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0954564,
+                    42.9578289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.112833,
+                    42.5382403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8460943,
+                    43.1577135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9398686,
+                    42.7472713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7170367,
+                    42.4157743
+                ]
+            },
+            "properties": {
+                "name": "Mivis Tivat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.33301,
+                    42.34684
+                ]
+            },
+            "properties": {
+                "name": "Lukoil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5033667,
+                    42.4556907
+                ]
+            },
+            "properties": {
+                "name": "Eko Igalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.092675,
+                    42.1018955
+                ]
+            },
+            "properties": {
+                "name": "Eko Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0942559,
+                    42.1071002
+                ]
+            },
+            "properties": {
+                "name": "Eko Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5346835,
+                    42.44994
+                ]
+            },
+            "properties": {
+                "name": "Eko Petrol - \u0160kver"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3231704,
+                    42.3734608
+                ]
+            },
+            "properties": {
+                "name": "Castellana Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1257885,
+                    42.0806373
+                ]
+            },
+            "properties": {
+                "name": "Kalamper Petrol Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7153199,
+                    42.4197238
+                ]
+            },
+            "properties": {
+                "name": "INA Tivat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6989706,
+                    42.4331738
+                ]
+            },
+            "properties": {
+                "name": "Eko Tivat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9344463,
+                    42.3488631
+                ]
+            },
+            "properties": {
+                "name": "Eko Helenik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9639327,
+                    42.2006781
+                ]
+            },
+            "properties": {
+                "name": "Eko Buljarica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.459131,
+                    42.4795399
+                ]
+            },
+            "properties": {
+                "name": "Lukoil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7649911,
+                    42.4157875
+                ]
+            },
+            "properties": {
+                "name": "Vuk Petrol - Kotor, Skaljari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0490023,
+                    42.140374
+                ]
+            },
+            "properties": {
+                "name": "Sutomore Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.226877,
+                    42.3654325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9406186,
+                    42.7802776
+                ]
+            },
+            "properties": {
+                "name": "EKO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1606416,
+                    42.3959747
+                ]
+            },
+            "properties": {
+                "name": "Vuk Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2312154,
+                    42.4367244
+                ]
+            },
+            "properties": {
+                "name": "Eko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2722095,
+                    42.4410924
+                ]
+            },
+            "properties": {
+                "name": "Eko petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2872043,
+                    42.4544606
+                ]
+            },
+            "properties": {
+                "name": "Eko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.508492,
+                    42.8096169
+                ]
+            },
+            "properties": {
+                "name": "Eko Kola\u0161in"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5779612,
+                    42.9571762
+                ]
+            },
+            "properties": {
+                "name": "INA Mojkovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7704409,
+                    43.0539288
+                ]
+            },
+            "properties": {
+                "name": "Pavgord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7757097,
+                    43.1059912
+                ]
+            },
+            "properties": {
+                "name": "Lukoil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6963421,
+                    42.5107628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.103999,
+                    42.5445739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7400922,
+                    42.3931886
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8838036,
+                    42.8576
+                ]
+            },
+            "properties": {
+                "name": "Albino petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7603692,
+                    43.0412359
+                ]
+            },
+            "properties": {
+                "name": "Lukoil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7480714,
+                    43.0368085
+                ]
+            },
+            "properties": {
+                "name": "Jugo Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8907386,
+                    42.8482076
+                ]
+            },
+            "properties": {
+                "name": "Montenegrogas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2317227,
+                    42.430333
+                ]
+            },
+            "properties": {
+                "name": "Eko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7906453,
+                    42.7340296
+                ]
+            },
+            "properties": {
+                "name": "Jugopetrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7700405,
+                    42.4205732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9516563,
+                    42.7661767
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3524092,
+                    43.3493017
+                ]
+            },
+            "properties": {
+                "name": "C M C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7709056,
+                    43.0424681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2545826,
+                    42.4191194
+                ]
+            },
+            "properties": {
+                "name": "EKO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2552383,
+                    42.4212996
+                ]
+            },
+            "properties": {
+                "name": "EKO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9531269,
+                    42.7748031
+                ]
+            },
+            "properties": {
+                "name": "Vjenniko petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9493694,
+                    42.7687355
+                ]
+            },
+            "properties": {
+                "name": "EKO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.063968,
+                    42.1346565
+                ]
+            },
+            "properties": {
+                "name": "Euromont Sutomore - Gas Delivery Services"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2347898,
+                    41.9235105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7888376,
+                    43.0012094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.222877,
+                    42.3565461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.226675,
+                    42.3634116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.10566,
+                    42.5591685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1868713,
+                    42.4554161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1674252,
+                    42.4820592
+                ]
+            },
+            "properties": {
+                "name": "INA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2450923,
+                    42.4264481
+                ]
+            },
+            "properties": {
+                "name": "EKO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5257216,
+                    42.8488956
+                ]
+            },
+            "properties": {
+                "name": "Lukoil Kola\u0161in"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6536052,
+                    42.4537503
+                ]
+            },
+            "properties": {
+                "name": "Raj Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6989577,
+                    42.4331738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9336678,
+                    42.3874861
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9391816,
+                    42.7597671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.596638,
+                    42.7306019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8444731,
+                    42.2886075
+                ]
+            },
+            "properties": {
+                "name": "Eko Budva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9149714,
+                    42.2198563
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4941045,
+                    42.4566667
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8462053,
+                    43.1575603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8443216,
+                    42.2881666
+                ]
+            },
+            "properties": {
+                "name": "Eko Budva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7731681,
+                    43.0993089
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2942111,
+                    42.4632802
+                ]
+            },
+            "properties": {
+                "name": "EKO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2667054,
+                    42.4306189
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2644563,
+                    42.4557341
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3581047,
+                    43.3498963
+                ]
+            },
+            "properties": {
+                "name": "Mat Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3506571,
+                    43.3491165
+                ]
+            },
+            "properties": {
+                "name": "Eko Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9366476,
+                    42.5995204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3056644,
+                    42.4843261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2314741,
+                    42.430233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7913534,
+                    43.0002806
+                ]
+            },
+            "properties": {
+                "name": "Petrol Zaton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0941943,
+                    42.1071661
+                ]
+            },
+            "properties": {
+                "name": "\u0417\u0430\u043f\u0440\u0430\u0432\u043a\u0430"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2365002,
+                    42.447274
+                ]
+            },
+            "properties": {
+                "name": "LukOil"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,1892 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.429594,
+                    59.1076783
+                ]
+            },
+            "properties": {
+                "name": "Iddebo sykehjem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3867312,
+                    63.4199385
+                ]
+            },
+            "properties": {
+                "name": "St. Olavs hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7589411,
+                    59.9167631
+                ]
+            },
+            "properties": {
+                "name": "Oslo Legevakt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5125489,
+                    62.7818678
+                ]
+            },
+            "properties": {
+                "name": "Molde sjukehus, psykiatrisk avdeling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6968033,
+                    59.4472134
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset \u00d8stfold Moss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4745484,
+                    59.8213405
+                ]
+            },
+            "properties": {
+                "name": "Blakstad sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4728347,
+                    61.1126535
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset Innlandet HF Lillehammer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2500967,
+                    63.3517148
+                ]
+            },
+            "properties": {
+                "name": "Ringv\u00e5l avlastningsavdeling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2900778,
+                    63.741931
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset Levanger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.719304,
+                    59.9498856
+                ]
+            },
+            "properties": {
+                "name": "Gaustad sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3807166,
+                    68.8532573
+                ]
+            },
+            "properties": {
+                "name": "Troms Milit\u00e6re Sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3570575,
+                    60.3115999
+                ]
+            },
+            "properties": {
+                "name": "Solli Sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6051803,
+                    59.8803032
+                ]
+            },
+            "properties": {
+                "name": "Rjukan sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9943253,
+                    60.1949347
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset Innlandet Kongsvinger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0714668,
+                    60.7984221
+                ]
+            },
+            "properties": {
+                "name": "Hamar sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8330985,
+                    58.7093371
+                ]
+            },
+            "properties": {
+                "name": "Omsorgcenter Landeskogen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7089023,
+                    59.9151302
+                ]
+            },
+            "properties": {
+                "name": "R\u00f8de Kors Klinikken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.18499,
+                    59.3073236
+                ]
+            },
+            "properties": {
+                "name": "Andebu legesenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7900139,
+                    59.8296466
+                ]
+            },
+            "properties": {
+                "name": "Valen Sjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5497945,
+                    60.058701
+                ]
+            },
+            "properties": {
+                "name": "Odda sjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.565579,
+                    60.6303407
+                ]
+            },
+            "properties": {
+                "name": "Hallingdal Sjukestugu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9315,
+                    63.4686025
+                ]
+            },
+            "properties": {
+                "name": "DMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8813605,
+                    60.0432752
+                ]
+            },
+            "properties": {
+                "name": "Nittedal legevakt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6609433,
+                    59.9306007
+                ]
+            },
+            "properties": {
+                "name": "Radiumhospitalet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5333426,
+                    59.211924
+                ]
+            },
+            "properties": {
+                "name": "Valle Hellesenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.615403,
+                    60.9537243
+                ]
+            },
+            "properties": {
+                "name": "Biri helsestasjon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.74689,
+                    59.933466
+                ]
+            },
+            "properties": {
+                "name": "Lovisenberg sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3948634,
+                    60.1798369
+                ]
+            },
+            "properties": {
+                "name": "Kysthospitalet i Hagavik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8025774,
+                    58.0952676
+                ]
+            },
+            "properties": {
+                "name": "DPS Lister"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5374061,
+                    68.11983
+                ]
+            },
+            "properties": {
+                "name": "Gravdal sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0316206,
+                    58.987022
+                ]
+            },
+            "properties": {
+                "name": "Kysthospitalet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7162721,
+                    63.112824
+                ]
+            },
+            "properties": {
+                "name": "Rokilde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5355482,
+                    61.2098222
+                ]
+            },
+            "properties": {
+                "name": "Balestrand helsesenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3784962,
+                    62.5767945
+                ]
+            },
+            "properties": {
+                "name": "R\u00f8ros sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.878933,
+                    60.112459
+                ]
+            },
+            "properties": {
+                "name": "Glittreklinikken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0409829,
+                    59.9535642
+                ]
+            },
+            "properties": {
+                "name": "Lillestr\u00f8m legevakt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9466366,
+                    59.9286596
+                ]
+            },
+            "properties": {
+                "name": "Rolvsrud sykehjem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1740106,
+                    70.1987805
+                ]
+            },
+            "properties": {
+                "name": "Helsesenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4365408,
+                    67.2861596
+                ]
+            },
+            "properties": {
+                "name": "R\u00f8nvik sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0679924,
+                    63.2889148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4730574,
+                    61.1131558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5682076,
+                    67.2891111
+                ]
+            },
+            "properties": {
+                "name": "M\u00f8rkved legesenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4147583,
+                    67.2777896
+                ]
+            },
+            "properties": {
+                "name": "Bod\u00f8 Legevakt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.665859,
+                    58.2985339
+                ]
+            },
+            "properties": {
+                "name": "S\u00f8rlandet Sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0178609,
+                    58.4656002
+                ]
+            },
+            "properties": {
+                "name": "Dalane DMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2133325,
+                    69.5763735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0766339,
+                    69.3543044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6185946,
+                    66.0182243
+                ]
+            },
+            "properties": {
+                "name": "Helgelandssykehuset Sandnessj\u00f8en"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4179397,
+                    59.2726665
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset i Vestfold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5072769,
+                    59.8978177
+                ]
+            },
+            "properties": {
+                "name": "Martina Hansens hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0841215,
+                    69.7274181
+                ]
+            },
+            "properties": {
+                "name": "Klinikk Kirkenes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1844766,
+                    60.9037462
+                ]
+            },
+            "properties": {
+                "name": "R\u00f8de Kors Aurland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9989862,
+                    62.4050325
+                ]
+            },
+            "properties": {
+                "name": "Tolga sjukehjem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3016636,
+                    61.314036
+                ]
+            },
+            "properties": {
+                "name": "NAV \u00d8yer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3019211,
+                    61.3134799
+                ]
+            },
+            "properties": {
+                "name": "\u00d8yer helsestasjon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3253913,
+                    59.4189632
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset Telemark - seksjon for sykelig overvekt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.360474,
+                    60.3779457
+                ]
+            },
+            "properties": {
+                "name": "Volvat Bergen - Avd. Ulriksdal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3593555,
+                    60.3740306
+                ]
+            },
+            "properties": {
+                "name": "Haukeland Universitetssjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0239951,
+                    58.1595633
+                ]
+            },
+            "properties": {
+                "name": "Kongsg\u00e5rdheimen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7390579,
+                    59.9391306
+                ]
+            },
+            "properties": {
+                "name": "Oslo universitetssykehus (Ullev\u00e5l)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7924752,
+                    59.9385333
+                ]
+            },
+            "properties": {
+                "name": "Aker universitetssykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7047262,
+                    59.9363441
+                ]
+            },
+            "properties": {
+                "name": "Diakonhjemmet sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3574275,
+                    60.3734092
+                ]
+            },
+            "properties": {
+                "name": "Haukeland universitetssjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9833452,
+                    69.6828941
+                ]
+            },
+            "properties": {
+                "name": "Universitetssykehuset Nord-Norge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9820732,
+                    58.1643882
+                ]
+            },
+            "properties": {
+                "name": "S\u00f8rlandet Sykehus HF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7759904,
+                    62.2702166
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset Innlandet Tynset"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6105779,
+                    59.2208897
+                ]
+            },
+            "properties": {
+                "name": "Gjerpen sykehjem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.640868,
+                    59.8349613
+                ]
+            },
+            "properties": {
+                "name": "Sunnaas sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3862847,
+                    63.4195737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3854551,
+                    63.4208314
+                ]
+            },
+            "properties": {
+                "name": "Gastrosenteret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5116829,
+                    59.7927576
+                ]
+            },
+            "properties": {
+                "name": "Stord sjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8154662,
+                    59.8183198
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8y\u00e5s Bo og Rehab senter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9950031,
+                    59.9314479
+                ]
+            },
+            "properties": {
+                "name": "Akershus universitetssykehus (AHUS)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7121384,
+                    59.9422253
+                ]
+            },
+            "properties": {
+                "name": "Diakonhjemmet sykehus Vinderen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4750247,
+                    68.21285
+                ]
+            },
+            "properties": {
+                "name": "Marithaugen Sykehjem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0294333,
+                    58.9881816
+                ]
+            },
+            "properties": {
+                "name": "Kysthospitalet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4798852,
+                    63.4208763
+                ]
+            },
+            "properties": {
+                "name": "\u00d8stbyen Helsehus avdeling Leistad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4467068,
+                    63.4233842
+                ]
+            },
+            "properties": {
+                "name": "Trondsletten Rehabiliteringssenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7943869,
+                    59.9387444
+                ]
+            },
+            "properties": {
+                "name": "Aker sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5248392,
+                    68.7962825
+                ]
+            },
+            "properties": {
+                "name": "Harstad sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5236745,
+                    68.7966784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4129869,
+                    68.4420995
+                ]
+            },
+            "properties": {
+                "name": "Narvik sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9807889,
+                    58.1642131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9371363,
+                    59.2496462
+                ]
+            },
+            "properties": {
+                "name": "Veum sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1601515,
+                    60.7817175
+                ]
+            },
+            "properties": {
+                "name": "Sanderud sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5098847,
+                    59.8982762
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset Asker og B\u00e6rum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4519069,
+                    63.4533839
+                ]
+            },
+            "properties": {
+                "name": "\u00d8stmarka psykiatriske sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9590461,
+                    59.9182547
+                ]
+            },
+            "properties": {
+                "name": "L\u00f8reskog sykehjem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2552972,
+                    60.1482001
+                ]
+            },
+            "properties": {
+                "name": "Ringerike Sykehus HF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2964862,
+                    58.8926577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2963237,
+                    58.8924095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6625828,
+                    59.9309528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2554127,
+                    59.5663069
+                ]
+            },
+            "properties": {
+                "name": "Notodden sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2124151,
+                    65.8305973
+                ]
+            },
+            "properties": {
+                "name": "Mosj\u00f8en sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2122898,
+                    65.831251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2128659,
+                    65.8311648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7346352,
+                    58.9524066
+                ]
+            },
+            "properties": {
+                "name": "Stavanger Universitetssjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5961822,
+                    59.2091395
+                ]
+            },
+            "properties": {
+                "name": "Betanien hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7244857,
+                    63.1082947
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset i Kristiansund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6457774,
+                    68.9754378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4203702,
+                    60.6332242
+                ]
+            },
+            "properties": {
+                "name": "Voss sjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.166167,
+                    60.4774546
+                ]
+            },
+            "properties": {
+                "name": "Feiringklinikken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.605251,
+                    59.8804094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1771454,
+                    70.1992059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6449128,
+                    78.2200179
+                ]
+            },
+            "properties": {
+                "name": "Longyearbyen sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0745244,
+                    69.3554952
+                ]
+            },
+            "properties": {
+                "name": "Gibostad Servicesenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.680262,
+                    60.8026746
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset Innlandet HF Gj\u00f8vik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4053539,
+                    58.8797783
+                ]
+            },
+            "properties": {
+                "name": "Krager\u00f8 sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4056211,
+                    58.8790701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5301063,
+                    61.2039988
+                ]
+            },
+            "properties": {
+                "name": "Helsetunet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1933347,
+                    60.3825351
+                ]
+            },
+            "properties": {
+                "name": "Stensby sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2556836,
+                    59.5663901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7060673,
+                    66.8741907
+                ]
+            },
+            "properties": {
+                "name": "\u00d8rnes omsorgssenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0242768,
+                    59.3185117
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset \u00d8stfold Kalnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7553499,
+                    58.4669645
+                ]
+            },
+            "properties": {
+                "name": "S\u00f8rlandet Sykehus Arendal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9781797,
+                    61.9162099
+                ]
+            },
+            "properties": {
+                "name": "Nordfjord sjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5017078,
+                    66.7994095
+                ]
+            },
+            "properties": {
+                "name": "Vall Sykehjem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.313317,
+                    62.4638315
+                ]
+            },
+            "properties": {
+                "name": "\u00c5lesund sjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.29594,
+                    58.8926695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1384894,
+                    62.7368409
+                ]
+            },
+            "properties": {
+                "name": "Molde Sjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8439512,
+                    59.7264348
+                ]
+            },
+            "properties": {
+                "name": "Ski sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2171812,
+                    78.0616269
+                ]
+            },
+            "properties": {
+                "name": "Barentsburg Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6454269,
+                    60.6818958
+                ]
+            },
+            "properties": {
+                "name": "Reinsvoll sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7150008,
+                    59.9491375
+                ]
+            },
+            "properties": {
+                "name": "Oslo universitetssykehus (Rikshospitalet)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3969164,
+                    67.2830383
+                ]
+            },
+            "properties": {
+                "name": "Nordlandsykehuset"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9102323,
+                    68.5599874
+                ]
+            },
+            "properties": {
+                "name": "Stokmarknes sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1988049,
+                    59.7483551
+                ]
+            },
+            "properties": {
+                "name": "Drammen sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5725393,
+                    60.8767758
+                ]
+            },
+            "properties": {
+                "name": "Elverum sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5048809,
+                    64.4706211
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset Namsos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5921148,
+                    59.1922829
+                ]
+            },
+            "properties": {
+                "name": "Sykehuset Telemark, Skien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1857683,
+                    66.3259811
+                ]
+            },
+            "properties": {
+                "name": "Helgelandssykehuset Mo i Rana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6715406,
+                    70.6730574
+                ]
+            },
+            "properties": {
+                "name": "Hammerfest sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2791741,
+                    59.4091799
+                ]
+            },
+            "properties": {
+                "name": "Haugesund sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0358168,
+                    69.7663697
+                ]
+            },
+            "properties": {
+                "name": "Sonjatun helsesenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5190363,
+                    61.1020839
+                ]
+            },
+            "properties": {
+                "name": "L\u00e6rdal sjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3755782,
+                    59.1287124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.089968,
+                    62.149295
+                ]
+            },
+            "properties": {
+                "name": "Volda Sjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2765804,
+                    69.9683486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2123442,
+                    59.1338846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2124404,
+                    59.1351796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2124733,
+                    59.1348568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2552176,
+                    60.1483856
+                ]
+            },
+            "properties": {
+                "name": "Ringerike Sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8452156,
+                    63.2924285
+                ]
+            },
+            "properties": {
+                "name": "St. Olavs, avdeling Orkdal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3125126,
+                    60.4199961
+                ]
+            },
+            "properties": {
+                "name": "Psykiatrisk klinikk, Haukeland universitetssjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5368105,
+                    59.9055091
+                ]
+            },
+            "properties": {
+                "name": "Spesialsykehuset for epilepsi (SSE)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2654093,
+                    59.7914856
+                ]
+            },
+            "properties": {
+                "name": "Lier sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6563019,
+                    59.6704633
+                ]
+            },
+            "properties": {
+                "name": "Kongsberg sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3621863,
+                    60.3789662
+                ]
+            },
+            "properties": {
+                "name": "Haraldsplass diakonale sykehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8885411,
+                    61.4570427
+                ]
+            },
+            "properties": {
+                "name": "F\u00f8rde sentralsjukehus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2922197,
+                    60.3632456
+                ]
+            },
+            "properties": {
+                "name": "Betanien sykehus"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

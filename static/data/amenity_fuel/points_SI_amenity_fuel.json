@@ -1,0 +1,7405 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5077506,
+                    46.5546537
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Selnica ob Dravi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.853595,
+                    46.52358
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Me\u017eica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4299716,
+                    46.2953526
+                ]
+            },
+            "properties": {
+                "name": "LOGO - Tupali\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5967694,
+                    45.5052366
+                ]
+            },
+            "properties": {
+                "name": "OMV - Portoro\u017e - Marina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6465731,
+                    46.5290645
+                ]
+            },
+            "properties": {
+                "name": "Plinski center Maribor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6563506,
+                    45.5384914
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Izola Mandra\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3467188,
+                    46.166927
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160entrupert nad La\u0161kim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0207284,
+                    46.7190117
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Cankova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6557708,
+                    46.2306706
+                ]
+            },
+            "properties": {
+                "name": "MOL - Roga\u0161ka Slatina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8930041,
+                    46.6087951
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Benedikt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0886991,
+                    46.7977675
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Grad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4309463,
+                    46.5526635
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Lendava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2366652,
+                    45.9387987
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Logatec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3216221,
+                    45.6407365
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Metlika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9117444,
+                    46.3158569
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Nizka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1492112,
+                    45.8202572
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Novo Mesto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0603661,
+                    45.5025532
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Predgrad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7191751,
+                    45.7490741
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Ribnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1496542,
+                    46.3477603
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Velenje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1851204,
+                    45.5729716
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - \u010crnomelj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8927709,
+                    45.8828953
+                ]
+            },
+            "properties": {
+                "name": "Shell - Ajdov\u0161\u010dina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8897355,
+                    45.9244556
+                ]
+            },
+            "properties": {
+                "name": "Shell - Bi\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.487251,
+                    45.939724
+                ]
+            },
+            "properties": {
+                "name": "Shell - Kr\u0161ko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8519449,
+                    45.7035241
+                ]
+            },
+            "properties": {
+                "name": "Shell - Se\u017eana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6376813,
+                    45.9210776
+                ]
+            },
+            "properties": {
+                "name": "Shell - \u0160empeter pri Gorici"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.670106,
+                    45.5380416
+                ]
+            },
+            "properties": {
+                "name": "Butan Izola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2890823,
+                    46.2402557
+                ]
+            },
+            "properties": {
+                "name": "Istrabenz - Celje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8436399,
+                    46.6460194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4448683,
+                    46.5482817
+                ]
+            },
+            "properties": {
+                "name": "OMV EuroTruck Station - Lendava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3720607,
+                    45.9078223
+                ]
+            },
+            "properties": {
+                "name": "OMV EuroTruck Station - Raka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6402359,
+                    45.9405976
+                ]
+            },
+            "properties": {
+                "name": "MOL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5761622,
+                    46.3849413
+                ]
+            },
+            "properties": {
+                "name": "AGIP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.950247,
+                    45.6043313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9856683,
+                    46.4168873
+                ]
+            },
+            "properties": {
+                "name": "Ziher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8570041,
+                    45.705182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0064087,
+                    46.1110322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0094186,
+                    46.6636788
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Gornja Radgona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4813263,
+                    46.0294326
+                ]
+            },
+            "properties": {
+                "name": "Barje - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2227312,
+                    45.783093
+                ]
+            },
+            "properties": {
+                "name": "LPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4780406,
+                    46.0292233
+                ]
+            },
+            "properties": {
+                "name": "Barje - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8269319,
+                    45.6768641
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Ko\u010devje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9257,
+                    45.7088955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4096505,
+                    46.2380497
+                ]
+            },
+            "properties": {
+                "name": "Shell - \u0160en\u010dur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7320565,
+                    45.5371691
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Koper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1931532,
+                    45.7709544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0027639,
+                    45.5769862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0644943,
+                    46.4308411
+                ]
+            },
+            "properties": {
+                "name": "Metan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5513096,
+                    46.0649728
+                ]
+            },
+            "properties": {
+                "name": "MOL Bencinski servis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8796677,
+                    46.3271253
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8507223,
+                    45.7036405
+                ]
+            },
+            "properties": {
+                "name": "LNG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3999254,
+                    45.908178
+                ]
+            },
+            "properties": {
+                "name": "LPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4797062,
+                    46.0283743
+                ]
+            },
+            "properties": {
+                "name": "LPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2563079,
+                    45.8980088
+                ]
+            },
+            "properties": {
+                "name": "LPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9401525,
+                    45.7035148
+                ]
+            },
+            "properties": {
+                "name": "LPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3775431,
+                    46.2462323
+                ]
+            },
+            "properties": {
+                "name": "Hofer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2991817,
+                    46.3589269
+                ]
+            },
+            "properties": {
+                "name": "Hofer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4284534,
+                    46.026026
+                ]
+            },
+            "properties": {
+                "name": "LOGO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4078566,
+                    46.0224975
+                ]
+            },
+            "properties": {
+                "name": "OMV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8811206,
+                    45.6555355
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lipica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6748157,
+                    46.5464805
+                ]
+            },
+            "properties": {
+                "name": "MOL - Pobre\u017eje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6796213,
+                    46.5225411
+                ]
+            },
+            "properties": {
+                "name": "OMV - Maribor - Ptujska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5303548,
+                    46.0172803
+                ]
+            },
+            "properties": {
+                "name": "Agip - Rudnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9401565,
+                    45.703522
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Povir Ac - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9417545,
+                    45.704055
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Povir Ac - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6776538,
+                    46.5479261
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Puhova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7628387,
+                    46.4675728
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Star\u0161e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5463264,
+                    46.0473607
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ljubljana - Litijska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4249838,
+                    46.2266065
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Voklo Ac - Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4861904,
+                    46.2471546
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Cerklje na Gorenjskem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5238972,
+                    46.2057569
+                ]
+            },
+            "properties": {
+                "name": "OMV - Komenda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8456032,
+                    45.7049194
+                ]
+            },
+            "properties": {
+                "name": "OMV - BS Ferneti\u010di - Sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8466888,
+                    45.7045488
+                ]
+            },
+            "properties": {
+                "name": "OMV - BS Ferneti\u010di - Jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.487509,
+                    46.1860536
+                ]
+            },
+            "properties": {
+                "name": "Agip - Vodice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5499736,
+                    46.1915892
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Moste pri Komendi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8436029,
+                    45.7024074
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Se\u017eana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9194147,
+                    45.6613427
+                ]
+            },
+            "properties": {
+                "name": "OMV - BS Lokev"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4710017,
+                    46.0386722
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Tr\u017ea\u0161ka 131a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2827851,
+                    46.2348254
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Celje - Kidri\u010deva jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6675943,
+                    46.5324851
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Ptujska 111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6262522,
+                    46.5634096
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Gosposvetska jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6202259,
+                    46.536045
+                ]
+            },
+            "properties": {
+                "name": "MOL - Radvanje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6496555,
+                    46.6853333
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160entilj Ac - Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6201288,
+                    46.6350269
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Hlade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4789357,
+                    46.0813122
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Celov\u0161ka 251"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8610894,
+                    45.7051663
+                ]
+            },
+            "properties": {
+                "name": "MOL - Se\u017eana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7942186,
+                    46.4288903
+                ]
+            },
+            "properties": {
+                "name": "OMV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7964819,
+                    46.428211
+                ]
+            },
+            "properties": {
+                "name": "OMV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6730441,
+                    46.452798
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ra\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.517737,
+                    46.0017346
+                ]
+            },
+            "properties": {
+                "name": "BS \u0160taloni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8938546,
+                    46.6104334
+                ]
+            },
+            "properties": {
+                "name": "OMV - Benedikt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6685804,
+                    45.5379241
+                ]
+            },
+            "properties": {
+                "name": "OMV - Izola - Pre\u0161ernova 2a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4852099,
+                    46.0444775
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Tr\u017ea\u0161ka 44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5186811,
+                    46.0498404
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Ambro\u017eev trg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5310661,
+                    46.0661066
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - \u0160martinska 101"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5109604,
+                    46.0689003
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Dunajska 70"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5127759,
+                    46.0782154
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Dunajska 130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5120512,
+                    46.0788777
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Dunajska 133"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5034391,
+                    46.0581028
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Tivolska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5252347,
+                    46.0631269
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5826005,
+                    46.2416615
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kobarid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4868321,
+                    46.0731537
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Celov\u0161ka 148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5730658,
+                    46.0617345
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Letali\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5412558,
+                    46.0483202
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Litijska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5388885,
+                    46.0558116
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Zalo\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.542505,
+                    46.0691749
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - \u0160martinska 150"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5702737,
+                    46.0624666
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ljubljana - Letali\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5587276,
+                    46.0558898
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ljubljana - Zalo\u0161ka jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5582369,
+                    46.0565907
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ljubljana - Zalo\u0161ka sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4611155,
+                    46.0987244
+                ]
+            },
+            "properties": {
+                "name": "OMV - \u0160entvid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4819288,
+                    46.0291126
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Po\u010divali\u0161\u010de Barje - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4796599,
+                    46.0819365
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Celov\u0161ka 226"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5807752,
+                    46.1359168
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dom\u017eale Ljubljanska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5995064,
+                    46.1464998
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dom\u017eale \u010ce\u0161minova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5697485,
+                    46.1579079
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Menge\u0161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5270125,
+                    46.0332715
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Rakovnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5427962,
+                    46.0200485
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Rudnik Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5421933,
+                    46.0198741
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Rudnik Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5001298,
+                    46.0392538
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Trnovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5532582,
+                    46.1230374
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Trzin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4690754,
+                    46.0385568
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Tr\u017ea\u0161ka 130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.541312,
+                    46.1045281
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u010crnu\u010de Dunajska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5452441,
+                    46.1058853
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u010crnu\u010de \u0160tajerska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0268863,
+                    46.4403672
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Hru\u0161ica (I-J)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0286378,
+                    46.4409372
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Hru\u0161ica (II-S)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1026466,
+                    46.4225773
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Jesenice - Koro\u0161ka Bela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0632661,
+                    46.432159
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Jesenice - Cesta \u017eelezarjev"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0364248,
+                    46.4418822
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Jesenice - mar\u0161ala Tita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.79821,
+                    46.4865339
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kranjska Gora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7647128,
+                    46.489529
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Podkoren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7087974,
+                    46.4972563
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Rate\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1171441,
+                    46.3683942
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Bled - Ljubljanska jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1158603,
+                    46.3687885
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Bled - Ljubljanska sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9515589,
+                    46.2779484
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Bohinjska Bistrica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1538525,
+                    46.3677845
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lesce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1688405,
+                    46.3483915
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Radovljica - Gorenjska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1817306,
+                    46.3460207
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Radovljica - Kranjska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2923907,
+                    46.3537544
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Tr\u017ei\u010d zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5009804,
+                    46.3947057
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Zgornje Jezersko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2931235,
+                    46.3537656
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Tr\u017ei\u010d vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2535739,
+                    46.13795
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160kofja Loka - Brode"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1715472,
+                    45.9815237
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Rovte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1725512,
+                    46.2261941
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u017delezniki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1078914,
+                    46.0437194
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u017diri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1435744,
+                    46.1055271
+                ]
+            },
+            "properties": {
+                "name": "Istrabenz Plin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4215934,
+                    46.052103
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dobrova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3012141,
+                    46.0213852
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Horjul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41629,
+                    46.1368049
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Medvode - Gorenjska 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4168628,
+                    46.137172
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Medvode - Gorenjska 14"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4069151,
+                    46.1487469
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Medvode - Gorenjska 15"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3140076,
+                    46.1667994
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160kofja Loka - Kidri\u010deva jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3310765,
+                    46.1730398
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160kofja Loka - Trata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3605313,
+                    45.9216176
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Borovnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6582822,
+                    45.9581573
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Grosuplje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5300668,
+                    45.9627141
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2242828,
+                    45.9169904
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Logatec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2563746,
+                    45.898269
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lom Ac - Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2550032,
+                    45.8985458
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lom Ac - Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4221402,
+                    45.9732513
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Podpe\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6239525,
+                    45.8495145
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ra\u0161ica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2997899,
+                    45.9680211
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Vrhnika - Ljubljanska Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2990666,
+                    45.9682088
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Vrhnika - Ljubljanska Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.572491,
+                    45.960132
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160kofljica - Pijava Gorica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9762019,
+                    45.9957345
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Gabrovka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8049712,
+                    45.9352686
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ivan\u010dna Gorica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8340379,
+                    46.0586602
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Litija - Brodarska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8240717,
+                    46.0572636
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Litija - Ljubljanska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.587376,
+                    46.0537743
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Polje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.601105,
+                    46.0570163
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Zalog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7711579,
+                    45.9478444
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Podsmreka Ac - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5960177,
+                    46.0359005
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Zadvor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0340249,
+                    46.1372876
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Trbovlje - Ambro\u017eev trg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0807529,
+                    46.1193899
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Hrastnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9315345,
+                    46.1504276
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Izlake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0401561,
+                    46.1460776
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Trbovlje - trg revolucije"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9970415,
+                    46.1291261
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Zagorje ob Savi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5219431,
+                    46.1922132
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u017deje pri Komendi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8073982,
+                    46.1764874
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Blagovica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5997957,
+                    46.2121418
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kamnik - Ljubljanska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6071951,
+                    46.2090947
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kamnik - Perovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.741174,
+                    46.1370376
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Morav\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3136541,
+                    46.2706021
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Naklo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6933168,
+                    46.1668269
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Po\u010divali\u0161\u010de Lukovica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7904479,
+                    46.2194697
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u010ce\u0161njice v Tuhinju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3546585,
+                    46.2289058
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kranj - Labore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3696116,
+                    46.2437092
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kranj - Staneta \u017dagarja 53b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3691164,
+                    46.2432973
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kranj - Staneta \u017dagarja 58b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3749282,
+                    46.2418546
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kranj - Staneta \u017dagarja 65"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3476723,
+                    46.2495703
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kranj - Zlato Polje Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3496358,
+                    46.2473756
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kranj - Zlato Polje Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4196956,
+                    46.2280009
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Voklo Ac - Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4119927,
+                    46.2378667
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160en\u010dur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5413831,
+                    46.332738
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Bovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6191759,
+                    46.0540715
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Deskle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6328387,
+                    46.0878509
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kanal ob So\u010di"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7415278,
+                    46.1527938
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Most na So\u010di"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9597827,
+                    46.2060643
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Podbrdo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7340046,
+                    46.1827236
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Tolmin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5179346,
+                    46.0017303
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160taloni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3698334,
+                    45.7885617
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Cerknica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0944193,
+                    45.9566654
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Godovi\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0276207,
+                    46.0062277
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Idrija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2322439,
+                    45.575348
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ilirska Bistrica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1971476,
+                    45.6860674
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Pivka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.198509,
+                    45.7669877
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Postojna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0534445,
+                    45.9255892
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u010crni Vrh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1983135,
+                    45.7669923
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.651245,
+                    45.5244167
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Jagodje - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6490156,
+                    45.5262082
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Jagodje - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7359804,
+                    45.5327081
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Koper - \u0160marska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.928678,
+                    45.6049036
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kozina Ac - Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8990916,
+                    45.886626
+                ]
+            },
+            "properties": {
+                "name": "BS Ajdov\u0161\u010dina - Gori\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9109277,
+                    45.8828156
+                ]
+            },
+            "properties": {
+                "name": "BS Ajdov\u0161\u010dina - Vipavska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6909015,
+                    45.9530953
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Aj\u0161evica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7332576,
+                    45.8850241
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dornberk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9548011,
+                    45.8488964
+                ]
+            },
+            "properties": {
+                "name": "BS Vipava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7398905,
+                    45.9303563
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160empas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7195343,
+                    45.9170388
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160empas Ac - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7216361,
+                    45.9176962
+                ]
+            },
+            "properties": {
+                "name": "OMV - \u0160empas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6088794,
+                    45.8979656
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Miren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6522759,
+                    45.9532217
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Nova Gorica - Gr\u010dna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6496482,
+                    45.9625065
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Nova Gorica - Vojkova Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6489988,
+                    45.962233
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Nova Gorica - Vojkova Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6384333,
+                    45.9421927
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ro\u017ena Dolina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6418713,
+                    45.9677398
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Solkan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6277073,
+                    45.9193023
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Vrtojba Ac - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6283232,
+                    45.9204998
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Vrtojba Ac - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6384675,
+                    45.9323341
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160empeter pri Gorici - Prekomorskih brigad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6416762,
+                    45.929214
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160empeter pri Gorici - padlih borcev"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6417579,
+                    45.9677598
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Solkan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7258972,
+                    45.5405691
+                ]
+            },
+            "properties": {
+                "name": "OMV - Koper - Istrska sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.586045,
+                    45.7170406
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lo\u0161ki Potok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.854045,
+                    45.6496594
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ko\u010devje - Ljubljanska Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8536567,
+                    45.6487695
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ko\u010devje - Ljubljanska Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8552125,
+                    45.4651804
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Petrina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2554744,
+                    45.4597816
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Vinica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7030485,
+                    45.7623028
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u017dlebi\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2399923,
+                    45.6253521
+                ]
+            },
+            "properties": {
+                "name": "Agip - Kne\u017eak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1776286,
+                    45.566282
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u010crnomelj - Ko\u010devje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6930043,
+                    46.0142744
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Bizeljsko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2877835,
+                    46.0144345
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Bo\u0161tanj pri Sevnici"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4758992,
+                    45.9950582
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Brestanica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5933203,
+                    45.9187573
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Bre\u017eice - Tovarni\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6039266,
+                    45.900877
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Bre\u017eice - cesta svobode"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6557188,
+                    45.8954667
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dobova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9702972,
+                    45.8063849
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dvor pri \u017du\u017eemberku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4234894,
+                    45.8524108
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kostanjevica na Krki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4984036,
+                    45.9550387
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kr\u0161ko - cesta 4. Julija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4848585,
+                    45.9412351
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kr\u0161ko - cesta Kr\u0161kih \u017drtev"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3061451,
+                    45.6498534
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Metlika - cesta Xv brigade jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3057444,
+                    45.650508
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Metlika - cesta Xv brigade sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1547137,
+                    45.8163454
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Novo mesto - Br\u0161ljin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1746936,
+                    45.8128611
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Novo mesto - Seidlova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1509606,
+                    45.798641
+                ]
+            },
+            "properties": {
+                "name": "BS Novo mesto - Topli\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1812369,
+                    45.7977514
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Novo mesto - \u017dabja vas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6861714,
+                    45.8545522
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Obre\u017eje Ac - Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2358369,
+                    45.8395809
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Oto\u010dec - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2356226,
+                    45.8399595
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Oto\u010dec - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1840038,
+                    45.6503797
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Semi\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3049306,
+                    46.0078741
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Sevnici"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2173417,
+                    45.8411473
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Starine Ac - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2166245,
+                    45.8420733
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Starine Ac - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0033892,
+                    45.9047149
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Trebnje - Pod gradom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1937649,
+                    45.9612216
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Tr\u017ei\u0161\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0833335,
+                    45.7822201
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Vavta vas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4000388,
+                    45.908176
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Zaloke Ac - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4003656,
+                    45.9096221
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Zaloke Ac - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5976197,
+                    45.8919643
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u010cate\u017e Ac - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1915271,
+                    45.5786681
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u010crnomelj - Belokranjska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3406698,
+                    45.8438494
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160entjernej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2999503,
+                    45.8971808
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160kocjan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1545942,
+                    45.8161233
+                ]
+            },
+            "properties": {
+                "name": "OMV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6552984,
+                    46.0620845
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Bistrica ob Sotli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5587747,
+                    46.0730254
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kozje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4110556,
+                    46.1012099
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Planina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5996866,
+                    46.1516606
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Pod\u010detrtek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2329171,
+                    46.1672054
+                ]
+            },
+            "properties": {
+                "name": "Petrol - La\u0161ko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5756554,
+                    46.2448598
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Podplat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1871988,
+                    46.0593775
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Rade\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6927742,
+                    46.2259982
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Rogatec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6168225,
+                    46.2526732
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Roga\u0161ka Slatina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5285231,
+                    46.2317081
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160marje pri Jel\u0161ah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5018279,
+                    46.300662
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lo\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4436936,
+                    46.2544539
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ponikva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4001572,
+                    46.2131149
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160entjur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3124645,
+                    46.2239759
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160tore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2209694,
+                    46.3271891
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dobrna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1917763,
+                    46.4431601
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Mislinja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1641276,
+                    46.6045643
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Muta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0825302,
+                    46.5147781
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Slovenj Gradec - Francetova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0906271,
+                    46.5041339
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Slovenj Gradec - Ronkova jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0882335,
+                    46.5062591
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Slovenj Gradec - Ronkova sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4308686,
+                    46.3417989
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Slovenske Konjice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4874409,
+                    46.3473551
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Tepanje Ac - Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4872091,
+                    46.3488413
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Tepanje Ac - Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2977274,
+                    46.385427
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Vitanje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.304225,
+                    46.2858235
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Vojnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3903954,
+                    46.3718405
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Zre\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3903411,
+                    46.3719221
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.903722,
+                    46.5427459
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Prevalje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0251151,
+                    46.5726715
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Oti\u0161ki Vrh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0296459,
+                    46.5911071
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dravogradi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9644746,
+                    46.547094
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ravne na Koro\u0161kem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.694538,
+                    46.4191889
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Sol\u010dava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8699632,
+                    46.4849334
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u017derjav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8387012,
+                    46.3377633
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubno ob Savinji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.819227,
+                    46.2990563
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Gornji Grad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9688471,
+                    46.3403767
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Mozirje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1318994,
+                    46.3509166
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Velenje - Celjska Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1145564,
+                    46.3561808
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Velenje - Celjska Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1060525,
+                    46.3592749
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Velenje - Partizanska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.12373,
+                    46.3601838
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Velenje - \u0160ale\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0488253,
+                    46.3753245
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160o\u0161tanj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2222319,
+                    46.2623877
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lopata Ac - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9598793,
+                    46.2460078
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Vransko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1139626,
+                    46.258326
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160empeter v Savinjski dolini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0754735,
+                    46.2501486
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160entrupert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1571521,
+                    46.2561494
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u017dalec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2789195,
+                    46.2471716
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Celje - Hudinja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2785091,
+                    46.2403819
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Celje - Interspar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2766069,
+                    46.2355852
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Celje - Kidri\u010deva sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2565442,
+                    46.2372447
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Celje - Lanov\u017e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2489628,
+                    46.2351292
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Celje - Ljubljanska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2703013,
+                    46.2355266
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Celje - Mariborska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2629386,
+                    46.2177324
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Celje - Polule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2715633,
+                    46.2301092
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Celje - Teharska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.827315,
+                    46.4256261
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Hajdo\u0161e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.401584,
+                    46.5469885
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lovrenc na Pohorju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7367219,
+                    46.3487194
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maj\u0161perk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9858436,
+                    46.4168825
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Mo\u0161kanjci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4485509,
+                    46.3840609
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Oplotnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1509798,
+                    46.4076529
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ormo\u017e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8834694,
+                    46.4271911
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ptuj - Osojnikova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.57747,
+                    46.3089521
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Polj\u010dane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.658596,
+                    46.3951016
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Pragersko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8935103,
+                    46.4258569
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ptuj - Dornavska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8825714,
+                    46.4170896
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ptuj - Ormo\u0161ka 25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8803227,
+                    46.4166834
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ptuj - Ormo\u0161ka 26/b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8661778,
+                    46.4070836
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ptuj - Zagreb\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5170912,
+                    46.5401573
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ru\u0161e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4859874,
+                    46.5492974
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Selnica ob Dravi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6525257,
+                    46.4942529
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Slivnica Ac - Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6546307,
+                    46.4824807
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Slivnica Ac - Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5691423,
+                    46.387179
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Slovenska Bistrica - Ljubljanska Kro\u017ei\u0161\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5651676,
+                    46.3847194
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Slovenska Bistrica - Ljubljanska Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2780598,
+                    46.3944503
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Sredi\u0161\u010de ob Dravi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2272314,
+                    46.6116417
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Beltinci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3532234,
+                    46.6509795
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dobrovnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4600545,
+                    46.5938584
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dolga vas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4421947,
+                    46.5536738
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Dolnji Lako\u0161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1429877,
+                    46.5577495
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kri\u017eevci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4475905,
+                    46.56007
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lendava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1942249,
+                    46.5220286
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljutomer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.517922,
+                    46.5217745
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Pince Ac - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5191823,
+                    46.5224427
+                ]
+            },
+            "properties": {
+                "name": "MOL - Pince AC sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2819105,
+                    46.5820885
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Odranci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0138748,
+                    46.6621133
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Gornja Radgona - Mele"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0073655,
+                    46.5850055
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Grabono\u0161 Ac - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0819538,
+                    46.8340695
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Kuzma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8402661,
+                    46.5841225
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lenart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8270548,
+                    46.5643352
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Lormanje Ac - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1962769,
+                    46.6876271
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Martjanci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1458583,
+                    46.6515866
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Murska Sobota - Ti\u0161inska jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1642749,
+                    46.6345246
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Murska Sobota Ac - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1658912,
+                    46.6359307
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Murska Sobota Ac - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0341736,
+                    46.6450178
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Radenci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0358243,
+                    46.7987869
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Roga\u0161ovci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7063841,
+                    46.5957142
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Vosek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8886674,
+                    46.6962544
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u010crnci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6465081,
+                    46.6883817
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160entilj - Dunajska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6606422,
+                    46.6718249
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160entilj - Mariborska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6503705,
+                    46.6856338
+                ]
+            },
+            "properties": {
+                "name": "Petrol - \u0160entilj Ac - Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0207147,
+                    46.719017
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.825826,
+                    46.5670443
+                ]
+            },
+            "properties": {
+                "name": "MOL - Po\u010divali\u0161\u010de Lomanje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6267205,
+                    46.5638979
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Gosposvetska sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6549968,
+                    46.5573533
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Mlinska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6591561,
+                    46.5647443
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Partizanska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6693215,
+                    46.5542797
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Pobre\u017eje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6663638,
+                    46.5324701
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Ptujska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.672285,
+                    46.5282766
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Ptujska 188"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6476275,
+                    46.5412128
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Tr\u017ea\u0161ka 10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6472797,
+                    46.5381819
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Tr\u017ea\u0161ka 11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6461348,
+                    46.5376759
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Tr\u017ea\u0161ka 36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6338352,
+                    46.5549939
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - Valvasorjeva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6296662,
+                    46.5519746
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - na Poljanah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6680085,
+                    45.5369297
+                ]
+            },
+            "properties": {
+                "name": "OMV - Izola - Pre\u0161ernova 7c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7427768,
+                    45.5458624
+                ]
+            },
+            "properties": {
+                "name": "OMV - Koper - Ankaranska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7286449,
+                    45.538882
+                ]
+            },
+            "properties": {
+                "name": "OMV - Koper - Istrska jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7276663,
+                    45.5507497
+                ]
+            },
+            "properties": {
+                "name": "OMV Marina Koper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7441069,
+                    45.5547622
+                ]
+            },
+            "properties": {
+                "name": "OMV - Koper - Vojkovo nabre\u017eje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7344397,
+                    45.5300711
+                ]
+            },
+            "properties": {
+                "name": "OMV - Koper - \u0160marska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7241229,
+                    45.5930101
+                ]
+            },
+            "properties": {
+                "name": "OMV - Lazaret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5808379,
+                    45.5152348
+                ]
+            },
+            "properties": {
+                "name": "OMV - Portoro\u017e - Fizine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7810248,
+                    45.5553434
+                ]
+            },
+            "properties": {
+                "name": "OMV BS Bertoki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7976398,
+                    45.5806087
+                ]
+            },
+            "properties": {
+                "name": "OMV - \u0160kofije vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7963189,
+                    45.5798041
+                ]
+            },
+            "properties": {
+                "name": "OMV - \u0160kofije zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7070829,
+                    45.510385
+                ]
+            },
+            "properties": {
+                "name": "OMV - \u0160marje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8415962,
+                    45.7017659
+                ]
+            },
+            "properties": {
+                "name": "OMV - BS Ferneti\u010di 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.863237,
+                    45.7056116
+                ]
+            },
+            "properties": {
+                "name": "OMV - BS Se\u017eana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9685459,
+                    45.6814138
+                ]
+            },
+            "properties": {
+                "name": "OMV - Diva\u010da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8737479,
+                    45.5013238
+                ]
+            },
+            "properties": {
+                "name": "OMV - Gra\u010di\u0161\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9350993,
+                    45.6083258
+                ]
+            },
+            "properties": {
+                "name": "OMV - Kozina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9101416,
+                    45.6188698
+                ]
+            },
+            "properties": {
+                "name": "OMV - Krvavi potok 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.907001,
+                    45.6203223
+                ]
+            },
+            "properties": {
+                "name": "OMV - Krvavi potok 25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6103905,
+                    45.5007381
+                ]
+            },
+            "properties": {
+                "name": "OMV - Lucija - Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6102909,
+                    45.5003519
+                ]
+            },
+            "properties": {
+                "name": "OMV - Lucija - Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6579543,
+                    46.5694931
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Maribor - \u0160entiljska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7453636,
+                    45.8169233
+                ]
+            },
+            "properties": {
+                "name": "BS Komen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8360318,
+                    45.7558341
+                ]
+            },
+            "properties": {
+                "name": "OMV - BS Dutovlje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2443977,
+                    45.5596658
+                ]
+            },
+            "properties": {
+                "name": "OMV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2390236,
+                    45.5718875
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ilirska bistrica - Vilharjeva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1602808,
+                    46.3653808
+                ]
+            },
+            "properties": {
+                "name": "OMV - Lesce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6914735,
+                    45.9533356
+                ]
+            },
+            "properties": {
+                "name": "OMV - Loke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6402306,
+                    45.94093
+                ]
+            },
+            "properties": {
+                "name": "OMV - Nova Gorica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5046563,
+                    45.773467
+                ]
+            },
+            "properties": {
+                "name": "OMV - Nova vas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1474487,
+                    45.521028
+                ]
+            },
+            "properties": {
+                "name": "OMV - Podgrad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2010585,
+                    45.7710841
+                ]
+            },
+            "properties": {
+                "name": "OMV - Postojna - Titova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1998931,
+                    45.7726302
+                ]
+            },
+            "properties": {
+                "name": "OMV - Postojna - Tr\u017ea\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1907398,
+                    46.3385849
+                ]
+            },
+            "properties": {
+                "name": "OMV - Radovljica - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1920447,
+                    46.3395416
+                ]
+            },
+            "properties": {
+                "name": "OMV - Radovljica - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3290074,
+                    45.8081816
+                ]
+            },
+            "properties": {
+                "name": "OMV - Rakek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2230614,
+                    45.7831701
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ravbarkomanda - Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2226609,
+                    45.7852394
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ravbarkomanda - Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0456427,
+                    45.7232799
+                ]
+            },
+            "properties": {
+                "name": "OMV - Seno\u017ee\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0288023,
+                    46.017017
+                ]
+            },
+            "properties": {
+                "name": "OMV - Spodnja Idrija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4709673,
+                    45.715849
+                ]
+            },
+            "properties": {
+                "name": "OMV - Stari trg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5406265,
+                    45.9668813
+                ]
+            },
+            "properties": {
+                "name": "OMV - Vipol\u017ee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6314687,
+                    45.9208891
+                ]
+            },
+            "properties": {
+                "name": "OMV - \u0160empeter pri Gorici"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8440426,
+                    45.818342
+                ]
+            },
+            "properties": {
+                "name": "OMV - \u0160tanjel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2566144,
+                    46.2404397
+                ]
+            },
+            "properties": {
+                "name": "OMV - Celje - De\u010dkova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2350286,
+                    46.2380972
+                ]
+            },
+            "properties": {
+                "name": "OMV - Celje - Ljubljanska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2744729,
+                    46.2392536
+                ]
+            },
+            "properties": {
+                "name": "OMV - Celje - Mariborska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6510644,
+                    46.0901328
+                ]
+            },
+            "properties": {
+                "name": "OMV - Dol pri Ljubljani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6061314,
+                    46.1476598
+                ]
+            },
+            "properties": {
+                "name": "OMV - Dom\u017eale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6610941,
+                    45.9680293
+                ]
+            },
+            "properties": {
+                "name": "OMV - Grosuplje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6845142,
+                    45.8547227
+                ]
+            },
+            "properties": {
+                "name": "OMV - Jesenice na dolenjskem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.604444,
+                    46.207172
+                ]
+            },
+            "properties": {
+                "name": "OMV - Kamnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3712909,
+                    46.2428444
+                ]
+            },
+            "properties": {
+                "name": "OMV - Kranj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4873737,
+                    45.9443702
+                ]
+            },
+            "properties": {
+                "name": "OMV - Kr\u0161ko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.832885,
+                    46.0587358
+                ]
+            },
+            "properties": {
+                "name": "OMV - Litija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1818579,
+                    45.8041211
+                ]
+            },
+            "properties": {
+                "name": "OMV - Novo mesto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2209896,
+                    46.2616471
+                ]
+            },
+            "properties": {
+                "name": "OMV - Po\u010divali\u0161\u010de Lopata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6896045,
+                    46.166057
+                ]
+            },
+            "properties": {
+                "name": "OMV - Po\u010divali\u0161\u010de Lukovica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3711459,
+                    45.9077211
+                ]
+            },
+            "properties": {
+                "name": "OMV - Raka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.477901,
+                    46.0248896
+                ]
+            },
+            "properties": {
+                "name": "OMV - Senovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4165511,
+                    46.3409098
+                ]
+            },
+            "properties": {
+                "name": "OMV - Slovenske konjica - Liptovska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7996237,
+                    45.6891724
+                ]
+            },
+            "properties": {
+                "name": "OMV - Stara cerkev"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0993296,
+                    46.3594017
+                ]
+            },
+            "properties": {
+                "name": "OMV - Velenje - Partizanska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1325323,
+                    46.3696125
+                ]
+            },
+            "properties": {
+                "name": "OMV - Velenje - Selo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1960026,
+                    45.5799292
+                ]
+            },
+            "properties": {
+                "name": "OMV - \u010crnomelj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3825691,
+                    46.2152228
+                ]
+            },
+            "properties": {
+                "name": "OMV - \u0160entjur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3192498,
+                    46.1687687
+                ]
+            },
+            "properties": {
+                "name": "OMV - \u0160kofja loka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2143899,
+                    46.624928
+                ]
+            },
+            "properties": {
+                "name": "OMV - Beltinci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0090823,
+                    46.6630412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1902017,
+                    46.5288714
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ljutomer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9726671,
+                    46.3803635
+                ]
+            },
+            "properties": {
+                "name": "OMV - Markovci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1769406,
+                    46.6667367
+                ]
+            },
+            "properties": {
+                "name": "OMV - Murska sobota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.160514,
+                    46.4097416
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ormo\u017e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6633457,
+                    46.6062232
+                ]
+            },
+            "properties": {
+                "name": "OMV - Po\u010divali\u0161\u010de Dobrenje - Vzhod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6623019,
+                    46.6094557
+                ]
+            },
+            "properties": {
+                "name": "OMV - Po\u010divali\u0161\u010de Dobrenje - Zahod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0080874,
+                    46.5835213
+                ]
+            },
+            "properties": {
+                "name": "OMV - Po\u010divali\u0161\u010de Grabono\u0161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5379825,
+                    46.5497417
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ru\u0161ei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0559574,
+                    46.6791352
+                ]
+            },
+            "properties": {
+                "name": "OMV - Ti\u0161ina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0154068,
+                    46.5903067
+                ]
+            },
+            "properties": {
+                "name": "OMV - Dravograd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6616759,
+                    46.5347938
+                ]
+            },
+            "properties": {
+                "name": "OMV - Maribor - Ptujska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6513867,
+                    46.5180886
+                ]
+            },
+            "properties": {
+                "name": "OMV - Maribor - Tr\u017ea\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5721309,
+                    46.3851613
+                ]
+            },
+            "properties": {
+                "name": "OMV - Slovenska bistrica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7516166,
+                    46.5013541
+                ]
+            },
+            "properties": {
+                "name": "OMV - Spodnji Duplek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8351506,
+                    45.8595307
+                ]
+            },
+            "properties": {
+                "name": "OMV - Zagradec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6270471,
+                    46.4307637
+                ]
+            },
+            "properties": {
+                "name": "OMV - Zgornja Polskava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7992789,
+                    46.4041118
+                ]
+            },
+            "properties": {
+                "name": "MOL - Kidri\u010devo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9334276,
+                    45.6089903
+                ]
+            },
+            "properties": {
+                "name": "MOL - Kozina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.218883,
+                    45.9167084
+                ]
+            },
+            "properties": {
+                "name": "MOL - Logatec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1505654,
+                    45.8211712
+                ]
+            },
+            "properties": {
+                "name": "MOL - Novo mesto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1878622,
+                    45.7278475
+                ]
+            },
+            "properties": {
+                "name": "MOL - Prestranek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7332641,
+                    45.73881
+                ]
+            },
+            "properties": {
+                "name": "MOL - Ribnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.854475,
+                    45.6489364
+                ]
+            },
+            "properties": {
+                "name": "MOL - Ko\u010devje - Ljubljanska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8640584,
+                    45.6327809
+                ]
+            },
+            "properties": {
+                "name": "MOL - Ko\u010devje - Re\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8228032,
+                    46.0571755
+                ]
+            },
+            "properties": {
+                "name": "MOL - Litija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2962668,
+                    46.2340468
+                ]
+            },
+            "properties": {
+                "name": "MOL - Celje - Kidri\u010deva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2774233,
+                    46.2452513
+                ]
+            },
+            "properties": {
+                "name": "MOL - Celje - Mariborska 111"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2782189,
+                    46.2445437
+                ]
+            },
+            "properties": {
+                "name": "MOL - Celje - Mariborska 128"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.996218,
+                    46.6698805
+                ]
+            },
+            "properties": {
+                "name": "MOL - Gornja Radgona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5634484,
+                    46.2344233
+                ]
+            },
+            "properties": {
+                "name": "MOL - Mestinje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1682645,
+                    46.6455407
+                ]
+            },
+            "properties": {
+                "name": "MOL - Murska sobota - Bakovska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1768031,
+                    46.6676375
+                ]
+            },
+            "properties": {
+                "name": "MOL - Murska sobota - Lendavska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.175322,
+                    46.6560516
+                ]
+            },
+            "properties": {
+                "name": "MOL - Murska sobota - Nova mala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0365262,
+                    46.5694686
+                ]
+            },
+            "properties": {
+                "name": "MOL - Oti\u0161ki vrh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4975944,
+                    46.5522751
+                ]
+            },
+            "properties": {
+                "name": "MOL - Selnica ob Dravi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6550348,
+                    46.5004007
+                ]
+            },
+            "properties": {
+                "name": "MOL - Ho\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5634896,
+                    46.3822844
+                ]
+            },
+            "properties": {
+                "name": "MOL - Slovenska Bistrica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4185326,
+                    46.3400908
+                ]
+            },
+            "properties": {
+                "name": "MOL - Slovenske Konjice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6527401,
+                    46.6777219
+                ]
+            },
+            "properties": {
+                "name": "MOL - \u0160entilj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3443837,
+                    46.5512706
+                ]
+            },
+            "properties": {
+                "name": "INA - Hotiza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2317968,
+                    46.1623106
+                ]
+            },
+            "properties": {
+                "name": "INA - La\u0161ko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8343093,
+                    46.5789586
+                ]
+            },
+            "properties": {
+                "name": "INA - Lenart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2319419,
+                    46.6126377
+                ]
+            },
+            "properties": {
+                "name": "INA - Radlje ob Dravi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0513559,
+                    46.3896077
+                ]
+            },
+            "properties": {
+                "name": "INA - Zavr\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2788987,
+                    46.821847
+                ]
+            },
+            "properties": {
+                "name": "INA - \u0160alovci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5490164,
+                    46.066635
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Ljubljana - BTC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2976221,
+                    46.3583314
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Tr\u017ei\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3775736,
+                    46.2423703
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Kranj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9274252,
+                    45.8331592
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - \u017du\u017eemberk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5644795,
+                    46.0616027
+                ]
+            },
+            "properties": {
+                "name": "MOL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9048986,
+                    45.8804708
+                ]
+            },
+            "properties": {
+                "name": "Agip - Ajdov\u0161\u010dina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3001886,
+                    46.2787351
+                ]
+            },
+            "properties": {
+                "name": "Agip - Arclin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4737688,
+                    45.9201359
+                ]
+            },
+            "properties": {
+                "name": "MOL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0261074,
+                    46.3118929
+                ]
+            },
+            "properties": {
+                "name": "Agip - Letu\u0161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7137471,
+                    46.4965817
+                ]
+            },
+            "properties": {
+                "name": "MOL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7168553,
+                    46.0887313
+                ]
+            },
+            "properties": {
+                "name": "Agip - Seno\u017eeti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3849393,
+                    46.3603498
+                ]
+            },
+            "properties": {
+                "name": "Agip - Stranice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0361123,
+                    46.1428221
+                ]
+            },
+            "properties": {
+                "name": "Agip - Trbovlje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5041582,
+                    46.2286221
+                ]
+            },
+            "properties": {
+                "name": "Mol - \u0160marje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1868121,
+                    46.2769071
+                ]
+            },
+            "properties": {
+                "name": "LOGO - Pire\u0161ica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6533691,
+                    46.4499945
+                ]
+            },
+            "properties": {
+                "name": "Shell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0274711,
+                    46.4436084
+                ]
+            },
+            "properties": {
+                "name": "Shell - Jesenice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1488249,
+                    46.6507228
+                ]
+            },
+            "properties": {
+                "name": "Shell - Murska Sobota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1078694,
+                    46.5908375
+                ]
+            },
+            "properties": {
+                "name": "Ekstra olje - Bu\u010de\u010dovci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8864408,
+                    46.4215509
+                ]
+            },
+            "properties": {
+                "name": "MOL - Ptuj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.039612,
+                    46.549977
+                ]
+            },
+            "properties": {
+                "name": "BS - Kmetijski center \u017dilhava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0487874,
+                    45.7496322
+                ]
+            },
+            "properties": {
+                "name": "Bu\u010dar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7638181,
+                    45.5524024
+                ]
+            },
+            "properties": {
+                "name": "Istrabenz - Koper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6677497,
+                    46.5251023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5759132,
+                    46.384958
+                ]
+            },
+            "properties": {
+                "name": "Agip"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6571129,
+                    46.5592529
+                ]
+            },
+            "properties": {
+                "name": "Plinarna Maribor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5018568,
+                    46.0807122
+                ]
+            },
+            "properties": {
+                "name": "Butan Ljublana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2092995,
+                    46.6303002
+                ]
+            },
+            "properties": {
+                "name": "International Diesel Service"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8044739,
+                    45.9356647
+                ]
+            },
+            "properties": {
+                "name": "HOFER Ivan\u010dna Gorica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4429144,
+                    46.5429002
+                ]
+            },
+            "properties": {
+                "name": "Eko Nafta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.595448,
+                    45.9136337
+                ]
+            },
+            "properties": {
+                "name": "OMV - Bre\u017eice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6512921,
+                    46.5254164
+                ]
+            },
+            "properties": {
+                "name": "OMV EuroTruck Station - Maribor STTC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8513495,
+                    45.7038496
+                ]
+            },
+            "properties": {
+                "name": "OMV EuroTruck Station - Se\u017eana Carinska Cona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5381515,
+                    46.0615034
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Ljubljana - Kajuhova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6335267,
+                    45.9206995
+                ]
+            },
+            "properties": {
+                "name": "OMV EuroTruck Station - Vrtojba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.153166,
+                    45.8139265
+                ]
+            },
+            "properties": {
+                "name": "OMV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4979641,
+                    46.0543435
+                ]
+            },
+            "properties": {
+                "name": "BS Golo Brdo v Brdih"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.622243,
+                    45.8129687
+                ]
+            },
+            "properties": {
+                "name": "OMV - Brestovica pri Komnu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3205423,
+                    46.6155781
+                ]
+            },
+            "properties": {
+                "name": "BS Turni\u0161\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9195758,
+                    45.6611965
+                ]
+            },
+            "properties": {
+                "name": "OMV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0228409,
+                    46.5663507
+                ]
+            },
+            "properties": {
+                "name": "Samopostre\u017ena bencinska \u010drpalka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.321286,
+                    46.1730597
+                ]
+            },
+            "properties": {
+                "name": "Logo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1446343,
+                    46.1052698
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Gorenja vas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6244683,
+                    45.9733543
+                ]
+            },
+            "properties": {
+                "name": "OMV \u0160marje-Sap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4183323,
+                    46.1357018
+                ]
+            },
+            "properties": {
+                "name": "Hofer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1101363,
+                    46.7092423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9416126,
+                    46.5652655
+                ]
+            },
+            "properties": {
+                "name": "KZ OIL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1935162,
+                    46.5260635
+                ]
+            },
+            "properties": {
+                "name": "MOL - Ljutomer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4696,
+                    46.3407745
+                ]
+            },
+            "properties": {
+                "name": "OMV - Slovenske konjica - Tepanje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3917108,
+                    46.260257
+                ]
+            },
+            "properties": {
+                "name": "MOL - Dramlje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1785044,
+                    46.656791
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7609762,
+                    45.5515731
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3086641,
+                    46.742818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2300918,
+                    45.5761532
+                ]
+            },
+            "properties": {
+                "name": "Hofer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1801939,
+                    46.6305001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7007161,
+                    46.5309049
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9651119,
+                    46.4833041
+                ]
+            },
+            "properties": {
+                "name": "Hessol & Essol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8577517,
+                    45.7090334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6716957,
+                    45.535473
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9106364,
+                    45.8808767
+                ]
+            },
+            "properties": {
+                "name": "MAXEN - Ajdov\u0161\u010dina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9587104,
+                    45.82939
+                ]
+            },
+            "properties": {
+                "name": "BS Vipava Ac - sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4999136,
+                    46.0314987
+                ]
+            },
+            "properties": {
+                "name": "BS Barjanka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0357718,
+                    46.0002772
+                ]
+            },
+            "properties": {
+                "name": "1-2-3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1979253,
+                    45.7697412
+                ]
+            },
+            "properties": {
+                "name": "Hofer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4784299,
+                    46.0289042
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Po\u010divali\u0161\u010de Barje - jug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6743037,
+                    46.6012072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5375463,
+                    46.445624
+                ]
+            },
+            "properties": {
+                "name": "Bencinski servis \u0160martno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6065636,
+                    46.1356919
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6994628,
+                    46.5335826
+                ]
+            },
+            "properties": {
+                "name": "Petrol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4883237,
+                    46.0778928
+                ]
+            },
+            "properties": {
+                "name": "CNG polnilnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0261587,
+                    45.898758
+                ]
+            },
+            "properties": {
+                "name": "PETROL-Po\u010divali\u0161\u010de DUL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7355538,
+                    45.5427496
+                ]
+            },
+            "properties": {
+                "name": "Petrol Kolodvorska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9713117,
+                    46.1180731
+                ]
+            },
+            "properties": {
+                "name": "Petrol - Cerkno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0255177,
+                    45.9103193
+                ]
+            },
+            "properties": {
+                "name": "OMV"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

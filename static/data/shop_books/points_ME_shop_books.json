@@ -1,0 +1,244 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5201828,
+                    42.8229314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9418201,
+                    42.5972496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2610129,
+                    42.4350696
+                ]
+            },
+            "properties": {
+                "name": "Raster bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5478614,
+                    42.4508816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5369949,
+                    42.4516111
+                ]
+            },
+            "properties": {
+                "name": "\u041a\u045a\u0438\u0436\u0430\u0440\u0430 \u0421\u043e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2144257,
+                    41.9296692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5373726,
+                    42.4516695
+                ]
+            },
+            "properties": {
+                "name": "Mimoza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5163762,
+                    42.4596235
+                ]
+            },
+            "properties": {
+                "name": "Knjizara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2800271,
+                    42.4349763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3578887,
+                    43.3562621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0934455,
+                    42.0971321
+                ]
+            },
+            "properties": {
+                "name": "Knjizara Miral 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.101456,
+                    42.100495
+                ]
+            },
+            "properties": {
+                "name": "Knjizara Miral"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.69682,
+                    42.432203
+                ]
+            },
+            "properties": {
+                "name": "Logos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.874746,
+                    42.84583
+                ]
+            },
+            "properties": {
+                "name": "Knji\u017eara Progres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2767907,
+                    42.4287516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6997925,
+                    42.4301921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9245046,
+                    42.3890621
+                ]
+            },
+            "properties": {
+                "name": "Lu\u010da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9411435,
+                    42.2058132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2637334,
+                    42.4412176
+                ]
+            },
+            "properties": {
+                "name": "Knji\u017eara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.69525,
+                    42.4398816
+                ]
+            },
+            "properties": {
+                "name": "Knji\u017eara Mozaik"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,24 @@
+h5 {
+  font-size: larger;
+}
+
+h5, h6, form, table {
+    margin: 25px;
+}
+
+
+table {
+  width: 100%;
+}
+
+#bottom {
+  margin: 25px;
+}
+
+.year {
+  font-style: italic;
+}
+
+.name {
+  font-weight: bold;
+}

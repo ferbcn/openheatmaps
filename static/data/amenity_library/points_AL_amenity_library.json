@@ -1,0 +1,298 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0784685,
+                    41.1224478
+                ]
+            },
+            "properties": {
+                "name": "Biblioteka Universiteti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8253337,
+                    41.3264626
+                ]
+            },
+            "properties": {
+                "name": "American Corner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8252372,
+                    41.3264727
+                ]
+            },
+            "properties": {
+                "name": "BKSH - Salla Gjermane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6425892,
+                    41.7818499
+                ]
+            },
+            "properties": {
+                "name": "Biblioteka e Qytetit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8064854,
+                    41.322099
+                ]
+            },
+            "properties": {
+                "name": "Biblioteka e lagjes 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8132862,
+                    41.3235154
+                ]
+            },
+            "properties": {
+                "name": "Friend's Book House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5624208,
+                    41.18444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9558981,
+                    40.7019423
+                ]
+            },
+            "properties": {
+                "name": "Biblioteka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.702353,
+                    40.7382518
+                ]
+            },
+            "properties": {
+                "name": "Biblioteka Publike Roskovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8250997,
+                    41.3346936
+                ]
+            },
+            "properties": {
+                "name": "Librari Sara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7734945,
+                    41.3578154
+                ]
+            },
+            "properties": {
+                "name": "Librari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3620467,
+                    41.1843906
+                ]
+            },
+            "properties": {
+                "name": "Haqif Cela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8191836,
+                    41.3283659
+                ]
+            },
+            "properties": {
+                "name": "Libraria Adrion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7819771,
+                    41.3294763
+                ]
+            },
+            "properties": {
+                "name": "Librari NI.SE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5091904,
+                    42.0658677
+                ]
+            },
+            "properties": {
+                "name": "Biblioteka \"Marin Barleti\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5158153,
+                    42.0709309
+                ]
+            },
+            "properties": {
+                "name": "Biblioteka Shkencore Universitare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7820008,
+                    40.6191322
+                ]
+            },
+            "properties": {
+                "name": "Libraria \"Thimi Mitko\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7785035,
+                    40.6179521
+                ]
+            },
+            "properties": {
+                "name": "Bibloteka e Qytetit Kor\u00e7\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5124154,
+                    42.067692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8198791,
+                    41.3284369
+                ]
+            },
+            "properties": {
+                "name": "Biblioteka Komb\u00ebtare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.700732,
+                    42.0140457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5137829,
+                    42.066714
+                ]
+            },
+            "properties": {
+                "name": "Ora e Shkodr\u00ebs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8355546,
+                    41.3382453
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

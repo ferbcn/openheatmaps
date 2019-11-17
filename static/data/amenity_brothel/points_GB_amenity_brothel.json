@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    1.1417303,
+                    51.0872287
+                ]
+            },
+            "properties": {
+                "name": "Pussy Catz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1244327,
+                    52.6300086
+                ]
+            },
+            "properties": {
+                "name": "Bunnies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.5442585,
+                    53.781619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9395829,
+                    52.4386409
+                ]
+            },
+            "properties": {
+                "name": "Manyana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.2054282,
+                    55.9464785
+                ]
+            },
+            "properties": {
+                "name": "Ambassador Sauna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4796947,
+                    53.3938861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.934656,
+                    52.4447207
+                ]
+            },
+            "properties": {
+                "name": "First Class"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9354422,
+                    52.4440055
+                ]
+            },
+            "properties": {
+                "name": "Penny's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.9834628,
+                    52.5827418
+                ]
+            },
+            "properties": {
+                "name": "Coloseum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.877712,
+                    52.500337
+                ]
+            },
+            "properties": {
+                "name": "Pleasure Dome"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.8780851,
+                    52.5003506
+                ]
+            },
+            "properties": {
+                "name": "The Private Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.9966596,
+                    51.1291104
+                ]
+            },
+            "properties": {
+                "name": "Anne Maries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.2198016,
+                    53.4408447
+                ]
+            },
+            "properties": {
+                "name": "Pandora's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.888282,
+                    52.4759086
+                ]
+            },
+            "properties": {
+                "name": "Blue Belle Suite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.1361161,
+                    51.5148245
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

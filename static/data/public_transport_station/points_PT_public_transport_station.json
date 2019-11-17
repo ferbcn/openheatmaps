@@ -1,0 +1,3376 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.160113,
+                    38.7727302
+                ]
+            },
+            "properties": {
+                "name": "Lumiar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1451853,
+                    38.7351299
+                ]
+            },
+            "properties": {
+                "name": "Saldanha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1497895,
+                    38.7254142
+                ]
+            },
+            "properties": {
+                "name": "Marqu\u00eas de Pombal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1448761,
+                    38.7058869
+                ]
+            },
+            "properties": {
+                "name": "Cais do Sodr\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1337842,
+                    38.7373541
+                ]
+            },
+            "properties": {
+                "name": "Alameda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.146525,
+                    38.7310021
+                ]
+            },
+            "properties": {
+                "name": "Picoas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4532179,
+                    40.6132437
+                ]
+            },
+            "properties": {
+                "name": "Aguieira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4499196,
+                    40.6242072
+                ]
+            },
+            "properties": {
+                "name": "Valongo do Vouga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4528909,
+                    40.6354047
+                ]
+            },
+            "properties": {
+                "name": "Carvalhal da Portela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5567757,
+                    41.2438315
+                ]
+            },
+            "properties": {
+                "name": "Leandro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5517469,
+                    41.2290587
+                ]
+            },
+            "properties": {
+                "name": "Travagem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5382074,
+                    41.4369277
+                ]
+            },
+            "properties": {
+                "name": "Louro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9325024,
+                    39.342623
+                ]
+            },
+            "properties": {
+                "name": "Rodovi\u00e1ria de Rio Maior"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7010904,
+                    41.646257
+                ]
+            },
+            "properties": {
+                "name": "Barroselas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5409398,
+                    38.9503587
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Coruche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5250011,
+                    40.1929507
+                ]
+            },
+            "properties": {
+                "name": "Vila Pouca do Campo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.544118,
+                    40.1923385
+                ]
+            },
+            "properties": {
+                "name": "Amial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4705771,
+                    40.2091388
+                ]
+            },
+            "properties": {
+                "name": "Espadaneira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4561075,
+                    40.2145116
+                ]
+            },
+            "properties": {
+                "name": "Bencanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4835255,
+                    40.2047747
+                ]
+            },
+            "properties": {
+                "name": "Casais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5849527,
+                    40.1863604
+                ]
+            },
+            "properties": {
+                "name": "Pereira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1224184,
+                    38.7136966
+                ]
+            },
+            "properties": {
+                "name": "Santa Apol\u00f3nia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.124371,
+                    40.3904962
+                ]
+            },
+            "properties": {
+                "name": "Santa Comba D\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4829818,
+                    40.7650619
+                ]
+            },
+            "properties": {
+                "name": "Branca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6255028,
+                    40.9822711
+                ]
+            },
+            "properties": {
+                "name": "Monte de Paramos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.47674,
+                    40.5721613
+                ]
+            },
+            "properties": {
+                "name": "Oronhe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4879165,
+                    40.5794428
+                ]
+            },
+            "properties": {
+                "name": "Casal d'\u00c1lvaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4980906,
+                    40.5872417
+                ]
+            },
+            "properties": {
+                "name": "Caban\u00f5es"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5144403,
+                    40.594208
+                ]
+            },
+            "properties": {
+                "name": "Travass\u00f4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5243607,
+                    40.6011212
+                ]
+            },
+            "properties": {
+                "name": "Taipa-Requeixo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5480554,
+                    40.6221811
+                ]
+            },
+            "properties": {
+                "name": "S\u00e3o Jo\u00e3o de Loure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5918575,
+                    40.6398535
+                ]
+            },
+            "properties": {
+                "name": "Azurva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.666368,
+                    41.9936143
+                ]
+            },
+            "properties": {
+                "name": "S\u00e3o Pedro da Torre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7026596,
+                    41.9798304
+                ]
+            },
+            "properties": {
+                "name": "Carvalha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7929331,
+                    41.9093357
+                ]
+            },
+            "properties": {
+                "name": "Esqueiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8192396,
+                    41.8965101
+                ]
+            },
+            "properties": {
+                "name": "Seixas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.843515,
+                    41.8694781
+                ]
+            },
+            "properties": {
+                "name": "Senhora da Agonia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7993207,
+                    41.684107
+                ]
+            },
+            "properties": {
+                "name": "Areia - Darque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7396176,
+                    41.6484261
+                ]
+            },
+            "properties": {
+                "name": "Alvar\u00e3es"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7209795,
+                    41.6466429
+                ]
+            },
+            "properties": {
+                "name": "Senhora das Neves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6670168,
+                    41.6390663
+                ]
+            },
+            "properties": {
+                "name": "Durr\u00e3es"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6327123,
+                    41.5858887
+                ]
+            },
+            "properties": {
+                "name": "Carape\u00e7os"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6277813,
+                    41.5660379
+                ]
+            },
+            "properties": {
+                "name": "Silva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5819036,
+                    41.5082107
+                ]
+            },
+            "properties": {
+                "name": "Mid\u00f5es"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5641101,
+                    41.4869277
+                ]
+            },
+            "properties": {
+                "name": "Carreira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6390877,
+                    42.0250182
+                ]
+            },
+            "properties": {
+                "name": "Valen\u00e7a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7483215,
+                    41.9359733
+                ]
+            },
+            "properties": {
+                "name": "Vila Nova de Cerveira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7631456,
+                    41.9199945
+                ]
+            },
+            "properties": {
+                "name": "Gondar\u00e9m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7194001,
+                    39.0856824
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Muge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8342666,
+                    41.874058
+                ]
+            },
+            "properties": {
+                "name": "Caminha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8643344,
+                    41.847915
+                ]
+            },
+            "properties": {
+                "name": "Moledo do Minho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8624779,
+                    41.8130609
+                ]
+            },
+            "properties": {
+                "name": "\u00c2ncora Praia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8616099,
+                    41.7756217
+                ]
+            },
+            "properties": {
+                "name": "Afife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8634244,
+                    41.7504624
+                ]
+            },
+            "properties": {
+                "name": "Carre\u00e7o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8555727,
+                    41.7211503
+                ]
+            },
+            "properties": {
+                "name": "Areosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7819539,
+                    41.68023
+                ]
+            },
+            "properties": {
+                "name": "Darque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6347956,
+                    41.60879
+                ]
+            },
+            "properties": {
+                "name": "Tamel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.60931,
+                    41.5372813
+                ]
+            },
+            "properties": {
+                "name": "Barcelos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2521975,
+                    38.6997963
+                ]
+            },
+            "properties": {
+                "name": "Cruz Quebrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5294039,
+                    41.405509
+                ]
+            },
+            "properties": {
+                "name": "Famalic\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5220829,
+                    41.4289732
+                ]
+            },
+            "properties": {
+                "name": "Mouquim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5261755,
+                    41.3898095
+                ]
+            },
+            "properties": {
+                "name": "Barrimau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5215633,
+                    41.3794578
+                ]
+            },
+            "properties": {
+                "name": "Esmeriz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.526496,
+                    41.3509447
+                ]
+            },
+            "properties": {
+                "name": "Lousado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5476456,
+                    41.3373717
+                ]
+            },
+            "properties": {
+                "name": "Trofa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5487452,
+                    41.3008566
+                ]
+            },
+            "properties": {
+                "name": "Portela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5535939,
+                    41.2779576
+                ]
+            },
+            "properties": {
+                "name": "S\u00e3o Rom\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.55816,
+                    41.2584062
+                ]
+            },
+            "properties": {
+                "name": "S\u00e3o Frutuoso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5541513,
+                    41.2171245
+                ]
+            },
+            "properties": {
+                "name": "Ermesinde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5565029,
+                    41.2007169
+                ]
+            },
+            "properties": {
+                "name": "\u00c1guas Santas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5569018,
+                    41.2022621
+                ]
+            },
+            "properties": {
+                "name": "Palmilheira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5570588,
+                    41.1846679
+                ]
+            },
+            "properties": {
+                "name": "Rio Tinto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5792127,
+                    41.1971434
+                ]
+            },
+            "properties": {
+                "name": "S\u00e3o Gemil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.478684,
+                    38.7022365
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Vidigal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5103782,
+                    38.748612
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Canha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5111964,
+                    38.8035117
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Lavre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.511995,
+                    38.8460976
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de S\u00e3o Torcato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.499461,
+                    38.8947947
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Salgueirinha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5173655,
+                    38.9410338
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Quinta Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5700528,
+                    38.9564197
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Agolada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6872807,
+                    39.0487033
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Marinhais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7035805,
+                    38.0175821
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Santiago do Cac\u00e9m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6176385,
+                    38.0131228
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de S\u00e3o Bartolomeu da Serra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5856098,
+                    38.668116
+                ]
+            },
+            "properties": {
+                "name": "S\u00e3o Jo\u00e3o das Craveiras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6915023,
+                    38.6364352
+                ]
+            },
+            "properties": {
+                "name": "Fernando P\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6179378,
+                    40.6414963
+                ]
+            },
+            "properties": {
+                "name": "Esqueira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0641982,
+                    38.8592888
+                ]
+            },
+            "properties": {
+                "name": "P\u00f3voa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.253388,
+                    39.0060547
+                ]
+            },
+            "properties": {
+                "name": "Santa Eul\u00e1lia-A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3333483,
+                    39.0968448
+                ]
+            },
+            "properties": {
+                "name": "Apeadeiro de Arronches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3954778,
+                    39.57114
+                ]
+            },
+            "properties": {
+                "name": "Carvalhos de Figueiredo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4297927,
+                    39.5479331
+                ]
+            },
+            "properties": {
+                "name": "Curvaceiras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4628348,
+                    39.5485867
+                ]
+            },
+            "properties": {
+                "name": "Carrascal-Delongo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4716284,
+                    39.5428673
+                ]
+            },
+            "properties": {
+                "name": "Soudos - Vila Nova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.388074,
+                    38.742168
+                ]
+            },
+            "properties": {
+                "name": "Scott Urb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7664556,
+                    40.0623877
+                ]
+            },
+            "properties": {
+                "name": "Telhada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1226326,
+                    38.714101
+                ]
+            },
+            "properties": {
+                "name": "Lisboa - Santa Apol\u00f3nia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1669671,
+                    38.740027
+                ]
+            },
+            "properties": {
+                "name": "Sete Rios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1490809,
+                    38.7441908
+                ]
+            },
+            "properties": {
+                "name": "Entrecampos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1368243,
+                    38.7456121
+                ]
+            },
+            "properties": {
+                "name": "Roma-Areeiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3307938,
+                    38.7932377
+                ]
+            },
+            "properties": {
+                "name": "Merc\u00eas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3763834,
+                    38.8022464
+                ]
+            },
+            "properties": {
+                "name": "Portela de Sintra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1662309,
+                    38.7417905
+                ]
+            },
+            "properties": {
+                "name": "Terminal Rodovi\u00e1rio de Sete Rios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1478496,
+                    38.6880899
+                ]
+            },
+            "properties": {
+                "name": "Terminal Fluvial de Cacilhas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1457014,
+                    38.7049937
+                ]
+            },
+            "properties": {
+                "name": "Terminal Fluvial do Cais do Sodr\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.133597,
+                    38.7067445
+                ]
+            },
+            "properties": {
+                "name": "Terreiro do Pa\u00e7o - Terminal Fluvial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1419434,
+                    38.7146719
+                ]
+            },
+            "properties": {
+                "name": "Rossio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4526247,
+                    40.6723166
+                ]
+            },
+            "properties": {
+                "name": "Sernada do Vouga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2565351,
+                    39.0154191
+                ]
+            },
+            "properties": {
+                "name": "Santa Eul\u00e1lia (encerrada)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1974381,
+                    38.6962742
+                ]
+            },
+            "properties": {
+                "name": "Bel\u00e9m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4601762,
+                    40.6053361
+                ]
+            },
+            "properties": {
+                "name": "Mourisca do Vouga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4583438,
+                    40.6532508
+                ]
+            },
+            "properties": {
+                "name": "Macinhata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2905388,
+                    38.6969832
+                ]
+            },
+            "properties": {
+                "name": "Pa\u00e7o de Arcos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1344391,
+                    39.4057655
+                ]
+            },
+            "properties": {
+                "name": "Rodovi\u00e1ria do Oeste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6319189,
+                    41.0989906
+                ]
+            },
+            "properties": {
+                "name": "Valadares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.03334,
+                    38.8905741
+                ]
+            },
+            "properties": {
+                "name": "Alverca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3987074,
+                    41.153646
+                ]
+            },
+            "properties": {
+                "name": "Plataforma 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3987949,
+                    41.1535638
+                ]
+            },
+            "properties": {
+                "name": "Plataforma 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4737705,
+                    39.4616253
+                ]
+            },
+            "properties": {
+                "name": "Entroncamento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4352929,
+                    39.4615034
+                ]
+            },
+            "properties": {
+                "name": "Barquinha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5315842,
+                    40.6094489
+                ]
+            },
+            "properties": {
+                "name": "Eirol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.078943,
+                    38.651945
+                ]
+            },
+            "properties": {
+                "name": "Terminal Fluvial do Barreiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6443623,
+                    41.006271
+                ]
+            },
+            "properties": {
+                "name": "Espinho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6201941,
+                    41.1296653
+                ]
+            },
+            "properties": {
+                "name": "Vila Nova de Gaia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6469893,
+                    41.0385616
+                ]
+            },
+            "properties": {
+                "name": "Granja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5980716,
+                    40.6846942
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Cacia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.64056,
+                    40.6433749
+                ]
+            },
+            "properties": {
+                "name": "Aveiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4312104,
+                    40.3381299
+                ]
+            },
+            "properties": {
+                "name": "Pampilhosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6069881,
+                    40.179407
+                ]
+            },
+            "properties": {
+                "name": "Formoselha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.500213,
+                    40.2058154
+                ]
+            },
+            "properties": {
+                "name": "Taveiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6343905,
+                    40.1650687
+                ]
+            },
+            "properties": {
+                "name": "Alfarelos - Granja do Ulmeiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5453752,
+                    39.71452
+                ]
+            },
+            "properties": {
+                "name": "Caxarias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4737071,
+                    39.4615889
+                ]
+            },
+            "properties": {
+                "name": "Linha 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.473822,
+                    39.461662
+                ]
+            },
+            "properties": {
+                "name": "Linha 9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1985325,
+                    38.6949725
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Fluvial de Bel\u00e8m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0058038,
+                    38.70031
+                ]
+            },
+            "properties": {
+                "name": "Terminal Fluvial do Seixalinho (Montijo)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0958514,
+                    38.6475498
+                ]
+            },
+            "properties": {
+                "name": "Terminal Fluvial do Seixal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2311435,
+                    38.6742804
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Fluvial da Trafaria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0129316,
+                    39.2654229
+                ]
+            },
+            "properties": {
+                "name": "Ponte de Sor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4610294,
+                    39.199015
+                ]
+            },
+            "properties": {
+                "name": "Portalegre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6353266,
+                    39.2693442
+                ]
+            },
+            "properties": {
+                "name": "Crato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8079342,
+                    39.2756316
+                ]
+            },
+            "properties": {
+                "name": "Chan\u00e7a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1357596,
+                    39.3523955
+                ]
+            },
+            "properties": {
+                "name": "Bemposta - S\u00e3o Facundo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9072951,
+                    38.5605203
+                ]
+            },
+            "properties": {
+                "name": "\u00c9vora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1582429,
+                    38.7608947
+                ]
+            },
+            "properties": {
+                "name": "Campo Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4321829,
+                    40.2089072
+                ]
+            },
+            "properties": {
+                "name": "Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4248097,
+                    40.2035013
+                ]
+            },
+            "properties": {
+                "name": "Coimbra-Parque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0994623,
+                    38.777508
+                ]
+            },
+            "properties": {
+                "name": "Moscavide"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1685644,
+                    38.7423646
+                ]
+            },
+            "properties": {
+                "name": "Sete Rios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4816667,
+                    40.8402642
+                ]
+            },
+            "properties": {
+                "name": "Oliveira de Azem\u00e9is"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4942751,
+                    40.8681541
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o REFER Couto de Cucuj\u00e3es"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7154846,
+                    40.5670857
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Conten\u00e7as"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7603081,
+                    40.5867217
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Mangualde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.258287,
+                    40.7248079
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Vila Franca das Naves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1245299,
+                    40.3905184
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Santa Comba D\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1581888,
+                    38.4982897
+                ]
+            },
+            "properties": {
+                "name": "Casa Branca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.157374,
+                    38.4981344
+                ]
+            },
+            "properties": {
+                "name": "Casa Branca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.045882,
+                    40.5118693
+                ]
+            },
+            "properties": {
+                "name": "<Esta\u00e7\u00e3o Ferrovi\u00e1ria de Cerdeira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9045745,
+                    40.593323
+                ]
+            },
+            "properties": {
+                "name": "Apeadeiro de Freineda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1479007,
+                    40.4978304
+                ]
+            },
+            "properties": {
+                "name": "Apeadeiro de Vila Fernando"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.978758,
+                    40.5328138
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de No\u00e9mi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8315458,
+                    40.6058767
+                ]
+            },
+            "properties": {
+                "name": "Vilar Formoso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4362786,
+                    39.9199653
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Alcains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3363687,
+                    40.3332946
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Belmonte-Manteigas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3706509,
+                    40.3059214
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Caria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4963103,
+                    40.2774946
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Covilh\u00e3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4105211,
+                    40.1491801
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Fatela-Penamacor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2873393,
+                    40.3888041
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Ma\u00e7ainhas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2387911,
+                    40.5115654
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Sabugal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5124283,
+                    40.2390838
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Tortosendo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2682293,
+                    40.4348467
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o ferrovi\u00e1ria de Benespera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6729627,
+                    39.6551381
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de R\u00f3d\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4122644,
+                    39.5988967
+                ]
+            },
+            "properties": {
+                "name": "Rodovi\u00e1ria do Tejo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3951232,
+                    39.4613072
+                ]
+            },
+            "properties": {
+                "name": "Tancos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3738846,
+                    39.4622546
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria de Almourol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3413907,
+                    38.7975598
+                ]
+            },
+            "properties": {
+                "name": "Algueir\u00e3o/Mem Martins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1015527,
+                    38.6098874
+                ]
+            },
+            "properties": {
+                "name": "Fogueteiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6094101,
+                    41.1524335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.63859,
+                    40.6437087
+                ]
+            },
+            "properties": {
+                "name": "Centro Coordenador de Transportes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1400068,
+                    39.4064993
+                ]
+            },
+            "properties": {
+                "name": "Caldas da Rainha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.815291,
+                    40.0163092
+                ]
+            },
+            "properties": {
+                "name": "Louri\u00e7al"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2265843,
+                    37.7455945
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o de Ourique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2304889,
+                    38.6414186
+                ]
+            },
+            "properties": {
+                "name": "Pra\u00e7a Padre Manuel Bernardes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0352159,
+                    38.2937494
+                ]
+            },
+            "properties": {
+                "name": "Vila Nova da Baronia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1985067,
+                    38.7618359
+                ]
+            },
+            "properties": {
+                "name": "Interface da Pontinha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0177723,
+                    39.5846037
+                ]
+            },
+            "properties": {
+                "name": "Valado-Alcoba\u00e7a-Nazar\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1683212,
+                    38.7324555
+                ]
+            },
+            "properties": {
+                "name": "Campolide"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1678209,
+                    38.7328609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1551597,
+                    38.7059898
+                ]
+            },
+            "properties": {
+                "name": "Santos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1736641,
+                    38.7024536
+                ]
+            },
+            "properties": {
+                "name": "Alc\u00e2ntara-Mar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1728428,
+                    38.7090844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1458744,
+                    38.7058982
+                ]
+            },
+            "properties": {
+                "name": "Cais do Sodr\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4963093,
+                    40.1406444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2275658,
+                    38.6989761
+                ]
+            },
+            "properties": {
+                "name": "Terminal de Alg\u00e9s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2294836,
+                    38.6983563
+                ]
+            },
+            "properties": {
+                "name": "Alg\u00e9s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1995692,
+                    38.7443662
+                ]
+            },
+            "properties": {
+                "name": "Benfica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.213598,
+                    38.7470623
+                ]
+            },
+            "properties": {
+                "name": "Santa Cruz - Damaia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2227407,
+                    38.7508876
+                ]
+            },
+            "properties": {
+                "name": "Reboleira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.274387,
+                    38.6987704
+                ]
+            },
+            "properties": {
+                "name": "Caxias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1007258,
+                    38.7679332
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Rodovi\u00e1ria de Lisboa-Oriente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2066904,
+                    38.6778642
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Fluvial de Porto Brand\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2357261,
+                    38.7596796
+                ]
+            },
+            "properties": {
+                "name": "Amadora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9457908,
+                    39.6871123
+                ]
+            },
+            "properties": {
+                "name": "Martingan\u00e7a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.252921,
+                    39.0909401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2985196,
+                    38.7665103
+                ]
+            },
+            "properties": {
+                "name": "Agualva-Cac\u00e9m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.312096,
+                    38.7897598
+                ]
+            },
+            "properties": {
+                "name": "Mira Sintra-Mele\u00e7as"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1087456,
+                    38.7390528
+                ]
+            },
+            "properties": {
+                "name": "Marvila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1027917,
+                    38.7470874
+                ]
+            },
+            "properties": {
+                "name": "Bra\u00e7o de Prata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4406129,
+                    40.2255952
+                ]
+            },
+            "properties": {
+                "name": "Coimbra-B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0998394,
+                    38.7948895
+                ]
+            },
+            "properties": {
+                "name": "Sacav\u00e9m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0955991,
+                    38.4068579
+                ]
+            },
+            "properties": {
+                "name": "Alca\u00e7ovas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6808293,
+                    39.6311718
+                ]
+            },
+            "properties": {
+                "name": "Terminal rodovi\u00e1rio de F\u00e1tima - Rede Expressos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9214918,
+                    38.6301111
+                ]
+            },
+            "properties": {
+                "name": "Pinhal Novo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3853067,
+                    38.7993385
+                ]
+            },
+            "properties": {
+                "name": "Sintra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1795327,
+                    38.6661869
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Ferrovi\u00e1ria do Pragal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4544173,
+                    38.6792667
+                ]
+            },
+            "properties": {
+                "name": "Vendas Novas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5427789,
+                    41.1712712
+                ]
+            },
+            "properties": {
+                "name": "F\u00e2nzeres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.541884,
+                    41.1750684
+                ]
+            },
+            "properties": {
+                "name": "Venda Nova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5435107,
+                    41.1798359
+                ]
+            },
+            "properties": {
+                "name": "Carreira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.545854,
+                    41.1855238
+                ]
+            },
+            "properties": {
+                "name": "Baguim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5538589,
+                    41.1833685
+                ]
+            },
+            "properties": {
+                "name": "Campainha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5602212,
+                    41.1793674
+                ]
+            },
+            "properties": {
+                "name": "Rio Tinto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5621821,
+                    41.1757365
+                ]
+            },
+            "properties": {
+                "name": "Levada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5772608,
+                    41.1706216
+                ]
+            },
+            "properties": {
+                "name": "Nasoni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5786131,
+                    41.1657096
+                ]
+            },
+            "properties": {
+                "name": "Contumil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5681293,
+                    40.631135
+                ]
+            },
+            "properties": {
+                "name": "Eixo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5934189,
+                    40.9840503
+                ]
+            },
+            "properties": {
+                "name": "Oleiros"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.584497,
+                    40.9720256
+                ]
+            },
+            "properties": {
+                "name": "Pa\u00e7os de Brand\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5711973,
+                    40.960897
+                ]
+            },
+            "properties": {
+                "name": "Rio Me\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5511347,
+                    40.9553271
+                ]
+            },
+            "properties": {
+                "name": "S\u00e3o Jo\u00e3o de Ver"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5355425,
+                    40.9242574
+                ]
+            },
+            "properties": {
+                "name": "Vila da Feira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.500878,
+                    40.9093787
+                ]
+            },
+            "properties": {
+                "name": "Arrifana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4951295,
+                    40.8986669
+                ]
+            },
+            "properties": {
+                "name": "S\u00e3o Jo\u00e3o da Madeira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4340888,
+                    41.5487874
+                ]
+            },
+            "properties": {
+                "name": "Braga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3186418,
+                    38.6884146
+                ]
+            },
+            "properties": {
+                "name": "Oeiras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3853247,
+                    38.7010016
+                ]
+            },
+            "properties": {
+                "name": "S\u00e3o Jo\u00e3o do Estoril"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.09474,
+                    38.8066967
+                ]
+            },
+            "properties": {
+                "name": "Bobadela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0804505,
+                    38.8403115
+                ]
+            },
+            "properties": {
+                "name": "Santa Iria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0115431,
+                    38.9234122
+                ]
+            },
+            "properties": {
+                "name": "Alhandra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9859521,
+                    38.9558143
+                ]
+            },
+            "properties": {
+                "name": "Vila Franca de Xira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9651652,
+                    38.9888775
+                ]
+            },
+            "properties": {
+                "name": "Castanheira do Ribatejo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.356445,
+                    38.6897377
+                ]
+            },
+            "properties": {
+                "name": "Parede"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3372087,
+                    38.6878383
+                ]
+            },
+            "properties": {
+                "name": "Carcavelos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3716906,
+                    38.6953842
+                ]
+            },
+            "properties": {
+                "name": "S\u00e3o Pedro do Estoril"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3119959,
+                    38.6870201
+                ]
+            },
+            "properties": {
+                "name": "Santo Amaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4177001,
+                    38.7008539
+                ]
+            },
+            "properties": {
+                "name": "Cascais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4061125,
+                    38.7034744
+                ]
+            },
+            "properties": {
+                "name": "Monte Estoril"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3984571,
+                    38.7032591
+                ]
+            },
+            "properties": {
+                "name": "Estoril"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2569604,
+                    38.7588071
+                ]
+            },
+            "properties": {
+                "name": "Queluz/Belas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2652928,
+                    38.7554581
+                ]
+            },
+            "properties": {
+                "name": "Monte Abra\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2482239,
+                    39.4605697
+                ]
+            },
+            "properties": {
+                "name": "Tramagal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6190584,
+                    38.6623857
+                ]
+            },
+            "properties": {
+                "name": "Peg\u00f5es"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.743374,
+                    38.6344978
+                ]
+            },
+            "properties": {
+                "name": "Poceir\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.913322,
+                    38.630092
+                ]
+            },
+            "properties": {
+                "name": "Pinhal Novo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3933871,
+                    39.5530514
+                ]
+            },
+            "properties": {
+                "name": "Santa Cita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4122511,
+                    39.5981373
+                ]
+            },
+            "properties": {
+                "name": "Tomar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7644931,
+                    40.1222998
+                ]
+            },
+            "properties": {
+                "name": "Bifurca\u00e7\u00e3o de Lares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3126248,
+                    41.3792206
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o de Comboios de Vizela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2634483,
+                    40.5345392
+                ]
+            },
+            "properties": {
+                "name": "Centro Coordenador de Transportes da Guarda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4823845,
+                    42.076976
+                ]
+            },
+            "properties": {
+                "name": "Mon\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.8960466,
+                    32.6703064
+                ]
+            },
+            "properties": {
+                "name": "Telef\u00e9rico do Jardim Bot\u00e2nico"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

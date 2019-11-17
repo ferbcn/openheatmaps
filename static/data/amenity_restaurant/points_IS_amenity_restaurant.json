@@ -1,0 +1,4623 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9730317,
+                    64.0059885
+                ]
+            },
+            "properties": {
+                "name": "\u00derastalundur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9409244,
+                    64.1484178
+                ]
+            },
+            "properties": {
+                "name": "Uno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9231261,
+                    64.535725
+                ]
+            },
+            "properties": {
+                "name": "Landn\u00e1mssetur \u00cdslands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7075483,
+                    64.8952044
+                ]
+            },
+            "properties": {
+                "name": "Hotel \u00d3lafsv\u00edk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.7250004,
+                    65.0768682
+                ]
+            },
+            "properties": {
+                "name": "Narfeyrarstofa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.4467223,
+                    65.5535411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0904368,
+                    65.6833516
+                ]
+            },
+            "properties": {
+                "name": "Sjangh\u00e6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0891408,
+                    65.6808087
+                ]
+            },
+            "properties": {
+                "name": "Bautinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0064421,
+                    63.9366239
+                ]
+            },
+            "properties": {
+                "name": "Menam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9187121,
+                    64.1437116
+                ]
+            },
+            "properties": {
+                "name": "Eldsmi\u00f0jan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.8687764,
+                    64.6992304
+                ]
+            },
+            "properties": {
+                "name": "H\u00fasafell Bistr\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.940591,
+                    64.1478952
+                ]
+            },
+            "properties": {
+                "name": "Shalimar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2254341,
+                    63.7515189
+                ]
+            },
+            "properties": {
+                "name": "Galler\u00fd Pizza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0001061,
+                    63.9324414
+                ]
+            },
+            "properties": {
+                "name": "Eldh\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8712744,
+                    64.1315789
+                ]
+            },
+            "properties": {
+                "name": "NaNaThai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8107534,
+                    64.1289449
+                ]
+            },
+            "properties": {
+                "name": "Ning's Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8853434,
+                    64.1399239
+                ]
+            },
+            "properties": {
+                "name": "Askur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.0713981,
+                    64.3204849
+                ]
+            },
+            "properties": {
+                "name": "Galito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0949434,
+                    65.6871181
+                ]
+            },
+            "properties": {
+                "name": "Greifinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0894014,
+                    65.6817473
+                ]
+            },
+            "properties": {
+                "name": "Striki\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.090856,
+                    65.6806831
+                ]
+            },
+            "properties": {
+                "name": "Rub23"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0888082,
+                    65.6808591
+                ]
+            },
+            "properties": {
+                "name": "La Vita e Bella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.2803192,
+                    64.6562704
+                ]
+            },
+            "properties": {
+                "name": "H\u00f3tel Framt\u00ed\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0034369,
+                    63.9378282
+                ]
+            },
+            "properties": {
+                "name": "Tryggvask\u00e1li"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.933706,
+                    64.14675
+                ]
+            },
+            "properties": {
+                "name": "S\u00f3lon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6551128,
+                    66.0698509
+                ]
+            },
+            "properties": {
+                "name": "Brimnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.3986287,
+                    64.0208518
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00ed\u00f0ask\u00e1linn \u00ed Hverad\u00f6lum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.0142081,
+                    63.4175666
+                ]
+            },
+            "properties": {
+                "name": "Halld\u00f3rskaffi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.4440181,
+                    64.279192
+                ]
+            },
+            "properties": {
+                "name": "R\u00e9ttin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.5758624,
+                    63.972132
+                ]
+            },
+            "properties": {
+                "name": "Langbest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.126367,
+                    66.0683593
+                ]
+            },
+            "properties": {
+                "name": "Tj\u00f6ruh\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.5192723,
+                    65.2627114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9307468,
+                    64.1457425
+                ]
+            },
+            "properties": {
+                "name": "Vegam\u00f3t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.8069079,
+                    65.3474505
+                ]
+            },
+            "properties": {
+                "name": "Gauksm\u00fdri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4245705,
+                    63.8423439
+                ]
+            },
+            "properties": {
+                "name": "Br\u00fain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0660038,
+                    63.8367879
+                ]
+            },
+            "properties": {
+                "name": "Vid fjorubordid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4301038,
+                    63.8815744
+                ]
+            },
+            "properties": {
+                "name": "Northern Light Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9401859,
+                    64.14587
+                ]
+            },
+            "properties": {
+                "name": "I\u00f0n\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.9091717,
+                    66.149346
+                ]
+            },
+            "properties": {
+                "name": "Hannes Boy Caf\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.3596156,
+                    64.140716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9557347,
+                    64.0652062
+                ]
+            },
+            "properties": {
+                "name": "Fj\u00f6rukr\u00e1in"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9224495,
+                    64.1444516
+                ]
+            },
+            "properties": {
+                "name": "Ruan thai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9235769,
+                    64.1447162
+                ]
+            },
+            "properties": {
+                "name": "Hereford Steikh\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9185511,
+                    64.1451578
+                ]
+            },
+            "properties": {
+                "name": "Gr\u00fdtan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9294523,
+                    64.1456269
+                ]
+            },
+            "properties": {
+                "name": "Gl\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.4064577,
+                    63.8335926
+                ]
+            },
+            "properties": {
+                "name": "\u00c1rh\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.037348,
+                    65.5672585
+                ]
+            },
+            "properties": {
+                "name": "Sel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.039363,
+                    65.5688323
+                ]
+            },
+            "properties": {
+                "name": "G\u00edgur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0903458,
+                    65.6816679
+                ]
+            },
+            "properties": {
+                "name": "Indian Curry Hut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8924144,
+                    64.517973
+                ]
+            },
+            "properties": {
+                "name": "Br\u00fa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3727411,
+                    65.7209917
+                ]
+            },
+            "properties": {
+                "name": "Dalakofinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9216867,
+                    64.5368749
+                ]
+            },
+            "properties": {
+                "name": "Matstofan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.7341503,
+                    64.8492953
+                ]
+            },
+            "properties": {
+                "name": "Vegam\u00f3t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9381541,
+                    64.1480398
+                ]
+            },
+            "properties": {
+                "name": "Horni\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9387294,
+                    64.1466055
+                ]
+            },
+            "properties": {
+                "name": "gandhi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0118808,
+                    66.5392624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9310404,
+                    64.1423281
+                ]
+            },
+            "properties": {
+                "name": "Eldsmi\u00f0jan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9326088,
+                    64.1463706
+                ]
+            },
+            "properties": {
+                "name": "Sushibarinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9421784,
+                    64.1477023
+                ]
+            },
+            "properties": {
+                "name": "Fiskmarka\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9054673,
+                    64.1411877
+                ]
+            },
+            "properties": {
+                "name": "Ruby Tuesday"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9357869,
+                    64.1468935
+                ]
+            },
+            "properties": {
+                "name": "L\u00e6kjarbrekka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9346119,
+                    64.1462922
+                ]
+            },
+            "properties": {
+                "name": "Domo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9336771,
+                    64.1423094
+                ]
+            },
+            "properties": {
+                "name": "\u00der\u00edr Frakkar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9256087,
+                    64.1449367
+                ]
+            },
+            "properties": {
+                "name": "Rossopomodoro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.914158,
+                    64.141384
+                ]
+            },
+            "properties": {
+                "name": "Rest\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.8639701,
+                    64.2552747
+                ]
+            },
+            "properties": {
+                "name": "J\u00f6klasel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9333524,
+                    64.1470911
+                ]
+            },
+            "properties": {
+                "name": "Kitchen & Wine Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.5071583,
+                    64.7874432
+                ]
+            },
+            "properties": {
+                "name": "Hraunsnef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.6670341,
+                    65.7069352
+                ]
+            },
+            "properties": {
+                "name": "Cafe R\u00ed\u00eds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9423949,
+                    64.1474802
+                ]
+            },
+            "properties": {
+                "name": "Fjalak\u00f6tturinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8677239,
+                    64.1335876
+                ]
+            },
+            "properties": {
+                "name": "Saffran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0809321,
+                    65.6695133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9501013,
+                    64.1532834
+                ]
+            },
+            "properties": {
+                "name": "Flatey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9503159,
+                    64.1532577
+                ]
+            },
+            "properties": {
+                "name": "Sj\u00e1varbarinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9440241,
+                    64.1508111
+                ]
+            },
+            "properties": {
+                "name": "S\u00e6greifinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.911988,
+                    64.142915
+                ]
+            },
+            "properties": {
+                "name": "Ban Thai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0921007,
+                    65.6825359
+                ]
+            },
+            "properties": {
+                "name": "T Bone Steak House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.5589096,
+                    65.9444291
+                ]
+            },
+            "properties": {
+                "name": "H\u00f3tel Dj\u00fapav\u00edk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9383507,
+                    64.1481504
+                ]
+            },
+            "properties": {
+                "name": "1919"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8858143,
+                    64.1408532
+                ]
+            },
+            "properties": {
+                "name": "Gl\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8755795,
+                    64.1221614
+                ]
+            },
+            "properties": {
+                "name": "Eldofninn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9502109,
+                    64.1400117
+                ]
+            },
+            "properties": {
+                "name": "H\u00e1ma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9421891,
+                    64.1486841
+                ]
+            },
+            "properties": {
+                "name": "Tapas barinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9411131,
+                    64.1486318
+                ]
+            },
+            "properties": {
+                "name": "Restaurant Reykjavik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9373706,
+                    64.1472128
+                ]
+            },
+            "properties": {
+                "name": "Grillmarka\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.9908768,
+                    64.8008584
+                ]
+            },
+            "properties": {
+                "name": "Caf\u00e9 Margret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.920262,
+                    64.1439988
+                ]
+            },
+            "properties": {
+                "name": "73"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9437956,
+                    64.150435
+                ]
+            },
+            "properties": {
+                "name": "Icelandic Fish and Chips"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.946257,
+                    64.1507948
+                ]
+            },
+            "properties": {
+                "name": "Forr\u00e9ttabarinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0870643,
+                    65.6834216
+                ]
+            },
+            "properties": {
+                "name": "1862 Nordic Bistro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9167731,
+                    64.1423531
+                ]
+            },
+            "properties": {
+                "name": "Silfurtungli\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.6008545,
+                    65.6854668
+                ]
+            },
+            "properties": {
+                "name": "Veitingastofan vegam\u00f3t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9417773,
+                    64.1459065
+                ]
+            },
+            "properties": {
+                "name": "Vi\u00f0 Tj\u00f6rnina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9576673,
+                    64.069125
+                ]
+            },
+            "properties": {
+                "name": "Tilveran Veitingah\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9472988,
+                    64.08037
+                ]
+            },
+            "properties": {
+                "name": "Bakh\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9483427,
+                    64.0793743
+                ]
+            },
+            "properties": {
+                "name": "Dong Huang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.939203,
+                    64.0787811
+                ]
+            },
+            "properties": {
+                "name": "\u00c1 milli hrauna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8127601,
+                    64.121466
+                ]
+            },
+            "properties": {
+                "name": "Galler\u00fd fiskur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.872653,
+                    64.1466418
+                ]
+            },
+            "properties": {
+                "name": "Lauga-\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9414044,
+                    64.1488746
+                ]
+            },
+            "properties": {
+                "name": "Fiskf\u00e9lagi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2999325,
+                    64.3101086
+                ]
+            },
+            "properties": {
+                "name": "Geysir Gl\u00edma Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9328338,
+                    64.1463808
+                ]
+            },
+            "properties": {
+                "name": "Sakebarinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.1670348,
+                    64.3031661
+                ]
+            },
+            "properties": {
+                "name": "H\u00f3tel Gullfoss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9072636,
+                    64.1448184
+                ]
+            },
+            "properties": {
+                "name": "Serrano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.0821905,
+                    64.318049
+                ]
+            },
+            "properties": {
+                "name": "Gamla Kaupf\u00e9lagi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8763971,
+                    65.3822871
+                ]
+            },
+            "properties": {
+                "name": "Veitingah\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7924304,
+                    64.1446187
+                ]
+            },
+            "properties": {
+                "name": "Rima Grill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7891392,
+                    64.150736
+                ]
+            },
+            "properties": {
+                "name": "Ali Baba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7891218,
+                    64.1507756
+                ]
+            },
+            "properties": {
+                "name": "Krua Mai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8761328,
+                    64.1044664
+                ]
+            },
+            "properties": {
+                "name": "Castello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8642075,
+                    64.1295036
+                ]
+            },
+            "properties": {
+                "name": "Gl\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9202314,
+                    64.1440176
+                ]
+            },
+            "properties": {
+                "name": "Gamla V\u00ednh\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.320808,
+                    64.1312935
+                ]
+            },
+            "properties": {
+                "name": "Kaffi Grund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9031464,
+                    64.5542498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8918091,
+                    64.1140468
+                ]
+            },
+            "properties": {
+                "name": "K\u00ednahofi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.891385,
+                    64.1140748
+                ]
+            },
+            "properties": {
+                "name": "American Style"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8427442,
+                    64.1088898
+                ]
+            },
+            "properties": {
+                "name": "Hj\u00e1 D\u00f3ra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8047561,
+                    64.095591
+                ]
+            },
+            "properties": {
+                "name": "Skalli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.0020873,
+                    63.9376946
+                ]
+            },
+            "properties": {
+                "name": "Yellow"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.7126307,
+                    64.0404503
+                ]
+            },
+            "properties": {
+                "name": "Vitinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.9901676,
+                    65.5968028
+                ]
+            },
+            "properties": {
+                "name": "Cafe Restaurant St\u00fakuh\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.0005246,
+                    65.5954527
+                ]
+            },
+            "properties": {
+                "name": "Sj\u00f3r\u00e6ningjah\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9907955,
+                    63.9367429
+                ]
+            },
+            "properties": {
+                "name": "Cafe Corazon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8176568,
+                    64.108936
+                ]
+            },
+            "properties": {
+                "name": "Domino's Pizza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8174691,
+                    64.1089407
+                ]
+            },
+            "properties": {
+                "name": "17. j\u00fan\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.379373,
+                    63.8587475
+                ]
+            },
+            "properties": {
+                "name": "Svarti Sau\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9427864,
+                    64.1505479
+                ]
+            },
+            "properties": {
+                "name": "MAR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8474543,
+                    64.3897992
+                ]
+            },
+            "properties": {
+                "name": "Lax\u00e1rbakki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9184698,
+                    64.1440605
+                ]
+            },
+            "properties": {
+                "name": "Argentina Steikhus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.6652334,
+                    65.7064946
+                ]
+            },
+            "properties": {
+                "name": "Kaffi Galdur - Museum Bistro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3990891,
+                    65.2614975
+                ]
+            },
+            "properties": {
+                "name": "Caf\u00e9 Nielsen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.551949,
+                    64.001726
+                ]
+            },
+            "properties": {
+                "name": "Thai Keflav\u00edk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.1835826,
+                    64.0059327
+                ]
+            },
+            "properties": {
+                "name": "Varm\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9262192,
+                    64.5373432
+                ]
+            },
+            "properties": {
+                "name": "Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4343422,
+                    63.8450575
+                ]
+            },
+            "properties": {
+                "name": "hj\u00e1 h\u00f6llu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9199952,
+                    64.1438239
+                ]
+            },
+            "properties": {
+                "name": "K-Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.085878,
+                    65.673168
+                ]
+            },
+            "properties": {
+                "name": "\u00d6rkin hans N\u00f3a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.9091984,
+                    66.1507082
+                ]
+            },
+            "properties": {
+                "name": "Torgi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7085066,
+                    64.8954762
+                ]
+            },
+            "properties": {
+                "name": "Hraun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.8236445,
+                    65.6234164
+                ]
+            },
+            "properties": {
+                "name": "Geitafell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.6512235,
+                    65.7510689
+                ]
+            },
+            "properties": {
+                "name": "\u00d3lafsh\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.6502348,
+                    65.7503661
+                ]
+            },
+            "properties": {
+                "name": "Hard Wok Caf\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0898171,
+                    65.6837532
+                ]
+            },
+            "properties": {
+                "name": "Krua Siam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0895221,
+                    65.6805356
+                ]
+            },
+            "properties": {
+                "name": "Hamborgarafabrikkan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.0221115,
+                    64.9316818
+                ]
+            },
+            "properties": {
+                "name": "Caf\u00e9 Sumarlina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.4066715,
+                    65.2585304
+                ]
+            },
+            "properties": {
+                "name": "Kaffi Egilsstadir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.0092722,
+                    64.7920392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.0175645,
+                    64.1296022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.231981,
+                    63.7496329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.3181549,
+                    64.1301486
+                ]
+            },
+            "properties": {
+                "name": "Minilik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.8477991,
+                    65.6308557
+                ]
+            },
+            "properties": {
+                "name": "Kvika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9273696,
+                    64.1452814
+                ]
+            },
+            "properties": {
+                "name": "Chuck Norris Grill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9387782,
+                    64.1467435
+                ]
+            },
+            "properties": {
+                "name": "Osushi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.3999138,
+                    63.8396869
+                ]
+            },
+            "properties": {
+                "name": "Hellubio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.937946,
+                    64.146442
+                ]
+            },
+            "properties": {
+                "name": "Austurlandahra\u00f0lestin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9388116,
+                    64.1470552
+                ]
+            },
+            "properties": {
+                "name": "Borg restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9371979,
+                    64.14689
+                ]
+            },
+            "properties": {
+                "name": "J\u00f3mfr\u00fain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9370722,
+                    64.146965
+                ]
+            },
+            "properties": {
+                "name": "Matstofan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9387438,
+                    64.1464975
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00f3labr\u00fa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9376839,
+                    64.1466056
+                ]
+            },
+            "properties": {
+                "name": "Vei\u00f0ikofinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9400096,
+                    64.1476858
+                ]
+            },
+            "properties": {
+                "name": "Dirty Burger & Ribs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9408098,
+                    64.1489038
+                ]
+            },
+            "properties": {
+                "name": "Grillh\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9432343,
+                    64.1507929
+                ]
+            },
+            "properties": {
+                "name": "H\u00f6fnin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9438401,
+                    64.1511049
+                ]
+            },
+            "properties": {
+                "name": "Kopar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.944147,
+                    64.1506238
+                ]
+            },
+            "properties": {
+                "name": "Steikh\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0896508,
+                    65.6805908
+                ]
+            },
+            "properties": {
+                "name": "M\u00falaberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3385383,
+                    66.0460091
+                ]
+            },
+            "properties": {
+                "name": "Moby Dick"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9426695,
+                    64.1499831
+                ]
+            },
+            "properties": {
+                "name": "Icelandic Fish & Chips"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9225112,
+                    64.144329
+                ]
+            },
+            "properties": {
+                "name": "Fri\u00f0rik V"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9223867,
+                    64.144305
+                ]
+            },
+            "properties": {
+                "name": "Kitchen-Eldh\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9254233,
+                    64.1449009
+                ]
+            },
+            "properties": {
+                "name": "meze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9288984,
+                    64.1455839
+                ]
+            },
+            "properties": {
+                "name": "Scandinavian Sm\u00f8rrebr\u00f8d & brasserie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0318,
+                    65.6039
+                ]
+            },
+            "properties": {
+                "name": "Kaffi K\u00fa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.0436168,
+                    63.4040961
+                ]
+            },
+            "properties": {
+                "name": "Black Beach Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9357304,
+                    64.1467234
+                ]
+            },
+            "properties": {
+                "name": "Kornhla\u00f0an"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9438547,
+                    64.1504005
+                ]
+            },
+            "properties": {
+                "name": "Reykjavik Fish"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4495466,
+                    63.8797975
+                ]
+            },
+            "properties": {
+                "name": "Lava Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8097593,
+                    64.125034
+                ]
+            },
+            "properties": {
+                "name": "Ruby Tuesday"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9420227,
+                    64.0770304
+                ]
+            },
+            "properties": {
+                "name": "\u00cdsger\u00f0in"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9356448,
+                    64.1442763
+                ]
+            },
+            "properties": {
+                "name": "Hannesarholt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.5502953,
+                    63.9998526
+                ]
+            },
+            "properties": {
+                "name": "OlsenOlsen Diner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.1041529,
+                    65.5564625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.1677145,
+                    65.5762205
+                ]
+            },
+            "properties": {
+                "name": "Hotel Fl\u00f3kalundur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.1089339,
+                    65.6792487
+                ]
+            },
+            "properties": {
+                "name": "\u00cdsger\u00f0in Akureyri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.932931,
+                    64.1470594
+                ]
+            },
+            "properties": {
+                "name": "Dill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9082588,
+                    64.1451287
+                ]
+            },
+            "properties": {
+                "name": "Bambus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.907733,
+                    64.1447404
+                ]
+            },
+            "properties": {
+                "name": "Happ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9443846,
+                    64.1511479
+                ]
+            },
+            "properties": {
+                "name": "Casa Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9326162,
+                    64.1458998
+                ]
+            },
+            "properties": {
+                "name": "Ostab\u00fa\u00f0in"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9045977,
+                    64.1413198
+                ]
+            },
+            "properties": {
+                "name": "Potturinn og Pannan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9297363,
+                    64.1447998
+                ]
+            },
+            "properties": {
+                "name": "Kaffih\u00fasi\u00f0 Gar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8663448,
+                    64.1297444
+                ]
+            },
+            "properties": {
+                "name": "Salatbarinn Buffet Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9385041,
+                    64.1474266
+                ]
+            },
+            "properties": {
+                "name": "Apotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.931446,
+                    64.1467605
+                ]
+            },
+            "properties": {
+                "name": "Tacobarinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9793848,
+                    64.052565
+                ]
+            },
+            "properties": {
+                "name": "Ban K\u00fann"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8422894,
+                    64.1091793
+                ]
+            },
+            "properties": {
+                "name": "Thai Select"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9146764,
+                    64.1407039
+                ]
+            },
+            "properties": {
+                "name": "Harry's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9493305,
+                    64.1530234
+                ]
+            },
+            "properties": {
+                "name": "Bryggjan Bruggh\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9256464,
+                    64.1456641
+                ]
+            },
+            "properties": {
+                "name": "Austur Ind\u00edaf\u00e9lagi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9362887,
+                    64.1464589
+                ]
+            },
+            "properties": {
+                "name": "Humarh\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9342896,
+                    64.1466748
+                ]
+            },
+            "properties": {
+                "name": "Primo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9333604,
+                    64.1503958
+                ]
+            },
+            "properties": {
+                "name": "Smurst\u00f6\u00f0in"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9316788,
+                    64.1440539
+                ]
+            },
+            "properties": {
+                "name": "Snaps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0900455,
+                    65.6814618
+                ]
+            },
+            "properties": {
+                "name": "Akureyri Backpackers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2745776,
+                    63.4417118
+                ]
+            },
+            "properties": {
+                "name": "Pizza 67"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2675449,
+                    63.4403835
+                ]
+            },
+            "properties": {
+                "name": "900 Grillh\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2717377,
+                    63.4436913
+                ]
+            },
+            "properties": {
+                "name": "Tanginn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.4445537,
+                    64.1774142
+                ]
+            },
+            "properties": {
+                "name": "Fri\u00f0heimar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8757587,
+                    64.1044968
+                ]
+            },
+            "properties": {
+                "name": "Saffran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8664744,
+                    64.130927
+                ]
+            },
+            "properties": {
+                "name": "Fresco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.4352264,
+                    65.6896291
+                ]
+            },
+            "properties": {
+                "name": "Malarhorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9099266,
+                    64.1444824
+                ]
+            },
+            "properties": {
+                "name": "Bj\u00f3rgar\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9096144,
+                    64.1443717
+                ]
+            },
+            "properties": {
+                "name": "Haust Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.3767563,
+                    65.9782472
+                ]
+            },
+            "properties": {
+                "name": "Verb\u00fa\u00f0in 66"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9252418,
+                    64.1448312
+                ]
+            },
+            "properties": {
+                "name": "Durum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.7257611,
+                    65.0764892
+                ]
+            },
+            "properties": {
+                "name": "Pl\u00e1ssi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.2567078,
+                    64.9259021
+                ]
+            },
+            "properties": {
+                "name": "L\u00e1ki - Hafnarkaffi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.261801,
+                    64.927901
+                ]
+            },
+            "properties": {
+                "name": "Bjargarsteinn Math\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9467438,
+                    64.1382343
+                ]
+            },
+            "properties": {
+                "name": "Aalto Bistro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9349216,
+                    64.1463066
+                ]
+            },
+            "properties": {
+                "name": "Isafold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9477805,
+                    65.3955042
+                ]
+            },
+            "properties": {
+                "name": "Sj\u00e1varborg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9179244,
+                    64.1455896
+                ]
+            },
+            "properties": {
+                "name": "Teni Reataurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.0015738,
+                    63.4176011
+                ]
+            },
+            "properties": {
+                "name": "Str\u00f6ndin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2718992,
+                    63.4422015
+                ]
+            },
+            "properties": {
+                "name": "Canton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2690164,
+                    63.4412211
+                ]
+            },
+            "properties": {
+                "name": "Gott"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9220708,
+                    64.0887174
+                ]
+            },
+            "properties": {
+                "name": "Math\u00fas Gar\u00f0ab\u00e6jar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9429616,
+                    64.1507744
+                ]
+            },
+            "properties": {
+                "name": "The Harbour Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9315901,
+                    64.1452183
+                ]
+            },
+            "properties": {
+                "name": "Sj\u00e1vargrilli\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9177763,
+                    64.1434411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.5537999,
+                    64.0026372
+                ]
+            },
+            "properties": {
+                "name": "Fernandos Pizza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9412026,
+                    64.1484708
+                ]
+            },
+            "properties": {
+                "name": "S\u00e6ta Sv\u00edni\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9072053,
+                    64.1451465
+                ]
+            },
+            "properties": {
+                "name": "Hamborgarafabrikkan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.5248647,
+                    64.125982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8758467,
+                    64.1044768
+                ]
+            },
+            "properties": {
+                "name": "Eldsmi\u00f0jan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.8287966,
+                    65.6272851
+                ]
+            },
+            "properties": {
+                "name": "H\u00f3pi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -24.0021631,
+                    65.596223
+                ]
+            },
+            "properties": {
+                "name": "Heimsendi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0811853,
+                    65.685555
+                ]
+            },
+            "properties": {
+                "name": "Bryggjan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0894678,
+                    65.6818164
+                ]
+            },
+            "properties": {
+                "name": "Akureyri Fish"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0916116,
+                    65.6802151
+                ]
+            },
+            "properties": {
+                "name": "Goya Tapas bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0908377,
+                    65.6823456
+                ]
+            },
+            "properties": {
+                "name": "Kung fu express"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0904407,
+                    65.6823224
+                ]
+            },
+            "properties": {
+                "name": "Taste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.5041218,
+                    63.524071
+                ]
+            },
+            "properties": {
+                "name": "Mia's Country Grill - red food truck, fish and chips"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9345198,
+                    64.1464498
+                ]
+            },
+            "properties": {
+                "name": "Sushi Social"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8979666,
+                    64.1406913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9339515,
+                    64.1472884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.011256,
+                    63.9348047
+                ]
+            },
+            "properties": {
+                "name": "Hamborgarab\u00falla T\u00f3masar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9377464,
+                    64.1465702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9573573,
+                    64.0631265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9149344,
+                    64.1432095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8812284,
+                    64.1392492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.5522222,
+                    64.0043378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8814663,
+                    64.5720574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9135008,
+                    64.142717
+                ]
+            },
+            "properties": {
+                "name": "J\u00f6rgensen Kitchen and Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4294868,
+                    63.8813348
+                ]
+            },
+            "properties": {
+                "name": "Max's Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9297323,
+                    64.1441898
+                ]
+            },
+            "properties": {
+                "name": "Fish veitingah\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3385474,
+                    66.0443662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.7277072,
+                    65.074862
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00farinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2292047,
+                    64.3135124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8728366,
+                    64.1323942
+                ]
+            },
+            "properties": {
+                "name": "Viking"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8741374,
+                    64.1319987
+                ]
+            },
+            "properties": {
+                "name": "Tian Chinese Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8634633,
+                    64.1256841
+                ]
+            },
+            "properties": {
+                "name": "\u00eds Grill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4268988,
+                    65.9271177
+                ]
+            },
+            "properties": {
+                "name": "Reykjanes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9006588,
+                    64.1399975
+                ]
+            },
+            "properties": {
+                "name": "P\u00edtan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9769272,
+                    64.7012368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2025864,
+                    64.2522828
+                ]
+            },
+            "properties": {
+                "name": "Z Bistro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.6881769,
+                    64.0818792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.270543,
+                    63.44043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3460923,
+                    66.0469388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.0090581,
+                    65.2603341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.5110806,
+                    63.5270862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9271934,
+                    64.1429491
+                ]
+            },
+            "properties": {
+                "name": "Rok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.5452209,
+                    63.9728038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.765402,
+                    65.1099396
+                ]
+            },
+            "properties": {
+                "name": "Dalakot pizzasta\u00f0ur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9369116,
+                    64.1470901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.5314949,
+                    65.9721715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9589682,
+                    64.0699391
+                ]
+            },
+            "properties": {
+                "name": "Gamla v\u00ednh\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.725472,
+                    65.0776052
+                ]
+            },
+            "properties": {
+                "name": "Sj\u00e1varpakkh\u00fasi\u00f0 (seafood)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9402882,
+                    64.0796849
+                ]
+            },
+            "properties": {
+                "name": "Saffran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9286334,
+                    64.1429966
+                ]
+            },
+            "properties": {
+                "name": "Kol Kitchen & Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9295126,
+                    64.146446
+                ]
+            },
+            "properties": {
+                "name": "Geiri Smart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9241135,
+                    64.145366
+                ]
+            },
+            "properties": {
+                "name": "Hradlestin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9203852,
+                    64.1440287
+                ]
+            },
+            "properties": {
+                "name": "73 Restaruant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9172894,
+                    64.1432926
+                ]
+            },
+            "properties": {
+                "name": "Matwerk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9186055,
+                    64.1435443
+                ]
+            },
+            "properties": {
+                "name": "Harry's Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.92566,
+                    64.1443884
+                ]
+            },
+            "properties": {
+                "name": "Iccolo Italia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.5090767,
+                    63.5269173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9047989,
+                    64.1121217
+                ]
+            },
+            "properties": {
+                "name": "Jordan Grill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9027405,
+                    64.1126895
+                ]
+            },
+            "properties": {
+                "name": "Sukho Thai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.5555426,
+                    64.0042791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.995613,
+                    63.93694
+                ]
+            },
+            "properties": {
+                "name": "Steakhouse Surf & Turf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7962406,
+                    64.1180645
+                ]
+            },
+            "properties": {
+                "name": "Prinsinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.1889265,
+                    63.997648
+                ]
+            },
+            "properties": {
+                "name": "\u00d6lverk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.1875457,
+                    63.9988024
+                ]
+            },
+            "properties": {
+                "name": "Pasta & Panini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9108977,
+                    64.1453328
+                ]
+            },
+            "properties": {
+                "name": "Thai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8858565,
+                    64.1399329
+                ]
+            },
+            "properties": {
+                "name": "Culiacan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8839229,
+                    64.1398026
+                ]
+            },
+            "properties": {
+                "name": "Vietnam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8827033,
+                    64.1396449
+                ]
+            },
+            "properties": {
+                "name": "Sushibarinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8989327,
+                    64.1461751
+                ]
+            },
+            "properties": {
+                "name": "Wok On"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8997266,
+                    64.1461263
+                ]
+            },
+            "properties": {
+                "name": "Bakar\u00ed Kaffih\u00fas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8995058,
+                    64.1461385
+                ]
+            },
+            "properties": {
+                "name": "Sushi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.2855208,
+                    64.196779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2359584,
+                    63.7530249
+                ]
+            },
+            "properties": {
+                "name": "Katla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9143584,
+                    64.1432229
+                ]
+            },
+            "properties": {
+                "name": "J\u00f3mfr\u00fain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9142176,
+                    64.1431533
+                ]
+            },
+            "properties": {
+                "name": "Kr\u00f6st"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9370336,
+                    64.1470448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.000766,
+                    64.926201
+                ]
+            },
+            "properties": {
+                "name": "L'Abri Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.2998888,
+                    64.6832565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2965143,
+                    64.3112918
+                ]
+            },
+            "properties": {
+                "name": "Litli Geysir Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9283529,
+                    64.1454378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9433458,
+                    64.1496834
+                ]
+            },
+            "properties": {
+                "name": "Bio Borgari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.3072427,
+                    65.8237284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.6034824,
+                    65.3626576
+                ]
+            },
+            "properties": {
+                "name": "D\u00e6li"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9325927,
+                    64.1306117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.0088686,
+                    65.26028
+                ]
+            },
+            "properties": {
+                "name": "Nor\u00f0 Austur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.4855898,
+                    64.2803334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.0097155,
+                    65.2604279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9221623,
+                    64.1440658
+                ]
+            },
+            "properties": {
+                "name": "Reykjavik Chips"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9185853,
+                    64.1435445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9152935,
+                    64.1432202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9380107,
+                    64.1464722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9207436,
+                    64.0884096
+                ]
+            },
+            "properties": {
+                "name": "N\u00fc - Asian Fusion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9441117,
+                    64.1509355
+                ]
+            },
+            "properties": {
+                "name": "SALT Kitchen & Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7082239,
+                    64.8953041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9122784,
+                    64.1431872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.3217766,
+                    64.1432144
+                ]
+            },
+            "properties": {
+                "name": "Farmers Bistro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.894339,
+                    64.1299665
+                ]
+            },
+            "properties": {
+                "name": "Noodle Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.1929717,
+                    63.9976717
+                ]
+            },
+            "properties": {
+                "name": "Hver"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8480786,
+                    64.1205771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.2367433,
+                    65.6608248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.9228222,
+                    65.6240329
+                ]
+            },
+            "properties": {
+                "name": "Vogafj\u00f3s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9692049,
+                    64.1442137
+                ]
+            },
+            "properties": {
+                "name": "Bordid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9371564,
+                    64.1472741
+                ]
+            },
+            "properties": {
+                "name": "Ristorante Caruso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9296945,
+                    64.1453545
+                ]
+            },
+            "properties": {
+                "name": "Gamla V\u00ednh\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9314541,
+                    64.1463272
+                ]
+            },
+            "properties": {
+                "name": "Ristorante Italia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.5404481,
+                    63.6910097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.9914353,
+                    66.0304389
+                ]
+            },
+            "properties": {
+                "name": "Arctic Fox Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.2246126,
+                    63.8784452
+                ]
+            },
+            "properties": {
+                "name": "Hafi\u00f0 Bl\u00e1a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.7311976,
+                    64.2155778
+                ]
+            },
+            "properties": {
+                "name": "Lindin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2046736,
+                    64.2506503
+                ]
+            },
+            "properties": {
+                "name": "Nyh\u00f6fn Nordic Bistro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2051264,
+                    64.2506976
+                ]
+            },
+            "properties": {
+                "name": "Humarh\u00f6fnin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2126229,
+                    64.2574381
+                ]
+            },
+            "properties": {
+                "name": "H\u00f3tel H\u00f6fn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2039539,
+                    64.2501629
+                ]
+            },
+            "properties": {
+                "name": "Pakkhus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2773709,
+                    65.6601943
+                ]
+            },
+            "properties": {
+                "name": "B&S Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.6998444,
+                    64.1661329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.1553372,
+                    63.8648316
+                ]
+            },
+            "properties": {
+                "name": "Rau\u00f0a H\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4324705,
+                    63.8403203
+                ]
+            },
+            "properties": {
+                "name": "V\u00f6r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.4163512,
+                    65.8988978
+                ]
+            },
+            "properties": {
+                "name": "Veitingastofan S\u00f3lv\u00edk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.1865601,
+                    64.0004148
+                ]
+            },
+            "properties": {
+                "name": "Kj\u00f6t & K\u00fanst"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.397703,
+                    63.8333242
+                ]
+            },
+            "properties": {
+                "name": "Kanslarinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.633134,
+                    64.7669812
+                ]
+            },
+            "properties": {
+                "name": "Snj\u00f3fell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7123998,
+                    64.2092605
+                ]
+            },
+            "properties": {
+                "name": "Esjustofa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.4060567,
+                    64.6550852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.9179578,
+                    65.6237646
+                ]
+            },
+            "properties": {
+                "name": "Daddi\u2019s Pizza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3436747,
+                    66.0467096
+                ]
+            },
+            "properties": {
+                "name": "Salka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3441026,
+                    66.0460374
+                ]
+            },
+            "properties": {
+                "name": "Gamli Baukur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.0081414,
+                    63.4223512
+                ]
+            },
+            "properties": {
+                "name": "Su\u00f0ur-V\u00edk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2759004,
+                    63.4428972
+                ]
+            },
+            "properties": {
+                "name": "Slippurinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4317728,
+                    63.8448634
+                ]
+            },
+            "properties": {
+                "name": "Salth\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.6971479,
+                    63.5426601
+                ]
+            },
+            "properties": {
+                "name": "Gamla fj\u00f3si\u00f0 - restaurant - caf\u00e9 - bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.5432802,
+                    65.5696484
+                ]
+            },
+            "properties": {
+                "name": "Engim\u00fdri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.4519466,
+                    64.1770543
+                ]
+            },
+            "properties": {
+                "name": "Mika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.3800282,
+                    63.9826235
+                ]
+            },
+            "properties": {
+                "name": "Gamla p\u00f3sth\u00fasi\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.67911,
+                    65.8435329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0143148,
+                    66.5396439
+                ]
+            },
+            "properties": {
+                "name": "Krian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.2279355,
+                    63.8581242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2031878,
+                    64.2502653
+                ]
+            },
+            "properties": {
+                "name": "Ishusid Pizzeria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.1231903,
+                    66.0749601
+                ]
+            },
+            "properties": {
+                "name": "H\u00fasi\u00f0"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

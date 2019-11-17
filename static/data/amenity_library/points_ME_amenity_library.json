@@ -1,0 +1,187 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2621582,
+                    42.441697
+                ]
+            },
+            "properties": {
+                "name": "Biblioteka \"Radosav Ljumovi\u0107\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9151316,
+                    42.3945285
+                ]
+            },
+            "properties": {
+                "name": "Centralna biblioteka \u0110ur\u0111e Crnojevi\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5207675,
+                    42.8234589
+                ]
+            },
+            "properties": {
+                "name": "biblioteka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9427844,
+                    42.5977537
+                ]
+            },
+            "properties": {
+                "name": "Gradska biblioteka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.839561,
+                    42.2933834
+                ]
+            },
+            "properties": {
+                "name": "Gradska biblioteka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9238968,
+                    42.3883323
+                ]
+            },
+            "properties": {
+                "name": "Arhiv Crne Gore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9225423,
+                    42.3911751
+                ]
+            },
+            "properties": {
+                "name": "Gradska \u010ditaonica \"Njego\u0161\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9241437,
+                    42.3870585
+                ]
+            },
+            "properties": {
+                "name": "Arhivsko-bibliote\u010dko odjeljenje Narodnog muzeja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5373228,
+                    42.4514335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2147581,
+                    41.9296831
+                ]
+            },
+            "properties": {
+                "name": "Biblioteka e Qytetit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8380878,
+                    42.2771362
+                ]
+            },
+            "properties": {
+                "name": "Old Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3463448,
+                    43.3640541
+                ]
+            },
+            "properties": {
+                "name": "Stevan Samardzic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0931318,
+                    42.0983349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9239141,
+                    42.3883316
+                ]
+            },
+            "properties": {
+                "name": "Dr\u017eavni arhiv Crne Gore"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

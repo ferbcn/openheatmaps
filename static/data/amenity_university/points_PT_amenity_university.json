@@ -1,0 +1,4316 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.28502,
+                    38.7412908
+                ]
+            },
+            "properties": {
+                "name": "Universidade Atlantica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2043594,
+                    38.6609245
+                ]
+            },
+            "properties": {
+                "name": "FCT-UNL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8215289,
+                    39.7339399
+                ]
+            },
+            "properties": {
+                "name": "ESTG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4439831,
+                    40.574339
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologia e Gest\u00e3o de \u00c1gueda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7378613,
+                    41.2894572
+                ]
+            },
+            "properties": {
+                "name": "UTAD - Universidade de Tr\u00e1s-os-Montes e Alto Douro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4208679,
+                    41.5549082
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Filosofia de Braga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9224648,
+                    37.0291857
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o e Comunica\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9225067,
+                    37.0280974
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Engenharia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7409327,
+                    41.2868367
+                ]
+            },
+            "properties": {
+                "name": "UTAD - Engenharias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7434975,
+                    41.2859025
+                ]
+            },
+            "properties": {
+                "name": "UTAD - Ci\u00eancias Florestais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5129109,
+                    39.819348
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4946419,
+                    39.8182256
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4613304,
+                    39.821333
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Agr\u00e1ria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.9244981,
+                    32.6592092
+                ]
+            },
+            "properties": {
+                "name": "Universidade da Madeira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4264023,
+                    41.550917
+                ]
+            },
+            "properties": {
+                "name": "Reitoria da Universidade do Minho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.922791,
+                    37.0257991
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior da Engenharia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4799894,
+                    40.8391149
+                ]
+            },
+            "properties": {
+                "name": "Polo Aveiro Norte UA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4982171,
+                    39.8214719
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Castelo Branco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4136763,
+                    40.1921619
+                ]
+            },
+            "properties": {
+                "name": "Resid\u00eancias Universit\u00e1rias R3 - IPC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6162935,
+                    41.1424934
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Art\u00edstica do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1779348,
+                    41.4897959
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Bragan\u00e7a - Escola de Comunica\u00e7\u00e3o, Administra\u00e7\u00e3o e Turismo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6884818,
+                    39.2229297
+                ]
+            },
+            "properties": {
+                "name": "FABLAB - ESES - IPS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7988196,
+                    41.1690004
+                ]
+            },
+            "properties": {
+                "name": "Universidade Aberta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0942386,
+                    38.811951
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior T\u00e9cnico - Tecnol\u00f3gico e Nuclear"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4997131,
+                    40.2721479
+                ]
+            },
+            "properties": {
+                "name": "Universidade S\u00e9nior"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5140656,
+                    39.8231864
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Artes Aplicadas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1821824,
+                    38.707644
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Agronomia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1861751,
+                    38.7002363
+                ]
+            },
+            "properties": {
+                "name": "Instituto de Higiene e Medicina Tropical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9020229,
+                    38.5682475
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Enfermagem \u201cS. JO\u00c3O DE DEUS\u201d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1775053,
+                    38.6659164
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o Jean Piaget de Almada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2004433,
+                    38.6677213
+                ]
+            },
+            "properties": {
+                "name": "Cooperativa de Ensino Superior Egas Moniz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1495671,
+                    38.7289074
+                ]
+            },
+            "properties": {
+                "name": "ITS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7414748,
+                    41.2868464
+                ]
+            },
+            "properties": {
+                "name": "Universidade de Tr\u00e1s-os-Montes e Alto Douro - Hangar de Engenharia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5354866,
+                    38.4256748
+                ]
+            },
+            "properties": {
+                "name": "Centro Local de Aprendizagem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1768238,
+                    38.6663983
+                ]
+            },
+            "properties": {
+                "name": "Instituto de Estudos Interculturais e Transdisciplinares de Almada (ISEIT)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6323168,
+                    41.1508025
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Letras da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.0438929,
+                    32.8018545
+                ]
+            },
+            "properties": {
+                "name": "Escola Agr\u00edcola da Madeira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.601162,
+                    41.1785078
+                ]
+            },
+            "properties": {
+                "name": "FADEUP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1579699,
+                    38.7552245
+                ]
+            },
+            "properties": {
+                "name": "Departamento de Engenharia Inform\u00e1tica da Universidade de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1581255,
+                    38.7555467
+                ]
+            },
+            "properties": {
+                "name": "Departamento de Matem\u00e1tica da Universidade de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9050122,
+                    38.5792461
+                ]
+            },
+            "properties": {
+                "name": "Universidade de \u00c9vora - Polo de Artes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5141065,
+                    39.8213693
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade Dr. Lopes Dias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8653122,
+                    37.9540584
+                ]
+            },
+            "properties": {
+                "name": "Polo da Universidade de \u00c9vora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9103986,
+                    38.5681539
+                ]
+            },
+            "properties": {
+                "name": "Col\u00e9gio Lu\u00eds Ant\u00f3nio Verney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9059676,
+                    38.5785314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4210742,
+                    41.542093
+                ]
+            },
+            "properties": {
+                "name": "IPCA - Instituto Polit\u00e9cnico do C\u00e1vado e do Ave - P\u00f3lo de Braga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7658129,
+                    41.796631
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Bragan\u00e7a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7658409,
+                    41.8035014
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Bragan\u00e7a \u2013 Escola Superior de Sa\u00fade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1944164,
+                    38.7151088
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Medicina Veterin\u00e1ria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1974902,
+                    38.7132036
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Ci\u00eancias Sociais e Pol\u00edticas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5962697,
+                    41.1786259
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Engenharia da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6020034,
+                    41.1785448
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Desporto da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5982639,
+                    41.1755007
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Economia da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6723881,
+                    41.1536214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6720761,
+                    41.1532261
+                ]
+            },
+            "properties": {
+                "name": "Universidade Cat\u00f3lica Portuguesa - Centro Regional do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2058042,
+                    38.6602374
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Ciencias e Tecnologia da Universidade Nova de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6318759,
+                    41.1509281
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Letras da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.405268,
+                    40.2053721
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o de Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4072309,
+                    40.2140321
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o de Coimbra - P\u00f3lo II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.820944,
+                    39.7344808
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Leiria - Campus 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7922384,
+                    39.743927
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Leiria - Campus 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5817112,
+                    41.1764832
+                ]
+            },
+            "properties": {
+                "name": "Universidade Lus\u00edada do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8736235,
+                    38.0112867
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade de Beja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6236018,
+                    41.1199402
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior Polit\u00e9cnico Gaya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1659909,
+                    38.7489786
+                ]
+            },
+            "properties": {
+                "name": "Universidade Cat\u00f3lica Portuguesa Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3993208,
+                    38.7329533
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade do Alcoit\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1535618,
+                    41.4636247
+                ]
+            },
+            "properties": {
+                "name": "Instituto de Estudos Superios de Fafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.972001,
+                    37.0427825
+                ]
+            },
+            "properties": {
+                "name": "FE/FCT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9729826,
+                    37.0429943
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio 7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9109393,
+                    38.5680339
+                ]
+            },
+            "properties": {
+                "name": "Col\u00e9gio Lu\u00eds Ant\u00f3nio Verney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1387063,
+                    38.7367434
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior T\u00e9cnico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1464646,
+                    38.7082624
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Ci\u00eancias da Administra\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1389863,
+                    38.7192199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1394033,
+                    38.7191507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1392143,
+                    38.7194762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1388361,
+                    38.7198048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1391218,
+                    38.7197305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.139229,
+                    38.7195515
+                ]
+            },
+            "properties": {
+                "name": "Universidade Nova, Faculdade de Ci\u00eancias M\u00e9dicas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1935634,
+                    38.7493726
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8611855,
+                    40.3608019
+                ]
+            },
+            "properties": {
+                "name": "ESTGOH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2037547,
+                    38.6610436
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio II: Departamento de Ci\u00eancia dos Materiais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4445142,
+                    40.5742826
+                ]
+            },
+            "properties": {
+                "name": "Audit\u00f3rio 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4438562,
+                    40.5746873
+                ]
+            },
+            "properties": {
+                "name": "Oficinas 6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2351475,
+                    38.7635695
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Teatro e Cinema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1524171,
+                    38.7180668
+                ]
+            },
+            "properties": {
+                "name": "Universidade Aberta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.142757,
+                    38.7602239
+                ]
+            },
+            "properties": {
+                "name": "Laborat\u00f3rio Nacional de Engenharia Civil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2048882,
+                    38.6604784
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio X: Departamento de Engenharia Electrot\u00e9cnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2072132,
+                    38.6629276
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio IV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2068357,
+                    38.6633597
+                ]
+            },
+            "properties": {
+                "name": "Ed V: Grande Audit\u00f3rio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2072093,
+                    38.6632451
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio III"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2071153,
+                    38.6606255
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio IX: Departamento de Ci\u00eancias da Terra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2071134,
+                    38.6600737
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio IX: Departamento de Engenharia Civil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2066486,
+                    38.6602291
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio VIII: Departamento de Engenharia Mec\u00e2nica e Industrial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2032255,
+                    38.6613052
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio II: Departamento de Inform\u00e1tica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2036953,
+                    38.6614115
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio II: Departamento de Inform\u00e1tica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2034592,
+                    38.6608431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2032605,
+                    38.6610044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2034225,
+                    38.6607058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2043476,
+                    38.6626586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2057811,
+                    38.6603896
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio VII: Departamento de Matem\u00e1tica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.205749,
+                    38.6614521
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5998326,
+                    41.1901565
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Contabilidade e Administra\u00e7\u00e3o do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6045015,
+                    41.1753652
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Psicologia e Ci\u00eancias da Educa\u00e7\u00e3o da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.820256,
+                    41.7035838
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4188265,
+                    41.554902
+                ]
+            },
+            "properties": {
+                "name": "Universidade Cat\u00f3lica Portuguesa-Faculdade de Ci\u00eancias Sociais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4165684,
+                    41.5539158
+                ]
+            },
+            "properties": {
+                "name": "Universidade Cat\u00f3lica Portuguesa - Faculdade de Teologia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0486871,
+                    38.6523267
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologia do Barreiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9713237,
+                    37.0448813
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9722827,
+                    37.0451535
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4528064,
+                    40.2097766
+                ]
+            },
+            "properties": {
+                "name": "IPC- Instituto Superior de Contabilidade e Administra\u00e7\u00e3o de Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4609577,
+                    40.2150522
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior Bissaya Barreto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6355093,
+                    41.0780595
+                ]
+            },
+            "properties": {
+                "name": "Instituto Jean Piaget - Gulpilhares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4161184,
+                    40.2343281
+                ]
+            },
+            "properties": {
+                "name": "Escola Universit\u00e1ria de Artes de Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4093629,
+                    40.2149736
+                ]
+            },
+            "properties": {
+                "name": "Faculdade da Economia da Universidade de Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7032213,
+                    40.4290374
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Turismo e Hotelaria - IPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8741724,
+                    38.0134757
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Beja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5959465,
+                    41.1734828
+                ]
+            },
+            "properties": {
+                "name": "UPTEC - Parque de Ci\u00eancia e T\u00e9cnologia da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6047243,
+                    41.1768967
+                ]
+            },
+            "properties": {
+                "name": "Parque de Ci\u00eancia e T\u00e9cnologia da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2990341,
+                    38.691149
+                ]
+            },
+            "properties": {
+                "name": "ENIDH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5146948,
+                    41.4065923
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade do Vale do Ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5231266,
+                    41.4103044
+                ]
+            },
+            "properties": {
+                "name": "Universidade Lus\u00edada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.287331,
+                    41.5995
+                ]
+            },
+            "properties": {
+                "name": "Isave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4209301,
+                    41.5509957
+                ]
+            },
+            "properties": {
+                "name": "Universidade do Minho - Congregados"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6142954,
+                    41.1430737
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Art\u00edstica do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1160527,
+                    38.7562495
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Engenharia de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6205512,
+                    41.155182
+                ]
+            },
+            "properties": {
+                "name": "Antiga Faculdade de Farm\u00e1cia da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4436884,
+                    40.5741118
+                ]
+            },
+            "properties": {
+                "name": "Central 5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2891669,
+                    41.4527142
+                ]
+            },
+            "properties": {
+                "name": "Escola de Ci\u00eancias da Universidade do Minho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2889436,
+                    41.4533818
+                ]
+            },
+            "properties": {
+                "name": "Escola de Engenharia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9228775,
+                    37.0274042
+                ]
+            },
+            "properties": {
+                "name": "Universidade do Algarve - Campus da Penha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -25.6629797,
+                    37.7464197
+                ]
+            },
+            "properties": {
+                "name": "Universidade dos A\u00e7ores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9726107,
+                    37.0439467
+                ]
+            },
+            "properties": {
+                "name": "Complexo Pedag\u00f3gico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9741807,
+                    37.0445905
+                ]
+            },
+            "properties": {
+                "name": "Universidade do Algarve - Campus de Gambelas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2904808,
+                    41.4528039
+                ]
+            },
+            "properties": {
+                "name": "Complexo Pedag\u00f3gico 2\u00aa Fase"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2915486,
+                    41.4523135
+                ]
+            },
+            "properties": {
+                "name": "Complexo Pedag\u00f3gico 1\u00aa fase"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2915146,
+                    41.4518695
+                ]
+            },
+            "properties": {
+                "name": "Complexo Pedag\u00f3gico 1\u00aa Fase"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2902153,
+                    41.4522593
+                ]
+            },
+            "properties": {
+                "name": "Audit\u00f3rio Nobre da Universidade do Minho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9435444,
+                    37.0237559
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade de Faro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1933975,
+                    38.7010121
+                ]
+            },
+            "properties": {
+                "name": "Universidade Lus\u00edada de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1922864,
+                    38.6987055
+                ]
+            },
+            "properties": {
+                "name": "Universidade Lus\u00edada de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1513313,
+                    38.7402431
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Ci\u00eancias Sociais e Humanas - UNL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2553225,
+                    38.703232
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Motricidade Humana - UTL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9393392,
+                    40.7374166
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade Jean Piaget de Viseu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5466338,
+                    39.4710568
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4445672,
+                    40.5745018
+                ]
+            },
+            "properties": {
+                "name": "refeit\u00f3rio/bar/restaurante"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.444434,
+                    40.5739514
+                ]
+            },
+            "properties": {
+                "name": "Electromec\u00e2nica 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4449225,
+                    40.5740518
+                ]
+            },
+            "properties": {
+                "name": "Docentes 7"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4447318,
+                    40.5739739
+                ]
+            },
+            "properties": {
+                "name": "NAE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4441077,
+                    40.5737623
+                ]
+            },
+            "properties": {
+                "name": "Espa\u00e7o Polivalente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4435269,
+                    40.574651
+                ]
+            },
+            "properties": {
+                "name": "Seguran\u00e7as"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4133895,
+                    40.1900879
+                ]
+            },
+            "properties": {
+                "name": "ITeCons - Instituto de Investiga\u00e7\u00e3o e Desenvolvimento Tecnol\u00f3gico em Ci\u00eancias da Constru\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.120954,
+                    38.7813711
+                ]
+            },
+            "properties": {
+                "name": "Escola de Com\u00e9rcio de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.920638,
+                    40.64494
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologia e Gest\u00e3o de Viseu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1482096,
+                    38.7130196
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Dan\u00e7a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0628045,
+                    40.7736482
+                ]
+            },
+            "properties": {
+                "name": "Universidade S\u00e9nior de Pinhel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9204631,
+                    40.6438613
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologia e Gest\u00e3o de Viseu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4443887,
+                    40.1996773
+                ]
+            },
+            "properties": {
+                "name": "Observat\u00f3rio Astron\u00f3mico da Universidade de Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2076322,
+                    38.6620426
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio Departamental"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2080938,
+                    38.6621893
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio Departamental"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4607544,
+                    40.1980051
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Enfermagem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.205963,
+                    38.6623227
+                ]
+            },
+            "properties": {
+                "name": "Centro de Excel\u00eancia do Ambiente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2061641,
+                    38.6623463
+                ]
+            },
+            "properties": {
+                "name": "Centro de Excel\u00eancia do Ambiente"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1607707,
+                    38.7331104
+                ]
+            },
+            "properties": {
+                "name": "Universidade Nova de Lisboa - Campus de Campolide"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7359449,
+                    41.2834239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.632547,
+                    40.6433752
+                ]
+            },
+            "properties": {
+                "name": "Edif\u00edcio IPAM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9103033,
+                    38.5683925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9055447,
+                    38.5732945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.904715,
+                    38.5733666
+                ]
+            },
+            "properties": {
+                "name": "Universidade de \u00c9vora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7619636,
+                    41.796833
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Bragan\u00e7a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7716391,
+                    41.7884048
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Bragan\u00e7a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9101031,
+                    38.5678675
+                ]
+            },
+            "properties": {
+                "name": "Col\u00e9gio Lu\u00eds Ant\u00f3nio Verney"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.397784,
+                    41.5617608
+                ]
+            },
+            "properties": {
+                "name": "Universidade do Minho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2911232,
+                    41.4406135
+                ]
+            },
+            "properties": {
+                "name": "Instituto do Design"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7428851,
+                    41.94507
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Gallaecia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4515809,
+                    40.209889
+                ]
+            },
+            "properties": {
+                "name": "IPC - Escola Superior Agr\u00e1ria de Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.206468,
+                    38.6620433
+                ]
+            },
+            "properties": {
+                "name": "Hangar 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2066276,
+                    38.6618495
+                ]
+            },
+            "properties": {
+                "name": "Hangar 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2069051,
+                    38.6617208
+                ]
+            },
+            "properties": {
+                "name": "Hangar 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2070125,
+                    38.6618076
+                ]
+            },
+            "properties": {
+                "name": "Hangar 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.206594,
+                    38.6621155
+                ]
+            },
+            "properties": {
+                "name": "Hangar 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2067684,
+                    38.6616505
+                ]
+            },
+            "properties": {
+                "name": "Hangar 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2068556,
+                    38.6620128
+                ]
+            },
+            "properties": {
+                "name": "Hangar 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2067506,
+                    38.6619257
+                ]
+            },
+            "properties": {
+                "name": "Hangar 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2066946,
+                    38.662194
+                ]
+            },
+            "properties": {
+                "name": "Hangar 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6074031,
+                    41.1783451
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Engenharia do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3898266,
+                    39.5994471
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Tomar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2904253,
+                    41.4536636
+                ]
+            },
+            "properties": {
+                "name": "Departamento Aut\u00f3nomo de Arquitectura da Universidade do Minho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2908989,
+                    41.4533816
+                ]
+            },
+            "properties": {
+                "name": "Pavilh\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2918041,
+                    41.4525784
+                ]
+            },
+            "properties": {
+                "name": "Pavilh\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4170371,
+                    40.219223
+                ]
+            },
+            "properties": {
+                "name": "Universidade de Coimbra - P\u00f3lo III - P\u00f3lo das Ci\u00eancias da Sa\u00fade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2899238,
+                    41.4526764
+                ]
+            },
+            "properties": {
+                "name": "Universidade do Minho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4390284,
+                    40.4396623
+                ]
+            },
+            "properties": {
+                "name": "Escola Viticultura e Enologia da Bairrada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.198461,
+                    39.4606382
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologias de Abrantes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6201099,
+                    37.1215866
+                ]
+            },
+            "properties": {
+                "name": "Esta\u00e7\u00e3o Experimental de Moluscicultura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1940103,
+                    38.746667
+                ]
+            },
+            "properties": {
+                "name": "Campus do Instituto Polit\u00e9cnico de Lisboa - Benfica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1952767,
+                    38.7461832
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1943191,
+                    38.74587
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o de Lisboa - P1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1957949,
+                    38.7466529
+                ]
+            },
+            "properties": {
+                "name": "Servi\u00e7os de Ac\u00e7\u00e3o Social do Instituto Polit\u00e9cnico de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1924623,
+                    38.7464156
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Comunica\u00e7\u00e3o Social"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3340374,
+                    38.7092105
+                ]
+            },
+            "properties": {
+                "name": "Semin\u00e1rio Torre da Aguilha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2995407,
+                    38.6913368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1941291,
+                    38.7600624
+                ]
+            },
+            "properties": {
+                "name": "Universidade Europeia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8216362,
+                    39.7329404
+                ]
+            },
+            "properties": {
+                "name": "Engenharia Autom\u00f3vel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.820704,
+                    39.7333365
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Sa\u00fade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8216454,
+                    39.7344648
+                ]
+            },
+            "properties": {
+                "name": "Tecnologia e Gest\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8204122,
+                    39.7324863
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1939969,
+                    38.7127874
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Arquitectura da Universidade de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3026644,
+                    38.7373924
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior T\u00e9cnico - Taguspark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6065403,
+                    41.1774299
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6072833,
+                    41.1359566
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de L\u00ednguas e Administra\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8468605,
+                    41.6945881
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologia e Gest\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -27.232845,
+                    38.6585659
+                ]
+            },
+            "properties": {
+                "name": "Universidade dos A\u00e7ores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9272662,
+                    39.7406894
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior Don Dinis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8347199,
+                    41.6920738
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico Viana do Castelo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6575234,
+                    41.1752418
+                ]
+            },
+            "properties": {
+                "name": "Escola de Neg\u00f3cios do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -16.9097066,
+                    32.6539226
+                ]
+            },
+            "properties": {
+                "name": "ISAL - Instituto Superior de Administra\u00e7\u00e3o e L\u00ednguas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5952488,
+                    41.1786592
+                ]
+            },
+            "properties": {
+                "name": "Electrotecnia Norte (J)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.156628,
+                    38.7563264
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Ci\u00eancias da Universidade de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6323544,
+                    40.6369523
+                ]
+            },
+            "properties": {
+                "name": "ISCIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6158609,
+                    41.1401862
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Art\u00edstica do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6172578,
+                    41.1435565
+                ]
+            },
+            "properties": {
+                "name": "Instituto Multim\u00e9dia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6166927,
+                    41.1444506
+                ]
+            },
+            "properties": {
+                "name": "Instituto de Sa\u00fade P\u00fablica da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8389878,
+                    38.5207527
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Set\u00fabal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1517872,
+                    38.7581441
+                ]
+            },
+            "properties": {
+                "name": "Universidade Lus\u00f3fona de Humanidades e Tecnologias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8357906,
+                    41.6976195
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7712068,
+                    41.8090533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9186291,
+                    40.6432324
+                ]
+            },
+            "properties": {
+                "name": "Departamento Engenharia Mec\u00e2nica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9193147,
+                    40.6427987
+                ]
+            },
+            "properties": {
+                "name": "Departamento Engenharia de Madeiras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4248073,
+                    40.2085487
+                ]
+            },
+            "properties": {
+                "name": "Universidade de Coimbra - P\u00f3lo I, Alta Universit\u00e1ria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4118823,
+                    40.1922625
+                ]
+            },
+            "properties": {
+                "name": "ISEC - Instituto Superior de Engenharia de Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0188124,
+                    38.528588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0186569,
+                    38.5289772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0187333,
+                    38.5287841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1941731,
+                    41.366396
+                ]
+            },
+            "properties": {
+                "name": "Universidade - Escola Superior de Tecnologia e Gest\u00e3o de Felgueiras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6999728,
+                    39.2513472
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Agr\u00e1ria de Santar\u00e9m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2512435,
+                    38.7057968
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Motricidade Humana - UTL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3327087,
+                    38.8352324
+                ]
+            },
+            "properties": {
+                "name": "Academia da For\u00e7a A\u00e9rea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.602818,
+                    41.1741555
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Medicina Dent\u00e1ria da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6011835,
+                    41.1781948
+                ]
+            },
+            "properties": {
+                "name": "FADEUP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1540309,
+                    38.7487816
+                ]
+            },
+            "properties": {
+                "name": "ISCTE - Instituto Universit\u00e1rio de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0982847,
+                    38.7765672
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologia da Sa\u00fade de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6572066,
+                    40.6320188
+                ]
+            },
+            "properties": {
+                "name": "Universidade de Aveiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1468196,
+                    38.7372761
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Contabilidade e Administra\u00e7\u00e3o de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6235172,
+                    41.1471194
+                ]
+            },
+            "properties": {
+                "name": "Campus de Sa\u00fade da Universidade do Porto (Faculdade de Farm\u00e1cia / Instituto de Ci\u00eancias Biom\u00e9dicas Abel Salazar)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7923233,
+                    39.743791
+                ]
+            },
+            "properties": {
+                "name": "Unidade de Ensino a Dist\u00e2ncia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.796283,
+                    39.7325133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7958956,
+                    39.7322183
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Linguas e Administra\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7955981,
+                    39.7320937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1350201,
+                    39.3952309
+                ]
+            },
+            "properties": {
+                "name": "Instituto Politecnico de Leiria - Campus 3 - Caldas da Rainha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4029887,
+                    39.3650882
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Turismo e Tecnologia do Mar de Peniche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4020311,
+                    39.3649026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4027623,
+                    39.3649747
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polict\u00e9cnico de Leiria - Campus 4 - Peniche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6177175,
+                    41.1476794
+                ]
+            },
+            "properties": {
+                "name": "ICBAS-UP: P\u00f3lo de Medicina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1954273,
+                    38.7467766
+                ]
+            },
+            "properties": {
+                "name": "Associa\u00e7\u00e3o dos Estudantes da Escola Superior de Educa\u00e7\u00e3o de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1955281,
+                    38.7454137
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o de Lisboa - P2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1472031,
+                    38.6622048
+                ]
+            },
+            "properties": {
+                "name": "Escola Naval"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7389426,
+                    41.366843
+                ]
+            },
+            "properties": {
+                "name": "ESEIG (Escola Superior de Estudos Industriais e de Gest\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6038193,
+                    41.1541845
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de M\u00fasica e Artes do Espect\u00e1culo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6016409,
+                    41.1602958
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o de Paula Frassinetti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4087078,
+                    40.2185889
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Enfermagem de Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4123397,
+                    40.1900667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4126594,
+                    40.1906332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6155049,
+                    41.152549
+                ]
+            },
+            "properties": {
+                "name": "Servi\u00e7os Ac\u00e7\u00e3o Social da U. Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.615753,
+                    41.1513404
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Letras: p\u00f3lo de Jornalismo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6162318,
+                    41.1519703
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Direito da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2003918,
+                    38.6679321
+                ]
+            },
+            "properties": {
+                "name": "Cooperativa de Ensino Superior Egas Moniz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6529599,
+                    40.6301939
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Contabilidade e Administra\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5084712,
+                    40.2771929
+                ]
+            },
+            "properties": {
+                "name": "Universidade da Beira Interior P\u00f3lo 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5083084,
+                    40.2781358
+                ]
+            },
+            "properties": {
+                "name": "Universidade da Beira Interior"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4426699,
+                    39.2687001
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologia e Gest\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5793163,
+                    41.77097
+                ]
+            },
+            "properties": {
+                "name": "Fernando Pessoa - Ponte de Lima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4769902,
+                    40.8621876
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Aveiro Norte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6071961,
+                    41.1802829
+                ]
+            },
+            "properties": {
+                "name": "Universidade Portucalense Infante Dom Henrique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4153382,
+                    40.1859332
+                ]
+            },
+            "properties": {
+                "name": "Universidade de Coimbra - P\u00f3lo II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3142492,
+                    38.7515255
+                ]
+            },
+            "properties": {
+                "name": "Universidade Cat\u00f3lica Portuguesa - Campus Sintra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5660392,
+                    38.1752764
+                ]
+            },
+            "properties": {
+                "name": "Universidade da Terceira Idade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6542275,
+                    41.1835359
+                ]
+            },
+            "properties": {
+                "name": "Porto Business School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4258875,
+                    39.3003768
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade de Portalegre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4308993,
+                    39.3039021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4126097,
+                    40.2083133
+                ]
+            },
+            "properties": {
+                "name": "Instituto Geof\u00edsico da Universidade de Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4458954,
+                    41.182234
+                ]
+            },
+            "properties": {
+                "name": "Instituto Universit\u00e1rio de Ci\u00eancias da Sa\u00fade; Escola Superior de Sa\u00fade do Vale do Sousa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4942884,
+                    40.2676709
+                ]
+            },
+            "properties": {
+                "name": "Universidade da Beira Interior - P\u00f3lo 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5081814,
+                    40.2742502
+                ]
+            },
+            "properties": {
+                "name": "Universidade da Beira Interior P\u00f3lo 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5131353,
+                    40.2781993
+                ]
+            },
+            "properties": {
+                "name": "Universidade da Beira Interior P\u00f3lo 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7399923,
+                    41.286708
+                ]
+            },
+            "properties": {
+                "name": "Universidade de Tr\u00e1s-os-Montes e Alto Douro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6004715,
+                    41.1451239
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Belas Artes da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.662374,
+                    41.1844652
+                ]
+            },
+            "properties": {
+                "name": "ESAD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.51433,
+                    39.8214829
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Sa\u00fade Dr. Lopes Dias"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2863192,
+                    41.452891
+                ]
+            },
+            "properties": {
+                "name": "Bloco G2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4140854,
+                    40.1755964
+                ]
+            },
+            "properties": {
+                "name": "Universidade Vasco da Gama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6164647,
+                    41.2696545
+                ]
+            },
+            "properties": {
+                "name": "Mai\u00eautica - Campus acad\u00e9mico do ISMAI e IPMAIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1761858,
+                    38.6661374
+                ]
+            },
+            "properties": {
+                "name": "Instituto Piaget - Campus Universit\u00e1rio de Almada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1600995,
+                    38.7690559
+                ]
+            },
+            "properties": {
+                "name": "Campus Acad\u00e9mico do Lumiar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6032471,
+                    41.1821437
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Enfermagem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1016323,
+                    38.6438276
+                ]
+            },
+            "properties": {
+                "name": "Universidade S\u00e9nior do Seixal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5095376,
+                    40.2770601
+                ]
+            },
+            "properties": {
+                "name": "UBI - 6\u00aa Fase"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5095605,
+                    40.2775422
+                ]
+            },
+            "properties": {
+                "name": "UBI - 4\u00aa Fase"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5078024,
+                    40.2768574
+                ]
+            },
+            "properties": {
+                "name": "UBI - Museu dos Lanificios"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6076956,
+                    41.1430715
+                ]
+            },
+            "properties": {
+                "name": "Universidade Lus\u00f3fona do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.156713,
+                    38.751462
+                ]
+            },
+            "properties": {
+                "name": "Universidade de Lisboa - Cidade Universit\u00e1ria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.289405,
+                    41.2007999
+                ]
+            },
+            "properties": {
+                "name": "CESPU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.606338,
+                    41.1765155
+                ]
+            },
+            "properties": {
+                "name": "Universidade Cat\u00f3lica - Campus Asprela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5691986,
+                    40.9458544
+                ]
+            },
+            "properties": {
+                "name": "Escola de Vila da Rua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6582178,
+                    41.1746705
+                ]
+            },
+            "properties": {
+                "name": "Campus de Salazares / Ramalde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.611133,
+                    41.1731816
+                ]
+            },
+            "properties": {
+                "name": "Universidade Fernando Pessoa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6368344,
+                    41.152016
+                ]
+            },
+            "properties": {
+                "name": "Departamentos de Fisica e Astronomia e de Geoci\u00eancias, Ambiente e Ordenamento do Territ\u00f3riode - FC3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6631153,
+                    41.177424
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Enfermagem Dona Ana Guedes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9061475,
+                    38.5786298
+                ]
+            },
+            "properties": {
+                "name": "Escola de Artes - Universidade de \u00c9vora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6578876,
+                    40.6233117
+                ]
+            },
+            "properties": {
+                "name": "Universidade de Aveiro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9134759,
+                    40.6605933
+                ]
+            },
+            "properties": {
+                "name": "IPV - Escola Superior de Educa\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9063014,
+                    40.6534443
+                ]
+            },
+            "properties": {
+                "name": "Universidade Cat\u00f3lica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.875278,
+                    38.0160473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8743808,
+                    38.0145278
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Agr\u00e1ria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4952249,
+                    39.818185
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Educa\u00e7\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5127495,
+                    39.819103
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5133939,
+                    39.8185645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5127265,
+                    39.8191101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5143943,
+                    39.8232944
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Artes Aplicadas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5136465,
+                    39.8216828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4612077,
+                    39.8214189
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Agr\u00e1ria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4982199,
+                    39.8214877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7282344,
+                    40.6382145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6275077,
+                    41.5365506
+                ]
+            },
+            "properties": {
+                "name": "IPCA - Instituto Polit\u00e9cnico do C\u00e1vado e do Ave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1394677,
+                    38.7199031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2829168,
+                    40.5409983
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico da Guarda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.904715,
+                    38.5733666
+                ]
+            },
+            "properties": {
+                "name": "Universidade de \u00c9vora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1674286,
+                    38.8810999
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior Agr\u00e1ria de Elvas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6157445,
+                    41.1464786
+                ]
+            },
+            "properties": {
+                "name": "Reitoria da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3340197,
+                    38.7093901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1406871,
+                    38.7089455
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Belas-Artes da Universidade de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8208514,
+                    39.7356467
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de Tecnologia e Gest\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8115425,
+                    39.7385903
+                ]
+            },
+            "properties": {
+                "name": "Instituto Polit\u00e9cnico de Leiria - campus 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1967568,
+                    38.7462429
+                ]
+            },
+            "properties": {
+                "name": "Escola Superior de M\u00fasica de Lisboa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6361063,
+                    41.1502296
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Arquitetura da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1555841,
+                    38.7104473
+                ]
+            },
+            "properties": {
+                "name": "Instituto Superior de Economia e Gest\u00e3o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1456959,
+                    38.7242542
+                ]
+            },
+            "properties": {
+                "name": "Universidade Aut\u00f3noma de Lisboa Lu\u00eds de Cam\u00f5es"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6381104,
+                    41.1520525
+                ]
+            },
+            "properties": {
+                "name": "Faculdade de Ci\u00eancias da Universidade do Porto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4274647,
+                    40.2025286
+                ]
+            },
+            "properties": {
+                "name": "Universidade de Coimbra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5083672,
+                    40.2776927
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

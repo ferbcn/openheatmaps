@@ -1,0 +1,115 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4307528,
+                    68.4399279
+                ]
+            },
+            "properties": {
+                "name": "Pleaser Erotic Accessoires"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7563427,
+                    59.923316
+                ]
+            },
+            "properties": {
+                "name": "Duo shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3925767,
+                    63.4320954
+                ]
+            },
+            "properties": {
+                "name": "Erotikk1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3989715,
+                    63.4327924
+                ]
+            },
+            "properties": {
+                "name": "Kondomeriet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.322788,
+                    60.3942715
+                ]
+            },
+            "properties": {
+                "name": "Kondomeriet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4023071,
+                    63.434912
+                ]
+            },
+            "properties": {
+                "name": "Amors lille hjelper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7488323,
+                    59.9162198
+                ]
+            },
+            "properties": {
+                "name": "Duo shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9362717,
+                    59.2139476
+                ]
+            },
+            "properties": {
+                "name": "G-punkt Fredrikstad"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

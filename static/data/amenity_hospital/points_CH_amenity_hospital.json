@@ -1,0 +1,5618 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9946474,
+                    47.2239113
+                ]
+            },
+            "properties": {
+                "name": "Spital Linth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0674393,
+                    46.228901
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de la Tour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3875848,
+                    47.4303082
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4511688,
+                    47.4786538
+                ]
+            },
+            "properties": {
+                "name": "Adusklinik Dielsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2361467,
+                    47.6306162
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital M\u00fcnsterlingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.577404,
+                    47.555963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3731585,
+                    46.5578963
+                ]
+            },
+            "properties": {
+                "name": "Spital Zweisimmen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5700629,
+                    47.5556135
+                ]
+            },
+            "properties": {
+                "name": "Merian Iselin Klinik f\u00fcr Orthop\u00e4die und Chirurgie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2827226,
+                    47.3878754
+                ]
+            },
+            "properties": {
+                "name": "Kantonales Spital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3122488,
+                    47.478834
+                ]
+            },
+            "properties": {
+                "name": "Reha Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6136565,
+                    47.4865468
+                ]
+            },
+            "properties": {
+                "name": "Spital Dornach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.699999,
+                    47.2078694
+                ]
+            },
+            "properties": {
+                "name": "Paracelsus Spital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1312267,
+                    47.1410764
+                ]
+            },
+            "properties": {
+                "name": "Schweizer Paraplegiker-Zentrum (SPZ)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6592376,
+                    47.0159078
+                ]
+            },
+            "properties": {
+                "name": "Spital Schwyz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1898453,
+                    47.2462007
+                ]
+            },
+            "properties": {
+                "name": "Asana Spital Menziken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5656113,
+                    47.5712925
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4re Psychiatrische Kliniken Basel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0744172,
+                    47.0665146
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Wolhusen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1174416,
+                    47.1682553
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Sursee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5765955,
+                    47.5626423
+                ]
+            },
+            "properties": {
+                "name": "Basel Augenspital / Mittlere Strasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9177357,
+                    47.6462885
+                ]
+            },
+            "properties": {
+                "name": "Klinik Schloss Mammern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8000768,
+                    46.1669511
+                ]
+            },
+            "properties": {
+                "name": "Clinica Santa Chiara SA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6005974,
+                    46.5951691
+                ]
+            },
+            "properties": {
+                "name": "Kreisspital Surses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8940209,
+                    46.4487179
+                ]
+            },
+            "properties": {
+                "name": "EMS - Beau-Site"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6045424,
+                    46.9961661
+                ]
+            },
+            "properties": {
+                "name": "Seeklinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9310842,
+                    46.4265273
+                ]
+            },
+            "properties": {
+                "name": "Clinique de Valmont-Genevier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8066675,
+                    47.5591785
+                ]
+            },
+            "properties": {
+                "name": "Rehaklinik Rheinfelden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8061233,
+                    47.5559904
+                ]
+            },
+            "properties": {
+                "name": "Gesundheitszentrum Fricktal - Spital Rheinfelden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9597963,
+                    47.2306699
+                ]
+            },
+            "properties": {
+                "name": "Clinique le Noirmont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6094271,
+                    46.779216
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Chamblon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4668189,
+                    47.277282
+                ]
+            },
+            "properties": {
+                "name": "Rehabilitationszentrum des Kinderspitals Z\u00fcrich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6948366,
+                    46.7500203
+                ]
+            },
+            "properties": {
+                "name": "Reha Heiligenschwendi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5406919,
+                    46.8692075
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrische Klinik Waldhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8418238,
+                    47.2301386
+                ]
+            },
+            "properties": {
+                "name": "Luzerner Psychiatrie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9026879,
+                    46.6944392
+                ]
+            },
+            "properties": {
+                "name": "Hopital de Billens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0646649,
+                    47.5623046
+                ]
+            },
+            "properties": {
+                "name": "Regionalspital Laufenburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5971164,
+                    46.637928
+                ]
+            },
+            "properties": {
+                "name": "Notspital Andermatt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2460822,
+                    46.890088
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Obwalden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0736998,
+                    47.0265631
+                ]
+            },
+            "properties": {
+                "name": "Bethesda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5333979,
+                    46.7293154
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital d'Orbe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1777239,
+                    47.4320395
+                ]
+            },
+            "properties": {
+                "name": "Effingerhort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0601729,
+                    47.3884912
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Aarau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4487722,
+                    47.1735726
+                ]
+            },
+            "properties": {
+                "name": "Spital Grabs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0992073,
+                    46.1833908
+                ]
+            },
+            "properties": {
+                "name": "Permanence d'Onex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6848988,
+                    47.5697346
+                ]
+            },
+            "properties": {
+                "name": "Chrischona Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6313378,
+                    46.5259183
+                ]
+            },
+            "properties": {
+                "name": "Centre m\u00e9dical du Valentin SA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1761349,
+                    47.6418325
+                ]
+            },
+            "properties": {
+                "name": "Herz-Zentrum Bodensee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2886453,
+                    47.5914114
+                ]
+            },
+            "properties": {
+                "name": "Fachklinik Schulthess Z\u00fcrich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6238034,
+                    47.7010304
+                ]
+            },
+            "properties": {
+                "name": "Klinik Belair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.117771,
+                    46.2211164
+                ]
+            },
+            "properties": {
+                "name": "Clinique de Jolimont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1384666,
+                    46.2086019
+                ]
+            },
+            "properties": {
+                "name": "Medicine and Surgery Center Cornavin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1701242,
+                    46.1997286
+                ]
+            },
+            "properties": {
+                "name": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1657775,
+                    46.1998227
+                ]
+            },
+            "properties": {
+                "name": "Clinique Belmont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0591022,
+                    47.4195133
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pial du Jura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2574036,
+                    46.3983388
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Psychiatrique de Prangins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5434686,
+                    47.3279213
+                ]
+            },
+            "properties": {
+                "name": "Sanatorium Kilchberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.411756,
+                    47.4454951
+                ]
+            },
+            "properties": {
+                "name": "Klinik Stephanshorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0080744,
+                    47.440347
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrische Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.57891,
+                    46.53967
+                ]
+            },
+            "properties": {
+                "name": "Policlinique Nord-Sud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6247243,
+                    46.7497172
+                ]
+            },
+            "properties": {
+                "name": "Hohmad Privatklinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8445898,
+                    46.8505875
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Intercantonal de la Broye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.177511,
+                    46.1875133
+                ]
+            },
+            "properties": {
+                "name": "Clinique Vert-Pr\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1241638,
+                    46.2390848
+                ]
+            },
+            "properties": {
+                "name": "R\u00e9sidence de Saconnay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2040435,
+                    46.2359638
+                ]
+            },
+            "properties": {
+                "name": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1991321,
+                    46.2435331
+                ]
+            },
+            "properties": {
+                "name": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8998695,
+                    46.294011
+                ]
+            },
+            "properties": {
+                "name": "Sanit\u00e4t Oberwallis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5189885,
+                    47.1942925
+                ]
+            },
+            "properties": {
+                "name": "Schweizerische Alzheimervereinigung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1993256,
+                    46.2224715
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de jour Clairival"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0427229,
+                    47.3909667
+                ]
+            },
+            "properties": {
+                "name": "Hirslanden Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0516039,
+                    47.3916645
+                ]
+            },
+            "properties": {
+                "name": "KSA am Bahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0330055,
+                    46.2133413
+                ]
+            },
+            "properties": {
+                "name": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3137918,
+                    47.4716978
+                ]
+            },
+            "properties": {
+                "name": "Regionales Pflegezentrum Baden AG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2783364,
+                    47.4541118
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Baden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1204176,
+                    46.2124366
+                ]
+            },
+            "properties": {
+                "name": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1356554,
+                    46.1872725
+                ]
+            },
+            "properties": {
+                "name": "EMS des Pervenches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1344863,
+                    46.1876342
+                ]
+            },
+            "properties": {
+                "name": "Foyer Handicap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1788546,
+                    47.0366813
+                ]
+            },
+            "properties": {
+                "name": "Spitex Malters"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1809709,
+                    47.0355977
+                ]
+            },
+            "properties": {
+                "name": "Zahnarzt Mr. Dr.med.dent. Werner H\u00fcbscher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1489111,
+                    46.1936441
+                ]
+            },
+            "properties": {
+                "name": "HUG - Hopitaux Universitaires de Gen\u00e8ve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1483823,
+                    46.1912229
+                ]
+            },
+            "properties": {
+                "name": "HUG - Ophtalmology Emergency"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6913097,
+                    47.3999322
+                ]
+            },
+            "properties": {
+                "name": "Gemeinschaftspraxis Reigoldswil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5270197,
+                    47.4463276
+                ]
+            },
+            "properties": {
+                "name": "Klinik am Rosenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5046535,
+                    47.4253352
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Laufen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4943177,
+                    46.8921174
+                ]
+            },
+            "properties": {
+                "name": "Spital und Altersheim Belp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1465302,
+                    46.1912651
+                ]
+            },
+            "properties": {
+                "name": "HUG - Maternit\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.146134,
+                    46.1906532
+                ]
+            },
+            "properties": {
+                "name": "M\u00e9decine Dentaire HUG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1492791,
+                    46.190359
+                ]
+            },
+            "properties": {
+                "name": "Fondation pour recherches m\u00e9dicales"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1422146,
+                    46.1901475
+                ]
+            },
+            "properties": {
+                "name": "La Fondation Clair Bois-Minoteries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7276909,
+                    47.352232
+                ]
+            },
+            "properties": {
+                "name": "Alterstagesklinik PZU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5970624,
+                    47.3475398
+                ]
+            },
+            "properties": {
+                "name": "Kinder-Permanence Spital Zollikerberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1406629,
+                    46.1706429
+                ]
+            },
+            "properties": {
+                "name": "EMS R\u00e9sidence de Drize"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6862007,
+                    46.9710929
+                ]
+            },
+            "properties": {
+                "name": "Spital Schiers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.149101,
+                    46.194249
+                ]
+            },
+            "properties": {
+                "name": "Travel clinic - M\u00e9decine Internationale et Humanitaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2240234,
+                    47.152232
+                ]
+            },
+            "properties": {
+                "name": "Doktor Med. Urs Rimensberger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5836996,
+                    46.5321627
+                ]
+            },
+            "properties": {
+                "name": "Permedico SA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6851448,
+                    47.2717549
+                ]
+            },
+            "properties": {
+                "name": "Gesundheitszentrum Jura S\u00fcd (SRO)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.686097,
+                    47.2720355
+                ]
+            },
+            "properties": {
+                "name": "Gesundheitszentrum Jura S\u00fcd (SRO)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4965574,
+                    46.510403
+                ]
+            },
+            "properties": {
+                "name": "Centre m\u00e9dical Charpentiers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5792032,
+                    47.5695309
+                ]
+            },
+            "properties": {
+                "name": "Apotheke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4554991,
+                    47.3699338
+                ]
+            },
+            "properties": {
+                "name": "Podologie-Praxis Limmattal Gmbh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.301179,
+                    47.0511246
+                ]
+            },
+            "properties": {
+                "name": "Podologie-Praxis Limmattal GmbH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3921814,
+                    47.3893468
+                ]
+            },
+            "properties": {
+                "name": "Klink Teufen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5161521,
+                    47.1700441
+                ]
+            },
+            "properties": {
+                "name": "Dentist Abbas Hussain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1277702,
+                    47.4025166
+                ]
+            },
+            "properties": {
+                "name": "Zahnarztpraxis Rupperswil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1818818,
+                    46.7473882
+                ]
+            },
+            "properties": {
+                "name": "Rehaklinik Hasliberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4602573,
+                    46.9976822
+                ]
+            },
+            "properties": {
+                "name": "Yin Yang Medi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.789985,
+                    47.2121488
+                ]
+            },
+            "properties": {
+                "name": "YIN YANG MEDI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7459993,
+                    46.2250283
+                ]
+            },
+            "properties": {
+                "name": "Sede Samaritani Bassa Vallemaggia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.05883,
+                    47.38832
+                ]
+            },
+            "properties": {
+                "name": "Notfall Aufnahme Kantonsspital Aarau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3864174,
+                    47.4307334
+                ]
+            },
+            "properties": {
+                "name": "Notfall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2558453,
+                    47.5172734
+                ]
+            },
+            "properties": {
+                "name": "Rehaklinik Zihlschlacht"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7908893,
+                    46.1686254
+                ]
+            },
+            "properties": {
+                "name": "Ospedale Regionale La Carit\u00e0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0829327,
+                    47.3154739
+                ]
+            },
+            "properties": {
+                "name": "Rettungsdienst St\u00fctzpunkt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9238736,
+                    46.0399583
+                ]
+            },
+            "properties": {
+                "name": "clinica ARS medica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2803644,
+                    47.3157787
+                ]
+            },
+            "properties": {
+                "name": "Arztpraxis Dr. Bodenmann"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4255314,
+                    46.9491404
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4re Psychiatrische Dienste Bern (UPD)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5832308,
+                    47.5624744
+                ]
+            },
+            "properties": {
+                "name": "Frauenspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9359007,
+                    46.9149413
+                ]
+            },
+            "properties": {
+                "name": "Gesundheitszentrum\u00a0Escholzma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9537164,
+                    46.0185598
+                ]
+            },
+            "properties": {
+                "name": "CardioZentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6172865,
+                    47.5480944
+                ]
+            },
+            "properties": {
+                "name": "Bethesda Spital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2110228,
+                    46.2082842
+                ]
+            },
+            "properties": {
+                "name": "UTHA - Service d'addictologie - H\u00f4pitaux Universitaires de Gen\u00e8ve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6137777,
+                    47.5663562
+                ]
+            },
+            "properties": {
+                "name": "Claraspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2337411,
+                    46.3836965
+                ]
+            },
+            "properties": {
+                "name": "Centre M\u00e9dico-Chirurgical Nyon SA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7356714,
+                    47.0568597
+                ]
+            },
+            "properties": {
+                "name": "EMS Les Fritillaires"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4201002,
+                    47.4514145
+                ]
+            },
+            "properties": {
+                "name": "Oberwaid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2135011,
+                    47.4811999
+                ]
+            },
+            "properties": {
+                "name": "Forensisches Ambulatorium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3039473,
+                    46.8000907
+                ]
+            },
+            "properties": {
+                "name": "Ospidal d'Engiadina Bassa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6552291,
+                    47.5857247
+                ]
+            },
+            "properties": {
+                "name": "Adullam Spital und Pflegezentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9441934,
+                    46.2565883
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital psychiatrique de Mal\u00e9voz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4211011,
+                    46.9464463
+                ]
+            },
+            "properties": {
+                "name": "Geriatrische Universit\u00e4tsklinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3418947,
+                    47.0547021
+                ]
+            },
+            "properties": {
+                "name": "Arztpraxis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7239733,
+                    47.3529562
+                ]
+            },
+            "properties": {
+                "name": "Bezirksspital Uster"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7937366,
+                    47.2159258
+                ]
+            },
+            "properties": {
+                "name": "SRO Spital Oberaargau Langenthal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7189798,
+                    47.1923588
+                ]
+            },
+            "properties": {
+                "name": "Spital SRO Langzeitpflege Panoramapark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4901159,
+                    46.9784198
+                ]
+            },
+            "properties": {
+                "name": "TILIA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4780279,
+                    46.8137991
+                ]
+            },
+            "properties": {
+                "name": "Spital Riggisberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8839932,
+                    46.2877454
+                ]
+            },
+            "properties": {
+                "name": "Spitalzentrum Oberwallis - Visp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5653558,
+                    47.5712498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1543627,
+                    46.799594
+                ]
+            },
+            "properties": {
+                "name": "Clinique g\u00e9n\u00e9rale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5862577,
+                    47.5244431
+                ]
+            },
+            "properties": {
+                "name": "Integrierte Psychiatrie Winterthur - Z\u00fcrcher Unterland Zentrum Hard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9604029,
+                    46.0098629
+                ]
+            },
+            "properties": {
+                "name": "EOC Ospedale Italiano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8014015,
+                    47.3214641
+                ]
+            },
+            "properties": {
+                "name": "GZO Spital Wetzikon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5896637,
+                    47.2632038
+                ]
+            },
+            "properties": {
+                "name": "See-Spital Horgen (Spital Zimmerberg)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5489183,
+                    47.3580661
+                ]
+            },
+            "properties": {
+                "name": "Klinik Pyramide am See"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9426681,
+                    46.9969281
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Pourtal\u00e8s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.575368,
+                    47.352955
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsklinik Balgrist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2120529,
+                    46.810339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9527798,
+                    46.0177046
+                ]
+            },
+            "properties": {
+                "name": "Ospedale Civico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5682009,
+                    47.3768424
+                ]
+            },
+            "properties": {
+                "name": "Klinik Susenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.620681,
+                    47.0482797
+                ]
+            },
+            "properties": {
+                "name": "Regionalspital Burgdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8432549,
+                    46.6803484
+                ]
+            },
+            "properties": {
+                "name": "Regionalspital Interlaken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5989829,
+                    47.3488567
+                ]
+            },
+            "properties": {
+                "name": "Spital Zollikerberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1079074,
+                    46.9223826
+                ]
+            },
+            "properties": {
+                "name": "Spital des Seebezirks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5398929,
+                    46.8639037
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5419064,
+                    46.8612698
+                ]
+            },
+            "properties": {
+                "name": "Frauenklinik Fontana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2167547,
+                    46.4449752
+                ]
+            },
+            "properties": {
+                "name": "Clinique de Genolier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7429169,
+                    47.057106
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital du Locle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5363912,
+                    46.860261
+                ]
+            },
+            "properties": {
+                "name": "Kreuzspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5409061,
+                    46.8692763
+                ]
+            },
+            "properties": {
+                "name": "Klinik Waldhaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4120047,
+                    46.5034376
+                ]
+            },
+            "properties": {
+                "name": "Institution de Lavigny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2964087,
+                    47.058548
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Luzern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9392328,
+                    46.9951581
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital catholique de la Providence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6004026,
+                    46.5182372
+                ]
+            },
+            "properties": {
+                "name": "Vidy-Med SA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6356736,
+                    46.5097705
+                ]
+            },
+            "properties": {
+                "name": "Clinique de Montchoisi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6491425,
+                    46.5440524
+                ]
+            },
+            "properties": {
+                "name": "Fondation Plein-Soleil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1820266,
+                    46.2000941
+                ]
+            },
+            "properties": {
+                "name": "Clinique des Grangettes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.309208,
+                    47.1208037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4482785,
+                    46.9526076
+                ]
+            },
+            "properties": {
+                "name": "Klinik Beausite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2429266,
+                    46.9090125
+                ]
+            },
+            "properties": {
+                "name": "Betagtenzentrum Laupen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5179192,
+                    47.1939286
+                ]
+            },
+            "properties": {
+                "name": "Zuger Kantonsspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6219746,
+                    46.5202631
+                ]
+            },
+            "properties": {
+                "name": "Clinique Cecil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6360909,
+                    46.5158934
+                ]
+            },
+            "properties": {
+                "name": "Clinique Longeraie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6236688,
+                    46.5243612
+                ]
+            },
+            "properties": {
+                "name": "Asile des aveugles Fondation H\u00f4pital ophtalmique Jules-Gonin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6146411,
+                    46.5295096
+                ]
+            },
+            "properties": {
+                "name": "Hopital de l'Enfance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9645579,
+                    46.311595
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital d'Aigle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6282214,
+                    46.5273394
+                ]
+            },
+            "properties": {
+                "name": "Clinique de la Source"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6306288,
+                    46.511946
+                ]
+            },
+            "properties": {
+                "name": "Clinique Bois-Cerf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0602978,
+                    47.3883616
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Aarau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0426348,
+                    47.3907026
+                ]
+            },
+            "properties": {
+                "name": "Hirslanden Klinik Aarau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8333458,
+                    47.1136919
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de La Chaux-de-Fonds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8293102,
+                    47.1039402
+                ]
+            },
+            "properties": {
+                "name": "Clinique de la Serre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1480682,
+                    46.1920033
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pitaux universitaires de Gen\u00e8ve (HUG)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.14726,
+                    46.1904274
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital des enfants"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.636473,
+                    47.7122318
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Schaffhausen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9072077,
+                    47.0322968
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Landeyeux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9063418,
+                    47.0324506
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Landeyeux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6300266,
+                    46.9255438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5306463,
+                    47.2050434
+                ]
+            },
+            "properties": {
+                "name": "Privatklinik Obach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.770257,
+                    46.8925371
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de la B\u00e9roche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7977962,
+                    46.178603
+                ]
+            },
+            "properties": {
+                "name": "Clinica Santa Croce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7395361,
+                    47.1308919
+                ]
+            },
+            "properties": {
+                "name": "Spital Einsiedeln"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2980053,
+                    47.0586566
+                ]
+            },
+            "properties": {
+                "name": "Kinderspital Luzern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2968822,
+                    47.0592172
+                ]
+            },
+            "properties": {
+                "name": "Luzerner Kantonsspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4538496,
+                    46.9752389
+                ]
+            },
+            "properties": {
+                "name": "Spital Tiefenau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4369442,
+                    46.9598309
+                ]
+            },
+            "properties": {
+                "name": "Engeriedspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.536202,
+                    47.3200339
+                ]
+            },
+            "properties": {
+                "name": "See-Spital Kilchberg (Sanitas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1498362,
+                    46.191484
+                ]
+            },
+            "properties": {
+                "name": "Clinique de la Colline"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6474415,
+                    46.7819254
+                ]
+            },
+            "properties": {
+                "name": "Centre de psychiatrie du Nord vaudois"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1412195,
+                    46.2466905
+                ]
+            },
+            "properties": {
+                "name": "Maison de repos Nouveau-Kermont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6464653,
+                    46.7716172
+                ]
+            },
+            "properties": {
+                "name": "EHNV-H\u00f4pital d'Yverdon-les-Bains"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1223901,
+                    46.1892414
+                ]
+            },
+            "properties": {
+                "name": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1572965,
+                    46.1827983
+                ]
+            },
+            "properties": {
+                "name": "Home de Val-Fleuri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0848085,
+                    46.1986695
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Lo\u00ebx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9972219,
+                    47.2571014
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital du Jura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0782045,
+                    46.1814434
+                ]
+            },
+            "properties": {
+                "name": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0652465,
+                    47.045417
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Glarus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2958892,
+                    47.0581446
+                ]
+            },
+            "properties": {
+                "name": "Neue Frauenklinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2974071,
+                    47.0593749
+                ]
+            },
+            "properties": {
+                "name": "Restaurant Feingut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2971971,
+                    47.0583192
+                ]
+            },
+            "properties": {
+                "name": "Neue Augenklinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2964189,
+                    47.0590378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2958823,
+                    47.058662
+                ]
+            },
+            "properties": {
+                "name": "Radio-Onkologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3036922,
+                    47.0527924
+                ]
+            },
+            "properties": {
+                "name": "Luzern Psychiatric Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2156716,
+                    46.2084421
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital des Trois-Ch\u00eane (G\u00e9riatrie)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1831319,
+                    46.2036954
+                ]
+            },
+            "properties": {
+                "name": "EMS Le Nouveau Prieur\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1831821,
+                    46.204685
+                ]
+            },
+            "properties": {
+                "name": "Foyer Eynard Fatio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2797262,
+                    47.0480959
+                ]
+            },
+            "properties": {
+                "name": "Spital Aarberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3258506,
+                    47.0578616
+                ]
+            },
+            "properties": {
+                "name": "Klinik St. Anna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3941457,
+                    47.4298818
+                ]
+            },
+            "properties": {
+                "name": "Ostschweizer Kinderspital St. Gallen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3863265,
+                    47.4300013
+                ]
+            },
+            "properties": {
+                "name": "Haus 03A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3877403,
+                    47.4283737
+                ]
+            },
+            "properties": {
+                "name": "B\u00fcrgerspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3877265,
+                    47.4298801
+                ]
+            },
+            "properties": {
+                "name": "Haus 01"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4278884,
+                    46.9581727
+                ]
+            },
+            "properties": {
+                "name": "Lindenhofspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7253582,
+                    46.4905378
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Lavaux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5482924,
+                    47.306112
+                ]
+            },
+            "properties": {
+                "name": "Pflegezentrum Nidelbad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3922695,
+                    46.9445553
+                ]
+            },
+            "properties": {
+                "name": "Klinik Permanence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5572497,
+                    46.662172
+                ]
+            },
+            "properties": {
+                "name": "Klinik Erlenbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.896849,
+                    46.4429142
+                ]
+            },
+            "properties": {
+                "name": "EMS Coteau-Muraz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2450026,
+                    47.1464319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0084796,
+                    46.3417216
+                ]
+            },
+            "properties": {
+                "name": "Miremont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2051259,
+                    46.7769289
+                ]
+            },
+            "properties": {
+                "name": "Spital regiunal Surselva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2630423,
+                    47.1330855
+                ]
+            },
+            "properties": {
+                "name": "Privatklinik Linde - Clinique des Tilleuls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5492915,
+                    47.3764177
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsspital Z\u00fcrich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.550561,
+                    47.3771417
+                ]
+            },
+            "properties": {
+                "name": "USZ Notfall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.531521,
+                    47.3526313
+                ]
+            },
+            "properties": {
+                "name": "Klinik im Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.450304,
+                    47.0173389
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrische Privatklinik Wyss AG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3387706,
+                    47.368658
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital du Jura"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8554953,
+                    46.8290571
+                ]
+            },
+            "properties": {
+                "name": "Hochgebirgsklinik Davos-Wolfgang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8145275,
+                    46.787518
+                ]
+            },
+            "properties": {
+                "name": "Spital Davos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1410034,
+                    46.4779367
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital du Pays d'Enhaut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0111078,
+                    47.4500398
+                ]
+            },
+            "properties": {
+                "name": "infirmerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3891522,
+                    47.4289558
+                ]
+            },
+            "properties": {
+                "name": "Geriatrische Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3889087,
+                    47.4301673
+                ]
+            },
+            "properties": {
+                "name": "Haus 20"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3853441,
+                    47.4302842
+                ]
+            },
+            "properties": {
+                "name": "Haus 27"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3857403,
+                    47.430855
+                ]
+            },
+            "properties": {
+                "name": "Haus 02"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3891445,
+                    47.4305555
+                ]
+            },
+            "properties": {
+                "name": "Haus 60"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.389404,
+                    47.430256
+                ]
+            },
+            "properties": {
+                "name": "Haus 09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3889091,
+                    47.4297417
+                ]
+            },
+            "properties": {
+                "name": "Haus 22"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3880869,
+                    47.431041
+                ]
+            },
+            "properties": {
+                "name": "Haus 31"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3884903,
+                    47.4314093
+                ]
+            },
+            "properties": {
+                "name": "Haus 06"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3883479,
+                    47.4305691
+                ]
+            },
+            "properties": {
+                "name": "Haus 23A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3885712,
+                    47.4303876
+                ]
+            },
+            "properties": {
+                "name": "Haus 21"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3877413,
+                    47.4311006
+                ]
+            },
+            "properties": {
+                "name": "Haus 05"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5733507,
+                    47.3517968
+                ]
+            },
+            "properties": {
+                "name": "Schulthess Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5691184,
+                    47.3493016
+                ]
+            },
+            "properties": {
+                "name": "Schweizerische Epilepsie Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0601546,
+                    46.6413224
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Riaz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0601679,
+                    46.6413287
+                ]
+            },
+            "properties": {
+                "name": "HFR Riaz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0669845,
+                    46.6560831
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Marsens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6065232,
+                    46.5484943
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Cery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1499453,
+                    46.1881374
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Beau-S\u00e9jour (HUG)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2059647,
+                    46.2585593
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Bellerive (HUG)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8787022,
+                    46.5401696
+                ]
+            },
+            "properties": {
+                "name": "Ospidel Engiadin'Ota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4745725,
+                    47.4752471
+                ]
+            },
+            "properties": {
+                "name": "Klinik St. Georg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4302571,
+                    47.3935594
+                ]
+            },
+            "properties": {
+                "name": "Spital Limmattal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5683812,
+                    46.8715449
+                ]
+            },
+            "properties": {
+                "name": "Spital M\u00fcnsingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2172542,
+                    47.5806396
+                ]
+            },
+            "properties": {
+                "name": "Spital Leuggern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3464739,
+                    46.4641748
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Rolle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8528152,
+                    46.4790737
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Nant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.455475,
+                    47.1811367
+                ]
+            },
+            "properties": {
+                "name": "AndreasKlinik Cham Zug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0436408,
+                    47.3902637
+                ]
+            },
+            "properties": {
+                "name": "Hirslandenklinik Haus C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0839466,
+                    47.2981091
+                ]
+            },
+            "properties": {
+                "name": "Spital Wattwil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7283139,
+                    47.5068649
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Winterthur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7299086,
+                    47.5103028
+                ]
+            },
+            "properties": {
+                "name": "Klinik Lindberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3905359,
+                    47.4317903
+                ]
+            },
+            "properties": {
+                "name": "Haus 55"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.971805,
+                    47.4211992
+                ]
+            },
+            "properties": {
+                "name": "Klinik Barmelweid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5408424,
+                    47.3829923
+                ]
+            },
+            "properties": {
+                "name": "Kantonales Spital Altst\u00e4tten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2307906,
+                    46.2702205
+                ]
+            },
+            "properties": {
+                "name": "Hospice g\u00e9n\u00e9ral - Foyer d'Ani\u00e8res"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2347574,
+                    47.6311801
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.231062,
+                    47.6341206
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrische Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1619053,
+                    46.1887102
+                ]
+            },
+            "properties": {
+                "name": "Clinique G\u00e9n\u00e9rale Beaulieu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1429706,
+                    46.1865854
+                ]
+            },
+            "properties": {
+                "name": "Clinique de Carouge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1015293,
+                    46.1803549
+                ]
+            },
+            "properties": {
+                "name": "EMS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.101494,
+                    46.1822274
+                ]
+            },
+            "properties": {
+                "name": "R\u00e9sidence Butini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.946188,
+                    46.818745
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital intercantonal de la Broye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.189232,
+                    46.1961173
+                ]
+            },
+            "properties": {
+                "name": "EMS Les Marronniers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5656339,
+                    47.5648257
+                ]
+            },
+            "properties": {
+                "name": "Felix-Platter-Spital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1766697,
+                    46.2030321
+                ]
+            },
+            "properties": {
+                "name": "EMS Foyer St. Paul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5177427,
+                    46.9315746
+                ]
+            },
+            "properties": {
+                "name": "Siloah"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8539731,
+                    46.4609472
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Riviera-Chablais, Site du Samaritain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8543633,
+                    46.4578729
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Riviera-Chablais, Site de la Providence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5313227,
+                    47.4425624
+                ]
+            },
+            "properties": {
+                "name": "Spital Heiden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6347949,
+                    47.7117245
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Schaffhausen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6362182,
+                    47.7119597
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Schaffhausen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0374282,
+                    47.4674715
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrische Klinik Wil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1409881,
+                    46.8011161
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Daler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1401297,
+                    46.8009095
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Daler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7991012,
+                    46.6709536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.7987331,
+                    46.6712189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6254582,
+                    47.7057066
+                ]
+            },
+            "properties": {
+                "name": "Psychiatriezentrum Breitenau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1853662,
+                    46.1957228
+                ]
+            },
+            "properties": {
+                "name": "Foyer des Aveugles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3734851,
+                    47.282121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3743406,
+                    47.2820353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3729321,
+                    47.2819293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6146648,
+                    47.4938742
+                ]
+            },
+            "properties": {
+                "name": "Ita Wegman Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6267835,
+                    46.3774032
+                ]
+            },
+            "properties": {
+                "name": "Rehazentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6265744,
+                    46.3777622
+                ]
+            },
+            "properties": {
+                "name": "Rehazentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1610175,
+                    46.1781835
+                ]
+            },
+            "properties": {
+                "name": "EMS Maison de Vessy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1080501,
+                    46.2111141
+                ]
+            },
+            "properties": {
+                "name": "EMS La Ch\u00e2telaine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0682795,
+                    46.0994617
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital du Valais - Martigny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4814458,
+                    46.299713
+                ]
+            },
+            "properties": {
+                "name": "Centre valaisan de pneumologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4868315,
+                    46.3136394
+                ]
+            },
+            "properties": {
+                "name": "Clinique Bernoise Montana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5215536,
+                    46.2921393
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Sierre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.387273,
+                    46.234713
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Sion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1056801,
+                    46.1851519
+                ]
+            },
+            "properties": {
+                "name": "EMS le foyer Bethel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.386691,
+                    47.4312496
+                ]
+            },
+            "properties": {
+                "name": "Haus 25"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3860201,
+                    47.4312234
+                ]
+            },
+            "properties": {
+                "name": "Haus 26"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9105723,
+                    47.5492255
+                ]
+            },
+            "properties": {
+                "name": "Kantonspital Frauenfeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9106783,
+                    47.5487948
+                ]
+            },
+            "properties": {
+                "name": "Tagesklinik Kantonsspital Frauenfeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3876063,
+                    47.4314935
+                ]
+            },
+            "properties": {
+                "name": "Haus 24"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3869427,
+                    47.4288948
+                ]
+            },
+            "properties": {
+                "name": "Haus 44"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3895299,
+                    47.4311867
+                ]
+            },
+            "properties": {
+                "name": "Haus 11"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3873747,
+                    47.4290922
+                ]
+            },
+            "properties": {
+                "name": "Haus 12"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3868828,
+                    47.4290404
+                ]
+            },
+            "properties": {
+                "name": "Haus 45"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3893766,
+                    47.4320589
+                ]
+            },
+            "properties": {
+                "name": "Haus 59"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3899536,
+                    47.4321389
+                ]
+            },
+            "properties": {
+                "name": "Haus 57"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3896167,
+                    47.4321952
+                ]
+            },
+            "properties": {
+                "name": "Haus 32"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9839541,
+                    47.148457
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital du Jura bernois - St-Imier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9980491,
+                    46.2132526
+                ]
+            },
+            "properties": {
+                "name": "Clinique Saint-Am\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3915778,
+                    47.4309077
+                ]
+            },
+            "properties": {
+                "name": "Haus 61"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9378108,
+                    46.0070853
+                ]
+            },
+            "properties": {
+                "name": "Clinica Luganese San Rocco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9397961,
+                    46.0050768
+                ]
+            },
+            "properties": {
+                "name": "Clinica Luganese Moncucco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4948224,
+                    46.8192064
+                ]
+            },
+            "properties": {
+                "name": "CSSC Sainte-Croix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6597988,
+                    47.2743591
+                ]
+            },
+            "properties": {
+                "name": "Privatklinik Hohenegg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6959614,
+                    47.2508775
+                ]
+            },
+            "properties": {
+                "name": "Spital M\u00e4nnedorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9389378,
+                    46.0001144
+                ]
+            },
+            "properties": {
+                "name": "Ospedale Sant'Anna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.432846,
+                    46.6067171
+                ]
+            },
+            "properties": {
+                "name": "Center da sand\u00e0 Val M\u00fcstair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4161655,
+                    47.3342186
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Appenzell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4167059,
+                    47.3342816
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Appenzell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2876061,
+                    47.5907295
+                ]
+            },
+            "properties": {
+                "name": "Klinik f\u00fcr Schlafmedizin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2881902,
+                    47.5901187
+                ]
+            },
+            "properties": {
+                "name": "RehaClinic AG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4536397,
+                    46.9520936
+                ]
+            },
+            "properties": {
+                "name": "Salem-Spital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6847242,
+                    47.506687
+                ]
+            },
+            "properties": {
+                "name": "Integrierte Psychiatrie Winterthur, Standort Klinik Schlosstal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5911162,
+                    47.1412442
+                ]
+            },
+            "properties": {
+                "name": "Klinik Adelheid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4564512,
+                    47.284611
+                ]
+            },
+            "properties": {
+                "name": "Bezirksspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2087259,
+                    46.205968
+                ]
+            },
+            "properties": {
+                "name": "Clinique de Belle-Id\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7308377,
+                    47.4884419
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Liestal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7865727,
+                    46.9432894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5177506,
+                    47.1947217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2212116,
+                    46.6015095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.497671,
+                    46.3168036
+                ]
+            },
+            "properties": {
+                "name": "Clinique Lucernoise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4288885,
+                    46.7304761
+                ]
+            },
+            "properties": {
+                "name": "Klinik Beverin Cazis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5764964,
+                    47.5627652
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4ts Augenklinik Basel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5760367,
+                    47.5624555
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4ts Augenklinik Basel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.581644,
+                    47.5635406
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4ts-Kinderspital beider Basel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.582399,
+                    47.5611249
+                ]
+            },
+            "properties": {
+                "name": "Zentrum f\u00fcr Lehre und Forschung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6369964,
+                    46.9892359
+                ]
+            },
+            "properties": {
+                "name": "Reha Seewis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7200994,
+                    47.2686647
+                ]
+            },
+            "properties": {
+                "name": "Klinik Schloessli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5815841,
+                    47.5605573
+                ]
+            },
+            "properties": {
+                "name": "Institut f\u00fcr Pathologie Universit\u00e4tsspital Basel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2493685,
+                    47.1469505
+                ]
+            },
+            "properties": {
+                "name": "Clinique pour enfants Wildermeth - Kinderklinik Wildermeth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9435755,
+                    47.2764565
+                ]
+            },
+            "properties": {
+                "name": "Z\u00fcrcher Rehazentrum Wald"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9816376,
+                    46.3169632
+                ]
+            },
+            "properties": {
+                "name": "Spitalzentrum Oberwallis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6078408,
+                    47.6348742
+                ]
+            },
+            "properties": {
+                "name": "Zentrum f\u00fcr Station\u00e4re Forensische Therapie und Zentrum f\u00fcr Integrative Psychiatrie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4369462,
+                    46.6972793
+                ]
+            },
+            "properties": {
+                "name": "Spital Thusis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2272133,
+                    46.3831715
+                ]
+            },
+            "properties": {
+                "name": "Groupement Hospitalier de l'Ouest L\u00e9manique (GHOL)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9824329,
+                    45.8670358
+                ]
+            },
+            "properties": {
+                "name": "Ospedale Regionale di Mendrisio Beata Vergine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3886828,
+                    46.4916164
+                ]
+            },
+            "properties": {
+                "name": "Hopital d'Aubonne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6375827,
+                    46.8827538
+                ]
+            },
+            "properties": {
+                "name": "Kantonspital Uri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2452359,
+                    46.8897372
+                ]
+            },
+            "properties": {
+                "name": "Luzerner Psychiatrie Klinik Sarnen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.062212,
+                    46.3226166
+                ]
+            },
+            "properties": {
+                "name": "Ospedale San Sisto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6552329,
+                    46.7655065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3907394,
+                    47.4323257
+                ]
+            },
+            "properties": {
+                "name": "Haus 33"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5895904,
+                    47.2626824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4243945,
+                    46.9473091
+                ]
+            },
+            "properties": {
+                "name": "Inselspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2770704,
+                    47.4539612
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Baden - Kubus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1826506,
+                    46.7320349
+                ]
+            },
+            "properties": {
+                "name": "Gesundheitszentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2009903,
+                    47.0666554
+                ]
+            },
+            "properties": {
+                "name": "Medizentrum und Pflegeheim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3880105,
+                    47.4308111
+                ]
+            },
+            "properties": {
+                "name": "Haus 08"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4992076,
+                    47.4737802
+                ]
+            },
+            "properties": {
+                "name": "Spital Rorschach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3868548,
+                    46.2352158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0642872,
+                    46.659352
+                ]
+            },
+            "properties": {
+                "name": "EMS d'Humilimont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1411933,
+                    47.4445703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4554552,
+                    47.2858158
+                ]
+            },
+            "properties": {
+                "name": "Haus Pilatus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8593248,
+                    47.1889806
+                ]
+            },
+            "properties": {
+                "name": "Spital Lachen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3856129,
+                    47.4303404
+                ]
+            },
+            "properties": {
+                "name": "Haus 28"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5424376,
+                    46.3367003
+                ]
+            },
+            "properties": {
+                "name": "Ospedale Casa di Cura della Bregaglia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6152418,
+                    47.4954786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6155373,
+                    47.4956952
+                ]
+            },
+            "properties": {
+                "name": "Lukas Klinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.329881,
+                    47.277857
+                ]
+            },
+            "properties": {
+                "name": "Kreisspital f\u00fcr das Freiamt Muri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6413587,
+                    46.5843102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6340012,
+                    47.5355517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6326005,
+                    46.761042
+                ]
+            },
+            "properties": {
+                "name": "Spital Thun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1844041,
+                    47.4180092
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Flawil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8441944,
+                    46.851012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.552577,
+                    46.8809311
+                ]
+            },
+            "properties": {
+                "name": "Psychiatriezentrum M\u00fcnsingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8507913,
+                    46.0103258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3906313,
+                    47.431569
+                ]
+            },
+            "properties": {
+                "name": "Haus 56"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3909644,
+                    47.4318443
+                ]
+            },
+            "properties": {
+                "name": "Haus 81"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3882853,
+                    47.4306378
+                ]
+            },
+            "properties": {
+                "name": "Haus 23B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3871193,
+                    47.43132
+                ]
+            },
+            "properties": {
+                "name": "Haus 25A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3858673,
+                    47.4305543
+                ]
+            },
+            "properties": {
+                "name": "Haus 03D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3866827,
+                    47.4301938
+                ]
+            },
+            "properties": {
+                "name": "Haus 03"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3868942,
+                    47.4305988
+                ]
+            },
+            "properties": {
+                "name": "Haus 03B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3862841,
+                    47.4304322
+                ]
+            },
+            "properties": {
+                "name": "Haus 03C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3873014,
+                    47.430757
+                ]
+            },
+            "properties": {
+                "name": "Haus 04"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0675726,
+                    46.2287284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8530425,
+                    47.4645727
+                ]
+            },
+            "properties": {
+                "name": "Alters- & Pflegeheim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7241311,
+                    47.3529523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8849253,
+                    46.4603058
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Riviera-Chablais, Site de Mottex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9080171,
+                    46.4398056
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Riviera-Chablais, Site de Montreux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5597303,
+                    47.3712238
+                ]
+            },
+            "properties": {
+                "name": "Kinderspital Z\u00fcrich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5574837,
+                    47.3722631
+                ]
+            },
+            "properties": {
+                "name": "Kinderspital Z\u00fcrich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4975068,
+                    47.3665643
+                ]
+            },
+            "properties": {
+                "name": "Stadtspital Triemli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5575041,
+                    47.3808231
+                ]
+            },
+            "properties": {
+                "name": "Klinik Bethanien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5703215,
+                    47.3530509
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrische Universit\u00e4tsklinik Z\u00fcrich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5813096,
+                    47.5281677
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Bruderholz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5200434,
+                    47.3987508
+                ]
+            },
+            "properties": {
+                "name": "Stadtspital Waid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4744228,
+                    46.9427368
+                ]
+            },
+            "properties": {
+                "name": "Klinik Sonnenhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6423526,
+                    46.5255236
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier Universitaire Vaudois"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5001346,
+                    46.5221574
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Morges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4300908,
+                    47.3938862
+                ]
+            },
+            "properties": {
+                "name": "Haus 01 - Akutspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.6081437,
+                    46.5457816
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Cery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5393615,
+                    47.1992249
+                ]
+            },
+            "properties": {
+                "name": "B\u00fcrgerspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1378257,
+                    46.8015468
+                ]
+            },
+            "properties": {
+                "name": "HFR Fribourg \u2013 H\u00f4pital cantonal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0579328,
+                    47.4652449
+                ]
+            },
+            "properties": {
+                "name": "Spital Wil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9408749,
+                    46.2515095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7239842,
+                    47.4891
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrie Baselland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5836738,
+                    47.5617915
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsspital Basel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3572473,
+                    46.9599685
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Nidwalden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3873734,
+                    46.2355336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5512642,
+                    47.3762055
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsspital Z\u00fcrich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.483073,
+                    46.9661038
+                ]
+            },
+            "properties": {
+                "name": "UPD - Universit\u00e4re Psychiatrische Dienste Bern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5760973,
+                    47.3509989
+                ]
+            },
+            "properties": {
+                "name": "Klinik Hirslanden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2448851,
+                    47.146631
+                ]
+            },
+            "properties": {
+                "name": "Spitalzentrum Biel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4941936,
+                    46.3163739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4737541,
+                    47.3713444
+                ]
+            },
+            "properties": {
+                "name": "Klinik Gais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.903661,
+                    47.3564469
+                ]
+            },
+            "properties": {
+                "name": "Kantonsspital Olten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5224267,
+                    47.2185083
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrische Dienste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5035462,
+                    46.6666812
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Saint-Loup"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5335886,
+                    47.5212942
+                ]
+            },
+            "properties": {
+                "name": "Spital B\u00fclach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5590278,
+                    47.5726903
+                ]
+            },
+            "properties": {
+                "name": "Rehab Basel"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,2162 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.586681,
+                    50.7941327
+                ]
+            },
+            "properties": {
+                "name": "QV.ID"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7063224,
+                    50.878001
+                ]
+            },
+            "properties": {
+                "name": "Magnus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.369872,
+                    50.8356232
+                ]
+            },
+            "properties": {
+                "name": "Beer Mania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.605456,
+                    50.962884
+                ]
+            },
+            "properties": {
+                "name": "Nachtwinkel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6552741,
+                    50.6298986
+                ]
+            },
+            "properties": {
+                "name": "Les Vents d'Anges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0388405,
+                    50.9402436
+                ]
+            },
+            "properties": {
+                "name": "Wijnboerderij Kluisberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7926934,
+                    51.2668333
+                ]
+            },
+            "properties": {
+                "name": "Drankenhandel Daems"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9705145,
+                    50.4563388
+                ]
+            },
+            "properties": {
+                "name": "Altruy & fils"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9681361,
+                    50.4550303
+                ]
+            },
+            "properties": {
+                "name": "Melchior-Vins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3628517,
+                    50.859928
+                ]
+            },
+            "properties": {
+                "name": "Divers Alcools Vins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.727832,
+                    51.0571403
+                ]
+            },
+            "properties": {
+                "name": "Vits-Staelens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2243376,
+                    50.9855621
+                ]
+            },
+            "properties": {
+                "name": "De Bierschuur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0061128,
+                    50.9408107
+                ]
+            },
+            "properties": {
+                "name": "Likeurstokerij De Moor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7247198,
+                    51.0590418
+                ]
+            },
+            "properties": {
+                "name": "Les Tr\u00e9sors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2889092,
+                    50.3072294
+                ]
+            },
+            "properties": {
+                "name": "Distillerie de Bierc\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4754452,
+                    51.3855317
+                ]
+            },
+            "properties": {
+                "name": "De Caigny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0629261,
+                    50.468823
+                ]
+            },
+            "properties": {
+                "name": "Kapp (brasseur - grossiste)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9379306,
+                    50.9817506
+                ]
+            },
+            "properties": {
+                "name": "De Klok Likeuren NV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5836712,
+                    50.5690455
+                ]
+            },
+            "properties": {
+                "name": "La cave du Gone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6925973,
+                    50.972006
+                ]
+            },
+            "properties": {
+                "name": "Bu-V"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6947407,
+                    50.5688204
+                ]
+            },
+            "properties": {
+                "name": "Raineri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0068609,
+                    51.1831551
+                ]
+            },
+            "properties": {
+                "name": "Huis Costenoble"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7054822,
+                    50.8260884
+                ]
+            },
+            "properties": {
+                "name": "Wijnen & Likeuren Dulst"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3516812,
+                    50.3338347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.456642,
+                    51.1121085
+                ]
+            },
+            "properties": {
+                "name": "Karin Van Loock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4692773,
+                    51.2246869
+                ]
+            },
+            "properties": {
+                "name": "Puerta del Sol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3317657,
+                    51.130862
+                ]
+            },
+            "properties": {
+                "name": "DB Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3929445,
+                    51.2127149
+                ]
+            },
+            "properties": {
+                "name": "Wijnhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.438436,
+                    50.8648208
+                ]
+            },
+            "properties": {
+                "name": "De Keyzer Wins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3936834,
+                    51.2123108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8512998,
+                    50.5197233
+                ]
+            },
+            "properties": {
+                "name": "Paul Drink"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9591923,
+                    50.4569241
+                ]
+            },
+            "properties": {
+                "name": "La maison des vins fins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8529866,
+                    51.3652787
+                ]
+            },
+            "properties": {
+                "name": "Brouwerij Vagebond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8216026,
+                    50.435568
+                ]
+            },
+            "properties": {
+                "name": "Vins Vuylsteke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9675397,
+                    50.4544688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5445544,
+                    50.9905863
+                ]
+            },
+            "properties": {
+                "name": "Stokerij Filliers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9549669,
+                    50.4451261
+                ]
+            },
+            "properties": {
+                "name": "Vins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2895483,
+                    51.0485139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9524978,
+                    50.4538137
+                ]
+            },
+            "properties": {
+                "name": "nightshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9489427,
+                    50.4474763
+                ]
+            },
+            "properties": {
+                "name": "Aux mille saveurs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8819114,
+                    51.0111965
+                ]
+            },
+            "properties": {
+                "name": "Amici Del Vino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8943266,
+                    50.1001804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0816207,
+                    50.6837601
+                ]
+            },
+            "properties": {
+                "name": "Hesby Drinks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5854993,
+                    50.9751512
+                ]
+            },
+            "properties": {
+                "name": "AD Delhaize Drinkcenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.885214,
+                    50.7146914
+                ]
+            },
+            "properties": {
+                "name": "Vanuxeem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5169045,
+                    50.7790594
+                ]
+            },
+            "properties": {
+                "name": "DeWit - Wijnen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5784502,
+                    49.6699837
+                ]
+            },
+            "properties": {
+                "name": "Daune-Habaru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1079977,
+                    50.9479563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1440625,
+                    50.9971359
+                ]
+            },
+            "properties": {
+                "name": "De Bierboom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6222193,
+                    50.6685046
+                ]
+            },
+            "properties": {
+                "name": "Drinks Plume"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9278731,
+                    49.9699391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5501828,
+                    51.2618613
+                ]
+            },
+            "properties": {
+                "name": "PHil's place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7465953,
+                    50.7329749
+                ]
+            },
+            "properties": {
+                "name": "Drinks Soetens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1276103,
+                    50.497926
+                ]
+            },
+            "properties": {
+                "name": "L'entrepot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6798574,
+                    51.0744435
+                ]
+            },
+            "properties": {
+                "name": "De Wijnhoek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1464796,
+                    50.6280197
+                ]
+            },
+            "properties": {
+                "name": "Bertaux Fr\u00e8res"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2422835,
+                    50.8296528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3438995,
+                    50.6039756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4924175,
+                    49.6952272
+                ]
+            },
+            "properties": {
+                "name": "Brasserie MilleVertus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3547488,
+                    50.8452837
+                ]
+            },
+            "properties": {
+                "name": "Bi\u00e8res et tout le bazar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.311417,
+                    50.8978843
+                ]
+            },
+            "properties": {
+                "name": "Wijnen Vancamp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3459304,
+                    50.8305733
+                ]
+            },
+            "properties": {
+                "name": "Ch\u00e0-Man"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5825704,
+                    50.5542826
+                ]
+            },
+            "properties": {
+                "name": "M\u00e9ry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5984491,
+                    50.5468861
+                ]
+            },
+            "properties": {
+                "name": "Eurodrink"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9031281,
+                    50.864329
+                ]
+            },
+            "properties": {
+                "name": "Vion Wijnen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3726656,
+                    50.8298372
+                ]
+            },
+            "properties": {
+                "name": "Malting Pot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2117681,
+                    51.2045665
+                ]
+            },
+            "properties": {
+                "name": "Drankenhandel Chardonnay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4496645,
+                    50.6143856
+                ]
+            },
+            "properties": {
+                "name": "Espace Vin Pirard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4116683,
+                    50.5828105
+                ]
+            },
+            "properties": {
+                "name": "The Wine Corner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3881799,
+                    50.8148636
+                ]
+            },
+            "properties": {
+                "name": "Boire & Fumer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7051151,
+                    51.0934862
+                ]
+            },
+            "properties": {
+                "name": "Nies Cox"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3937632,
+                    50.6069432
+                ]
+            },
+            "properties": {
+                "name": "Tabac shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3535033,
+                    50.841287
+                ]
+            },
+            "properties": {
+                "name": "Nicolas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3919781,
+                    50.8115146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.951725,
+                    50.4521297
+                ]
+            },
+            "properties": {
+                "name": "Le cellier des fripiers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6987207,
+                    50.8822129
+                ]
+            },
+            "properties": {
+                "name": "Convento Wines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6995556,
+                    50.8810564
+                ]
+            },
+            "properties": {
+                "name": "Angels Share"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.37578,
+                    50.798987
+                ]
+            },
+            "properties": {
+                "name": "Uccle Vins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3738574,
+                    50.795633
+                ]
+            },
+            "properties": {
+                "name": "Wine Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1252426,
+                    50.7867596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1260097,
+                    50.7867766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7000234,
+                    50.8871371
+                ]
+            },
+            "properties": {
+                "name": "Nieuwe wereldwijnen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0072567,
+                    51.026538
+                ]
+            },
+            "properties": {
+                "name": "Clement Wines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.139857,
+                    50.7891672
+                ]
+            },
+            "properties": {
+                "name": "Tabac La Palma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3700796,
+                    50.8278774
+                ]
+            },
+            "properties": {
+                "name": "Cave Coop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9128894,
+                    50.5283023
+                ]
+            },
+            "properties": {
+                "name": "Terroirs et D\u00e9couvertes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4096403,
+                    50.923662
+                ]
+            },
+            "properties": {
+                "name": "World Wines Web"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6969037,
+                    50.0019517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5853113,
+                    50.5533843
+                ]
+            },
+            "properties": {
+                "name": "Mery Vin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4489642,
+                    51.085665
+                ]
+            },
+            "properties": {
+                "name": "Quinta das Vinhas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.717096,
+                    51.0543306
+                ]
+            },
+            "properties": {
+                "name": "Cavatappi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3571432,
+                    50.8268788
+                ]
+            },
+            "properties": {
+                "name": "Tire Bouchon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0783101,
+                    50.5591088
+                ]
+            },
+            "properties": {
+                "name": "Comptoir  Achat Vignerons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8713296,
+                    50.5261914
+                ]
+            },
+            "properties": {
+                "name": "Maison Scouflaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5967105,
+                    51.0730641
+                ]
+            },
+            "properties": {
+                "name": "Tabacco Real-XL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2244499,
+                    51.2029007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3535431,
+                    50.8486239
+                ]
+            },
+            "properties": {
+                "name": "Beer Planet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3515496,
+                    50.848291
+                ]
+            },
+            "properties": {
+                "name": "Nicolas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7277569,
+                    51.052038
+                ]
+            },
+            "properties": {
+                "name": "La Casa del Habano Gent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5403384,
+                    50.9807023
+                ]
+            },
+            "properties": {
+                "name": "Drink4U"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7195764,
+                    51.048919
+                ]
+            },
+            "properties": {
+                "name": "Les Tr\u00e9sors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.400585,
+                    50.8403843
+                ]
+            },
+            "properties": {
+                "name": "Nicolas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3557982,
+                    50.8473851
+                ]
+            },
+            "properties": {
+                "name": "D\u00e9lices & Caprices"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3518728,
+                    50.8474778
+                ]
+            },
+            "properties": {
+                "name": "Belgian Beer Tradition"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3523858,
+                    50.845697
+                ]
+            },
+            "properties": {
+                "name": "Shop Chapelier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3494667,
+                    50.8457006
+                ]
+            },
+            "properties": {
+                "name": "Delirium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3499487,
+                    50.8451271
+                ]
+            },
+            "properties": {
+                "name": "250 Beers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6338158,
+                    50.6312681
+                ]
+            },
+            "properties": {
+                "name": "Moulin d\u2019Alvau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3532081,
+                    50.847364
+                ]
+            },
+            "properties": {
+                "name": "De Biertempel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3648319,
+                    50.8488276
+                ]
+            },
+            "properties": {
+                "name": "Princesse Ani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6986844,
+                    50.6842532
+                ]
+            },
+            "properties": {
+                "name": "Les Vins de Louise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0408749,
+                    50.7795957
+                ]
+            },
+            "properties": {
+                "name": "Marleen Salomez"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2255388,
+                    51.2081131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3821751,
+                    50.8396244
+                ]
+            },
+            "properties": {
+                "name": "The Bottle Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5758027,
+                    50.1826247
+                ]
+            },
+            "properties": {
+                "name": "La Cave du Venitien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0812019,
+                    51.2992589
+                ]
+            },
+            "properties": {
+                "name": "Bieren den Haene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6745951,
+                    50.923397
+                ]
+            },
+            "properties": {
+                "name": "Brouwerij Crontreras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3874993,
+                    50.6061289
+                ]
+            },
+            "properties": {
+                "name": "Monsieur Whiskey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3971465,
+                    51.2208851
+                ]
+            },
+            "properties": {
+                "name": "Cigars Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1850953,
+                    50.8152958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3420055,
+                    49.9886819
+                ]
+            },
+            "properties": {
+                "name": "Chimay Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3460466,
+                    50.8439709
+                ]
+            },
+            "properties": {
+                "name": "Le Tastevin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4519044,
+                    51.117776
+                ]
+            },
+            "properties": {
+                "name": "Magnus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3597168,
+                    50.5976143
+                ]
+            },
+            "properties": {
+                "name": "Le Cellier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9760661,
+                    50.6631498
+                ]
+            },
+            "properties": {
+                "name": "Primo Vins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4614076,
+                    50.6612939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2841511,
+                    50.8751864
+                ]
+            },
+            "properties": {
+                "name": "De Bierschuur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3468177,
+                    50.8313155
+                ]
+            },
+            "properties": {
+                "name": "Chez Simone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6954781,
+                    50.732334
+                ]
+            },
+            "properties": {
+                "name": "La Cave \u00e0 Vins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.859876,
+                    50.4641734
+                ]
+            },
+            "properties": {
+                "name": "Graf\u00e9 Lecocq"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7248546,
+                    50.7090846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7247218,
+                    50.7089236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4257397,
+                    51.0182773
+                ]
+            },
+            "properties": {
+                "name": "Chapelwineries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1393336,
+                    51.0304893
+                ]
+            },
+            "properties": {
+                "name": "Drankencentrale Maes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9150696,
+                    50.2543972
+                ]
+            },
+            "properties": {
+                "name": "Le Garage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1154725,
+                    51.1874264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7616063,
+                    51.1003884
+                ]
+            },
+            "properties": {
+                "name": "Drankenhandel Geers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7368461,
+                    51.1716114
+                ]
+            },
+            "properties": {
+                "name": "Prik & Tik Domen Drinks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7782674,
+                    50.6311115
+                ]
+            },
+            "properties": {
+                "name": "La Vinerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.629593,
+                    50.8228761
+                ]
+            },
+            "properties": {
+                "name": "Au Nouveau Saint-Eloi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.664788,
+                    50.8218977
+                ]
+            },
+            "properties": {
+                "name": "De Hanekamp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5663864,
+                    50.6612898
+                ]
+            },
+            "properties": {
+                "name": "De Vin en Vin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8401907,
+                    51.0038011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3393149,
+                    50.929524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3632994,
+                    50.3469166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3328765,
+                    50.4895647
+                ]
+            },
+            "properties": {
+                "name": "Dehaye SPRL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9473251,
+                    50.4576539
+                ]
+            },
+            "properties": {
+                "name": "Quai des Vignerons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9364187,
+                    50.496096
+                ]
+            },
+            "properties": {
+                "name": "Alsavin SCRI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5803165,
+                    51.1760639
+                ]
+            },
+            "properties": {
+                "name": "Bierkruier Bocholt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2324752,
+                    50.5652534
+                ]
+            },
+            "properties": {
+                "name": "Aux Coteaux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9550095,
+                    50.1895959
+                ]
+            },
+            "properties": {
+                "name": "Babelvin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5182522,
+                    50.8711158
+                ]
+            },
+            "properties": {
+                "name": "Stop & Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2441049,
+                    50.9108186
+                ]
+            },
+            "properties": {
+                "name": "Stokerij 't Stookkot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3990642,
+                    50.729614
+                ]
+            },
+            "properties": {
+                "name": "De Coninck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3512116,
+                    50.8467881
+                ]
+            },
+            "properties": {
+                "name": "La T\u00eate d'Or"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8386322,
+                    50.4611158
+                ]
+            },
+            "properties": {
+                "name": "Comptoir des Vins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.168969,
+                    50.4121768
+                ]
+            },
+            "properties": {
+                "name": "'Paki'"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8082663,
+                    49.6143304
+                ]
+            },
+            "properties": {
+                "name": "Theis Ets Distribution"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7323493,
+                    50.54985
+                ]
+            },
+            "properties": {
+                "name": "Les Caves du Ch\u00e2teau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0466828,
+                    50.6694692
+                ]
+            },
+            "properties": {
+                "name": "Brasserie Verlaine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.786385,
+                    50.5336531
+                ]
+            },
+            "properties": {
+                "name": "Brasserie Hallet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1594869,
+                    50.8714504
+                ]
+            },
+            "properties": {
+                "name": "Wyns drinks service"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5584216,
+                    50.9783083
+                ]
+            },
+            "properties": {
+                "name": "TasTToe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7931593,
+                    50.4875701
+                ]
+            },
+            "properties": {
+                "name": "Beer, Wine & Coffee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5801591,
+                    51.1762453
+                ]
+            },
+            "properties": {
+                "name": "Bierkruier Bocholt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2212867,
+                    51.2081867
+                ]
+            },
+            "properties": {
+                "name": "Gin and Whisky Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2184704,
+                    51.2116964
+                ]
+            },
+            "properties": {
+                "name": "Jacques Feys-Michel Van Acker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2597325,
+                    50.6461107
+                ]
+            },
+            "properties": {
+                "name": "L'escale des vins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2334251,
+                    50.6619689
+                ]
+            },
+            "properties": {
+                "name": "Le Sommelier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8854999,
+                    50.7147932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6927902,
+                    50.8613085
+                ]
+            },
+            "properties": {
+                "name": "Wouters Bierhandel"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

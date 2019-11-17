@@ -1,0 +1,167 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1316384,
+                    49.6006612
+                ]
+            },
+            "properties": {
+                "name": "Cabaret Chez Alex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1311784,
+                    49.6003343
+                ]
+            },
+            "properties": {
+                "name": "Night Club Beverly Hills"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1297756,
+                    49.6009234
+                ]
+            },
+            "properties": {
+                "name": "King Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1288149,
+                    49.6269201
+                ]
+            },
+            "properties": {
+                "name": "Blue Night"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1348682,
+                    49.6026428
+                ]
+            },
+            "properties": {
+                "name": "Milady Palace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1336842,
+                    49.6015091
+                ]
+            },
+            "properties": {
+                "name": "New love"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1347445,
+                    49.601684
+                ]
+            },
+            "properties": {
+                "name": "Follie's Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1348805,
+                    49.601743
+                ]
+            },
+            "properties": {
+                "name": "Le Showgirls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1341713,
+                    49.6012963
+                ]
+            },
+            "properties": {
+                "name": "Splendid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1347343,
+                    49.6015994
+                ]
+            },
+            "properties": {
+                "name": "Paradis Night"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1352095,
+                    49.6038487
+                ]
+            },
+            "properties": {
+                "name": "Domino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1348999,
+                    49.6027134
+                ]
+            },
+            "properties": {
+                "name": "Milady Palace"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.317664,
+                    43.8565854
+                ]
+            },
+            "properties": {
+                "name": "\u017deljezni\u010dki depo Rajlovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6572222,
+                    44.2270735
+                ]
+            },
+            "properties": {
+                "name": "Autobuska stanica Travnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.308359,
+                    43.8309807
+                ]
+            },
+            "properties": {
+                "name": "Ilid\u017ea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7637794,
+                    43.6529668
+                ]
+            },
+            "properties": {
+                "name": "Jablanica Grad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8051251,
+                    45.1812002
+                ]
+            },
+            "properties": {
+                "name": "Autobusna stanica"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

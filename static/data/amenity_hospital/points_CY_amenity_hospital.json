@@ -1,0 +1,1146 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3772235,
+                    35.1267578
+                ]
+            },
+            "properties": {
+                "name": "Nicosia General Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3525416,
+                    35.174197
+                ]
+            },
+            "properties": {
+                "name": "Paraskevaidio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4428588,
+                    34.7670182
+                ]
+            },
+            "properties": {
+                "name": "Royal Clinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4305574,
+                    34.7806464
+                ]
+            },
+            "properties": {
+                "name": "St George Clinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4375739,
+                    34.7864061
+                ]
+            },
+            "properties": {
+                "name": "Evagelismos Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4429454,
+                    34.7765529
+                ]
+            },
+            "properties": {
+                "name": "Blue Cross Clinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.6288383,
+                    34.9179464
+                ]
+            },
+            "properties": {
+                "name": "Old Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0402071,
+                    34.682055
+                ]
+            },
+            "properties": {
+                "name": "Polycliniki Ygeia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0417416,
+                    34.6809082
+                ]
+            },
+            "properties": {
+                "name": "Clinic Economou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.6070789,
+                    34.6832942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.424585,
+                    35.0389172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3933622,
+                    35.149877
+                ]
+            },
+            "properties": {
+                "name": "Aglantzia Outpatients"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0282632,
+                    34.7051803
+                ]
+            },
+            "properties": {
+                "name": "Mediterranean Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0791844,
+                    34.698362
+                ]
+            },
+            "properties": {
+                "name": "Dr. Kleopatra Savva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9721576,
+                    35.0629798
+                ]
+            },
+            "properties": {
+                "name": "Paralimni Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3806056,
+                    34.8825953
+                ]
+            },
+            "properties": {
+                "name": "Dr. Chrystalla Demetriou Eleftheriade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3254814,
+                    35.3375774
+                ]
+            },
+            "properties": {
+                "name": "Ak\u00e7i\u00e7ek Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.972579,
+                    35.0623761
+                ]
+            },
+            "properties": {
+                "name": "Paralimni Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.6581588,
+                    34.990746
+                ]
+            },
+            "properties": {
+                "name": "VW's Osteopathy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9037589,
+                    35.1549548
+                ]
+            },
+            "properties": {
+                "name": "Gazima\u011fusa Devlet Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3363362,
+                    35.3288047
+                ]
+            },
+            "properties": {
+                "name": "Tun\u00e7\u00e7evik Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3296334,
+                    35.1654788
+                ]
+            },
+            "properties": {
+                "name": "IPPOKRATEIO MEDICAL CENTRE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.3791597,
+                    34.8749967
+                ]
+            },
+            "properties": {
+                "name": "Peyia Medical Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9936861,
+                    34.9880289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.330411,
+                    35.1651975
+                ]
+            },
+            "properties": {
+                "name": "\u039a\u03c5\u03c1\u03b9\u03ac\u03ba\u03bf\u03c2 \u0394\u03b7\u03bc\u03b7\u03c4\u03c1\u03b9\u03ac\u03b4\u03b7\u03c2 MD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3382017,
+                    35.1409664
+                ]
+            },
+            "properties": {
+                "name": "\u0399\u03ac\u03c3\u03bf\u03bd\u03b1\u03c2 \u03a7\u03b1\u03c4\u03b6\u03b7\u03b3\u03b5\u03c9\u03c1\u03b3\u03af\u03bf\u03c5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3385283,
+                    35.1738967
+                ]
+            },
+            "properties": {
+                "name": "Health Advisor Cyprus Medical Office"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.1909189,
+                    35.1275422
+                ]
+            },
+            "properties": {
+                "name": "\u039a\u03bf\u03b9\u03bd\u03bf\u03c4\u03b9\u03ba\u03bf \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03b9\u03bf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9243387,
+                    35.127096
+                ]
+            },
+            "properties": {
+                "name": "Ya\u015fam Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9094208,
+                    35.1465207
+                ]
+            },
+            "properties": {
+                "name": "Sa\u011fl\u0131k Merkezi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4620206,
+                    34.8062898
+                ]
+            },
+            "properties": {
+                "name": "Archangel Michael Hospice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.978783,
+                    34.99059
+                ]
+            },
+            "properties": {
+                "name": "Napa Olympic Private Hospital "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9731851,
+                    35.0543759
+                ]
+            },
+            "properties": {
+                "name": "Santa Marina Polyclinic Paralimni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9787695,
+                    34.9905894
+                ]
+            },
+            "properties": {
+                "name": "Napa Olympic Private Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.6359279,
+                    34.9002068
+                ]
+            },
+            "properties": {
+                "name": "\u0391\u039d\u0391\u03a0\u0391\u03a5\u03a4\u0397\u03a1\u0399\u039f \u0391\u039d\u0391\u03a1\u03a1\u03a9\u03a4\u0397\u03a1\u0399\u039f MA-REA-KYBELH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3318442,
+                    35.1609025
+                ]
+            },
+            "properties": {
+                "name": "Dentis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.1383944,
+                    35.1366075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3966573,
+                    34.8254127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.5350538,
+                    35.0646975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.325833,
+                    35.3301114
+                ]
+            },
+            "properties": {
+                "name": "Dr. Suat G\u00fcnsel Girne \u00dcniversitesi Di\u015f Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3653239,
+                    35.1675933
+                ]
+            },
+            "properties": {
+                "name": "Saint Anastasios Clinic - Centre for Laparoscopic Operations and General Surgery - Centre for Paediatrics"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4117254,
+                    34.7652407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4095909,
+                    34.772306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9928024,
+                    34.9871601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0048385,
+                    34.6596826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.6331196,
+                    34.9174943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3103393,
+                    35.3365867
+                ]
+            },
+            "properties": {
+                "name": "KAM\u0130LO\u011eLU HASTANES\u0130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.2997379,
+                    35.1206163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3540802,
+                    35.1716229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3402939,
+                    35.3355326
+                ]
+            },
+            "properties": {
+                "name": "Dr.Suat G\u00fcnsel Girne \u00dcniversitesi Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0377606,
+                    34.6794048
+                ]
+            },
+            "properties": {
+                "name": "\u03a0\u03b1\u03bb\u03b1\u03b9\u03cc \u039d\u03bf\u03c3\u03bf\u03ba\u03bf\u03bc\u03b5\u03af\u03bf \u039b\u03b5\u03bc\u03b5\u03c3\u03bf\u03cd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9759084,
+                    35.0623802
+                ]
+            },
+            "properties": {
+                "name": "\u0411\u043e\u043b\u044c\u043d\u0438\u0446\u0430"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3773039,
+                    35.1280367
+                ]
+            },
+            "properties": {
+                "name": "Accident and emergency department"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.6158663,
+                    34.9316654
+                ]
+            },
+            "properties": {
+                "name": "Timios Stavros Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4459789,
+                    34.7888936
+                ]
+            },
+            "properties": {
+                "name": "Paphos General Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3778693,
+                    35.1270818
+                ]
+            },
+            "properties": {
+                "name": "Nicosia General Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0067643,
+                    34.7409111
+                ]
+            },
+            "properties": {
+                "name": "Melathron Agoniston EOKA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.344575,
+                    35.1691875
+                ]
+            },
+            "properties": {
+                "name": "Nicosia clinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.211967,
+                    34.9905114
+                ]
+            },
+            "properties": {
+                "name": "Agia Skepi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3000809,
+                    35.120476
+                ]
+            },
+            "properties": {
+                "name": "Lakatameia Medical Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0417489,
+                    34.6809319
+                ]
+            },
+            "properties": {
+                "name": "Ecnomou Clinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.0474987,
+                    35.0156325
+                ]
+            },
+            "properties": {
+                "name": "Valessia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    34.0377012,
+                    35.0302804
+                ]
+            },
+            "properties": {
+                "name": "Santa Marina Polyclinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.438502,
+                    34.7626668
+                ]
+            },
+            "properties": {
+                "name": "Iasis Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.6050749,
+                    34.9211445
+                ]
+            },
+            "properties": {
+                "name": "Larnaca General Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0748543,
+                    34.7002724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0403455,
+                    34.6818922
+                ]
+            },
+            "properties": {
+                "name": "Ygeia Policlinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3639752,
+                    35.1392163
+                ]
+            },
+            "properties": {
+                "name": "Aretaieio Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3420554,
+                    35.1214326
+                ]
+            },
+            "properties": {
+                "name": "American Heart Institute"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9832488,
+                    34.7067725
+                ]
+            },
+            "properties": {
+                "name": "Limassol district hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3207149,
+                    35.148365
+                ]
+            },
+            "properties": {
+                "name": "Apollonion Private Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3105278,
+                    35.1610908
+                ]
+            },
+            "properties": {
+                "name": "Ophthalmos Eye and Laser Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3314268,
+                    35.2065001
+                ]
+            },
+            "properties": {
+                "name": "Dr. Burhan Nalbanto\u011flu Devlet Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3272955,
+                    35.3337085
+                ]
+            },
+            "properties": {
+                "name": "\u00d6zel Girne Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8681923,
+                    35.1574095
+                ]
+            },
+            "properties": {
+                "name": "Cengiz Topal Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3575072,
+                    35.1525659
+                ]
+            },
+            "properties": {
+                "name": "Makarion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.358391,
+                    35.1523624
+                ]
+            },
+            "properties": {
+                "name": "Ongologiko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0507801,
+                    34.7050839
+                ]
+            },
+            "properties": {
+                "name": "Pantazis Clinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9258478,
+                    35.1277537
+                ]
+            },
+            "properties": {
+                "name": "Ma\u011fusa T\u0131p Merkezi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3495932,
+                    35.1659752
+                ]
+            },
+            "properties": {
+                "name": "Euaggelistria Clinic-Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3510147,
+                    35.1821223
+                ]
+            },
+            "properties": {
+                "name": "T\u0131bbi Laboratuvar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3167483,
+                    35.2092008
+                ]
+            },
+            "properties": {
+                "name": "Kolan British Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3276225,
+                    35.2000368
+                ]
+            },
+            "properties": {
+                "name": "\u00d6zel Ba\u015fkent Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3299179,
+                    35.201237
+                ]
+            },
+            "properties": {
+                "name": "ET\u0130K Hastanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.340473,
+                    35.2096948
+                ]
+            },
+            "properties": {
+                "name": "Cyprus Life Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.382412,
+                    35.1840831
+                ]
+            },
+            "properties": {
+                "name": "Archaggell Michael Elders Clinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3820715,
+                    35.1842267
+                ]
+            },
+            "properties": {
+                "name": "Kaimakli Local Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3199099,
+                    35.2282657
+                ]
+            },
+            "properties": {
+                "name": "Near East University Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.6288615,
+                    34.9181111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0377127,
+                    34.6794274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.5835417,
+                    35.3379801
+                ]
+            },
+            "properties": {
+                "name": "Esentepe Sa\u011fl\u0131k Oca\u011f\u0131"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,232 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6451126,
+                    41.0081203
+                ]
+            },
+            "properties": {
+                "name": "Arca de No\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4047481,
+                    41.5549125
+                ]
+            },
+            "properties": {
+                "name": "Vicious"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3151811,
+                    41.3830222
+                ]
+            },
+            "properties": {
+                "name": "Sex Shop Ok!"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5398857,
+                    40.9311856
+                ]
+            },
+            "properties": {
+                "name": "Karicias - Sex Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9265551,
+                    39.7481943
+                ]
+            },
+            "properties": {
+                "name": "Eden SexShop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4035483,
+                    41.543183
+                ]
+            },
+            "properties": {
+                "name": "Sex shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4869676,
+                    40.7544441
+                ]
+            },
+            "properties": {
+                "name": "SexBrinca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1389972,
+                    38.7128057
+                ]
+            },
+            "properties": {
+                "name": "Animatografo do Rossio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1461846,
+                    38.7292853
+                ]
+            },
+            "properties": {
+                "name": "Lojadosexo.com Sexshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.614888,
+                    41.1498651
+                ]
+            },
+            "properties": {
+                "name": "Love Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1370372,
+                    38.7294275
+                ]
+            },
+            "properties": {
+                "name": "Aud\u00e1cia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1389326,
+                    39.4111617
+                ]
+            },
+            "properties": {
+                "name": "Sex Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9731947,
+                    37.064409
+                ]
+            },
+            "properties": {
+                "name": "Afrodite 100% sex shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0661888,
+                    38.6541484
+                ]
+            },
+            "properties": {
+                "name": "koisas de adultos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4959218,
+                    39.820756
+                ]
+            },
+            "properties": {
+                "name": "Fina Flor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4886252,
+                    39.8250165
+                ]
+            },
+            "properties": {
+                "name": "LA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6321144,
+                    41.0084038
+                ]
+            },
+            "properties": {
+                "name": "SexyLine"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

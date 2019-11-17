@@ -1,0 +1,128 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1208218,
+                    56.9496478
+                ]
+            },
+            "properties": {
+                "name": "Kupidons plus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.523809,
+                    55.8695352
+                ]
+            },
+            "properties": {
+                "name": "69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1287736,
+                    56.9526718
+                ]
+            },
+            "properties": {
+                "name": "Labi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1206586,
+                    56.949924
+                ]
+            },
+            "properties": {
+                "name": "Labi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1324562,
+                    56.9607891
+                ]
+            },
+            "properties": {
+                "name": "Labi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1364586,
+                    56.9561513
+                ]
+            },
+            "properties": {
+                "name": "Kupidons plus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1270692,
+                    56.9542549
+                ]
+            },
+            "properties": {
+                "name": "SexyStyle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5469469,
+                    55.8706942
+                ]
+            },
+            "properties": {
+                "name": "SIA \"DDzKSU\" SEI-3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5541177,
+                    55.8806839
+                ]
+            },
+            "properties": {
+                "name": "SIA \"DDzKSU\""
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

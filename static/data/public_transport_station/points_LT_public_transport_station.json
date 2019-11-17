@@ -1,0 +1,138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8519861,
+                    55.9191561
+                ]
+            },
+            "properties": {
+                "name": "Plung\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9578321,
+                    55.2770352
+                ]
+            },
+            "properties": {
+                "name": "K\u0117daini\u0173 autobus\u0173 stotis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2843609,
+                    54.8301071
+                ]
+            },
+            "properties": {
+                "name": "Raudondvario Katilin\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2744583,
+                    54.633095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0951144,
+                    55.7691593
+                ]
+            },
+            "properties": {
+                "name": "Giruliai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2850698,
+                    54.6695696
+                ]
+            },
+            "properties": {
+                "name": "Vilnius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4929054,
+                    56.2647113
+                ]
+            },
+            "properties": {
+                "name": "Skuodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1436953,
+                    55.6840092
+                ]
+            },
+            "properties": {
+                "name": "Centrinis Klaip\u0117dos terminalas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0106097,
+                    54.4131553
+                ]
+            },
+            "properties": {
+                "name": "Alytaus autobus\u0173 stotis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0073752,
+                    55.3041636
+                ]
+            },
+            "properties": {
+                "name": "Nidos autobus\u0173 stotis"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,2513 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0627023,
+                    47.4982501
+                ]
+            },
+            "properties": {
+                "name": "ELTE PPK Tan\u00e1rk\u00e9pz\u0151 K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5702475,
+                    47.683414
+                ]
+            },
+            "properties": {
+                "name": "NYME: INYK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2069736,
+                    46.0767652
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9csi Tudom\u00e1nyegyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9338308,
+                    46.9606642
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola F\u0151\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4292917,
+                    47.1927746
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem Alba Regia Egyetemi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1245586,
+                    47.508104
+                ]
+            },
+            "properties": {
+                "name": "Budapesti Gazdas\u00e1gi Egyetem P\u00e9nz\u00fcgyi \u00e9s Sz\u00e1mviteli Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0527743,
+                    47.49265
+                ]
+            },
+            "properties": {
+                "name": "Sapientia Szerzetesi Hittudom\u00e1nyi F\u0151iskola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0663177,
+                    47.48715
+                ]
+            },
+            "properties": {
+                "name": "Liszt Ferenc Zenem\u0171v\u00e9szeti Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6226469,
+                    47.5541581
+                ]
+            },
+            "properties": {
+                "name": "Debreceni Ny\u00e1ri Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3672768,
+                    47.5911004
+                ]
+            },
+            "properties": {
+                "name": "SZIE Vadvil\u00e1g Meg\u0151rz\u00e9si Int\u00e9zet (Vadbiol\u00f3gia)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3677857,
+                    47.5901861
+                ]
+            },
+            "properties": {
+                "name": "SZIE V\u00edzgazd\u00e1lkod\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3683712,
+                    47.5917654
+                ]
+            },
+            "properties": {
+                "name": "SZIE Takarm\u00e1nyoz\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3706478,
+                    47.5942987
+                ]
+            },
+            "properties": {
+                "name": "SZIE \u00c1llatbemutat\u00f3 t\u00e9r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3694932,
+                    47.5936736
+                ]
+            },
+            "properties": {
+                "name": "SZIE Szarvasmarha telep"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3675418,
+                    47.5947922
+                ]
+            },
+            "properties": {
+                "name": "SZIE N\u00f6v\u00e9nytermeszt\u00e9si Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3761443,
+                    47.5941342
+                ]
+            },
+            "properties": {
+                "name": "SZIE Sug\u00e1rkert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9342507,
+                    46.9614698
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola I-\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9326485,
+                    46.9593855
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola P-\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9310307,
+                    46.9592059
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola GL-\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9306934,
+                    46.9598746
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola C-\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9312998,
+                    46.9593333
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola MC-\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9329757,
+                    46.9605824
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola M1-\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9326456,
+                    46.9600387
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola M2-\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0309274,
+                    47.5157913
+                ]
+            },
+            "properties": {
+                "name": "ESSRG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9331739,
+                    46.9592965
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola TV Studi\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9342558,
+                    46.9595142
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola A-\u00e9p\u00fclet (B\u00e1nki Don\u00e1t Gimn\u00e1zium \u00e9s Szakk\u00f6z\u00e9piskola)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6254369,
+                    47.6855129
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00e9chenyi Istv\u00e1n Egyetem - Varga Tibor Zenem\u0171v\u00e9szeti Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.375873,
+                    47.9000485
+                ]
+            },
+            "properties": {
+                "name": "Eszterh\u00e1zy K\u00e1roly Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0628007,
+                    47.4981134
+                ]
+            },
+            "properties": {
+                "name": "ELTE PPK Nevel\u00e9studom\u00e1nyi Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0579106,
+                    47.4798912
+                ]
+            },
+            "properties": {
+                "name": "Moholy-Nagy M\u0171v\u00e9szeti Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.134877,
+                    47.5065722
+                ]
+            },
+            "properties": {
+                "name": "Budapesti Metropolitan Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8074158,
+                    48.1075762
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem - Salg\u00f3tarj\u00e1ni K\u00e9pz\u00e9si K\u00f6zpont \u00e9s Kutat\u00f3hely"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8066682,
+                    48.1013138
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem - Salg\u00f3tarj\u00e1ni K\u00e9pz\u00e9si K\u00f6zpont \u00e9s Kutat\u00f3hely"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0135572,
+                    47.573225
+                ]
+            },
+            "properties": {
+                "name": "K\u00e1roli G\u00e1sp\u00e1r Reform\u00e1tus Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0582567,
+                    47.4861677
+                ]
+            },
+            "properties": {
+                "name": "Budapesti Corvinus Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0570665,
+                    47.4904008
+                ]
+            },
+            "properties": {
+                "name": "PPKE Hittudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0646238,
+                    47.5033438
+                ]
+            },
+            "properties": {
+                "name": "Liszt Ferenc Zenem\u0171v\u00e9szeti Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0708126,
+                    47.5134707
+                ]
+            },
+            "properties": {
+                "name": "Epreskert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0186063,
+                    47.4711525
+                ]
+            },
+            "properties": {
+                "name": "ELTE K\u0151r\u00f6si Csoma S\u00e1ndor Koll\u00e9gium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7951268,
+                    46.3639603
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9csi Tudom\u00e1nyegyetem Eg\u00e9szs\u00e9gtudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0216791,
+                    47.4742514
+                ]
+            },
+            "properties": {
+                "name": "Balassi Koll\u00e9gium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0796535,
+                    47.487174
+                ]
+            },
+            "properties": {
+                "name": "P\u00e1zm\u00e1ny P\u00e9ter Katolikus Egyetem - Inform\u00e1ci\u00f3s Technol\u00f3giai \u00e9s Bionikai Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2057947,
+                    46.0739985
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9csi Tudom\u00e1nyegyetem \u00c1ltal\u00e1nos Orvostudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.196062,
+                    46.0672921
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9csi Tudom\u00e1nyegyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1419528,
+                    46.2469164
+                ]
+            },
+            "properties": {
+                "name": "SZTE J\u00f3zsef Attila Tanulm\u00e1nyi \u00e9s Inform\u00e1ci\u00f3s K\u00f6zpont (TIK)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0917021,
+                    47.4793258
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0818454,
+                    47.4837511
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem K\u00fcls\u0151 Klinikai T\u00f6mb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0779989,
+                    47.4808788
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem Elm\u00e9leti Orvostudom\u00e1nyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0680435,
+                    47.484862
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem Gy\u00f3gyszer\u00e9sztudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0798589,
+                    47.4814645
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem Anat\u00f3miai T\u00f6mb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0675687,
+                    47.4880194
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem Bels\u0151 Klinikai T\u00f6mb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0786749,
+                    47.4908537
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem - Kand\u00f3 K\u00e1lm\u00e1n Villamosm\u00e9rn\u00f6ki Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0780568,
+                    47.4913213
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem - Keleti K\u00e1roly Gazdas\u00e1gi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0661127,
+                    47.4885383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0592834,
+                    47.4850878
+                ]
+            },
+            "properties": {
+                "name": "Corvinus S\u00f3h\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2733702,
+                    47.8801857
+                ]
+            },
+            "properties": {
+                "name": "Nyugat-Magyarorsz\u00e1gi Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1442216,
+                    46.2498521
+                ]
+            },
+            "properties": {
+                "name": "Szegedi Tudom\u00e1nyegyetem, Zenem\u0171v\u00e9szeti Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0349119,
+                    47.5335012
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem KVK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7664183,
+                    48.0788726
+                ]
+            },
+            "properties": {
+                "name": "Miskolci Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.763845,
+                    48.0792512
+                ]
+            },
+            "properties": {
+                "name": "T\u00dcKI, SZ\u00dcV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0624478,
+                    47.4723227
+                ]
+            },
+            "properties": {
+                "name": "ELTE D\u00e9li t\u00f6mb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1079266,
+                    47.4704561
+                ]
+            },
+            "properties": {
+                "name": "ELTE B\u00e1rczi Guszt\u00e1v Gy\u00f3gypedag\u00f3giai Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6227301,
+                    47.5560533
+                ]
+            },
+            "properties": {
+                "name": "Debreceni Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6202673,
+                    47.5562667
+                ]
+            },
+            "properties": {
+                "name": "\u00d6kol\u00f3gia \u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2117953,
+                    46.0805431
+                ]
+            },
+            "properties": {
+                "name": "PTE M\u0171szaki \u00e9s Informatikai Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0619827,
+                    47.4935006
+                ]
+            },
+            "properties": {
+                "name": "E\u00f6tv\u00f6s Lor\u00e1nd Tudom\u00e1nyegyetem B\u00f6lcs\u00e9szettudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6252902,
+                    47.5569449
+                ]
+            },
+            "properties": {
+                "name": "Ken\u00e9zy Villa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.623534,
+                    47.5566208
+                ]
+            },
+            "properties": {
+                "name": "Anat\u00f3miai Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6216049,
+                    47.5562448
+                ]
+            },
+            "properties": {
+                "name": "\u00c9lettudom\u00e1nyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.626545,
+                    47.5559241
+                ]
+            },
+            "properties": {
+                "name": "Elm\u00e9leti T\u00f6mb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6238873,
+                    47.5568648
+                ]
+            },
+            "properties": {
+                "name": "Pathol\u00f3giai Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6237378,
+                    47.5563856
+                ]
+            },
+            "properties": {
+                "name": "\u00c9lettani Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6242167,
+                    47.5567159
+                ]
+            },
+            "properties": {
+                "name": "Igazs\u00e1g\u00fcgyi Orvostani Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0917021,
+                    47.4793258
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem Nagyv\u00e1rad T\u00e9ri Elm\u00e9leti T\u00f6mb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9358233,
+                    47.7905296
+                ]
+            },
+            "properties": {
+                "name": "Eszterh\u00e1zy K\u00e1roly Egyetem Gy\u00f6ngy\u00f6si K\u00e1roly R\u00f3bert Campus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3757867,
+                    47.9000619
+                ]
+            },
+            "properties": {
+                "name": "Eszterh\u00e1zy K\u00e1roly Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0341157,
+                    47.5337859
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem NIK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0335927,
+                    47.533349
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem RKK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.187709,
+                    47.1655745
+                ]
+            },
+            "properties": {
+                "name": "Neumann J\u00e1nos Egyetem Gazd\u00e1lkod\u00e1si Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0649508,
+                    47.4859874
+                ]
+            },
+            "properties": {
+                "name": "K\u00e1roli G\u00e1sp\u00e1r Reform\u00e1tus Egyetem Hittudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0933525,
+                    47.5078417
+                ]
+            },
+            "properties": {
+                "name": "Szent Istv\u00e1n Egyetem Ybl Mikl\u00f3s \u00c9p\u00edt\u00e9studom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0486535,
+                    47.4804323
+                ]
+            },
+            "properties": {
+                "name": "Nemzeti K\u00f6zszolg\u00e1lati Egyetem K\u00f6zigazgat\u00e1s-tudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7120931,
+                    47.9732094
+                ]
+            },
+            "properties": {
+                "name": "Ny\u00edregyh\u00e1zi Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2035786,
+                    46.0757054
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9csi Tudom\u00e1nyegyetem Szent\u00e1gothai J\u00e1nos Kutat\u00f3k\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2375579,
+                    46.7491901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2398388,
+                    46.7495687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2383716,
+                    46.7470804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2428271,
+                    46.7500133
+                ]
+            },
+            "properties": {
+                "name": "Pethe Ferenc Koll\u00e9gium - Napsug\u00e1r utcai Koll\u00e9gium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1148484,
+                    47.5193656
+                ]
+            },
+            "properties": {
+                "name": "Evang\u00e9likus Hittudom\u00e1nyi Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6088625,
+                    47.5488995
+                ]
+            },
+            "properties": {
+                "name": "F\u0151\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6089057,
+                    47.5505175
+                ]
+            },
+            "properties": {
+                "name": "Veres P\u00e9ter Koll\u00e9gium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8412154,
+                    46.8368643
+                ]
+            },
+            "properties": {
+                "name": "P\u00e1l\u00f3czi Horv\u00e1th \u00c1d\u00e1m Alapfok\u00fa M\u0171v\u00e9szetoktat\u00e1si Int\u00e9zm\u00e9ny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6251111,
+                    47.5562646
+                ]
+            },
+            "properties": {
+                "name": "Aspir\u00e1ti\u00f3s Chitol\u00f3gia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.627289,
+                    47.5569672
+                ]
+            },
+            "properties": {
+                "name": "Belgy\u00f3gy\u00e1szat \"A\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6273532,
+                    47.5575677
+                ]
+            },
+            "properties": {
+                "name": "Belgy\u00f3gy\u00e1szat \"B\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6258018,
+                    47.5581726
+                ]
+            },
+            "properties": {
+                "name": "Fogorvostudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6260965,
+                    47.557599
+                ]
+            },
+            "properties": {
+                "name": "F\u00fcl-Orr-G\u00e9g\u00e9szeti \u00e9s Fej-Nyakseb\u00e9szeti Klinika, Sz\u00e1jseb\u00e9szet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6291537,
+                    47.5581839
+                ]
+            },
+            "properties": {
+                "name": "Gamma Sug\u00e1rseb\u00e9szeti K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6276417,
+                    47.5586193
+                ]
+            },
+            "properties": {
+                "name": "Gyermekklinika I."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6270374,
+                    47.5586205
+                ]
+            },
+            "properties": {
+                "name": "Gyermekklinika IV."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6260836,
+                    47.5567336
+                ]
+            },
+            "properties": {
+                "name": "In Vitro Diagnosztikai T\u00f6mb4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6273371,
+                    47.5589226
+                ]
+            },
+            "properties": {
+                "name": "Infektol\u00f3giai \u00e9s Gyermekimmunol\u00f3giai Tansz\u00e9kek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6244036,
+                    47.5557612
+                ]
+            },
+            "properties": {
+                "name": "K\u00f3rh\u00e1zhigi\u00e9n\u00e9s \u00e9s Infekci\u00f3kontroll Tansz\u00e9k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6243263,
+                    47.5575987
+                ]
+            },
+            "properties": {
+                "name": "Onkol\u00f3giai Tansz\u00e9k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6293527,
+                    47.5576584
+                ]
+            },
+            "properties": {
+                "name": "Ortop\u00e9diai Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6296441,
+                    47.5580899
+                ]
+            },
+            "properties": {
+                "name": "Radiol\u00f3giai Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.629436,
+                    47.5569689
+                ]
+            },
+            "properties": {
+                "name": "Reumatol\u00f3gia, Rehabilit\u00e1ci\u00f3s Tansz\u00e9kek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6252208,
+                    47.5575781
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00fcl\u00e9szeti-N\u0151gy\u00f3gy\u00e1szati Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6272178,
+                    47.5581277
+                ]
+            },
+            "properties": {
+                "name": "Urol\u00f3giai Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6294314,
+                    47.5587362
+                ]
+            },
+            "properties": {
+                "name": "Gyermekgy\u00f3gy\u00e1szati Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6244943,
+                    47.5561945
+                ]
+            },
+            "properties": {
+                "name": "Orvosi Laborat\u00f3riumi \u00e9s K\u00e9palkot\u00f3 Diagnosztikai Tansz\u00e9k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6722366,
+                    47.5311092
+                ]
+            },
+            "properties": {
+                "name": "DE- V\u00e1mosp\u00e9rcsi \u00fati Koll\u00e9gium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6396109,
+                    47.6915343
+                ]
+            },
+            "properties": {
+                "name": "Ap\u00e1cai Csere J\u00e1nos Kar, III. sz. okt\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2369879,
+                    46.0741924
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9csi Tudom\u00e1nyegyetem KTK-\u00c1JK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3622828,
+                    47.5936294
+                ]
+            },
+            "properties": {
+                "name": "Szent Istv\u00e1n Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.611723,
+                    47.229687
+                ]
+            },
+            "properties": {
+                "name": "Nyugat-Magyarorsz\u00e1gi Egyetem Savaria Egyetemi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6059113,
+                    47.2273804
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9csi Tudom\u00e1nyegyetem Eg\u00e9szs\u00e9gtudom\u00e1nyi Kar Szombathelyi K\u00e9pz\u00e9si K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2125409,
+                    46.0801626
+                ]
+            },
+            "properties": {
+                "name": "PTE M\u0171szaki \u00e9s Informatikai Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9851612,
+                    46.4535653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0392338,
+                    47.4812455
+                ]
+            },
+            "properties": {
+                "name": "Szent Istv\u00e1n Egyetem, Budai Campus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7896309,
+                    46.3581665
+                ]
+            },
+            "properties": {
+                "name": "Kaposv\u00e1ri Egyetem M\u0171v\u00e9szeti Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6412574,
+                    47.5370178
+                ]
+            },
+            "properties": {
+                "name": "\u00d3temet\u0151 utcai Campus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6038732,
+                    47.5517831
+                ]
+            },
+            "properties": {
+                "name": "Agr\u00e1rtudom\u00e1nyi Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0777172,
+                    47.4905707
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem TB. \u00e9s Koll\u00e9gium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0604157,
+                    47.4905526
+                ]
+            },
+            "properties": {
+                "name": "E\u00f6tv\u00f6s Lor\u00e1nd Tudom\u00e1nyegyetem \u00c1llam- \u00e9s Jogtudom\u00e1nyi Kar \"B\" \u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0659463,
+                    47.490009
+                ]
+            },
+            "properties": {
+                "name": "P\u00e1zm\u00e1ny P\u00e9ter Katolikus Egyetem, B\u00f6lcs\u00e9szet- \u00e9s T\u00e1rsadalomtudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0650981,
+                    47.4898475
+                ]
+            },
+            "properties": {
+                "name": "K\u00e1roli G\u00e1sp\u00e1r Reform\u00e1tus Egyetem B\u00f6lcs\u00e9szettudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0771948,
+                    47.5039572
+                ]
+            },
+            "properties": {
+                "name": "Szent Istv\u00e1n Egyetem \u00c1llatorvos-tudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0731579,
+                    47.4816912
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem Nyelvi Kommunik\u00e1ci\u00f3s K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9900632,
+                    47.517206
+                ]
+            },
+            "properties": {
+                "name": "Moholy-Nagy M\u0171v\u00e9szeti Egyetem, Campus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0589351,
+                    47.4900389
+                ]
+            },
+            "properties": {
+                "name": "E\u00f6tv\u00f6s Lor\u00e1nd Tudom\u00e1nyegyetem Rektori Hivatal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6067198,
+                    47.5508396
+                ]
+            },
+            "properties": {
+                "name": "F\u00e9nyh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.607197,
+                    47.5508404
+                ]
+            },
+            "properties": {
+                "name": "Magh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6084124,
+                    47.5525697
+                ]
+            },
+            "properties": {
+                "name": "Gazdas\u00e1gtudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.140104,
+                    46.2477119
+                ]
+            },
+            "properties": {
+                "name": "SZTE Pet\u0151fi \u00c9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0666534,
+                    47.4896092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.064163,
+                    47.4921155
+                ]
+            },
+            "properties": {
+                "name": "Andr\u00e1ssy Universit\u00e4t Budapest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.066154,
+                    47.4916813
+                ]
+            },
+            "properties": {
+                "name": "P\u00e1zm\u00e1ny P\u00e9ter Katolikus Egyetem, Jog- \u00e9s \u00c1llamtudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0658894,
+                    47.4934432
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem Eg\u00e9szs\u00e9gtudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0664262,
+                    47.4951427
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00ednh\u00e1z- \u00e9s Filmm\u0171v\u00e9szeti Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0651363,
+                    47.4951278
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00ednh\u00e1z- \u00e9s Filmm\u0171v\u00e9szeti Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0701944,
+                    47.4935853
+                ]
+            },
+            "properties": {
+                "name": "Orsz\u00e1gos Rabbik\u00e9pz\u0151 \u2013 Zsid\u00f3 Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6894254,
+                    46.9191005
+                ]
+            },
+            "properties": {
+                "name": "Neumann J\u00e1nos Egyetem Kert\u00e9szeti \u00e9s Vid\u00e9kfejleszt\u00e9si Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.050156,
+                    47.5008753
+                ]
+            },
+            "properties": {
+                "name": "Central European University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1331536,
+                    47.7739787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1116626,
+                    47.4941056
+                ]
+            },
+            "properties": {
+                "name": "Zr\u00ednyi Mikl\u00f3s Laktanya \u00e9s Egyetemi Campus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1017472,
+                    47.558636
+                ]
+            },
+            "properties": {
+                "name": "K\u00e1roli G\u00e1sp\u00e1r Reform\u00e1tus Egyetem \u00c1llam- \u00e9s Jogtudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0685377,
+                    47.5064597
+                ]
+            },
+            "properties": {
+                "name": "ELTE PPK Pedag\u00f3giai \u00e9s Pszichol\u00f3giai Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0582403,
+                    47.4902953
+                ]
+            },
+            "properties": {
+                "name": "E\u00f6tv\u00f6s Lor\u00e1nd Tudom\u00e1nyegyetem \u00c1llam- \u00e9s Jogtudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8279633,
+                    46.3853388
+                ]
+            },
+            "properties": {
+                "name": "Kaposv\u00e1ri Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9323679,
+                    46.9599207
+                ]
+            },
+            "properties": {
+                "name": "Duna\u00fajv\u00e1rosi F\u0151iskola oktat\u00e1si \u00e9p\u00fcletek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.127449,
+                    47.680261
+                ]
+            },
+            "properties": {
+                "name": "Budapesti M\u0171szaki \u00e9s Gazdas\u00e1gtudom\u00e1nyi Egyetem G\u00f6di M\u00e9r\u0151telepe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6207593,
+                    47.5509834
+                ]
+            },
+            "properties": {
+                "name": "Debreceni Egyetem DExam Vizsgak\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1655876,
+                    46.2503589
+                ]
+            },
+            "properties": {
+                "name": "SZTE Eg\u00e9szs\u00e9gtudom\u00e1nyi \u00e9s Szoci\u00e1lis K\u00e9pz\u00e9si Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1624016,
+                    46.2620021
+                ]
+            },
+            "properties": {
+                "name": "SZTE Juh\u00e1sz Gyula Pedag\u00f3gusk\u00e9pz\u0151 Kara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1575319,
+                    46.2364095
+                ]
+            },
+            "properties": {
+                "name": "Csillagvizsg\u00e1l\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6942416,
+                    46.9133716
+                ]
+            },
+            "properties": {
+                "name": "Neumann J\u00e1nos Egyetem Pedag\u00f3gusk\u00e9pz\u0151 Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1513467,
+                    46.262071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7398023,
+                    47.7982537
+                ]
+            },
+            "properties": {
+                "name": "P\u00e1zm\u00e1ny P\u00e9ter Katolikus Egyetem BTK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6072939,
+                    47.5490312
+                ]
+            },
+            "properties": {
+                "name": "D \u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6272326,
+                    47.6941656
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00e9chenyi Istv\u00e1n Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8506411,
+                    47.6299978
+                ]
+            },
+            "properties": {
+                "name": "Stephaneum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.765095,
+                    48.0825366
+                ]
+            },
+            "properties": {
+                "name": "III. el\u0151ad\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7652522,
+                    48.0824579
+                ]
+            },
+            "properties": {
+                "name": "Terasz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.415188,
+                    46.8644032
+                ]
+            },
+            "properties": {
+                "name": "MTA \u00d6kol\u00f3giai \u00e9s Botanikai Kutat\u00f3int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1515964,
+                    46.2619554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0333068,
+                    47.538377
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem - Testnevel\u00e9s \u00e9s Sport Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2946413,
+                    48.2172202
+                ]
+            },
+            "properties": {
+                "name": "Nemzeti K\u00f6zszolg\u00e1lati Egyetem \u00d3zdi Kihelyezett Tagozata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1312714,
+                    47.7750656
+                ]
+            },
+            "properties": {
+                "name": "Apor Vilmos Katolikus F\u0151iskola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0646238,
+                    47.5033438
+                ]
+            },
+            "properties": {
+                "name": "Liszt Ferenc Zenem\u0171v\u00e9szeti Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1453491,
+                    46.2521412
+                ]
+            },
+            "properties": {
+                "name": "SZTE \u00c1llam- \u00e9s Jogtudom\u00e1nyi Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1398008,
+                    46.2585884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0190587,
+                    47.4917709
+                ]
+            },
+            "properties": {
+                "name": "ELTE Tanit\u00f3- \u00e9s \u00d3v\u00f3k\u00e9pz\u0151 kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9089161,
+                    47.0883306
+                ]
+            },
+            "properties": {
+                "name": "Pannon Egyetem (als\u00f3 kampusz)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9021038,
+                    47.0862378
+                ]
+            },
+            "properties": {
+                "name": "Pannon Egyetem (fels\u0151 kampusz)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.071887,
+                    47.4961615
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem - B\u00e1nki Don\u00e1t G\u00e9p\u00e9sz \u00e9s Biztons\u00e1gtechnikai M\u00e9rn\u00f6ki Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0858128,
+                    47.4818812
+                ]
+            },
+            "properties": {
+                "name": "Nemzeti K\u00f6zszolg\u00e1lati Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.23819,
+                    46.7489039
+                ]
+            },
+            "properties": {
+                "name": "Pannon Egyetem - Georgikon Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0611771,
+                    47.4850241
+                ]
+            },
+            "properties": {
+                "name": "Corvinus \u00daj \u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9858477,
+                    46.4527306
+                ]
+            },
+            "properties": {
+                "name": "Pannon Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0601687,
+                    47.4741628
+                ]
+            },
+            "properties": {
+                "name": "MTA TTK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.640348,
+                    47.5434584
+                ]
+            },
+            "properties": {
+                "name": "Kassai Campus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0673219,
+                    47.5071815
+                ]
+            },
+            "properties": {
+                "name": "Magyar K\u00e9pz\u0151m\u0171v\u00e9szeti Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6215682,
+                    47.5539658
+                ]
+            },
+            "properties": {
+                "name": "F\u0151\u00e9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2401928,
+                    46.7508476
+                ]
+            },
+            "properties": {
+                "name": "Pethe Ferenc Koll\u00e9gium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.624044,
+                    47.5334783
+                ]
+            },
+            "properties": {
+                "name": "Debreceni Reform\u00e1tus Koll\u00e9gium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0573262,
+                    47.477744
+                ]
+            },
+            "properties": {
+                "name": "Budapesti M\u0171szaki \u00e9s Gazdas\u00e1gtudom\u00e1nyi Egyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4192196,
+                    47.1888437
+                ]
+            },
+            "properties": {
+                "name": "\u00d3budai Egyetem Alba Regia M\u0171szaki Kar Geoinformatikai Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6688971,
+                    46.8945755
+                ]
+            },
+            "properties": {
+                "name": "Neumann J\u00e1nos Egyetem GAMF M\u0171szaki \u00e9s Informatikai Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1409651,
+                    46.2474979
+                ]
+            },
+            "properties": {
+                "name": "SZTE BTK \u00c9p\u00fclet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1433613,
+                    46.2479654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1391189,
+                    46.2354124
+                ]
+            },
+            "properties": {
+                "name": "SZTE JGYPK Hattyas sor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1463634,
+                    46.2461232
+                ]
+            },
+            "properties": {
+                "name": "Juh\u00e1sz Gyula Tan\u00e1rk\u00e9pz\u0151 F\u0151iskolai Kar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1513358,
+                    46.2619035
+                ]
+            },
+            "properties": {
+                "name": "SZTE JGYPK Rajz-M\u0171v\u00e9szett\u00f6rt\u00e9net Tansz\u00e9k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8482008,
+                    47.6312489
+                ]
+            },
+            "properties": {
+                "name": "P\u00e1zm\u00e1ny P\u00e9ter Katolikus Egyetem, B\u00f6lcs\u00e9szettudom\u00e1nyi kar"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

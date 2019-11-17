@@ -1,0 +1,561 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1776937,
+                    46.3474972
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga Radovljica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8702901,
+                    45.7061117
+                ]
+            },
+            "properties": {
+                "name": "Papirnica, knjigarna Patri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4853115,
+                    46.0733761
+                ]
+            },
+            "properties": {
+                "name": "DZS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5026979,
+                    46.0511923
+                ]
+            },
+            "properties": {
+                "name": "Knjigarna Konzorcij"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9958327,
+                    46.1323912
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga, Knjigarna in papirnica Zagorje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6744403,
+                    46.4535132
+                ]
+            },
+            "properties": {
+                "name": "trafika in papirnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7265323,
+                    45.5464528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5736619,
+                    46.3930596
+                ]
+            },
+            "properties": {
+                "name": "Papirnica - knjigarna DZS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6467176,
+                    46.5591613
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6459703,
+                    46.5595951
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8729819,
+                    46.4201497
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1649958,
+                    46.6629336
+                ]
+            },
+            "properties": {
+                "name": "Papirnica in knjigarna Sani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1098187,
+                    46.3670582
+                ]
+            },
+            "properties": {
+                "name": "Knjigarna in Papirnica Bled"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4522643,
+                    46.5616564
+                ]
+            },
+            "properties": {
+                "name": "Office & More"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1971089,
+                    46.5177353
+                ]
+            },
+            "properties": {
+                "name": "Knjigarna in papirnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5065916,
+                    46.0499876
+                ]
+            },
+            "properties": {
+                "name": "Trubarjev antikvariat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5078364,
+                    46.0521802
+                ]
+            },
+            "properties": {
+                "name": "Cunjak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6429807,
+                    46.5520133
+                ]
+            },
+            "properties": {
+                "name": "Bukvarna Cipro\u0161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5032398,
+                    46.0508507
+                ]
+            },
+            "properties": {
+                "name": "Geonavtik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.506862,
+                    46.0497691
+                ]
+            },
+            "properties": {
+                "name": "Striparna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.196469,
+                    46.5179007
+                ]
+            },
+            "properties": {
+                "name": "DZS Knjigarna in papirnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4133042,
+                    46.137846
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6024863,
+                    45.5052806
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5036934,
+                    46.0531531
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6463216,
+                    46.5575351
+                ]
+            },
+            "properties": {
+                "name": "DZS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6523802,
+                    46.5538767
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5065267,
+                    46.0462736
+                ]
+            },
+            "properties": {
+                "name": "Galerija Fotografija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1768607,
+                    46.668836
+                ]
+            },
+            "properties": {
+                "name": "Biro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5096186,
+                    46.0525193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5045382,
+                    46.047662
+                ]
+            },
+            "properties": {
+                "name": "Beletrina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5063034,
+                    46.0473569
+                ]
+            },
+            "properties": {
+                "name": "Antikariat Cunjak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0435648,
+                    46.150798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4765639,
+                    46.0387801
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2119763,
+                    45.7748492
+                ]
+            },
+            "properties": {
+                "name": "Dru\u017eina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6422272,
+                    46.5580838
+                ]
+            },
+            "properties": {
+                "name": "Bukvarna - knji\u017eni Antikvariat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6477499,
+                    46.5590374
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6466126,
+                    46.5570897
+                ]
+            },
+            "properties": {
+                "name": "Dru\u0161tvo Pisana beseda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6448773,
+                    46.5581807
+                ]
+            },
+            "properties": {
+                "name": "Bukvarna Cipro\u0161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6456551,
+                    46.559124
+                ]
+            },
+            "properties": {
+                "name": "Slom\u0161kova knjigarna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5109077,
+                    46.0509958
+                ]
+            },
+            "properties": {
+                "name": "Center Oxford"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3644081,
+                    45.9195228
+                ]
+            },
+            "properties": {
+                "name": "Kocka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7297994,
+                    45.5456127
+                ]
+            },
+            "properties": {
+                "name": "Libris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6548164,
+                    45.954269
+                ]
+            },
+            "properties": {
+                "name": "Mladinska knjiga"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

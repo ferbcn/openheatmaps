@@ -1,0 +1,4285 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4068273,
+                    51.2135473
+                ]
+            },
+            "properties": {
+                "name": "Sint-Elisabeth Ziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4106863,
+                    51.1575056
+                ]
+            },
+            "properties": {
+                "name": "Universitair Ziekenhuis Antwerpen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4098225,
+                    51.201892
+                ]
+            },
+            "properties": {
+                "name": "AZ Monica Antwerpen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3715704,
+                    51.1062057
+                ]
+            },
+            "properties": {
+                "name": "Algemeen Ziekenhuis Heilige Familie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5516832,
+                    51.3298498
+                ]
+            },
+            "properties": {
+                "name": "Medisch centrum Nottebohm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3424961,
+                    50.8162113
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Moli\u00e8re Longchamp - Ziekenhuis Moli\u00e8re Longchamp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7494279,
+                    50.7929865
+                ]
+            },
+            "properties": {
+                "name": "RVT Sint-Franciscus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3694711,
+                    50.8560423
+                ]
+            },
+            "properties": {
+                "name": "Clinique Saint-Jean (M\u00e9ridien) - Kliniek St.-Jan (Middaglijn)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5518142,
+                    50.8904204
+                ]
+            },
+            "properties": {
+                "name": "Universitair Centrum Sint Jozef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9040908,
+                    50.3543214
+                ]
+            },
+            "properties": {
+                "name": "M\u00e9dimeuse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3448201,
+                    50.8053161
+                ]
+            },
+            "properties": {
+                "name": "Clinique La Ram\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0288885,
+                    50.6285938
+                ]
+            },
+            "properties": {
+                "name": "Sankt Nikolaus Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2108637,
+                    50.9185774
+                ]
+            },
+            "properties": {
+                "name": "Sint Jozefskliniek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8489519,
+                    50.9927897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3288842,
+                    50.8885403
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Universitaire des Enfants Reine Fabiola - Universitair Kinderziekenhuis Koninging Fabiola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3089256,
+                    50.8872628
+                ]
+            },
+            "properties": {
+                "name": "Universitair Ziekenhuis Brussel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1139403,
+                    51.1872597
+                ]
+            },
+            "properties": {
+                "name": "H. Hartziekenhuis Mol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4785733,
+                    50.4043497
+                ]
+            },
+            "properties": {
+                "name": "GHdC (Clinique Reine Fabiola)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3655812,
+                    50.7874595
+                ]
+            },
+            "properties": {
+                "name": "Centre de psychiatrie Parh\u00e9lie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8070541,
+                    51.1885128
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrisch Ziekenhuis Sint-Jan-Baptist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.358253,
+                    51.0542878
+                ]
+            },
+            "properties": {
+                "name": "Sint-Jozefklinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4809312,
+                    50.418729
+                ]
+            },
+            "properties": {
+                "name": "GHdC (Saint-Joseph)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8169872,
+                    50.8642948
+                ]
+            },
+            "properties": {
+                "name": "Algemeen Ziekenhuis Sint-Elisabeth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8602867,
+                    50.5822645
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier Peltzer-La Tourelle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4889705,
+                    50.8367625
+                ]
+            },
+            "properties": {
+                "name": "Medisch Centrum Huisartsen Druivenstreek (MCH)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3233056,
+                    50.9053309
+                ]
+            },
+            "properties": {
+                "name": "Federatie Palliatieve Zorg Vlaanderen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.59187,
+                    50.6795523
+                ]
+            },
+            "properties": {
+                "name": "Centre neurologique William Lennox"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8629573,
+                    50.5779418
+                ]
+            },
+            "properties": {
+                "name": "Clinique Sainte-Elisabeth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7485819,
+                    50.5374609
+                ]
+            },
+            "properties": {
+                "name": "Hospitalite N.D."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0028379,
+                    50.9041764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.195847,
+                    50.9095901
+                ]
+            },
+            "properties": {
+                "name": "OLV Ziekenhuis - Campus Asse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8725023,
+                    51.1520269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6054508,
+                    51.154443
+                ]
+            },
+            "properties": {
+                "name": "Humival"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4487903,
+                    50.9193186
+                ]
+            },
+            "properties": {
+                "name": "Beaucare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0005797,
+                    51.1597273
+                ]
+            },
+            "properties": {
+                "name": "St-Dimpna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0009383,
+                    51.1013477
+                ]
+            },
+            "properties": {
+                "name": "AZL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2507528,
+                    51.210124
+                ]
+            },
+            "properties": {
+                "name": "AZ Sint-Anna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3334126,
+                    50.878477
+                ]
+            },
+            "properties": {
+                "name": "Centre m\u00e9dical de Jette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3438955,
+                    50.8483624
+                ]
+            },
+            "properties": {
+                "name": "Polyclinique des Chartreux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7231158,
+                    50.0130359
+                ]
+            },
+            "properties": {
+                "name": "param\u00e9dical"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5407326,
+                    50.5921434
+                ]
+            },
+            "properties": {
+                "name": "Croix Rouge de Belgique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1390802,
+                    51.0930313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8943056,
+                    51.0318597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2847724,
+                    50.5393199
+                ]
+            },
+            "properties": {
+                "name": "Dentiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2851586,
+                    50.5406802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3406944,
+                    50.6992784
+                ]
+            },
+            "properties": {
+                "name": "Dr.Deleu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2796071,
+                    50.1668406
+                ]
+            },
+            "properties": {
+                "name": "Aniset Stephane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2878653,
+                    50.1733662
+                ]
+            },
+            "properties": {
+                "name": "Dr Defauw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.717986,
+                    50.8203646
+                ]
+            },
+            "properties": {
+                "name": "Rusthuis Sint Ursmarus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8439014,
+                    50.8817562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9217519,
+                    50.2807059
+                ]
+            },
+            "properties": {
+                "name": "Saint-Gengoux (Polyclinique & MRS)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5355567,
+                    51.0765599
+                ]
+            },
+            "properties": {
+                "name": "Dr. Binge Luk - Servaas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.191807,
+                    50.2504048
+                ]
+            },
+            "properties": {
+                "name": "Dr Bronckart Frank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2017683,
+                    50.2518197
+                ]
+            },
+            "properties": {
+                "name": "Dr Thirion Marc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4853902,
+                    50.3765341
+                ]
+            },
+            "properties": {
+                "name": "GHdC (IMTR)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5185732,
+                    50.4005854
+                ]
+            },
+            "properties": {
+                "name": "Clinique L\u00e9on Neuens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.723453,
+                    50.8840148
+                ]
+            },
+            "properties": {
+                "name": "Oogartsenpraktijk Dr. A. Gillis - Dr. S. Verstraeten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3531122,
+                    51.184204
+                ]
+            },
+            "properties": {
+                "name": "ZNA  Hoge Beuken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5472048,
+                    50.1962718
+                ]
+            },
+            "properties": {
+                "name": "Dr Laflotte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7559094,
+                    51.0428686
+                ]
+            },
+            "properties": {
+                "name": "Huisartsen Wachtpost Gentbrugge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7877875,
+                    50.2849753
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital psychiatrique l'Accueil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3696281,
+                    50.8317327
+                ]
+            },
+            "properties": {
+                "name": "Clinique Sanatia (MSP) - Kliniek Sanatia (PVT)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3698069,
+                    50.8558185
+                ]
+            },
+            "properties": {
+                "name": "Clinique Sanatia (service A) - Kliniek Sanatia (Dienst A)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1937935,
+                    50.248676
+                ]
+            },
+            "properties": {
+                "name": "Cabinet V\u00e9t\u00e9rinaires"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3472069,
+                    50.8333505
+                ]
+            },
+            "properties": {
+                "name": "Institut Jules Bordet - Jules Bordet Instituut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6603973,
+                    51.0712446
+                ]
+            },
+            "properties": {
+                "name": "Wachtpost Huisartsenkring IJzerstreek en Wachtpost"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0212346,
+                    50.8367842
+                ]
+            },
+            "properties": {
+                "name": "OLV Ziekenhuis Campus Ninove"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7183101,
+                    50.880809
+                ]
+            },
+            "properties": {
+                "name": "Groepspraktijk Leuven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1883199,
+                    51.1588414
+                ]
+            },
+            "properties": {
+                "name": "ThuisverplegingLoppem.be Anoek AMPE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6986005,
+                    50.8827276
+                ]
+            },
+            "properties": {
+                "name": "Psychosociaal Centrum Leuven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6714417,
+                    50.876406
+                ]
+            },
+            "properties": {
+                "name": "Spoed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5787506,
+                    50.5669816
+                ]
+            },
+            "properties": {
+                "name": "Docteur Amelie Collard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3176379,
+                    50.8694057
+                ]
+            },
+            "properties": {
+                "name": "Clinique de la Basilique - Basiliek Ziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.31676,
+                    50.882416
+                ]
+            },
+            "properties": {
+                "name": "Clinique Sans Souci - Kliniek Sans Souci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3527061,
+                    50.857195
+                ]
+            },
+            "properties": {
+                "name": "Polyclinique du Lothier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6128653,
+                    50.6956063
+                ]
+            },
+            "properties": {
+                "name": "Clinique du Bois de la Pierre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0254255,
+                    51.0668419
+                ]
+            },
+            "properties": {
+                "name": "AZ Sint-Blasius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5550108,
+                    51.3593685
+                ]
+            },
+            "properties": {
+                "name": "Coda Hospice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.732016,
+                    51.0338158
+                ]
+            },
+            "properties": {
+                "name": "Dr. Guislain - campus Sint-Alfons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7025712,
+                    50.8825965
+                ]
+            },
+            "properties": {
+                "name": "Universitair Gezondheidscentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1341386,
+                    51.1633097
+                ]
+            },
+            "properties": {
+                "name": "P.C. Sint-Hi\u00ebronymus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2184335,
+                    51.0624645
+                ]
+            },
+            "properties": {
+                "name": "Medisch Centrum Beringen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6809991,
+                    50.7343359
+                ]
+            },
+            "properties": {
+                "name": "Cabinet Dentaire Melin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2635684,
+                    50.8134493
+                ]
+            },
+            "properties": {
+                "name": "\u00c9rasme \u2014 H\u00f4pital de jour - Erasmus \u2014 Dag ziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2643956,
+                    50.8131741
+                ]
+            },
+            "properties": {
+                "name": "Entr\u00e9e urgences - Ingang spoedgevallen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3262905,
+                    50.5979745
+                ]
+            },
+            "properties": {
+                "name": "Polyclinique de Nivelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0599349,
+                    50.98766
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrisch ziekenhuis Sint-Annendael"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4787131,
+                    50.9183938
+                ]
+            },
+            "properties": {
+                "name": "National MS Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7989433,
+                    50.1388805
+                ]
+            },
+            "properties": {
+                "name": "Cabinet m\u00e9decine g\u00e9n\u00e9rale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4211592,
+                    51.1816652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4348398,
+                    51.2233691
+                ]
+            },
+            "properties": {
+                "name": "ZNA Stuivenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4126018,
+                    51.2059062
+                ]
+            },
+            "properties": {
+                "name": "Sint-Vincentius (GZA)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4464159,
+                    51.2076342
+                ]
+            },
+            "properties": {
+                "name": "ZNA Sint-Erasmus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3474914,
+                    50.8346911
+                ]
+            },
+            "properties": {
+                "name": "CHU Saint-Pierre - UMC Sint-Pieter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7273897,
+                    51.0234253
+                ]
+            },
+            "properties": {
+                "name": "Universitair Ziekenhuis Gent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3428417,
+                    50.9111068
+                ]
+            },
+            "properties": {
+                "name": "Jessa Ziekenhuis, campus Salvator"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4936102,
+                    50.581051
+                ]
+            },
+            "properties": {
+                "name": "Centre hospitalier du Bois de l'Abbaye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3314443,
+                    50.8876003
+                ]
+            },
+            "properties": {
+                "name": "CHU Brugmann - UVC Brugmann"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4832431,
+                    50.7892669
+                ]
+            },
+            "properties": {
+                "name": "Vesalius Ziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8202299,
+                    49.6781252
+                ]
+            },
+            "properties": {
+                "name": "Clinique Saint-Joseph"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1961325,
+                    50.9099263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3421818,
+                    50.9260467
+                ]
+            },
+            "properties": {
+                "name": "Jessa ziekenhuis, campus Virga Jesse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3814464,
+                    50.8387062
+                ]
+            },
+            "properties": {
+                "name": "Clinique du Parc L\u00e9opold - Kliniek Park Leopold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6664958,
+                    50.9313172
+                ]
+            },
+            "properties": {
+                "name": "Openbaar Psychiatrisch Zorgcentrum Rekem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3687469,
+                    50.8054522
+                ]
+            },
+            "properties": {
+                "name": "Clinique Sainte-\u00c9lisabeth - Sint-Elisabeth Ziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.293468,
+                    50.8338884
+                ]
+            },
+            "properties": {
+                "name": "Joseph Bracops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.316865,
+                    50.8453846
+                ]
+            },
+            "properties": {
+                "name": "Clinique Sainte-Anne Saint-Remi - Sint-Anna Sint-Remi Kliniek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3933532,
+                    50.9073748
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Militaire Reine Astrid - Militair Hospitaal Koningin Astrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3174201,
+                    50.5949208
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier Tubize-Nivelles site de Nivelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3786345,
+                    50.8247533
+                ]
+            },
+            "properties": {
+                "name": "Centre hospitalier Etterbeek-Ixelles - Ziekenhuizencentrum Etterbeek-Elsene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.551216,
+                    50.8909904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5556265,
+                    50.6478764
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Saint-Joseph"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2080495,
+                    50.4779819
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier Universitaire Tivoli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3861959,
+                    50.8703903
+                ]
+            },
+            "properties": {
+                "name": "Centre hospitalier Paul Brien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.534365,
+                    50.6408934
+                ]
+            },
+            "properties": {
+                "name": "Clinique de l'Esp\u00e9rance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4208101,
+                    51.182094
+                ]
+            },
+            "properties": {
+                "name": "ZNA Middelheim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4212669,
+                    51.1811101
+                ]
+            },
+            "properties": {
+                "name": "Koningin Paola Kinderziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2259704,
+                    50.7360166
+                ]
+            },
+            "properties": {
+                "name": "Sint-Maria Halle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3424508,
+                    50.8918437
+                ]
+            },
+            "properties": {
+                "name": "Centre de R\u00e9adaptation Heysel - Revalidatiecentrum Heizel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359124,
+                    50.9199976
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrisch Ziekenhuis Sint-Alexius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2032669,
+                    50.6928662
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier Tubize Nivelles - Site de Tubize"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4950766,
+                    51.0950311
+                ]
+            },
+            "properties": {
+                "name": "AZ Sint-Maarten campus Rooienberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4705001,
+                    51.2065674
+                ]
+            },
+            "properties": {
+                "name": "AZ Monica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5919526,
+                    50.6459462
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Jour Universitaire la Cl\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2318396,
+                    51.0999446
+                ]
+            },
+            "properties": {
+                "name": "Sint-Jozefkliniek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6995213,
+                    51.0495624
+                ]
+            },
+            "properties": {
+                "name": "AZ Jan Palfijn site Watersportbaan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7215495,
+                    51.0635349
+                ]
+            },
+            "properties": {
+                "name": "A.Z. Sint-Lucas campus Sint-Lucas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.704821,
+                    51.0676344
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrisch Centrum Dr. Guislain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7963674,
+                    51.0958016
+                ]
+            },
+            "properties": {
+                "name": "Ziekenhuis Maas en Kempen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6777135,
+                    51.0259045
+                ]
+            },
+            "properties": {
+                "name": "Sint-Camilus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6881935,
+                    50.7320051
+                ]
+            },
+            "properties": {
+                "name": "Clinique Notre-Dame"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3063814,
+                    50.8672751
+                ]
+            },
+            "properties": {
+                "name": "Centre hospitalier Valida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7009127,
+                    50.8723665
+                ]
+            },
+            "properties": {
+                "name": "Regionaal ziekenhuis Heilig Hart Leuven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1498655,
+                    51.1661314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1136174,
+                    51.0260583
+                ]
+            },
+            "properties": {
+                "name": "Algemeen Ziekenhuis Sint-Blasius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4387286,
+                    50.4309326
+                ]
+            },
+            "properties": {
+                "name": "CHU Charleroi - Marie Curie (Lodelinsart)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4172041,
+                    51.212064
+                ]
+            },
+            "properties": {
+                "name": "Mariaziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9141725,
+                    51.2227842
+                ]
+            },
+            "properties": {
+                "name": "AZ Sint-Jan Brugge-Oostende - Campus Hendrik Serruys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8001359,
+                    50.8614576
+                ]
+            },
+            "properties": {
+                "name": "UZ Pellenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8360259,
+                    51.1848502
+                ]
+            },
+            "properties": {
+                "name": "Sint Elisabeth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32296,
+                    51.0022972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6287184,
+                    50.8111323
+                ]
+            },
+            "properties": {
+                "name": "RVT Ter Meeren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4275072,
+                    50.4749007
+                ]
+            },
+            "properties": {
+                "name": "Clinique Notre-Dame de Gr\u00e2ce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8825405,
+                    50.3584291
+                ]
+            },
+            "properties": {
+                "name": "CHU Mont-Godinne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.822898,
+                    51.1956554
+                ]
+            },
+            "properties": {
+                "name": "AZ Sint-Lucas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8805379,
+                    50.4772477
+                ]
+            },
+            "properties": {
+                "name": "Clinique Saint-Luc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0292383,
+                    50.6284989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6373426,
+                    50.6224234
+                ]
+            },
+            "properties": {
+                "name": "C.H.U. Notre-dame des Bruy\u00e8res"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6362888,
+                    50.6225431
+                ]
+            },
+            "properties": {
+                "name": "C.H.U. Notre-dame des Bruy\u00e8res"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3232255,
+                    50.2277196
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Princesse Paola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5447928,
+                    51.307261
+                ]
+            },
+            "properties": {
+                "name": "De Mick"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4892519,
+                    51.2988211
+                ]
+            },
+            "properties": {
+                "name": "AZ Klina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8785183,
+                    50.4279756
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Neuro-Psychiatrique Saint-Martin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.018619,
+                    50.9350648
+                ]
+            },
+            "properties": {
+                "name": "Algemeen Stedelijk Ziekenhuis Aalst"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8402141,
+                    50.4697156
+                ]
+            },
+            "properties": {
+                "name": "Epicura Baudour"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0551363,
+                    50.9438615
+                ]
+            },
+            "properties": {
+                "name": "Onze-Lieve-Vrouwziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4026536,
+                    50.5931199
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier de Wallonie picarde - site IMC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.844615,
+                    50.46015
+                ]
+            },
+            "properties": {
+                "name": "Clinique et Maternit\u00e9 Sainte-Elisabeth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2402299,
+                    50.5143775
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier R\u00e9gional de Huy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7227231,
+                    50.012135
+                ]
+            },
+            "properties": {
+                "name": "Vivalia - Hopital Sainte-Therese"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8438444,
+                    50.8816876
+                ]
+            },
+            "properties": {
+                "name": "UZ Leuven - Campus Lubbeek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5560779,
+                    50.6303025
+                ]
+            },
+            "properties": {
+                "name": "Clinique Sainte-Rosalie (C.H.R. de la Citadelle)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.124728,
+                    51.3078091
+                ]
+            },
+            "properties": {
+                "name": "AZ Zeno campus Blankenberge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5893995,
+                    50.6328635
+                ]
+            },
+            "properties": {
+                "name": "Le Valdor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5705017,
+                    50.6492337
+                ]
+            },
+            "properties": {
+                "name": "Clinique de l'IPAL : Site du P\u00e9ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0279776,
+                    51.1323077
+                ]
+            },
+            "properties": {
+                "name": "WZC Sint-Anna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2203634,
+                    50.7484048
+                ]
+            },
+            "properties": {
+                "name": "CHM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2193689,
+                    50.7484814
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier de Mouscron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9336548,
+                    51.2186763
+                ]
+            },
+            "properties": {
+                "name": "AZ Damiaan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9633886,
+                    50.4572235
+                ]
+            },
+            "properties": {
+                "name": "CHU Ambroise Par\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7170749,
+                    51.1383479
+                ]
+            },
+            "properties": {
+                "name": "Ter Duinen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1205805,
+                    50.9393583
+                ]
+            },
+            "properties": {
+                "name": "AZ Delta campus Wilgenstraat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6378853,
+                    50.6723148
+                ]
+            },
+            "properties": {
+                "name": "Ch\u00e2teau Rouge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9209147,
+                    51.33489
+                ]
+            },
+            "properties": {
+                "name": "AZ Turnhout Campus Sint Jozef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2654676,
+                    50.8349575
+                ]
+            },
+            "properties": {
+                "name": "AZ Groeninghe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7009834,
+                    51.0260163
+                ]
+            },
+            "properties": {
+                "name": "AZ Maria Middelares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6403269,
+                    51.2870744
+                ]
+            },
+            "properties": {
+                "name": "WZR De Dennen vzw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9408394,
+                    50.8148535
+                ]
+            },
+            "properties": {
+                "name": "Campus Sint-Jan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7461886,
+                    50.8570665
+                ]
+            },
+            "properties": {
+                "name": "Jan Yperman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2596957,
+                    50.3460108
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Lobbes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9416813,
+                    51.3141098
+                ]
+            },
+            "properties": {
+                "name": "AZ Turnhout Campus Sint Elizabeth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8979533,
+                    51.0107232
+                ]
+            },
+            "properties": {
+                "name": "ASZ Wetteren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6332948,
+                    50.6747213
+                ]
+            },
+            "properties": {
+                "name": "Clinique Andr\u00e9 Renard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4322028,
+                    50.4857776
+                ]
+            },
+            "properties": {
+                "name": "Centre Neurologique et de R\u00e9adaptation Fonctionnelle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8307564,
+                    50.4361679
+                ]
+            },
+            "properties": {
+                "name": "Epicura Hornu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8060763,
+                    50.4177751
+                ]
+            },
+            "properties": {
+                "name": "CHR Mons-Hainaut Site Warquignies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5601639,
+                    50.6674672
+                ]
+            },
+            "properties": {
+                "name": "Clinique Saint-Pierre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.149469,
+                    51.1615778
+                ]
+            },
+            "properties": {
+                "name": "AZ Nikolaas (Moerland)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4182118,
+                    50.900089
+                ]
+            },
+            "properties": {
+                "name": "O.L.V. van Lourdes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8921028,
+                    50.4065204
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier Hornu - Frameries"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9763644,
+                    50.5034792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1233492,
+                    50.9537663
+                ]
+            },
+            "properties": {
+                "name": "AZ Delta campus Brugsesteenweg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8690119,
+                    50.8502421
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrisch Ziekenhuis Heilig Hart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8741949,
+                    51.2136626
+                ]
+            },
+            "properties": {
+                "name": "BZIO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0411574,
+                    50.542815
+                ]
+            },
+            "properties": {
+                "name": "Saint-Alfred (malades mentaux)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9596405,
+                    51.0180692
+                ]
+            },
+            "properties": {
+                "name": "Ziekenvervoer Levenskruis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4179783,
+                    50.9280655
+                ]
+            },
+            "properties": {
+                "name": "A.Z. Jan Portaels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0671321,
+                    50.5766468
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier de la Haute Senne - site Saint Vincent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9839334,
+                    50.4615374
+                ]
+            },
+            "properties": {
+                "name": "Ch\u00eane aux Haies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4512912,
+                    51.2589328
+                ]
+            },
+            "properties": {
+                "name": "ZNA Jan Palfijn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0269855,
+                    51.0663111
+                ]
+            },
+            "properties": {
+                "name": "Sint-Blasius Dagkliniek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1860285,
+                    50.8235189
+                ]
+            },
+            "properties": {
+                "name": "Regionaal Ziekenhuis St-Trudo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1842575,
+                    50.8235313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6958294,
+                    51.1403733
+                ]
+            },
+            "properties": {
+                "name": "Koningin Elisabeth Instituut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8871257,
+                    50.4675979
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier R\u00e9gional de Namur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.316876,
+                    50.5953222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2850487,
+                    50.5406909
+                ]
+            },
+            "properties": {
+                "name": "Croix-Rouge et agence ONE d'Ampsin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5325307,
+                    51.1909535
+                ]
+            },
+            "properties": {
+                "name": "AZ Alma- campus Ringlaan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6674302,
+                    51.1253667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2109583,
+                    51.1971701
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3866767,
+                    50.6133839
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier de Wallonie picarde - site Notre-Dame"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3853523,
+                    50.5996892
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier de Wallonie picarde - site Union"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7566752,
+                    51.042425
+                ]
+            },
+            "properties": {
+                "name": "AZ Maria Middelares campus Sint-Jozef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8776259,
+                    50.7705222
+                ]
+            },
+            "properties": {
+                "name": "ASZ Campus Geraardsbergen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2438068,
+                    50.6910475
+                ]
+            },
+            "properties": {
+                "name": "Clinique Notre-Dame"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7310837,
+                    50.3220942
+                ]
+            },
+            "properties": {
+                "name": "CMH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7218905,
+                    51.0603456
+                ]
+            },
+            "properties": {
+                "name": "A.Z. Sint-Lucas campus Volkskliniek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6027512,
+                    50.7555685
+                ]
+            },
+            "properties": {
+                "name": "AZ Glorieux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6276583,
+                    50.909574
+                ]
+            },
+            "properties": {
+                "name": "ZOL Ziekenhuis Oost Limburg Campus Sint-Barbara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8168451,
+                    50.8643873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4195909,
+                    50.9268112
+                ]
+            },
+            "properties": {
+                "name": "A.Z. Jan Portaels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4190508,
+                    50.9274446
+                ]
+            },
+            "properties": {
+                "name": "A.Z. Jan Portaels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7317909,
+                    50.7393204
+                ]
+            },
+            "properties": {
+                "name": "Maison de repos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.781616,
+                    50.8810442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6183388,
+                    50.6689117
+                ]
+            },
+            "properties": {
+                "name": "Maison de Repos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.549848,
+                    50.998225
+                ]
+            },
+            "properties": {
+                "name": "MPI Heilig Hart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5277807,
+                    50.9863919
+                ]
+            },
+            "properties": {
+                "name": "Sint Vincentius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6018387,
+                    50.8432879
+                ]
+            },
+            "properties": {
+                "name": "AZ Oudenaarde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2663377,
+                    49.8366422
+                ]
+            },
+            "properties": {
+                "name": "Vivalia Cup - H\u00f4pital psychiatrique La Clairi\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6963249,
+                    51.1400462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0804127,
+                    50.5813412
+                ]
+            },
+            "properties": {
+                "name": "Le Tilleriau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.453763,
+                    50.417566
+                ]
+            },
+            "properties": {
+                "name": "GHdC (Notre-Dame)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1760693,
+                    50.8124865
+                ]
+            },
+            "properties": {
+                "name": "Asster Psychiatrische ziekenhuis Campus Stad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1855034,
+                    50.8234719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2657337,
+                    50.8138121
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital \u00c9rasme - Erasmusziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4184936,
+                    51.174408
+                ]
+            },
+            "properties": {
+                "name": "Sint-Augustinus (GZA)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1625202,
+                    50.9389698
+                ]
+            },
+            "properties": {
+                "name": "Jessa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3434413,
+                    50.9107136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3152594,
+                    51.0468865
+                ]
+            },
+            "properties": {
+                "name": "Sint-Franciskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3995811,
+                    50.8428758
+                ]
+            },
+            "properties": {
+                "name": "Clinique Saint-Michel - Sint-Michiels Ziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2485833,
+                    51.1850377
+                ]
+            },
+            "properties": {
+                "name": "Sint-Lucas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9333821,
+                    50.8108722
+                ]
+            },
+            "properties": {
+                "name": "H. Hart Ziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9599496,
+                    50.4544948
+                ]
+            },
+            "properties": {
+                "name": "CHR Mons-Hainaut Site Saint-Joseph"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.940679,
+                    50.8147985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3501798,
+                    50.8540615
+                ]
+            },
+            "properties": {
+                "name": "Pacheco Instituut - Institut Pach\u00e9co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6022162,
+                    50.6610794
+                ]
+            },
+            "properties": {
+                "name": "Clairs Vallons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8349544,
+                    51.1841275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6940621,
+                    50.8790123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7230641,
+                    51.0632282
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrisch Ziekenhuis Sint-Jan de Deo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7208263,
+                    51.0766285
+                ]
+            },
+            "properties": {
+                "name": "Forensisch Psychiatrisch Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6447734,
+                    51.2746006
+                ]
+            },
+            "properties": {
+                "name": "AZ Sint-Jozef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1522999,
+                    51.1632316
+                ]
+            },
+            "properties": {
+                "name": "AZ Nikolaas (Meesterstraat)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2110462,
+                    50.9177579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3388984,
+                    50.6815105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6367651,
+                    50.6230733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7487602,
+                    50.5360359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7701351,
+                    50.8092397
+                ]
+            },
+            "properties": {
+                "name": "Medisch Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6687281,
+                    51.062219
+                ]
+            },
+            "properties": {
+                "name": "AZ West"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9806938,
+                    51.1527243
+                ]
+            },
+            "properties": {
+                "name": "OPZ Geel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0239137,
+                    50.4262721
+                ]
+            },
+            "properties": {
+                "name": "Clinique Reine Astrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1273549,
+                    50.2769615
+                ]
+            },
+            "properties": {
+                "name": "Klinik St Josef"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.955642,
+                    50.6726781
+                ]
+            },
+            "properties": {
+                "name": "Clinique Psychiatrique des Fr\u00e8res Alexiens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3168633,
+                    51.1143288
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrisch Centrum Sint-Amandus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6966915,
+                    50.886891
+                ]
+            },
+            "properties": {
+                "name": "Huisartsenpraktijk Deben - Thumas - De Bondt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3997617,
+                    50.8164659
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital Delta - Delta Ziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.970567,
+                    50.9679742
+                ]
+            },
+            "properties": {
+                "name": "Psychiatriscg Centrum Zoete Nood Gods"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5921542,
+                    50.6463916
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Jour Universitaire la Cl\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8821232,
+                    50.3586634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1954683,
+                    50.8383848
+                ]
+            },
+            "properties": {
+                "name": "Asster Psychiatrisch Ziekenhuis Campus Melveren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7880127,
+                    50.2872429
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier Sp\u00e9cialis\u00e9 l'Accueil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2229357,
+                    50.8034464
+                ]
+            },
+            "properties": {
+                "name": "Ziekenhuis Inkendaal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3599626,
+                    50.8539227
+                ]
+            },
+            "properties": {
+                "name": "Clinique Saint-Jean - Kliniek Sint-Jan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2923571,
+                    51.326905
+                ]
+            },
+            "properties": {
+                "name": "AZ Zeno campus Knokke-Heist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4766403,
+                    51.0199688
+                ]
+            },
+            "properties": {
+                "name": "Sint Maarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2487932,
+                    50.6918369
+                ]
+            },
+            "properties": {
+                "name": "Centre hospitalier Joseph Wauters"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7683645,
+                    51.1019004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5778416,
+                    50.532282
+                ]
+            },
+            "properties": {
+                "name": "CHU Esneux Polyclinique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5762511,
+                    50.5321359
+                ]
+            },
+            "properties": {
+                "name": "CHU Esneux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1224217,
+                    50.7929014
+                ]
+            },
+            "properties": {
+                "name": "AZ Delta Menen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.261207,
+                    50.8303941
+                ]
+            },
+            "properties": {
+                "name": "az groeninge - campus reepkaai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5183522,
+                    50.9570999
+                ]
+            },
+            "properties": {
+                "name": "ZOL Campus Sint-Jan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5421157,
+                    50.6757927
+                ]
+            },
+            "properties": {
+                "name": "Centre Medical Mosan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3101888,
+                    50.044767
+                ]
+            },
+            "properties": {
+                "name": "Centre de sant\u00e9 des Fagnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9450597,
+                    50.2645719
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier de Dinant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2510617,
+                    51.2099078
+                ]
+            },
+            "properties": {
+                "name": "AZ Nikolaas Campus Beveren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0392932,
+                    51.0313559
+                ]
+            },
+            "properties": {
+                "name": "WZC Blijvelde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3678111,
+                    50.6846745
+                ]
+            },
+            "properties": {
+                "name": "Chirec - H\u00f4pital de Braine-Waterloo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3228893,
+                    51.0019917
+                ]
+            },
+            "properties": {
+                "name": "Sint-Andriesziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7766057,
+                    50.6346133
+                ]
+            },
+            "properties": {
+                "name": "Epicura Ath"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1247976,
+                    51.2234876
+                ]
+            },
+            "properties": {
+                "name": "AZ-Nikolaas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.45599,
+                    50.7189472
+                ]
+            },
+            "properties": {
+                "name": "MR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.577803,
+                    50.652085
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de la Citadelle (CHR)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1932539,
+                    51.2207623
+                ]
+            },
+            "properties": {
+                "name": "AZ Sint-Jan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2062587,
+                    50.4783972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2073583,
+                    50.477817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2150878,
+                    50.4773088
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de Jolimont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5261292,
+                    49.5527573
+                ]
+            },
+            "properties": {
+                "name": "Clinique Edmond-Jacques"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2248686,
+                    50.5010556
+                ]
+            },
+            "properties": {
+                "name": "Saint-Bernard (Psychiatrie)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3798369,
+                    49.925392
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier de l'Ardenne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8100556,
+                    49.6894346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8102531,
+                    49.6894118
+                ]
+            },
+            "properties": {
+                "name": "Maison M\u00e9dicale Porte Sud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4607463,
+                    51.1645355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8211492,
+                    49.678027
+                ]
+            },
+            "properties": {
+                "name": "Clinique Saint-Joseph"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8210105,
+                    49.6783943
+                ]
+            },
+            "properties": {
+                "name": "Clinique Saint-Joseph"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5586291,
+                    51.0174746
+                ]
+            },
+            "properties": {
+                "name": "Imelda Ziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8051828,
+                    51.0612268
+                ]
+            },
+            "properties": {
+                "name": "Rode Kruis Destelbergen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8051475,
+                    51.0613522
+                ]
+            },
+            "properties": {
+                "name": "Rode Kruis Destelbergen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7912846,
+                    50.4333919
+                ]
+            },
+            "properties": {
+                "name": "Maison de Repos / R\u00e9sidence Caraman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4081717,
+                    50.5509826
+                ]
+            },
+            "properties": {
+                "name": "Clinique des Houx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2256089,
+                    51.2127569
+                ]
+            },
+            "properties": {
+                "name": "Sint-Franciscus Xaverius-Ziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5500954,
+                    50.6859455
+                ]
+            },
+            "properties": {
+                "name": "Clinique Saint-Vincent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7649349,
+                    50.4007065
+                ]
+            },
+            "properties": {
+                "name": "MRS \"Bon Accueil\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7704912,
+                    50.3954771
+                ]
+            },
+            "properties": {
+                "name": "Home \"Le Bon Repos\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0206225,
+                    51.272912
+                ]
+            },
+            "properties": {
+                "name": "Zeepreventorium Medisch Pediatrisch Revalidatiecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0518136,
+                    50.9870116
+                ]
+            },
+            "properties": {
+                "name": "AZ Diest Campus Statiestraat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0521877,
+                    50.981029
+                ]
+            },
+            "properties": {
+                "name": "AZ Diest Campus Hasseltsestraat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6657013,
+                    50.3772607
+                ]
+            },
+            "properties": {
+                "name": "Le Roseau Vert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1390088,
+                    51.0929415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2214529,
+                    50.7484223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.486892,
+                    51.0297213
+                ]
+            },
+            "properties": {
+                "name": "Stedelijk Onze-Lieve-Vrouweziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1233492,
+                    50.9537663
+                ]
+            },
+            "properties": {
+                "name": "Stedelijk Ziekenhuis Roeselare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3677068,
+                    50.3601297
+                ]
+            },
+            "properties": {
+                "name": "Centre Hostpitalier Universitaire Andr\u00e9 V\u00e9sale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3665394,
+                    50.786534
+                ]
+            },
+            "properties": {
+                "name": "Clinique Fond'Roy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1142659,
+                    51.18746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7127317,
+                    51.0477566
+                ]
+            },
+            "properties": {
+                "name": "Ziekenhuis Toevlucht van Maria Middelares"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4807611,
+                    50.4084814
+                ]
+            },
+            "properties": {
+                "name": "GHdC (Sainte-Th\u00e9r\u00e8se)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3494582,
+                    50.8432866
+                ]
+            },
+            "properties": {
+                "name": "CHU Saint-Pierre (C\u00e9sar de Paepe) - UMC Sint-Pieter (C\u00e9sar de Paepe)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2648498,
+                    50.8017689
+                ]
+            },
+            "properties": {
+                "name": "AZ Groeninge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4539006,
+                    50.8518086
+                ]
+            },
+            "properties": {
+                "name": "Cliniques universitaires Saint-Luc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7550251,
+                    49.8476778
+                ]
+            },
+            "properties": {
+                "name": "Point-d'Eau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0958114,
+                    51.0702799
+                ]
+            },
+            "properties": {
+                "name": "Sint-Rembertziekenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5893577,
+                    50.6343124
+                ]
+            },
+            "properties": {
+                "name": "Le Valdor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5904291,
+                    50.6368886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5913496,
+                    50.6373844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5277212,
+                    50.9863577
+                ]
+            },
+            "properties": {
+                "name": "Sint Vincentiusziekenhuis Deinze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6716964,
+                    50.8783197
+                ]
+            },
+            "properties": {
+                "name": "UZ Leuven campus Gasthuisberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6273207,
+                    50.4351815
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier R\u00e9gional du Val de Sambre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5880405,
+                    50.6436931
+                ]
+            },
+            "properties": {
+                "name": "Ancien H\u00f4pital de Bavi\u00e8re"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

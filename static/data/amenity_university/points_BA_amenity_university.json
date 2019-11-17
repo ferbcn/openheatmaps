@@ -1,0 +1,893 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4002885,
+                    43.8509464
+                ]
+            },
+            "properties": {
+                "name": "\u0160umarski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.413137,
+                    43.8678217
+                ]
+            },
+            "properties": {
+                "name": "Arhitektonski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6656941,
+                    44.5385238
+                ]
+            },
+            "properties": {
+                "name": "Medicinski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6635989,
+                    44.5392192
+                ]
+            },
+            "properties": {
+                "name": "Prirodno-matemati\u010dki fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6623864,
+                    44.5391963
+                ]
+            },
+            "properties": {
+                "name": "Ekonomski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1869861,
+                    44.7666638
+                ]
+            },
+            "properties": {
+                "name": "Elektrotehni\u010dki fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1844845,
+                    44.756128
+                ]
+            },
+            "properties": {
+                "name": "Apeiron University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6659228,
+                    44.5387547
+                ]
+            },
+            "properties": {
+                "name": "Edukacijsko-rehabilitacijski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4131816,
+                    43.8674409
+                ]
+            },
+            "properties": {
+                "name": "Gra\u0111evinski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4246915,
+                    43.8586395
+                ]
+            },
+            "properties": {
+                "name": "Ekonomski fakultet u Sarajevu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8108901,
+                    44.876609
+                ]
+            },
+            "properties": {
+                "name": "Visoka \u0161kola eMPIRICA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4140321,
+                    43.8678424
+                ]
+            },
+            "properties": {
+                "name": "Institut za geodeziju i geoinformatiku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6855325,
+                    44.5324251
+                ]
+            },
+            "properties": {
+                "name": "Laboratirije Fakulteta elektrotehnike Tuzla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6956266,
+                    44.5409274
+                ]
+            },
+            "properties": {
+                "name": "Kampus Tuzla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1866539,
+                    44.7728657
+                ]
+            },
+            "properties": {
+                "name": "Medicinski fakultet Banja Luka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3982518,
+                    43.8577347
+                ]
+            },
+            "properties": {
+                "name": "Confucius Institute Sarajevo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3180881,
+                    44.7787215
+                ]
+            },
+            "properties": {
+                "name": "Slobomir P Univerzitet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3605625,
+                    43.8191325
+                ]
+            },
+            "properties": {
+                "name": "Pravni fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9733594,
+                    43.6640709
+                ]
+            },
+            "properties": {
+                "name": "Internacionalni univerzitet Gora\u017ede"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7995352,
+                    43.9371651
+                ]
+            },
+            "properties": {
+                "name": "Visoka \u0161kola VUB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3800645,
+                    43.8523384
+                ]
+            },
+            "properties": {
+                "name": "Veterinarski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9018796,
+                    44.1997875
+                ]
+            },
+            "properties": {
+                "name": "Univerzitet u Zenici"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.807555,
+                    44.8695499
+                ]
+            },
+            "properties": {
+                "name": "Ekonomski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.311047,
+                    43.8194096
+                ]
+            },
+            "properties": {
+                "name": "International Burch University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3094729,
+                    43.8219302
+                ]
+            },
+            "properties": {
+                "name": "International University of Sarajevo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2114582,
+                    44.774937
+                ]
+            },
+            "properties": {
+                "name": "Univerzitet u Banjoj Luci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1984528,
+                    44.7657057
+                ]
+            },
+            "properties": {
+                "name": "\u0160umarski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.198448,
+                    44.7654647
+                ]
+            },
+            "properties": {
+                "name": "Arhitektonsko-gra\u0111evinski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1990688,
+                    44.7654924
+                ]
+            },
+            "properties": {
+                "name": "Pravni fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1992474,
+                    44.7649907
+                ]
+            },
+            "properties": {
+                "name": "Ekonomski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.199107,
+                    44.7652092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.198424,
+                    44.7647172
+                ]
+            },
+            "properties": {
+                "name": "Ma\u0161inski Fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1983215,
+                    44.7649102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1981877,
+                    44.7651203
+                ]
+            },
+            "properties": {
+                "name": "Tehnolo\u0161ki Fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1990798,
+                    44.7791859
+                ]
+            },
+            "properties": {
+                "name": "Prirodno-matemati\u010dki fakultet Banja Luka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1839618,
+                    44.755956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1985995,
+                    44.7651015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1987179,
+                    44.7789139
+                ]
+            },
+            "properties": {
+                "name": "Prirodno-matemati\u010dki fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3116573,
+                    43.8187147
+                ]
+            },
+            "properties": {
+                "name": "International Burch University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7969904,
+                    43.3453193
+                ]
+            },
+            "properties": {
+                "name": "Sveu\u010dili\u0161te u Mostaru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3742733,
+                    43.8237582
+                ]
+            },
+            "properties": {
+                "name": "Elektrotehni\u010dki fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1886195,
+                    44.7619542
+                ]
+            },
+            "properties": {
+                "name": "Banja Luka College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4250342,
+                    43.8604456
+                ]
+            },
+            "properties": {
+                "name": "Muzi\u010dka akademija Sarajevo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8645583,
+                    44.8079772
+                ]
+            },
+            "properties": {
+                "name": "IPF i Visoka Zdravstvena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.411051,
+                    43.8743088
+                ]
+            },
+            "properties": {
+                "name": "Fakultet sporta i tjelesnog odgoja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1950967,
+                    44.7755626
+                ]
+            },
+            "properties": {
+                "name": "Europska akademija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3082389,
+                    43.8240356
+                ]
+            },
+            "properties": {
+                "name": "Sarajevska \u0161kola za nauku i tehnologiju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2044543,
+                    44.7859102
+                ]
+            },
+            "properties": {
+                "name": "Fakultet za bezbjednost i za\u0161titu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5854287,
+                    43.3746129
+                ]
+            },
+            "properties": {
+                "name": "Akademija likovnih umjetnosti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4222913,
+                    43.8558743
+                ]
+            },
+            "properties": {
+                "name": "Pedago\u0161ki fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4220606,
+                    43.8556451
+                ]
+            },
+            "properties": {
+                "name": "Poslovna \u0161kola EFSA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4250123,
+                    43.8586382
+                ]
+            },
+            "properties": {
+                "name": "Ekonomski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.664555,
+                    44.5396919
+                ]
+            },
+            "properties": {
+                "name": "Rudarsko geolo\u0161ko gra\u0111evinski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3442494,
+                    42.7086608
+                ]
+            },
+            "properties": {
+                "name": "\u0424\u0430\u043a\u0443\u043b\u0442\u0435\u0442 \u0437\u0430 \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u045a\u0443 \u0438 \u043c\u0435\u043d\u0430\u045f\u043c\u0435\u043d\u0442 \u0422\u0440\u0435\u0431\u0438\u045a\u0435"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8089615,
+                    43.3540743
+                ]
+            },
+            "properties": {
+                "name": "Univerzitet D\u017eemal Bijedi\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4136208,
+                    43.8648139
+                ]
+            },
+            "properties": {
+                "name": "Stomatolo\u0161ki fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4140681,
+                    43.865512
+                ]
+            },
+            "properties": {
+                "name": "Medincinski fakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4304944,
+                    43.8612139
+                ]
+            },
+            "properties": {
+                "name": "Fakultet islamskih nauka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6749314,
+                    44.5377791
+                ]
+            },
+            "properties": {
+                "name": "Fakultet elektrotehnike Tuzla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6752271,
+                    44.5379685
+                ]
+            },
+            "properties": {
+                "name": "Stelekt (BIT 3 - Fakultet elektrotehnike)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7008042,
+                    44.9838795
+                ]
+            },
+            "properties": {
+                "name": "Visoka \u0161kola za ekonomiju i informatiku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4225931,
+                    43.855612
+                ]
+            },
+            "properties": {
+                "name": "Fakultet politi\u010dkih nauka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9594146,
+                    43.6539531
+                ]
+            },
+            "properties": {
+                "name": "Visoka skola za turizam i menadzment"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8603572,
+                    44.7902556
+                ]
+            },
+            "properties": {
+                "name": "Univerzitet u Biha\u0107u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.415956,
+                    43.8700175
+                ]
+            },
+            "properties": {
+                "name": "Fakultet zdravstvenih studija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7979681,
+                    43.3413098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0912223,
+                    44.7363072
+                ]
+            },
+            "properties": {
+                "name": "Saobra\u0107ajni fakultet Doboj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3314741,
+                    43.8338649
+                ]
+            },
+            "properties": {
+                "name": "Franjeva\u010dka teologija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4188256,
+                    43.8570163
+                ]
+            },
+            "properties": {
+                "name": "Pravni fakultet"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

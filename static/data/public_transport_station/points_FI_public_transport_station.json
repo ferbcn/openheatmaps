@@ -1,0 +1,1240 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9414566,
+                    60.1713198
+                ]
+            },
+            "properties": {
+                "name": "Helsinki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9212392,
+                    60.2075815
+                ]
+            },
+            "properties": {
+                "name": "Ilmala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0285605,
+                    60.2624633
+                ]
+            },
+            "properties": {
+                "name": "Tapanila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9938235,
+                    60.2422319
+                ]
+            },
+            "properties": {
+                "name": "Pukinm\u00e4ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2970548,
+                    60.4504584
+                ]
+            },
+            "properties": {
+                "name": "Kupittaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7022998,
+                    60.2070123
+                ]
+            },
+            "properties": {
+                "name": "Koivuhovi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7306099,
+                    60.2118923
+                ]
+            },
+            "properties": {
+                "name": "Kauniainen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.030231,
+                    60.194569
+                ]
+            },
+            "properties": {
+                "name": "Herttoniemi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0081866,
+                    60.1888437
+                ]
+            },
+            "properties": {
+                "name": "Kulosaari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1424866,
+                    60.2071929
+                ]
+            },
+            "properties": {
+                "name": "Vuosaari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1215783,
+                    60.2053626
+                ]
+            },
+            "properties": {
+                "name": "Rastila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0757356,
+                    60.225008
+                ]
+            },
+            "properties": {
+                "name": "Myllypuro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0836317,
+                    60.2359519
+                ]
+            },
+            "properties": {
+                "name": "Kontula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.111153,
+                    60.2391975
+                ]
+            },
+            "properties": {
+                "name": "Mellunm\u00e4ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8612257,
+                    60.2494312
+                ]
+            },
+            "properties": {
+                "name": "Malminkartano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0930778,
+                    60.2147116
+                ]
+            },
+            "properties": {
+                "name": "Puotila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9334823,
+                    60.1986627
+                ]
+            },
+            "properties": {
+                "name": "Pasila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8933925,
+                    60.2183158
+                ]
+            },
+            "properties": {
+                "name": "Huopalahti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8766315,
+                    60.222055
+                ]
+            },
+            "properties": {
+                "name": "Valimo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9664757,
+                    60.2280959
+                ]
+            },
+            "properties": {
+                "name": "Oulunkyl\u00e4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9155624,
+                    60.1632015
+                ]
+            },
+            "properties": {
+                "name": "Ruoholahti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.036777,
+                    60.2760327
+                ]
+            },
+            "properties": {
+                "name": "Puistola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0787836,
+                    60.3514854
+                ]
+            },
+            "properties": {
+                "name": "Korso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1061729,
+                    60.4043738
+                ]
+            },
+            "properties": {
+                "name": "Kerava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0603776,
+                    60.3236073
+                ]
+            },
+            "properties": {
+                "name": "Koivukyl\u00e4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0107602,
+                    60.2509496
+                ]
+            },
+            "properties": {
+                "name": "Malmi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.883545,
+                    60.2303766
+                ]
+            },
+            "properties": {
+                "name": "Pohjois-Haaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8766115,
+                    60.239722
+                ]
+            },
+            "properties": {
+                "name": "Kannelm\u00e4ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8547821,
+                    60.2612378
+                ]
+            },
+            "properties": {
+                "name": "Myyrm\u00e4ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.853408,
+                    60.2708678
+                ]
+            },
+            "properties": {
+                "name": "Louhela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8527533,
+                    60.2780783
+                ]
+            },
+            "properties": {
+                "name": "Martinlaakso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8605798,
+                    60.2232182
+                ]
+            },
+            "properties": {
+                "name": "Pit\u00e4j\u00e4nm\u00e4ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8433146,
+                    60.2213179
+                ]
+            },
+            "properties": {
+                "name": "M\u00e4kkyl\u00e4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.813451,
+                    60.2193624
+                ]
+            },
+            "properties": {
+                "name": "Lepp\u00e4vaara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7824059,
+                    60.2179166
+                ]
+            },
+            "properties": {
+                "name": "Kilo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0446157,
+                    60.2927516
+                ]
+            },
+            "properties": {
+                "name": "Tikkurila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0495524,
+                    60.3035444
+                ]
+            },
+            "properties": {
+                "name": "Hiekkaharju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0773613,
+                    60.2099882
+                ]
+            },
+            "properties": {
+                "name": "It\u00e4keskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0440144,
+                    60.2052524
+                ]
+            },
+            "properties": {
+                "name": "Siilitie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9590827,
+                    60.1865586
+                ]
+            },
+            "properties": {
+                "name": "S\u00f6rn\u00e4inen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9501704,
+                    60.1804807
+                ]
+            },
+            "properties": {
+                "name": "Hakaniemi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9486006,
+                    60.1727636
+                ]
+            },
+            "properties": {
+                "name": "Helsingin yliopisto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9398457,
+                    60.1703844
+                ]
+            },
+            "properties": {
+                "name": "Rautatientori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6008638,
+                    60.1895498
+                ]
+            },
+            "properties": {
+                "name": "Kauklahti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.026755,
+                    60.4682554
+                ]
+            },
+            "properties": {
+                "name": "Naantali, laituri 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2198062,
+                    60.435027
+                ]
+            },
+            "properties": {
+                "name": "Turun satama (Silja)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2232791,
+                    60.4347298
+                ]
+            },
+            "properties": {
+                "name": "Turku satama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2214558,
+                    60.140595
+                ]
+            },
+            "properties": {
+                "name": "Siuntio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8481186,
+                    60.2859454
+                ]
+            },
+            "properties": {
+                "name": "Vantaankoski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.068333,
+                    60.332297
+                ]
+            },
+            "properties": {
+                "name": "Rekola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9316914,
+                    60.1690222
+                ]
+            },
+            "properties": {
+                "name": "Kamppi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9466125,
+                    60.2201825
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4pyl\u00e4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6569676,
+                    60.2051454
+                ]
+            },
+            "properties": {
+                "name": "Espoo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9571321,
+                    60.3047174
+                ]
+            },
+            "properties": {
+                "name": "Aviapolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8437614,
+                    60.2952926
+                ]
+            },
+            "properties": {
+                "name": "Vehkala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0977273,
+                    60.380418
+                ]
+            },
+            "properties": {
+                "name": "Savio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8473098,
+                    60.3147145
+                ]
+            },
+            "properties": {
+                "name": "Kivist\u00f6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9691377,
+                    60.3163572
+                ]
+            },
+            "properties": {
+                "name": "Lentoasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0400183,
+                    60.3225041
+                ]
+            },
+            "properties": {
+                "name": "Leinel\u00e4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.2415294,
+                    62.9125193
+                ]
+            },
+            "properties": {
+                "name": "Uimaharju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1420135,
+                    62.8064532
+                ]
+            },
+            "properties": {
+                "name": "Eno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6807491,
+                    60.2060661
+                ]
+            },
+            "properties": {
+                "name": "Tuomarila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5123283,
+                    60.1376704
+                ]
+            },
+            "properties": {
+                "name": "Jorvas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9304562,
+                    60.2043111
+                ]
+            },
+            "properties": {
+                "name": "Pasilan autojuna-asema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8235709,
+                    60.1844626
+                ]
+            },
+            "properties": {
+                "name": "Aalto-yliopisto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8294759,
+                    60.1756478
+                ]
+            },
+            "properties": {
+                "name": "Keilaniemi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8537669,
+                    60.1635642
+                ]
+            },
+            "properties": {
+                "name": "Koivusaari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8787064,
+                    60.1594633
+                ]
+            },
+            "properties": {
+                "name": "Lauttasaari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7391256,
+                    60.15968
+                ]
+            },
+            "properties": {
+                "name": "Matinkyl\u00e4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7630169,
+                    60.1703645
+                ]
+            },
+            "properties": {
+                "name": "Niittykumpu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8032817,
+                    60.1749546
+                ]
+            },
+            "properties": {
+                "name": "Tapiola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7810824,
+                    60.1745591
+                ]
+            },
+            "properties": {
+                "name": "Urheilupuisto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9766836,
+                    60.187506
+                ]
+            },
+            "properties": {
+                "name": "Kalasatama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9334336,
+                    60.1986777
+                ]
+            },
+            "properties": {
+                "name": "Pasilan asema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2530164,
+                    60.4539517
+                ]
+            },
+            "properties": {
+                "name": "Turun p\u00e4\u00e4rautatieasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6215593,
+                    63.0975631
+                ]
+            },
+            "properties": {
+                "name": "Vaasan Matkakeskus - Rautatieasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8432666,
+                    62.7917724
+                ]
+            },
+            "properties": {
+                "name": "Sein\u00e4joen Matkakeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9422748,
+                    60.1022576
+                ]
+            },
+            "properties": {
+                "name": "Bussplan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2681441,
+                    60.4570557
+                ]
+            },
+            "properties": {
+                "name": "Turun linja-autoasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6235566,
+                    63.0969572
+                ]
+            },
+            "properties": {
+                "name": "Vaasan Matkakeskus - Matkahuolto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7049257,
+                    60.8663213
+                ]
+            },
+            "properties": {
+                "name": "Matkakeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1276139,
+                    63.8358173
+                ]
+            },
+            "properties": {
+                "name": "Kokkolan linja-autoasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2209633,
+                    60.4339895
+                ]
+            },
+            "properties": {
+                "name": "Viking Line"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8556219,
+                    60.1632366
+                ]
+            },
+            "properties": {
+                "name": "Koivusaaren metroasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7900598,
+                    63.5956472
+                ]
+            },
+            "properties": {
+                "name": "Benn\u00e4s J\u00e4rnv\u00e4gsstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2192791,
+                    60.4353201
+                ]
+            },
+            "properties": {
+                "name": "Satama (Silja Line)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9418243,
+                    60.1717892
+                ]
+            },
+            "properties": {
+                "name": "Helsingin p\u00e4\u00e4rautatieasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7730157,
+                    61.4985647
+                ]
+            },
+            "properties": {
+                "name": "Tampereen rautatieasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0777873,
+                    62.052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.968273,
+                    59.8272617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0447836,
+                    61.2033628
+                ]
+            },
+            "properties": {
+                "name": "Heinolan linja-autoasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4088823,
+                    60.8005417
+                ]
+            },
+            "properties": {
+                "name": "Uudenkaupungin Linja-autoasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8073088,
+                    60.1762405
+                ]
+            },
+            "properties": {
+                "name": "Tapionaukio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8765819,
+                    60.1588842
+                ]
+            },
+            "properties": {
+                "name": "Lauttasaaren metroasema"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2670546,
+                    60.4516012
+                ]
+            },
+            "properties": {
+                "name": "Kauppatori"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

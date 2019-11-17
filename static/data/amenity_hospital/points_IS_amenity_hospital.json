@@ -1,0 +1,448 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.4024756,
+                    65.2637324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3406417,
+                    66.0491314
+                ]
+            },
+            "properties": {
+                "name": "Heilbrig\u00f0isstofun \u00deingeyinga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.2804094,
+                    64.6545153
+                ]
+            },
+            "properties": {
+                "name": "Heilsug\u00e6slust\u00f6\u00f0in Dj\u00fapavogi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4173039,
+                    63.8449615
+                ]
+            },
+            "properties": {
+                "name": "V\u00ed\u00f0ihl\u00ed\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.5338115,
+                    65.9720569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.5307855,
+                    65.9750537
+                ]
+            },
+            "properties": {
+                "name": "Rau\u00f0i kross \u00cdslands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.007103,
+                    63.4207456
+                ]
+            },
+            "properties": {
+                "name": "Heilbrig\u00f0isstofnun Su\u00f0urlands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.2228972,
+                    65.0336642
+                ]
+            },
+            "properties": {
+                "name": "Heilsug\u00e6slan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.6388502,
+                    65.7391329
+                ]
+            },
+            "properties": {
+                "name": "Heilbrig\u00f0isstofunin Sau\u00f0\u00e1rkr\u00f3ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7854512,
+                    64.1505965
+                ]
+            },
+            "properties": {
+                "name": "Heilsug\u00e6slan Sp\u00f6nginni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9300689,
+                    64.1384973
+                ]
+            },
+            "properties": {
+                "name": "Barnasp\u00edtali Hringsins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.9092952,
+                    66.1556467
+                ]
+            },
+            "properties": {
+                "name": "Heilbrig\u00f0isstofnunin Fjallabygg\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.5548935,
+                    64.0011002
+                ]
+            },
+            "properties": {
+                "name": "Heilsug\u00e6sla Su\u00f0urnesja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.0052072,
+                    65.257823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.697001,
+                    64.1675857
+                ]
+            },
+            "properties": {
+                "name": "Heilsug\u00e6sla Mosfellsb\u00e6jar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9504126,
+                    66.4526936
+                ]
+            },
+            "properties": {
+                "name": "Heilsug\u00e6sla Raufarhafnar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9868422,
+                    63.9392233
+                ]
+            },
+            "properties": {
+                "name": "Heilbrig\u00f0isstofnun Su\u00f0urlands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.0818347,
+                    64.3196911
+                ]
+            },
+            "properties": {
+                "name": "Sj\u00fakrah\u00fasi\u00f0 og Heilsug\u00e6slan \u00e1 Akranesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.5774107,
+                    63.9696853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9269398,
+                    64.1386603
+                ]
+            },
+            "properties": {
+                "name": "Landsp\u00edtalinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.920584,
+                    64.1402264
+                ]
+            },
+            "properties": {
+                "name": "Landsp\u00edtali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2174153,
+                    63.7515723
+                ]
+            },
+            "properties": {
+                "name": "Heilsug\u00e6sla Rang\u00e1r\u00feings"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9869361,
+                    63.9392002
+                ]
+            },
+            "properties": {
+                "name": "Heilbrig\u00f0isstofnun Su\u00f0urlands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2151536,
+                    64.2589245
+                ]
+            },
+            "properties": {
+                "name": "Heilsug\u00e6sla vi\u00f0 V\u00edkurbraut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.3963167,
+                    63.8431458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9490927,
+                    64.1484149
+                ]
+            },
+            "properties": {
+                "name": "Landakotssp\u00edtali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8484112,
+                    64.145038
+                ]
+            },
+            "properties": {
+                "name": "Landsp\u00edtali Kleppi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8814024,
+                    64.1256135
+                ]
+            },
+            "properties": {
+                "name": "Landsp\u00edtali Grens\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.6760566,
+                    65.1484699
+                ]
+            },
+            "properties": {
+                "name": "Fj\u00f3r\u00f0ungssj\u00fakrah\u00fasi\u00f0 \u00ed Neskaupsta\u00f0"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8764202,
+                    64.1486017
+                ]
+            },
+            "properties": {
+                "name": "Barna- og unglingage\u00f0deild Landsp\u00edtalans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8886982,
+                    64.1220854
+                ]
+            },
+            "properties": {
+                "name": "Landsp\u00edtali Fossvogur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0929144,
+                    65.6737303
+                ]
+            },
+            "properties": {
+                "name": "Fj\u00f3r\u00f0ungssj\u00fakrah\u00fasi\u00f0 \u00e1 Akureyri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0950426,
+                    65.6731832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0935651,
+                    65.6736515
+                ]
+            },
+            "properties": {
+                "name": "Fj\u00f3r\u00f0ungssj\u00fakrah\u00fasi\u00f0 \u00e1 Akureyri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.7214886,
+                    65.0773236
+                ]
+            },
+            "properties": {
+                "name": "Heilbrig\u00f0isstofnun Vesturlands"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,3771 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0897306,
+                    47.3866642
+                ]
+            },
+            "properties": {
+                "name": "Leoben Hbf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.778271,
+                    47.3884246
+                ]
+            },
+            "properties": {
+                "name": "Jenbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0606215,
+                    47.4915138
+                ]
+            },
+            "properties": {
+                "name": "W\u00f6rgl Hbf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0265101,
+                    48.1659478
+                ]
+            },
+            "properties": {
+                "name": "Wels Hbf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4067471,
+                    48.1944138
+                ]
+            },
+            "properties": {
+                "name": "Schlachthausgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4174702,
+                    48.1851441
+                ]
+            },
+            "properties": {
+                "name": "Gasometer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4120644,
+                    48.1804386
+                ]
+            },
+            "properties": {
+                "name": "Zippererstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5642737,
+                    48.1202259
+                ]
+            },
+            "properties": {
+                "name": "Flughafen Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3339652,
+                    48.1745297
+                ]
+            },
+            "properties": {
+                "name": "Wien Meidling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4520703,
+                    48.277582
+                ]
+            },
+            "properties": {
+                "name": "Leopoldau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3922544,
+                    48.2020851
+                ]
+            },
+            "properties": {
+                "name": "Rochusgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4147963,
+                    48.1747186
+                ]
+            },
+            "properties": {
+                "name": "Enkplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3998831,
+                    48.1975587
+                ]
+            },
+            "properties": {
+                "name": "Kardinal-Nagl-Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4205345,
+                    48.1697819
+                ]
+            },
+            "properties": {
+                "name": "Simmering"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3852982,
+                    48.2058807
+                ]
+            },
+            "properties": {
+                "name": "Landstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7386692,
+                    47.4175843
+                ]
+            },
+            "properties": {
+                "name": "Dornbirn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2918619,
+                    48.2902408
+                ]
+            },
+            "properties": {
+                "name": "Linz Hauptbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6772482,
+                    47.6079138
+                ]
+            },
+            "properties": {
+                "name": "M\u00fcrzzuschlag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8308831,
+                    47.6395943
+                ]
+            },
+            "properties": {
+                "name": "Semmering"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5219995,
+                    48.1789148
+                ]
+            },
+            "properties": {
+                "name": "St.\u202fValentin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4657398,
+                    48.0681716
+                ]
+            },
+            "properties": {
+                "name": "Rabenstein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.296912,
+                    47.8131282
+                ]
+            },
+            "properties": {
+                "name": "Mitterbach am Erlaufsee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6244667,
+                    47.3085927
+                ]
+            },
+            "properties": {
+                "name": "Klaus in Vorarlberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0786465,
+                    47.300664
+                ]
+            },
+            "properties": {
+                "name": "Telfs-Pfaffenhofen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.045853,
+                    47.8130618
+                ]
+            },
+            "properties": {
+                "name": "Salzburg Hauptbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6626045,
+                    47.1749706
+                ]
+            },
+            "properties": {
+                "name": "Judenburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1463439,
+                    46.636199
+                ]
+            },
+            "properties": {
+                "name": "P\u00f6rtschach am W\u00f6rthersee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2279696,
+                    47.2437466
+                ]
+            },
+            "properties": {
+                "name": "Wald im Pinzgau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1964004,
+                    47.2346007
+                ]
+            },
+            "properties": {
+                "name": "Krimml"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3446062,
+                    47.2696893
+                ]
+            },
+            "properties": {
+                "name": "Bramberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3885788,
+                    47.2772859
+                ]
+            },
+            "properties": {
+                "name": "Dorf Pa\u00dfthurn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4158128,
+                    47.2784101
+                ]
+            },
+            "properties": {
+                "name": "Hollersbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2673191,
+                    47.1273823
+                ]
+            },
+            "properties": {
+                "name": "St.\u202fAnton am Arlberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4010207,
+                    47.2632966
+                ]
+            },
+            "properties": {
+                "name": "Innsbruck Hbf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.121246,
+                    47.1316145
+                ]
+            },
+            "properties": {
+                "name": "Langen am Arlberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0444985,
+                    47.8127845
+                ]
+            },
+            "properties": {
+                "name": "Salzburg Lokalbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3741473,
+                    47.2729857
+                ]
+            },
+            "properties": {
+                "name": "M\u00fchlbach im Pinzgau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3281212,
+                    48.1836304
+                ]
+            },
+            "properties": {
+                "name": "Meidling Hauptstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.165727,
+                    47.5829718
+                ]
+            },
+            "properties": {
+                "name": "Kufstein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5106127,
+                    47.2862106
+                ]
+            },
+            "properties": {
+                "name": "Heilbad Burgwies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3406035,
+                    48.240059
+                ]
+            },
+            "properties": {
+                "name": "Wien Krottenbachstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3440405,
+                    48.2440857
+                ]
+            },
+            "properties": {
+                "name": "Wien Oberd\u00f6bling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8148945,
+                    47.1547225
+                ]
+            },
+            "properties": {
+                "name": "Bludenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0608062,
+                    47.490893
+                ]
+            },
+            "properties": {
+                "name": "Hauptbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3116245,
+                    46.6164026
+                ]
+            },
+            "properties": {
+                "name": "Hauptbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3778549,
+                    48.1850101
+                ]
+            },
+            "properties": {
+                "name": "Wien Hauptbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.57837,
+                    47.1481698
+                ]
+            },
+            "properties": {
+                "name": "Landeck-Zams"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7397629,
+                    47.5030195
+                ]
+            },
+            "properties": {
+                "name": "Bregenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6246812,
+                    48.2082798
+                ]
+            },
+            "properties": {
+                "name": "St.\u202fP\u00f6lten Hbf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2451699,
+                    47.2436321
+                ]
+            },
+            "properties": {
+                "name": "Rosental"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8484445,
+                    46.6186176
+                ]
+            },
+            "properties": {
+                "name": "Villach Hauptbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2606169,
+                    47.2424879
+                ]
+            },
+            "properties": {
+                "name": "Sulzbacht\u00e4ler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5619756,
+                    47.2833367
+                ]
+            },
+            "properties": {
+                "name": "Manlitzbr\u00fccke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2821823,
+                    47.2510649
+                ]
+            },
+            "properties": {
+                "name": "Neukirchen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2981821,
+                    47.2526816
+                ]
+            },
+            "properties": {
+                "name": "Neukirchen Vorstadl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3184628,
+                    47.2570976
+                ]
+            },
+            "properties": {
+                "name": "Habachtal-Weyerhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3380081,
+                    47.2673944
+                ]
+            },
+            "properties": {
+                "name": "Bramberg Steinach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3544865,
+                    47.2723366
+                ]
+            },
+            "properties": {
+                "name": "Wenns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0906201,
+                    47.7129759
+                ]
+            },
+            "properties": {
+                "name": "Puch bei Hallein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0881659,
+                    47.7241225
+                ]
+            },
+            "properties": {
+                "name": "Puch Urstein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0803696,
+                    47.7608613
+                ]
+            },
+            "properties": {
+                "name": "Elsbethen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0931682,
+                    47.7000219
+                ]
+            },
+            "properties": {
+                "name": "Oberalm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0784727,
+                    47.7700268
+                ]
+            },
+            "properties": {
+                "name": "Salzburg S\u00fcd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1241509,
+                    47.664273
+                ]
+            },
+            "properties": {
+                "name": "Bad Vigaun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1145162,
+                    47.6758128
+                ]
+            },
+            "properties": {
+                "name": "Hallein Burgfried"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1282917,
+                    47.651652
+                ]
+            },
+            "properties": {
+                "name": "Kuchl Garnei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6043115,
+                    47.2409257
+                ]
+            },
+            "properties": {
+                "name": "Feldkirch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5964257,
+                    47.2802825
+                ]
+            },
+            "properties": {
+                "name": "Uggl-Schwarzenbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4105171,
+                    46.9535575
+                ]
+            },
+            "properties": {
+                "name": "Friesach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4498662,
+                    47.2815544
+                ]
+            },
+            "properties": {
+                "name": "Rettenbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2336549,
+                    47.8110703
+                ]
+            },
+            "properties": {
+                "name": "Wiener Neustadt Hbf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.481078,
+                    47.2836631
+                ]
+            },
+            "properties": {
+                "name": "Mittersill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4977448,
+                    47.285271
+                ]
+            },
+            "properties": {
+                "name": "Burk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5267159,
+                    47.2857932
+                ]
+            },
+            "properties": {
+                "name": "Stuhlfelden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7940238,
+                    47.3079946
+                ]
+            },
+            "properties": {
+                "name": "Sch\u00fcttdorf Tischlerh\u00e4usl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8593844,
+                    47.2386025
+                ]
+            },
+            "properties": {
+                "name": "\u00d6tztal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7618964,
+                    47.2190555
+                ]
+            },
+            "properties": {
+                "name": "Imst-Pitztal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3314815,
+                    48.1739672
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Meidling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3737346,
+                    48.1862627
+                ]
+            },
+            "properties": {
+                "name": "S\u00fcdtiroler\u202fPlatz-Hauptbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0654758,
+                    47.0699344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0652868,
+                    47.0698522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.544725,
+                    47.2849095
+                ]
+            },
+            "properties": {
+                "name": "Pirtendorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4655299,
+                    46.8685518
+                ]
+            },
+            "properties": {
+                "name": "Treibach-Althofen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3921133,
+                    48.2191234
+                ]
+            },
+            "properties": {
+                "name": "Wien Praterstern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4000183,
+                    48.2564008
+                ]
+            },
+            "properties": {
+                "name": "Wien Floridsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6784617,
+                    48.3283334
+                ]
+            },
+            "properties": {
+                "name": "Silberwald"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6339011,
+                    48.3184784
+                ]
+            },
+            "properties": {
+                "name": "Strasshof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3854154,
+                    48.2417359
+                ]
+            },
+            "properties": {
+                "name": "Handelskai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4089311,
+                    47.735747
+                ]
+            },
+            "properties": {
+                "name": "Mattersburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5741557,
+                    47.2809826
+                ]
+            },
+            "properties": {
+                "name": "Uttendorf-Stubachtal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3659272,
+                    48.2486697
+                ]
+            },
+            "properties": {
+                "name": "Heiligenstadt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.358076,
+                    48.2355915
+                ]
+            },
+            "properties": {
+                "name": "Spittelau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3585057,
+                    48.2350109
+                ]
+            },
+            "properties": {
+                "name": "Spittelau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3715166,
+                    48.2080838
+                ]
+            },
+            "properties": {
+                "name": "Stephansplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3704158,
+                    48.1936873
+                ]
+            },
+            "properties": {
+                "name": "Taubstummengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3697014,
+                    48.2003841
+                ]
+            },
+            "properties": {
+                "name": "Karlsplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1948877,
+                    47.3484164
+                ]
+            },
+            "properties": {
+                "name": "St. Johann im Pongau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7968853,
+                    47.3206646
+                ]
+            },
+            "properties": {
+                "name": "Zell am See"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1832016,
+                    48.2235514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2609148,
+                    48.1969493
+                ]
+            },
+            "properties": {
+                "name": "H\u00fctteldorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2794981,
+                    47.4138843
+                ]
+            },
+            "properties": {
+                "name": "Bruck an der Mur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2923523,
+                    47.4452296
+                ]
+            },
+            "properties": {
+                "name": "Kapfenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8376302,
+                    47.2152622
+                ]
+            },
+            "properties": {
+                "name": "Knittelfeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5044888,
+                    48.2345026
+                ]
+            },
+            "properties": {
+                "name": "Aspern Nord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.485618,
+                    48.2334122
+                ]
+            },
+            "properties": {
+                "name": "Hausfeldstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5083947,
+                    48.2262278
+                ]
+            },
+            "properties": {
+                "name": "Seestadt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1890376,
+                    48.2076045
+                ]
+            },
+            "properties": {
+                "name": "Unter Purkersdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9852442,
+                    47.2814296
+                ]
+            },
+            "properties": {
+                "name": "Hartberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4049308,
+                    48.2177786
+                ]
+            },
+            "properties": {
+                "name": "Messe-Prater"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3930785,
+                    48.2197676
+                ]
+            },
+            "properties": {
+                "name": "Praterstern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3941852,
+                    48.2184638
+                ]
+            },
+            "properties": {
+                "name": "Praterstern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6285864,
+                    47.281604
+                ]
+            },
+            "properties": {
+                "name": "Lengdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6471019,
+                    47.2822945
+                ]
+            },
+            "properties": {
+                "name": "Niedernsill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6619426,
+                    47.2833715
+                ]
+            },
+            "properties": {
+                "name": "Jesdorf-Bergfried"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29582,
+                    48.1894027
+                ]
+            },
+            "properties": {
+                "name": "Braunschweiggasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3045807,
+                    48.1875762
+                ]
+            },
+            "properties": {
+                "name": "Hietzing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3350467,
+                    48.1849187
+                ]
+            },
+            "properties": {
+                "name": "L\u00e4ngenfeldgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2761736,
+                    48.192234
+                ]
+            },
+            "properties": {
+                "name": "Ober St.\u202fVeit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3190474,
+                    48.1860172
+                ]
+            },
+            "properties": {
+                "name": "Sch\u00f6nbrunn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2863684,
+                    48.1910668
+                ]
+            },
+            "properties": {
+                "name": "Unter St.\u202fVeit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3798184,
+                    48.202946
+                ]
+            },
+            "properties": {
+                "name": "Stadtpark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.358092,
+                    48.1966328
+                ]
+            },
+            "properties": {
+                "name": "Kettenbr\u00fcckengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3430303,
+                    48.1884883
+                ]
+            },
+            "properties": {
+                "name": "Margareteng\u00fcrtel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3543028,
+                    48.1921577
+                ]
+            },
+            "properties": {
+                "name": "Pilgramgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.364119,
+                    48.22771
+                ]
+            },
+            "properties": {
+                "name": "Friedensbr\u00fccke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3675722,
+                    48.2223375
+                ]
+            },
+            "properties": {
+                "name": "Ro\u00dfauer L\u00e4nde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3847802,
+                    48.2067908
+                ]
+            },
+            "properties": {
+                "name": "Landstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3723981,
+                    48.2173875
+                ]
+            },
+            "properties": {
+                "name": "Schottenring"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3785895,
+                    48.2117248
+                ]
+            },
+            "properties": {
+                "name": "Schwedenplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3098385,
+                    48.130521
+                ]
+            },
+            "properties": {
+                "name": "Siebenhirten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4004908,
+                    48.2562384
+                ]
+            },
+            "properties": {
+                "name": "Floridsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3168475,
+                    48.1505196
+                ]
+            },
+            "properties": {
+                "name": "Alterlaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3242072,
+                    48.1606824
+                ]
+            },
+            "properties": {
+                "name": "Am Sch\u00f6pfwerk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3165256,
+                    48.1419926
+                ]
+            },
+            "properties": {
+                "name": "Erlaaer Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3132527,
+                    48.1366232
+                ]
+            },
+            "properties": {
+                "name": "Perfektastra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3277927,
+                    48.1649777
+                ]
+            },
+            "properties": {
+                "name": "Tscherttegasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.331145,
+                    48.1807684
+                ]
+            },
+            "properties": {
+                "name": "Niederhofstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7208855,
+                    48.0126112
+                ]
+            },
+            "properties": {
+                "name": "Attnang-Puchheim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6637776,
+                    48.0100817
+                ]
+            },
+            "properties": {
+                "name": "V\u00f6cklabruck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4204937,
+                    48.2104985
+                ]
+            },
+            "properties": {
+                "name": "Stadion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.431461,
+                    48.2063838
+                ]
+            },
+            "properties": {
+                "name": "Donaumarina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4137446,
+                    48.2146912
+                ]
+            },
+            "properties": {
+                "name": "Krieau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4749346,
+                    48.2225976
+                ]
+            },
+            "properties": {
+                "name": "Aspernstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4666399,
+                    48.2194301
+                ]
+            },
+            "properties": {
+                "name": "Donauspital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4578116,
+                    48.2208849
+                ]
+            },
+            "properties": {
+                "name": "Hardeggasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.449558,
+                    48.2197733
+                ]
+            },
+            "properties": {
+                "name": "Stadlau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.440166,
+                    48.2117999
+                ]
+            },
+            "properties": {
+                "name": "Donaustadtbr\u00fccke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3815518,
+                    48.2192624
+                ]
+            },
+            "properties": {
+                "name": "Taborstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1621766,
+                    47.0132693
+                ]
+            },
+            "properties": {
+                "name": "3S Eisgratbahn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3554084,
+                    48.2102064
+                ]
+            },
+            "properties": {
+                "name": "Rathaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3578591,
+                    48.205275
+                ]
+            },
+            "properties": {
+                "name": "Volkstheater"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3612866,
+                    48.2026346
+                ]
+            },
+            "properties": {
+                "name": "Museumsquartier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4478821,
+                    48.2710952
+                ]
+            },
+            "properties": {
+                "name": "Gro\u00dffeldsiedlung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3074749,
+                    47.7831116
+                ]
+            },
+            "properties": {
+                "name": "Mariazell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4516287,
+                    48.2634265
+                ]
+            },
+            "properties": {
+                "name": "Aderklaaer Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4496328,
+                    48.2576086
+                ]
+            },
+            "properties": {
+                "name": "Rennbahnweg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4432539,
+                    48.2502254
+                ]
+            },
+            "properties": {
+                "name": "Kagraner Platz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0448482,
+                    46.6200854
+                ]
+            },
+            "properties": {
+                "name": "Velden am W\u00f6rthersee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4329191,
+                    48.2430028
+                ]
+            },
+            "properties": {
+                "name": "Kagran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4247729,
+                    48.2382709
+                ]
+            },
+            "properties": {
+                "name": "Alte Donau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2253372,
+                    47.9551989
+                ]
+            },
+            "properties": {
+                "name": "Neumarkt-K\u00f6stendorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3379226,
+                    48.1958783
+                ]
+            },
+            "properties": {
+                "name": "Westbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3286297,
+                    48.1976875
+                ]
+            },
+            "properties": {
+                "name": "Schweglerstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3201287,
+                    48.1976282
+                ]
+            },
+            "properties": {
+                "name": "Johnstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3114584,
+                    48.1997983
+                ]
+            },
+            "properties": {
+                "name": "H\u00fctteldorfer Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3091223,
+                    48.2045707
+                ]
+            },
+            "properties": {
+                "name": "Kendlerstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3761188,
+                    48.1793553
+                ]
+            },
+            "properties": {
+                "name": "Keplerplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.377918,
+                    48.174919
+                ]
+            },
+            "properties": {
+                "name": "Reumannplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4164115,
+                    48.232829
+                ]
+            },
+            "properties": {
+                "name": "Kaiserm\u00fchlen VIC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4113918,
+                    48.2292159
+                ]
+            },
+            "properties": {
+                "name": "Donauinsel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4010572,
+                    48.2236328
+                ]
+            },
+            "properties": {
+                "name": "Vorgartenstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3855453,
+                    48.2153104
+                ]
+            },
+            "properties": {
+                "name": "Nestroyplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3113574,
+                    48.2110317
+                ]
+            },
+            "properties": {
+                "name": "Ottakring"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3375442,
+                    48.1907374
+                ]
+            },
+            "properties": {
+                "name": "Gumpendorfer Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3391963,
+                    48.1968048
+                ]
+            },
+            "properties": {
+                "name": "Westbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3372441,
+                    48.202898
+                ]
+            },
+            "properties": {
+                "name": "Burggasse-Stadthalle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3947025,
+                    48.2462997
+                ]
+            },
+            "properties": {
+                "name": "Neue Donau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3687097,
+                    48.235224
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4gerstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3802291,
+                    48.2373082
+                ]
+            },
+            "properties": {
+                "name": "Dresdner Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3418121,
+                    48.2167675
+                ]
+            },
+            "properties": {
+                "name": "Alser Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3391653,
+                    48.2114659
+                ]
+            },
+            "properties": {
+                "name": "Josefst\u00e4dter Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3441586,
+                    48.2211652
+                ]
+            },
+            "properties": {
+                "name": "Michelbeuern-AKH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3524653,
+                    48.2313384
+                ]
+            },
+            "properties": {
+                "name": "Nu\u00dfdorfer Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3380073,
+                    48.2078001
+                ]
+            },
+            "properties": {
+                "name": "Thaliastra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.349517,
+                    48.2256269
+                ]
+            },
+            "properties": {
+                "name": "W\u00e4hringer\u202fStra\u00dfe-Volksoper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3629278,
+                    48.2150481
+                ]
+            },
+            "properties": {
+                "name": "Schottentor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4141569,
+                    48.1914136
+                ]
+            },
+            "properties": {
+                "name": "Erdberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3656353,
+                    48.209398
+                ]
+            },
+            "properties": {
+                "name": "Herrengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3792758,
+                    48.2069483
+                ]
+            },
+            "properties": {
+                "name": "Stubentor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3526723,
+                    48.1993161
+                ]
+            },
+            "properties": {
+                "name": "Neubaugasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3462979,
+                    48.197145
+                ]
+            },
+            "properties": {
+                "name": "Zieglergasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6477968,
+                    47.2013253
+                ]
+            },
+            "properties": {
+                "name": "Preding bei Weiz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6397405,
+                    47.2074522
+                ]
+            },
+            "properties": {
+                "name": "Weiz Interspar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7578137,
+                    47.0457295
+                ]
+            },
+            "properties": {
+                "name": "Takern-St. Margarethen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3691588,
+                    48.2016073
+                ]
+            },
+            "properties": {
+                "name": "Karlsplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3693116,
+                    48.2009786
+                ]
+            },
+            "properties": {
+                "name": "Karlsplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3719681,
+                    48.2165452
+                ]
+            },
+            "properties": {
+                "name": "Schottenring"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3591523,
+                    48.2056573
+                ]
+            },
+            "properties": {
+                "name": "Volkstheater"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3776525,
+                    48.2117909
+                ]
+            },
+            "properties": {
+                "name": "Schwedenplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3720045,
+                    48.208419
+                ]
+            },
+            "properties": {
+                "name": "Stephansplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1660119,
+                    47.5836337
+                ]
+            },
+            "properties": {
+                "name": "Kufstein Bahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2696777,
+                    48.0078462
+                ]
+            },
+            "properties": {
+                "name": "Tribuswinkel-Josefsthal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2614105,
+                    48.0083451
+                ]
+            },
+            "properties": {
+                "name": "Pfaffst\u00e4tten Rennplatz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3042206,
+                    48.0397762
+                ]
+            },
+            "properties": {
+                "name": "M\u00f6llersdorf Eigenheimsiedlung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3123161,
+                    48.0486656
+                ]
+            },
+            "properties": {
+                "name": "Guntramsdorf Lokalbahn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2124396,
+                    48.3827054
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Stockerau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2612629,
+                    48.1978563
+                ]
+            },
+            "properties": {
+                "name": "H\u00fctteldorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.512643,
+                    48.3790494
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Wolkersdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3418268,
+                    48.2168011
+                ]
+            },
+            "properties": {
+                "name": "Alser Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2760475,
+                    48.2495962
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Linz Wegscheid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6770887,
+                    47.6076779
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof M\u00fcrzzuschlag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7529198,
+                    47.5049272
+                ]
+            },
+            "properties": {
+                "name": "Talstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3379818,
+                    48.2077404
+                ]
+            },
+            "properties": {
+                "name": "Thaliastra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3375522,
+                    48.1909311
+                ]
+            },
+            "properties": {
+                "name": "Gumpendorfer Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3391679,
+                    48.211574
+                ]
+            },
+            "properties": {
+                "name": "Josefst\u00e4dter Stra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3441658,
+                    48.2210937
+                ]
+            },
+            "properties": {
+                "name": "Michelbeuern-AKH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3495045,
+                    48.2255873
+                ]
+            },
+            "properties": {
+                "name": "W\u00e4hringer\u202fStra\u00dfe-Volksoper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8641818,
+                    47.6957291
+                ]
+            },
+            "properties": {
+                "name": "Payerbach-Reichenau Bahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3836107,
+                    47.2678884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.365047,
+                    47.2747608
+                ]
+            },
+            "properties": {
+                "name": "Bergstation J\u00f6chelspitze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0092714,
+                    46.9599685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8185923,
+                    48.3320901
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4577469,
+                    48.2208848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8147551,
+                    47.1551472
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Bludenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3996709,
+                    48.187894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3972772,
+                    48.1890472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0160178,
+                    48.3034785
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Eferding"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7246753,
+                    48.2716607
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Neumarkt-Kallham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5166249,
+                    48.3621835
+                ]
+            },
+            "properties": {
+                "name": "Obersdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0899389,
+                    47.3864736
+                ]
+            },
+            "properties": {
+                "name": "Hauptbahnhof Leoben"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6247074,
+                    47.3088417
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Klaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0972288,
+                    47.2676721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9480734,
+                    48.1483173
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Hainburg Ungartor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.082947,
+                    48.1764089
+                ]
+            },
+            "properties": {
+                "name": "Ybbs-Busbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5149252,
+                    48.0260871
+                ]
+            },
+            "properties": {
+                "name": "Redl-Zipf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3479446,
+                    47.8537508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.348227,
+                    47.8539038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3257535,
+                    48.3096153
+                ]
+            },
+            "properties": {
+                "name": "Klosterneuburg Kierling Bahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7678812,
+                    47.9583691
+                ]
+            },
+            "properties": {
+                "name": "Nagelhaltstelle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2830828,
+                    48.134941
+                ]
+            },
+            "properties": {
+                "name": "Liesing Busbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4879218,
+                    47.7161789
+                ]
+            },
+            "properties": {
+                "name": "Strobl Busbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4876245,
+                    47.7162508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3460585,
+                    47.2614839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3423665,
+                    47.2611218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0047865,
+                    46.9640055
+                ]
+            },
+            "properties": {
+                "name": "Bergstation Schr\u00e4gaufzug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0065437,
+                    46.9656633
+                ]
+            },
+            "properties": {
+                "name": "Talstation Schr\u00e4gaufzug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5718448,
+                    48.3991908
+                ]
+            },
+            "properties": {
+                "name": "Haltestelle Stein-Mautern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0644829,
+                    47.5286895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9878115,
+                    47.4606011
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof \u00d6blarn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6835593,
+                    47.3912879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.690457,
+                    47.393288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5114987,
+                    46.9302399
+                ]
+            },
+            "properties": {
+                "name": "Matzer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1545311,
+                    46.6427003
+                ]
+            },
+            "properties": {
+                "name": "\u00d6BB Haltestelle Reisach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8627611,
+                    47.1696008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0003869,
+                    46.6058817
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Lind-Rosegg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3580866,
+                    48.2355961
+                ]
+            },
+            "properties": {
+                "name": "Spittelau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5019602,
+                    47.9282461
+                ]
+            },
+            "properties": {
+                "name": "Thern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7597161,
+                    46.6632023
+                ]
+            },
+            "properties": {
+                "name": "Puch bei Gummern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7505366,
+                    46.5822713
+                ]
+            },
+            "properties": {
+                "name": "Haltestelle St. Michael ob Bleiburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8356703,
+                    47.3969638
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Mautern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2217992,
+                    47.3357885
+                ]
+            },
+            "properties": {
+                "name": "Tatzmannsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3353948,
+                    48.2431423
+                ]
+            },
+            "properties": {
+                "name": "Bahnhof Gurten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4138966,
+                    48.1908562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3915634,
+                    48.2181836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2535089,
+                    48.1889532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5957224,
+                    48.007743
+                ]
+            },
+            "properties": {
+                "name": "Timelkam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9664316,
+                    47.0211497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3765233,
+                    48.1852778
+                ]
+            },
+            "properties": {
+                "name": "Wien Hauptbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3645887,
+                    47.7645378
+                ]
+            },
+            "properties": {
+                "name": "St. Gilgen Busbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3852276,
+                    48.2417848
+                ]
+            },
+            "properties": {
+                "name": "Wien Handelskai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2925922,
+                    47.4452053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7096979,
+                    47.1034104
+                ]
+            },
+            "properties": {
+                "name": "Gleisdorf Busbahnhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0441526,
+                    47.8129191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6270668,
+                    47.7115556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2012058,
+                    47.3488571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0867646,
+                    47.2449953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3334366,
+                    47.2627555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3453504,
+                    47.2701846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3652861,
+                    47.2747483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0984053,
+                    47.1687241
+                ]
+            },
+            "properties": {
+                "name": "Bad Hofgastein Busterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1053116,
+                    47.2662762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0925682,
+                    47.2550181
+                ]
+            },
+            "properties": {
+                "name": "Materialseilbahn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.08901,
+                    47.2591348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1583204,
+                    47.1440197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0838266,
+                    47.2568905
+                ]
+            },
+            "properties": {
+                "name": "Materialseilbahn Oberwaldalpe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0863728,
+                    47.2649428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0857841,
+                    47.2625864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0876599,
+                    47.2667856
+                ]
+            },
+            "properties": {
+                "name": "Materialseilbahn Ander Alp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0858757,
+                    47.2651723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1696569,
+                    47.1192121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9659806,
+                    47.9239892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7170637,
+                    48.3385196
+                ]
+            },
+            "properties": {
+                "name": "Busbahnhof G\u00e4nserndorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3039964,
+                    47.79551
+                ]
+            },
+            "properties": {
+                "name": "Busterminal Fuschl am See"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7276449,
+                    46.7027215
+                ]
+            },
+            "properties": {
+                "name": "Kreisverkehr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.305651,
+                    47.0059572
+                ]
+            },
+            "properties": {
+                "name": "K\u00fcberlweg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3790907,
+                    48.2024801
+                ]
+            },
+            "properties": {
+                "name": "Stadtpark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.848048,
+                    46.6178862
+                ]
+            },
+            "properties": {
+                "name": "Busbahnhof Regionalverkehr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8492142,
+                    46.6180248
+                ]
+            },
+            "properties": {
+                "name": "Busbahnhof"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

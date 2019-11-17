@@ -1,0 +1,948 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6348269,
+                    47.6820845
+                ]
+            },
+            "properties": {
+                "name": "Gy\u0151r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.267029,
+                    47.849676
+                ]
+            },
+            "properties": {
+                "name": "Mosonmagyar\u00f3v\u00e1r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3928956,
+                    47.5854431
+                ]
+            },
+            "properties": {
+                "name": "Tatab\u00e1nya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8606379,
+                    47.8217073
+                ]
+            },
+            "properties": {
+                "name": "Szob, kisvas\u00fat v\u00e1."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5443173,
+                    47.4463711
+                ]
+            },
+            "properties": {
+                "name": "S\u00fclys\u00e1p sz. italbolt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.147674,
+                    46.7087245
+                ]
+            },
+            "properties": {
+                "name": "Csongr\u00e1d, aut\u00f3busz-\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0204391,
+                    47.4644823
+                ]
+            },
+            "properties": {
+                "name": "Kelenf\u00f6ld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.443683,
+                    47.3875804
+                ]
+            },
+            "properties": {
+                "name": "Cs\u00e1kv\u00e1r, G\u00e1nti \u00fat 61."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0836705,
+                    47.5004475
+                ]
+            },
+            "properties": {
+                "name": "Budapest-Keleti p\u00e1lyaudvar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.527954,
+                    47.4849166
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00e1r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4952209,
+                    47.5191018
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00e1rliget"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8292471,
+                    47.6385535
+                ]
+            },
+            "properties": {
+                "name": "Piliscsaba vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8378352,
+                    47.9313046
+                ]
+            },
+            "properties": {
+                "name": "Nagyb\u00f6rzs\u00f6ny, kisvas\u00fat v\u00e1."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0450023,
+                    47.6920659
+                ]
+            },
+            "properties": {
+                "name": "\"Cs & K\" vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7337396,
+                    47.1960688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7606372,
+                    47.1795141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8020729,
+                    47.1545497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5834868,
+                    47.4239502
+                ]
+            },
+            "properties": {
+                "name": "Alcs\u00fatdoboz Arbor\u00e9tum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5946506,
+                    47.4664351
+                ]
+            },
+            "properties": {
+                "name": "Pusk\u00e1s Akad\u00e9mia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5878791,
+                    47.4410262
+                ]
+            },
+            "properties": {
+                "name": "Felcs\u00fat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6824862,
+                    47.3601123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5118244,
+                    46.3738483
+                ]
+            },
+            "properties": {
+                "name": "Banga-tanya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5118847,
+                    46.3732476
+                ]
+            },
+            "properties": {
+                "name": "Banga-tanya"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1142804,
+                    47.7497971
+                ]
+            },
+            "properties": {
+                "name": "Kom\u00e1rom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6099629,
+                    46.4500513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6107068,
+                    46.4502389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.064725,
+                    47.5317872
+                ]
+            },
+            "properties": {
+                "name": "\u00c1rp\u00e1d h\u00edd aut\u00f3busz-\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2450669,
+                    47.8780885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9739876,
+                    47.3131898
+                ]
+            },
+            "properties": {
+                "name": "T\u00f6k\u00f6l"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0197051,
+                    47.3364797
+                ]
+            },
+            "properties": {
+                "name": "Szigetszentmikl\u00f3s als\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6191706,
+                    47.0133062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1477046,
+                    46.8851507
+                ]
+            },
+            "properties": {
+                "name": "Balatonszabadi, harangl\u00e1b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0352072,
+                    47.4396723
+                ]
+            },
+            "properties": {
+                "name": "Budafok kocsisz\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1105677,
+                    47.5645771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0148212,
+                    47.0284302
+                ]
+            },
+            "properties": {
+                "name": "Balatonalm\u00e1di vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3274502,
+                    47.663871
+                ]
+            },
+            "properties": {
+                "name": "Tata vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4765373,
+                    46.8369664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3697498,
+                    47.4342272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3641547,
+                    47.4345791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1677122,
+                    47.0173927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9747555,
+                    46.9853646
+                ]
+            },
+            "properties": {
+                "name": "Als\u00f3\u00f6rs vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6585809,
+                    47.2100566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0318171,
+                    47.9297732
+                ]
+            },
+            "properties": {
+                "name": "Tisza\u00fajv\u00e1ros, aut\u00f3busz-\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7374028,
+                    47.4100913
+                ]
+            },
+            "properties": {
+                "name": "Nagyk\u00e1ta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1059432,
+                    46.3666053
+                ]
+            },
+            "properties": {
+                "name": "S\u00e1ndorfalva aut\u00f3busz-\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9930228,
+                    47.5238937
+                ]
+            },
+            "properties": {
+                "name": "Pasar\u00e9ti buszv\u00e9g\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8324031,
+                    46.9255172
+                ]
+            },
+            "properties": {
+                "name": "Asz\u00f3f\u0151 vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5149854,
+                    47.7520116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7500156,
+                    47.1320482
+                ]
+            },
+            "properties": {
+                "name": "Herend aut\u00f3busz-\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7478222,
+                    46.8799103
+                ]
+            },
+            "properties": {
+                "name": "Balatonakali-D\u00f6rgicse vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7844598,
+                    48.1286402
+                ]
+            },
+            "properties": {
+                "name": "Rep\u00fcl\u0151t\u00e9r aut\u00f3busz-v\u00e9g\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5130926,
+                    47.669154
+                ]
+            },
+            "properties": {
+                "name": "Busz\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9517692,
+                    47.7801015
+                ]
+            },
+            "properties": {
+                "name": "Nagymaros v\u00e1."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.030237,
+                    47.9261592
+                ]
+            },
+            "properties": {
+                "name": "Vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4374232,
+                    48.2866471
+                ]
+            },
+            "properties": {
+                "name": "Vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9088231,
+                    46.5383349
+                ]
+            },
+            "properties": {
+                "name": "Csengele v\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8284355,
+                    47.1400395
+                ]
+            },
+            "properties": {
+                "name": "Egykori \u00e1llom\u00e1s (Rum kast\u00e9ly)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6553786,
+                    47.657297
+                ]
+            },
+            "properties": {
+                "name": "Vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5592077,
+                    47.3036507
+                ]
+            },
+            "properties": {
+                "name": "Vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9590561,
+                    47.7911485
+                ]
+            },
+            "properties": {
+                "name": "Nagymaros-Visegr\u00e1d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3923998,
+                    47.6937631
+                ]
+            },
+            "properties": {
+                "name": "Galgam\u00e1csa vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4327232,
+                    48.2948712
+                ]
+            },
+            "properties": {
+                "name": "Ser\u00e9nyi t\u00e9r aut\u00f3busz v\u00e1. Miskolc fel\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4332259,
+                    48.2948836
+                ]
+            },
+            "properties": {
+                "name": "Ser\u00e9nyi t\u00e9r aut\u00f3busz v\u00e1. \u00d3zd fel\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0248265,
+                    47.4998144
+                ]
+            },
+            "properties": {
+                "name": "D\u00e9li p\u00e1lyaudvar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1924223,
+                    48.0341825
+                ]
+            },
+            "properties": {
+                "name": "busz v\u00e1r\u00f3, K\u00f6zs\u00e9gh\u00e1za Fed\u00e9mes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1840216,
+                    48.0303902
+                ]
+            },
+            "properties": {
+                "name": "busz v\u00e1r\u00f3, 3.sz. italbolt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6894126,
+                    46.8739851
+                ]
+            },
+            "properties": {
+                "name": "Z\u00e1nka-K\u00f6vesk\u00e1l"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8214993,
+                    46.5606127
+                ]
+            },
+            "properties": {
+                "name": "vas\u00fat\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5971941,
+                    47.6261798
+                ]
+            },
+            "properties": {
+                "name": "Tura station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0196094,
+                    46.2870135
+                ]
+            },
+            "properties": {
+                "name": "Battonya, aut\u00f3busz-\u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3492332,
+                    47.3908367
+                ]
+            },
+            "properties": {
+                "name": "\u00dcll\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3889289,
+                    47.3711078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2248352,
+                    47.5450469
+                ]
+            },
+            "properties": {
+                "name": "Cs\u00f6m\u00f6r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7957341,
+                    46.760242
+                ]
+            },
+            "properties": {
+                "name": "Kondoros, aut\u00f3busz-v\u00e1r\u00f3terem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.078178,
+                    47.9462396
+                ]
+            },
+            "properties": {
+                "name": "M\u00e1traderecske mh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0027484,
+                    47.3316281
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

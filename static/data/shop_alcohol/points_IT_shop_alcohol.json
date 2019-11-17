@@ -1,0 +1,6406 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.398276,
+                    45.8361133
+                ]
+            },
+            "properties": {
+                "name": "Cantina Pradelle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3688248,
+                    44.6767659
+                ]
+            },
+            "properties": {
+                "name": "Cantina Garagnani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7551118,
+                    45.632638
+                ]
+            },
+            "properties": {
+                "name": "Cantina del Beato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8716984,
+                    41.1198211
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Sportelli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0898422,
+                    46.2125229
+                ]
+            },
+            "properties": {
+                "name": "Azienda Agricola Barone de Cles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0005858,
+                    46.649608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3126606,
+                    45.9064905
+                ]
+            },
+            "properties": {
+                "name": "Sfriso Vini e Liquori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3158882,
+                    43.5521273
+                ]
+            },
+            "properties": {
+                "name": "Salatti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1115237,
+                    43.9024177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8122418,
+                    44.4269369
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Ricci Giacomo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9290293,
+                    44.646228
+                ]
+            },
+            "properties": {
+                "name": "Giovanni Voerzio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6598265,
+                    45.9546141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4984975,
+                    43.8102658
+                ]
+            },
+            "properties": {
+                "name": "Vino e Convivio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9754231,
+                    44.6450145
+                ]
+            },
+            "properties": {
+                "name": "Cantina Terre del Barolo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0684115,
+                    45.7231639
+                ]
+            },
+            "properties": {
+                "name": "La Cantina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7113149,
+                    41.6824253
+                ]
+            },
+            "properties": {
+                "name": "Cantina Vinicola San Tommaso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6889989,
+                    41.6980402
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale della Selva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3364231,
+                    46.505554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7013162,
+                    42.6602747
+                ]
+            },
+            "properties": {
+                "name": "Osteria L'Assenzio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8828102,
+                    45.5969581
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Lini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7639229,
+                    45.6001891
+                ]
+            },
+            "properties": {
+                "name": "Azienda Agricola Gentili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2664375,
+                    45.4297603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6986414,
+                    45.0680782
+                ]
+            },
+            "properties": {
+                "name": "Milano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6625129,
+                    45.9622883
+                ]
+            },
+            "properties": {
+                "name": "Ferronato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8863892,
+                    44.4367312
+                ]
+            },
+            "properties": {
+                "name": "Birrificio Maltus Faber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4080664,
+                    45.6650817
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale Val Leogra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1305981,
+                    39.0679868
+                ]
+            },
+            "properties": {
+                "name": "Astorino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1275461,
+                    39.0775729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.125834,
+                    39.083066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3424083,
+                    44.1688994
+                ]
+            },
+            "properties": {
+                "name": "Rabino Vini e Liquori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1265212,
+                    39.0808874
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Marino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2034492,
+                    45.0244027
+                ]
+            },
+            "properties": {
+                "name": "Azienda Agricola La Travaglina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2110452,
+                    45.0271857
+                ]
+            },
+            "properties": {
+                "name": "Moroni G. e E."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2081216,
+                    45.0220291
+                ]
+            },
+            "properties": {
+                "name": "Azienda Agricola Isimbarda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1948892,
+                    45.0380093
+                ]
+            },
+            "properties": {
+                "name": "Corte Montini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1833594,
+                    45.0192722
+                ]
+            },
+            "properties": {
+                "name": "Azienda Agricola Marchesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1872695,
+                    45.0335896
+                ]
+            },
+            "properties": {
+                "name": "Sangiorgi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1825312,
+                    45.0246987
+                ]
+            },
+            "properties": {
+                "name": "Podere San Giorgio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1860291,
+                    45.0218746
+                ]
+            },
+            "properties": {
+                "name": "Azienda agricola Milanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1761264,
+                    45.0287903
+                ]
+            },
+            "properties": {
+                "name": "Azienda agricola Torre Sarolli-Griziotti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1905255,
+                    45.0182524
+                ]
+            },
+            "properties": {
+                "name": "Terre Bentivoglio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1769058,
+                    45.0277661
+                ]
+            },
+            "properties": {
+                "name": "Azienda agricola San Giuseppe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5639707,
+                    45.5210971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7276237,
+                    45.8341164
+                ]
+            },
+            "properties": {
+                "name": "La maison des amis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0593923,
+                    45.9193899
+                ]
+            },
+            "properties": {
+                "name": "Fiorenzo Consolati - Beer shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7317151,
+                    45.7674625
+                ]
+            },
+            "properties": {
+                "name": "Nardini basso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8484921,
+                    45.7795741
+                ]
+            },
+            "properties": {
+                "name": "Vinicola Baggio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9284515,
+                    43.5434665
+                ]
+            },
+            "properties": {
+                "name": "Filicaja wine shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9244806,
+                    43.5392368
+                ]
+            },
+            "properties": {
+                "name": "Podere la Casetta wine shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9245287,
+                    43.547124
+                ]
+            },
+            "properties": {
+                "name": "Azienda agricola Cristina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7321691,
+                    45.7676337
+                ]
+            },
+            "properties": {
+                "name": "Museo della Grappa Poli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8372657,
+                    45.8268859
+                ]
+            },
+            "properties": {
+                "name": "Liquori e Bibite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8393149,
+                    45.8298613
+                ]
+            },
+            "properties": {
+                "name": "La Cantinetta Vini Sfusi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6457488,
+                    45.7019398
+                ]
+            },
+            "properties": {
+                "name": "Distilleria POLI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4386655,
+                    41.9224928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.643157,
+                    45.5900158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8738622,
+                    45.4069657
+                ]
+            },
+            "properties": {
+                "name": "Passione Birra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0714475,
+                    45.9168192
+                ]
+            },
+            "properties": {
+                "name": "Concilio Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3952917,
+                    40.6307759
+                ]
+            },
+            "properties": {
+                "name": "Limoncello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2399448,
+                    43.4629554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.860151,
+                    41.118646
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.41779,
+                    44.226799
+                ]
+            },
+            "properties": {
+                "name": "La Vinoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9542862,
+                    44.4101502
+                ]
+            },
+            "properties": {
+                "name": "La Cristallina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2167449,
+                    44.9044084
+                ]
+            },
+            "properties": {
+                "name": "Enoteca La Cantina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1154891,
+                    43.4208924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6535065,
+                    41.9103347
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.176023,
+                    42.3521046
+                ]
+            },
+            "properties": {
+                "name": "Cantina Tollo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2497905,
+                    43.4648259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7335108,
+                    45.768142
+                ]
+            },
+            "properties": {
+                "name": "Da Michele"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3324352,
+                    40.1923334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1682301,
+                    42.353308
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5072795,
+                    43.8464111
+                ]
+            },
+            "properties": {
+                "name": "Vinark\u00eda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.954226,
+                    44.4032832
+                ]
+            },
+            "properties": {
+                "name": "La Cantina della Relia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0984138,
+                    46.2589291
+                ]
+            },
+            "properties": {
+                "name": "La nicchia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0140366,
+                    46.4018798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1400761,
+                    46.3346651
+                ]
+            },
+            "properties": {
+                "name": "Partesa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5019792,
+                    46.5179184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0504339,
+                    45.1382397
+                ]
+            },
+            "properties": {
+                "name": "Zizi Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0799096,
+                    45.8923861
+                ]
+            },
+            "properties": {
+                "name": "Cantine Col San Martino Mostra del Prosecco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7482299,
+                    40.6074356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.748812,
+                    40.608242
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Carlo Farris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1424866,
+                    37.8420194
+                ]
+            },
+            "properties": {
+                "name": "Il Vino della Rosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.522887,
+                    41.9284115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5188542,
+                    41.9308737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1497139,
+                    43.5115133
+                ]
+            },
+            "properties": {
+                "name": "Cantine Giannini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.861048,
+                    40.7367386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.945066,
+                    42.8931057
+                ]
+            },
+            "properties": {
+                "name": "Cantine Ravazzi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1386725,
+                    43.5728323
+                ]
+            },
+            "properties": {
+                "name": "Enoteca dei Sensi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3268221,
+                    44.1752213
+                ]
+            },
+            "properties": {
+                "name": "Vini liquori Vercelli & Bellora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1402624,
+                    43.5721537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3875896,
+                    43.6604809
+                ]
+            },
+            "properties": {
+                "name": "Tenuta la Novella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.638868,
+                    42.5540643
+                ]
+            },
+            "properties": {
+                "name": "Negozio Vini Zazzera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.706356,
+                    36.7917798
+                ]
+            },
+            "properties": {
+                "name": "Vini Winery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5128347,
+                    43.6830168
+                ]
+            },
+            "properties": {
+                "name": "Il Vinaio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2363688,
+                    40.6085606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9429962,
+                    44.4036643
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Petrelli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8753762,
+                    45.8694615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4421792,
+                    41.9348224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3293122,
+                    43.5477319
+                ]
+            },
+            "properties": {
+                "name": "Cantina di Cenaia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1329519,
+                    43.5712954
+                ]
+            },
+            "properties": {
+                "name": "Vino e prod. tipici toscani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1469399,
+                    43.5685361
+                ]
+            },
+            "properties": {
+                "name": "Cantine Boninsegni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2316987,
+                    44.3492113
+                ]
+            },
+            "properties": {
+                "name": "Cantine d'Italia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7024124,
+                    40.7061146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6990329,
+                    40.7092886
+                ]
+            },
+            "properties": {
+                "name": "Isola dei Nuraghi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1759839,
+                    41.8797259
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Bevitori, Viaggiatori e Poeti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7718422,
+                    43.8822197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7762625,
+                    43.8843076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7748194,
+                    43.8834724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3132922,
+                    43.5465241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2151977,
+                    42.2476258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2155088,
+                    42.2469388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8919618,
+                    41.1156173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8917904,
+                    41.1153437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9872899,
+                    43.6381556
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3606146,
+                    43.5562925
+                ]
+            },
+            "properties": {
+                "name": "Agricola I Fabbri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5276559,
+                    39.2768084
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale di Castiadas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1714734,
+                    45.5573501
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale del Conselvano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4456842,
+                    41.923284
+                ]
+            },
+            "properties": {
+                "name": "Vinoteca Belsito"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3877786,
+                    44.4217785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7322362,
+                    45.7673587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5894658,
+                    40.28921
+                ]
+            },
+            "properties": {
+                "name": "Vinarius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2515299,
+                    45.4226943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8597928,
+                    41.103527
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5817606,
+                    45.0646626
+                ]
+            },
+            "properties": {
+                "name": "Cantine Vespa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1897818,
+                    45.0221692
+                ]
+            },
+            "properties": {
+                "name": "Lozza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1880599,
+                    45.037038
+                ]
+            },
+            "properties": {
+                "name": "Podere cignoli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0063247,
+                    41.7308497
+                ]
+            },
+            "properties": {
+                "name": "Beer Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8784478,
+                    41.1048898
+                ]
+            },
+            "properties": {
+                "name": "Santa Teresa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2370309,
+                    43.4584844
+                ]
+            },
+            "properties": {
+                "name": "Lo Sfizio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2264336,
+                    45.0161966
+                ]
+            },
+            "properties": {
+                "name": "Azienda Agricola Manfredi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3427713,
+                    41.7779842
+                ]
+            },
+            "properties": {
+                "name": "Il cantinore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1892393,
+                    45.0250267
+                ]
+            },
+            "properties": {
+                "name": "Azienda agricola \"La Ci\u00e8sa\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1088415,
+                    46.2790625
+                ]
+            },
+            "properties": {
+                "name": "Cantine Rauscedo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8759387,
+                    37.7739137
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5408617,
+                    43.9705746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4251157,
+                    40.7469399
+                ]
+            },
+            "properties": {
+                "name": "Upal - Cantina Sociale Cisternino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.174114,
+                    45.3662623
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Berebene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6580771,
+                    45.152783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6562421,
+                    45.7472135
+                ]
+            },
+            "properties": {
+                "name": "Enoteca La Pergola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.845236,
+                    45.9552156
+                ]
+            },
+            "properties": {
+                "name": "Casa del Vino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1731172,
+                    45.458117
+                ]
+            },
+            "properties": {
+                "name": "Tenuta Aristide"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1147745,
+                    45.1500254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.392597,
+                    43.7907275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6525858,
+                    46.7282925
+                ]
+            },
+            "properties": {
+                "name": "Enovit - Mundus vini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6485326,
+                    46.7425393
+                ]
+            },
+            "properties": {
+                "name": "Cantina vini dell'Abbazia di Novacella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6020168,
+                    45.001609
+                ]
+            },
+            "properties": {
+                "name": "Parola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.865357,
+                    45.8050728
+                ]
+            },
+            "properties": {
+                "name": "Dal Bello Vini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9606525,
+                    37.4606161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5550789,
+                    37.97414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5188331,
+                    42.9337323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9631851,
+                    43.8533544
+                ]
+            },
+            "properties": {
+                "name": "Raineri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3514248,
+                    43.8572685
+                ]
+            },
+            "properties": {
+                "name": "Cantine Chicchi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3132742,
+                    43.880935
+                ]
+            },
+            "properties": {
+                "name": "Delta Bevande, Distributore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4438434,
+                    43.3982111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1766308,
+                    42.7337823
+                ]
+            },
+            "properties": {
+                "name": "Azienda agraria Poggio Lungo - Farmwinery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6645899,
+                    45.6885922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5222984,
+                    44.9475319
+                ]
+            },
+            "properties": {
+                "name": "Cantina Lodigiani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2909459,
+                    43.8926865
+                ]
+            },
+            "properties": {
+                "name": "Chicchi Pietro, Vendita Vino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6506342,
+                    46.7447745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3593611,
+                    42.3841337
+                ]
+            },
+            "properties": {
+                "name": "Vanni's Caf\u00e8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1676494,
+                    40.782497
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale Giogantinu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8937859,
+                    41.6396774
+                ]
+            },
+            "properties": {
+                "name": "Carpineti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4007911,
+                    45.0097005
+                ]
+            },
+            "properties": {
+                "name": "Ca San Carlo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6108175,
+                    40.6456557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.610513,
+                    40.6385889
+                ]
+            },
+            "properties": {
+                "name": "I Giardini di Ravello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7474911,
+                    43.8446741
+                ]
+            },
+            "properties": {
+                "name": "Mastro Vinaio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0062238,
+                    45.8773335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.932743,
+                    44.4082441
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Migone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8716845,
+                    41.0015025
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7293284,
+                    42.0467542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6522043,
+                    39.7604207
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale Marrubiu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3409293,
+                    44.7891965
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Medici di Medici Angelo e Figli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8341389,
+                    40.6445239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7304051,
+                    36.9253894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1980997,
+                    42.8058354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0357697,
+                    46.0805039
+                ]
+            },
+            "properties": {
+                "name": "Bottiglieria ..."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3360792,
+                    43.5450087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4721259,
+                    41.8976942
+                ]
+            },
+            "properties": {
+                "name": "Cul de Sac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4362506,
+                    43.6160428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0970014,
+                    41.2423684
+                ]
+            },
+            "properties": {
+                "name": "Winery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7810726,
+                    43.0904479
+                ]
+            },
+            "properties": {
+                "name": "Crociani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6768771,
+                    45.0648138
+                ]
+            },
+            "properties": {
+                "name": "San Quintino 6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4711908,
+                    43.6188484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.255743,
+                    44.6716285
+                ]
+            },
+            "properties": {
+                "name": "Borgo Maragliano Winary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9293051,
+                    44.4099755
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Bianchi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9292739,
+                    44.4089443
+                ]
+            },
+            "properties": {
+                "name": "Pesce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.733326,
+                    46.815488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5585651,
+                    45.6177381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1426258,
+                    46.6158673
+                ]
+            },
+            "properties": {
+                "name": "Gourmetladele"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8299485,
+                    45.5830464
+                ]
+            },
+            "properties": {
+                "name": "Azienda Agricola Gasparini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3696323,
+                    43.0918654
+                ]
+            },
+            "properties": {
+                "name": "Sasso dei Lupi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4909602,
+                    42.3687353
+                ]
+            },
+            "properties": {
+                "name": "VI.CO.SA Vini Colli Sabini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1853697,
+                    46.6674585
+                ]
+            },
+            "properties": {
+                "name": "Vinothek Rametz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7894919,
+                    44.4271185
+                ]
+            },
+            "properties": {
+                "name": "Vini Allara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2862609,
+                    45.7118976
+                ]
+            },
+            "properties": {
+                "name": "Vino sfuso e Bottiglieria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8128657,
+                    44.6816822
+                ]
+            },
+            "properties": {
+                "name": "cantina sociale Gavi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2802356,
+                    45.7164318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7391247,
+                    44.4698507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6713749,
+                    42.9913927
+                ]
+            },
+            "properties": {
+                "name": "Cantina Veneri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3916559,
+                    41.530444
+                ]
+            },
+            "properties": {
+                "name": "Birrificio Minimo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2780838,
+                    43.7809319
+                ]
+            },
+            "properties": {
+                "name": "Firenze Birra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2407709,
+                    43.7839564
+                ]
+            },
+            "properties": {
+                "name": "Vigna Vittoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2776234,
+                    43.7633491
+                ]
+            },
+            "properties": {
+                "name": "Grand Cru Firenze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4913995,
+                    43.278395
+                ]
+            },
+            "properties": {
+                "name": "OR.IL. Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4796561,
+                    46.6027887
+                ]
+            },
+            "properties": {
+                "name": "La Cantina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9362915,
+                    44.4099551
+                ]
+            },
+            "properties": {
+                "name": "GM Luico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3938994,
+                    43.1036275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1257433,
+                    46.2805433
+                ]
+            },
+            "properties": {
+                "name": "Vinoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4335836,
+                    45.8676563
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale Codogn\u00e8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2126631,
+                    46.300769
+                ]
+            },
+            "properties": {
+                "name": "Turmhof Vinothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2558631,
+                    46.3912977
+                ]
+            },
+            "properties": {
+                "name": "Manincor Vinothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2649046,
+                    46.4446553
+                ]
+            },
+            "properties": {
+                "name": "Hofbrennerei Ortler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1125233,
+                    42.7172731
+                ]
+            },
+            "properties": {
+                "name": "Cantina Foresi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9637134,
+                    40.3339609
+                ]
+            },
+            "properties": {
+                "name": "Cantine due Palme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0038697,
+                    40.2594169
+                ]
+            },
+            "properties": {
+                "name": "Tenuta Annibale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1238515,
+                    39.0800601
+                ]
+            },
+            "properties": {
+                "name": "La Vecchia Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3022289,
+                    45.9823687
+                ]
+            },
+            "properties": {
+                "name": "Spaccio aziendale Distilleria GRAPPA LIQUORI VINO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7921047,
+                    45.6629654
+                ]
+            },
+            "properties": {
+                "name": "Bar Enoteca De Salve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7031897,
+                    46.614524
+                ]
+            },
+            "properties": {
+                "name": "Hofbrennerei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4551621,
+                    46.4854613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7941545,
+                    43.6855646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7506984,
+                    42.9265632
+                ]
+            },
+            "properties": {
+                "name": "Vino Sfuso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7751419,
+                    39.6869184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7712393,
+                    39.6818406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4762126,
+                    41.9090384
+                ]
+            },
+            "properties": {
+                "name": "Buccone Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8761698,
+                    41.1123434
+                ]
+            },
+            "properties": {
+                "name": "Terra dei vini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5507928,
+                    41.8627792
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Bomprezzi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5103197,
+                    41.884593
+                ]
+            },
+            "properties": {
+                "name": "Off License"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.431564,
+                    46.4120943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6827684,
+                    40.4810906
+                ]
+            },
+            "properties": {
+                "name": "Cantine Cifarelli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2163525,
+                    45.4844616
+                ]
+            },
+            "properties": {
+                "name": "perbacco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3716974,
+                    46.5020255
+                ]
+            },
+            "properties": {
+                "name": "Plonerhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2521563,
+                    46.4205559
+                ]
+            },
+            "properties": {
+                "name": "Kellerei Kaltern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2348057,
+                    46.4186821
+                ]
+            },
+            "properties": {
+                "name": "Niklaserhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2521618,
+                    46.4192816
+                ]
+            },
+            "properties": {
+                "name": "Erste+Neue Kellerei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1388678,
+                    46.6553854
+                ]
+            },
+            "properties": {
+                "name": "Privatbrennerei Unterthurner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2447733,
+                    46.8159617
+                ]
+            },
+            "properties": {
+                "name": "Pseirer Weinladele"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3266267,
+                    42.2691518
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale \"Progresso Agricolo\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4673444,
+                    41.8977958
+                ]
+            },
+            "properties": {
+                "name": "Il Goccetto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5046129,
+                    43.8450465
+                ]
+            },
+            "properties": {
+                "name": "De Cervesia Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0414607,
+                    43.6678362
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8811756,
+                    45.8634392
+                ]
+            },
+            "properties": {
+                "name": "ArtigianBeer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8553528,
+                    45.8805756
+                ]
+            },
+            "properties": {
+                "name": "Delirium Tremens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8746484,
+                    45.8720287
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Torboli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0006001,
+                    44.4481062
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Il Cicchetto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.0495077,
+                    45.1378364
+                ]
+            },
+            "properties": {
+                "name": "Chez G&G"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6489194,
+                    38.1030364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1887829,
+                    46.6853993
+                ]
+            },
+            "properties": {
+                "name": "Vinothek Mairhofer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2069972,
+                    45.4709923
+                ]
+            },
+            "properties": {
+                "name": "Drogheria Raddrizzani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.676257,
+                    45.0521266
+                ]
+            },
+            "properties": {
+                "name": "Giulio srls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.246664,
+                    46.5310144
+                ]
+            },
+            "properties": {
+                "name": "Kiemberger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4847969,
+                    41.9012758
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1283576,
+                    39.0718023
+                ]
+            },
+            "properties": {
+                "name": "Mondo Vino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.5213618,
+                    45.0685002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2204759,
+                    43.9399565
+                ]
+            },
+            "properties": {
+                "name": "Birrificio del Forte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2898671,
+                    42.3607262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2824716,
+                    45.8795158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6469335,
+                    44.389572
+                ]
+            },
+            "properties": {
+                "name": "La cantina del divin Bacco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6494775,
+                    44.3910643
+                ]
+            },
+            "properties": {
+                "name": "A botte pinn-a"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6786425,
+                    44.4044728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6701894,
+                    44.4045809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3776354,
+                    44.9932178
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Monferrina Mazzetti d'Altavilla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7944971,
+                    45.7773222
+                ]
+            },
+            "properties": {
+                "name": "Gist Beershop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7136898,
+                    41.7212034
+                ]
+            },
+            "properties": {
+                "name": "Vino \"Il Furioso\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6730643,
+                    45.0618312
+                ]
+            },
+            "properties": {
+                "name": "Papa No\u00e8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4906199,
+                    41.8674613
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Virdis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0529402,
+                    44.6391234
+                ]
+            },
+            "properties": {
+                "name": "Cantina \"Mossio Fratelli\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0628751,
+                    44.6292861
+                ]
+            },
+            "properties": {
+                "name": "Cantina \"Fratelli Giribaldi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0559711,
+                    44.6306643
+                ]
+            },
+            "properties": {
+                "name": "Cantina \"Giribaldi Mario\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0525218,
+                    44.6325616
+                ]
+            },
+            "properties": {
+                "name": "Viticoltori Associati di Rodello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0709258,
+                    44.6302904
+                ]
+            },
+            "properties": {
+                "name": "Cantina \"Armando Cagnasso\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8768368,
+                    41.1075338
+                ]
+            },
+            "properties": {
+                "name": "Il Divino Bacco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8769354,
+                    41.1044422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1538483,
+                    46.6907341
+                ]
+            },
+            "properties": {
+                "name": "Stricker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7546381,
+                    44.3278653
+                ]
+            },
+            "properties": {
+                "name": "Tenuta Vinicola Ca' Lunga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6828372,
+                    43.5255676
+                ]
+            },
+            "properties": {
+                "name": "Tenuta del Burchino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6550408,
+                    44.1478051
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Internazionale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1295003,
+                    39.076568
+                ]
+            },
+            "properties": {
+                "name": "Enoteca La Porta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6613347,
+                    45.0796582
+                ]
+            },
+            "properties": {
+                "name": "Il Vinaio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.364692,
+                    44.5039221
+                ]
+            },
+            "properties": {
+                "name": "Whiskyteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6049838,
+                    45.7733796
+                ]
+            },
+            "properties": {
+                "name": "Mickeys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6046081,
+                    44.6705751
+                ]
+            },
+            "properties": {
+                "name": "Cucchi Vini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4093358,
+                    45.1018856
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale di San Giorgio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6044059,
+                    44.8336538
+                ]
+            },
+            "properties": {
+                "name": "Cantina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4759054,
+                    41.8812416
+                ]
+            },
+            "properties": {
+                "name": "Gradiplato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0938696,
+                    45.8093391
+                ]
+            },
+            "properties": {
+                "name": "Oro di Scozia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5104335,
+                    41.9270138
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Arcioni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0034169,
+                    46.6497508
+                ]
+            },
+            "properties": {
+                "name": "Naturnser Vinothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6697287,
+                    43.5292576
+                ]
+            },
+            "properties": {
+                "name": "Cantine \"Badia di Morrona\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.197196,
+                    44.4192331
+                ]
+            },
+            "properties": {
+                "name": "alpine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1425913,
+                    46.6421073
+                ]
+            },
+            "properties": {
+                "name": "Bauernbrennerei Lahnerhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.8784446,
+                    44.9586431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9499861,
+                    45.8291448
+                ]
+            },
+            "properties": {
+                "name": "Cave du Mont Blanc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4799668,
+                    46.616132
+                ]
+            },
+            "properties": {
+                "name": "Latschenbrennerei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2047051,
+                    45.9469573
+                ]
+            },
+            "properties": {
+                "name": "La Bottega del Vino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2499217,
+                    46.4173209
+                ]
+            },
+            "properties": {
+                "name": "Winecenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.309688,
+                    44.4903056
+                ]
+            },
+            "properties": {
+                "name": "Astral Beers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5083949,
+                    43.8468742
+                ]
+            },
+            "properties": {
+                "name": "La Bottiglieria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3393531,
+                    44.832343
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1392723,
+                    46.5469075
+                ]
+            },
+            "properties": {
+                "name": "La Scaletta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3438472,
+                    44.4976015
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Italiana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.055488,
+                    43.4114008
+                ]
+            },
+            "properties": {
+                "name": "San Luigi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3297123,
+                    45.9762007
+                ]
+            },
+            "properties": {
+                "name": "Nonino Distillatori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9742384,
+                    44.390089
+                ]
+            },
+            "properties": {
+                "name": "Bar La Tartana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0656352,
+                    44.4869869
+                ]
+            },
+            "properties": {
+                "name": "Cantina La Mancina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4314548,
+                    43.3917467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4354476,
+                    43.3907892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7238513,
+                    43.1042147
+                ]
+            },
+            "properties": {
+                "name": "Vino Contadino di Valtalini Stefano Simonetti Enrico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0351814,
+                    43.2606964
+                ]
+            },
+            "properties": {
+                "name": "Cantine Maraviglia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5229858,
+                    45.6056474
+                ]
+            },
+            "properties": {
+                "name": "Vom Fass Sal\u00f2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0746357,
+                    46.6841617
+                ]
+            },
+            "properties": {
+                "name": "Hofbrennerei Gaudenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0729721,
+                    46.6837289
+                ]
+            },
+            "properties": {
+                "name": "Schlo\u00dfweingut Stachlburg - Weinverkauf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8490321,
+                    46.0446081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3218169,
+                    45.433761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6521422,
+                    43.5537364
+                ]
+            },
+            "properties": {
+                "name": "casa del vino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0546768,
+                    37.4948914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3509961,
+                    44.4891448
+                ]
+            },
+            "properties": {
+                "name": "Fiaschetteria S. Stefano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8592507,
+                    45.6236914
+                ]
+            },
+            "properties": {
+                "name": "Antico Fenilon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2320668,
+                    44.7869672
+                ]
+            },
+            "properties": {
+                "name": "Alessandro Winery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6996423,
+                    41.117195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3468267,
+                    44.3095593
+                ]
+            },
+            "properties": {
+                "name": "Da Claudio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2856482,
+                    37.0652545
+                ]
+            },
+            "properties": {
+                "name": "Civico Maltato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9406114,
+                    46.1822541
+                ]
+            },
+            "properties": {
+                "name": "Ronco Margherita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4005267,
+                    40.8379361
+                ]
+            },
+            "properties": {
+                "name": "Paolo dettori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3743945,
+                    40.6262074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0974718,
+                    41.2314486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2269184,
+                    45.8067902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8076621,
+                    46.1550493
+                ]
+            },
+            "properties": {
+                "name": "La Cantinota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4846656,
+                    44.4709596
+                ]
+            },
+            "properties": {
+                "name": "Birrificio dell'AltaVia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8628229,
+                    44.3625742
+                ]
+            },
+            "properties": {
+                "name": "Ravotti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7670209,
+                    42.9807654
+                ]
+            },
+            "properties": {
+                "name": "vinicola bernardo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0609483,
+                    45.429474
+                ]
+            },
+            "properties": {
+                "name": "Bottega della birra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2598091,
+                    40.8556943
+                ]
+            },
+            "properties": {
+                "name": "Bibite & Sfizi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1329958,
+                    46.5343703
+                ]
+            },
+            "properties": {
+                "name": "La Fontana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1377782,
+                    46.5419351
+                ]
+            },
+            "properties": {
+                "name": "Da Marisa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6072792,
+                    40.665783
+                ]
+            },
+            "properties": {
+                "name": "Latorre Drogheria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.503649,
+                    45.8898919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1108954,
+                    37.5052537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4779278,
+                    41.8787679
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Bernabei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2363222,
+                    45.2938984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0051332,
+                    45.8802548
+                ]
+            },
+            "properties": {
+                "name": "Ruggeri & C. Ruggeri & C. Spa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.897681,
+                    42.8991234
+                ]
+            },
+            "properties": {
+                "name": "Gabrielli Quirino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0502899,
+                    37.8663791
+                ]
+            },
+            "properties": {
+                "name": "Patria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1168012,
+                    46.4982643
+                ]
+            },
+            "properties": {
+                "name": "Whiskeria Toilasor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3202011,
+                    45.9421578
+                ]
+            },
+            "properties": {
+                "name": "Zardetto Spumanti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8812724,
+                    38.020815
+                ]
+            },
+            "properties": {
+                "name": "Vino e liquori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4552242,
+                    41.8615289
+                ]
+            },
+            "properties": {
+                "name": "L'acino che vola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.396448,
+                    45.3244804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.320422,
+                    45.9422592
+                ]
+            },
+            "properties": {
+                "name": "Zardetto Spumanti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3231216,
+                    45.4364794
+                ]
+            },
+            "properties": {
+                "name": "cantina Arnaldi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6676534,
+                    45.7945229
+                ]
+            },
+            "properties": {
+                "name": "La Vineria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6683481,
+                    45.7951887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9290022,
+                    44.6450676
+                ]
+            },
+            "properties": {
+                "name": "Cantina Estense"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5359824,
+                    44.5390767
+                ]
+            },
+            "properties": {
+                "name": "Bottiglieria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4332585,
+                    43.0258052
+                ]
+            },
+            "properties": {
+                "name": "Osteria del Museo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7393519,
+                    44.1001052
+                ]
+            },
+            "properties": {
+                "name": "The Wine House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6375352,
+                    45.0801804
+                ]
+            },
+            "properties": {
+                "name": "Vini...AMO La Badia Montegrappa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6999167,
+                    45.0629347
+                ]
+            },
+            "properties": {
+                "name": "Antica Enoteca del Borgo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6575604,
+                    45.0590446
+                ]
+            },
+            "properties": {
+                "name": "Ostu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6606868,
+                    45.0563466
+                ]
+            },
+            "properties": {
+                "name": "Paissa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6616354,
+                    45.0571195
+                ]
+            },
+            "properties": {
+                "name": "La Cave \u00e0 Mill\u00e9simes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.663131,
+                    45.0589582
+                ]
+            },
+            "properties": {
+                "name": "La Petite Cave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6745116,
+                    45.0608179
+                ]
+            },
+            "properties": {
+                "name": "Antiche Bottiglie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6731928,
+                    45.0585593
+                ]
+            },
+            "properties": {
+                "name": "Lo Sfuso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6729889,
+                    45.0612873
+                ]
+            },
+            "properties": {
+                "name": "La Guendalina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6761342,
+                    45.0478946
+                ]
+            },
+            "properties": {
+                "name": "il Vinarium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6761417,
+                    45.0521385
+                ]
+            },
+            "properties": {
+                "name": "Gabri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6828062,
+                    45.057397
+                ]
+            },
+            "properties": {
+                "name": "Rossorubino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6930124,
+                    45.072259
+                ]
+            },
+            "properties": {
+                "name": "Rossini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.693408,
+                    45.0693499
+                ]
+            },
+            "properties": {
+                "name": "La Buta Stupa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6928491,
+                    45.063135
+                ]
+            },
+            "properties": {
+                "name": "Magazzino 52"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6846678,
+                    45.0632736
+                ]
+            },
+            "properties": {
+                "name": "Sodo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6801258,
+                    45.0749232
+                ]
+            },
+            "properties": {
+                "name": "Cru la Vineria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6783201,
+                    45.0762257
+                ]
+            },
+            "properties": {
+                "name": "Take a Wine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6782022,
+                    45.0746188
+                ]
+            },
+            "properties": {
+                "name": "Vinolento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6709931,
+                    45.0765795
+                ]
+            },
+            "properties": {
+                "name": "Enodolceria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6835189,
+                    45.0756445
+                ]
+            },
+            "properties": {
+                "name": "Damarco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.672939,
+                    45.0651777
+                ]
+            },
+            "properties": {
+                "name": "Parola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1166056,
+                    45.4358562
+                ]
+            },
+            "properties": {
+                "name": "Vineria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5266214,
+                    39.7885084
+                ]
+            },
+            "properties": {
+                "name": "Antichi Poderi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3147327,
+                    39.8266921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3352228,
+                    44.9813881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2232106,
+                    45.7535863
+                ]
+            },
+            "properties": {
+                "name": "Dolcenoteca Trattoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1255733,
+                    39.0822227
+                ]
+            },
+            "properties": {
+                "name": "De Luca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8738547,
+                    40.9999341
+                ]
+            },
+            "properties": {
+                "name": "Angiuli Donato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.134065,
+                    46.5350317
+                ]
+            },
+            "properties": {
+                "name": "Whiskeria Toilasor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8792916,
+                    45.4042273
+                ]
+            },
+            "properties": {
+                "name": "Beer Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5396204,
+                    45.8839868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8713016,
+                    40.7467421
+                ]
+            },
+            "properties": {
+                "name": "L'Agrodolce Enoteca E Prodotti Tipici"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8716732,
+                    40.7465102
+                ]
+            },
+            "properties": {
+                "name": "Matters Rosa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5158957,
+                    43.3114845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3351345,
+                    44.9816597
+                ]
+            },
+            "properties": {
+                "name": "Azienda Vitivinicola Vigano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7454146,
+                    36.925708
+                ]
+            },
+            "properties": {
+                "name": "Il Barocco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3168022,
+                    43.5560709
+                ]
+            },
+            "properties": {
+                "name": "La botte der briao"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9019092,
+                    43.7436427
+                ]
+            },
+            "properties": {
+                "name": "Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1375868,
+                    46.6523537
+                ]
+            },
+            "properties": {
+                "name": "Weingut Gruberhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1830517,
+                    46.6862374
+                ]
+            },
+            "properties": {
+                "name": "Detailverkauf Wein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4717828,
+                    41.8992278
+                ]
+            },
+            "properties": {
+                "name": "Liquori e Pasta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3379936,
+                    44.1707646
+                ]
+            },
+            "properties": {
+                "name": "Ars Di..Vinum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1121037,
+                    46.6780929
+                ]
+            },
+            "properties": {
+                "name": "Destillate-Shop S. Stocker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2830957,
+                    40.8782864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3566102,
+                    40.5836862
+                ]
+            },
+            "properties": {
+                "name": "Tabacchi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3255739,
+                    45.7385331
+                ]
+            },
+            "properties": {
+                "name": "La bonne bouteille"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1951599,
+                    45.5270764
+                ]
+            },
+            "properties": {
+                "name": "Casa del Bere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.8522627,
+                    45.1585797
+                ]
+            },
+            "properties": {
+                "name": "Spaccio Aziendale Birrificio Parsifal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1732372,
+                    44.0075807
+                ]
+            },
+            "properties": {
+                "name": "Carpe Diem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1645094,
+                    45.4493565
+                ]
+            },
+            "properties": {
+                "name": "Vinoir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3450005,
+                    44.0998768
+                ]
+            },
+            "properties": {
+                "name": "Burioli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0416392,
+                    45.6238284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2026426,
+                    45.6704477
+                ]
+            },
+            "properties": {
+                "name": "Enopolium 14 luglio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3437694,
+                    42.2430733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7033842,
+                    44.6826236
+                ]
+            },
+            "properties": {
+                "name": "Forti del vento"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.672299,
+                    44.6539143
+                ]
+            },
+            "properties": {
+                "name": "Cascina Boccaccio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6690484,
+                    44.6487462
+                ]
+            },
+            "properties": {
+                "name": "Cascina Borgatta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.940515,
+                    44.6106178
+                ]
+            },
+            "properties": {
+                "name": "Bartolo Mascarello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.941092,
+                    44.6045875
+                ]
+            },
+            "properties": {
+                "name": "Beppe Rinaldi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9449173,
+                    44.6384823
+                ]
+            },
+            "properties": {
+                "name": "Accomasso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0007758,
+                    44.6000029
+                ]
+            },
+            "properties": {
+                "name": "Giovanni Rosso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9837549,
+                    44.6365543
+                ]
+            },
+            "properties": {
+                "name": "Capellano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2051951,
+                    45.4781403
+                ]
+            },
+            "properties": {
+                "name": "Champagne Socialist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4685857,
+                    41.8863168
+                ]
+            },
+            "properties": {
+                "name": "Les Vignerons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9136728,
+                    38.4968378
+                ]
+            },
+            "properties": {
+                "name": "Tenuta di Castellaro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7941085,
+                    44.0772885
+                ]
+            },
+            "properties": {
+                "name": "Prima Terra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.9087706,
+                    45.4714392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6227911,
+                    43.8513948
+                ]
+            },
+            "properties": {
+                "name": "Testalonga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6726885,
+                    45.0446854
+                ]
+            },
+            "properties": {
+                "name": "La Maison du Vin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6642323,
+                    45.4497486
+                ]
+            },
+            "properties": {
+                "name": "Distilleria Fratelli Brunello"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3245674,
+                    45.4361052
+                ]
+            },
+            "properties": {
+                "name": "malvasia all\u2019adriatico mar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3284312,
+                    45.4438802
+                ]
+            },
+            "properties": {
+                "name": "enoteca do colonne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7656849,
+                    45.684347
+                ]
+            },
+            "properties": {
+                "name": "Birra Ingross"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2024307,
+                    45.4768818
+                ]
+            },
+            "properties": {
+                "name": "Bicerin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2031481,
+                    45.4758824
+                ]
+            },
+            "properties": {
+                "name": "champagne socialist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1763587,
+                    45.4815497
+                ]
+            },
+            "properties": {
+                "name": "cantine isola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6806264,
+                    45.0708713
+                ]
+            },
+            "properties": {
+                "name": "Banco vini e alimenti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2059711,
+                    45.4545503
+                ]
+            },
+            "properties": {
+                "name": "la cieca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.188893,
+                    45.492322
+                ]
+            },
+            "properties": {
+                "name": "Surl\u00ec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6951317,
+                    45.0672975
+                ]
+            },
+            "properties": {
+                "name": "Botz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6636194,
+                    45.0736235
+                ]
+            },
+            "properties": {
+                "name": "Ber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.93827,
+                    44.5983928
+                ]
+            },
+            "properties": {
+                "name": "Cascina Ebreo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4848123,
+                    41.8629768
+                ]
+            },
+            "properties": {
+                "name": "La Mescita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6467845,
+                    42.5599262
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Vini & Sapori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6962935,
+                    45.0656378
+                ]
+            },
+            "properties": {
+                "name": "Sorij Nouveau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9986456,
+                    40.5862074
+                ]
+            },
+            "properties": {
+                "name": "Shardana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.998704,
+                    40.5861906
+                ]
+            },
+            "properties": {
+                "name": "Logudoro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8211076,
+                    44.102096
+                ]
+            },
+            "properties": {
+                "name": "Alice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1514272,
+                    45.1838886
+                ]
+            },
+            "properties": {
+                "name": "antica mescita origini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3026338,
+                    44.7694781
+                ]
+            },
+            "properties": {
+                "name": "Guido Berta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3553848,
+                    46.5005841
+                ]
+            },
+            "properties": {
+                "name": "La Bottega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6797564,
+                    45.0768034
+                ]
+            },
+            "properties": {
+                "name": "Bord\u00f2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1340076,
+                    45.4623751
+                ]
+            },
+            "properties": {
+                "name": "Red Red Wine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.696303,
+                    45.0656439
+                ]
+            },
+            "properties": {
+                "name": "Sorij Noveau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0248546,
+                    44.0763561
+                ]
+            },
+            "properties": {
+                "name": "La Felce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.9651556,
+                    45.8186022
+                ]
+            },
+            "properties": {
+                "name": "Armadillo Vino e Cucina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2111616,
+                    46.1273855
+                ]
+            },
+            "properties": {
+                "name": "Frasca al Foladon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5313144,
+                    41.945475
+                ]
+            },
+            "properties": {
+                "name": "Organic%L"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3174226,
+                    45.7355652
+                ]
+            },
+            "properties": {
+                "name": "L\u2019Uva e un Quarto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.3259373,
+                    45.7387178
+                ]
+            },
+            "properties": {
+                "name": "La Vineria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.970206,
+                    45.7940421
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Goio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.319571,
+                    44.7988939
+                ]
+            },
+            "properties": {
+                "name": "Drogheria Viani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0050748,
+                    45.4419086
+                ]
+            },
+            "properties": {
+                "name": "L'artigianAle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5310646,
+                    41.1327211
+                ]
+            },
+            "properties": {
+                "name": "Renato Pedrinelli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.100903,
+                    45.6369314
+                ]
+            },
+            "properties": {
+                "name": "aurelio del Bono"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4391487,
+                    41.9180995
+                ]
+            },
+            "properties": {
+                "name": "Consoli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.2475542,
+                    45.7046205
+                ]
+            },
+            "properties": {
+                "name": "Les Cretes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.781239,
+                    43.0910993
+                ]
+            },
+            "properties": {
+                "name": "Canaebam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7814851,
+                    43.0914011
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Perbacco Montepulciano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.54973,
+                    45.5799979
+                ]
+            },
+            "properties": {
+                "name": "Ponte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8694463,
+                    45.4056206
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Caupona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.6069946,
+                    43.7922143
+                ]
+            },
+            "properties": {
+                "name": "Consani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7801055,
+                    43.0916201
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Contucci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3679359,
+                    45.7074033
+                ]
+            },
+            "properties": {
+                "name": "De Giacomi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3202823,
+                    45.577557
+                ]
+            },
+            "properties": {
+                "name": "Masiero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4089433,
+                    43.713735
+                ]
+            },
+            "properties": {
+                "name": "Prosperini s.n.c."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2757082,
+                    43.7702679
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Bonatti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4697233,
+                    41.8869393
+                ]
+            },
+            "properties": {
+                "name": "Tanto era tanto antico - Enoteca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2068659,
+                    42.4728354
+                ]
+            },
+            "properties": {
+                "name": "zolfo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4777209,
+                    43.3429783
+                ]
+            },
+            "properties": {
+                "name": "Francois il Casper Antico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1407108,
+                    42.3591072
+                ]
+            },
+            "properties": {
+                "name": "Cantina Tollo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7900663,
+                    45.6590742
+                ]
+            },
+            "properties": {
+                "name": "Antiche Cantine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.46127,
+                    41.8850327
+                ]
+            },
+            "properties": {
+                "name": "Litro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.946886,
+                    44.1215265
+                ]
+            },
+            "properties": {
+                "name": "Santa Caterina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6312595,
+                    44.6938877
+                ]
+            },
+            "properties": {
+                "name": "vino natural durante"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0354104,
+                    44.7005812
+                ]
+            },
+            "properties": {
+                "name": "Enoteca Grandi Vini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3662837,
+                    45.4048793
+                ]
+            },
+            "properties": {
+                "name": "La Tavernetta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4895938,
+                    43.0566515
+                ]
+            },
+            "properties": {
+                "name": "la sosta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7816793,
+                    43.0916961
+                ]
+            },
+            "properties": {
+                "name": "Lo sfizio"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7300884,
+                    44.1147248
+                ]
+            },
+            "properties": {
+                "name": "Luciano Cappellini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7329055,
+                    44.1158151
+                ]
+            },
+            "properties": {
+                "name": "Cantina Cinque Terre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7386031,
+                    44.0997938
+                ]
+            },
+            "properties": {
+                "name": "Possa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7439824,
+                    44.0951039
+                ]
+            },
+            "properties": {
+                "name": "Terre Sospese"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6485203,
+                    46.7430424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4476569,
+                    46.2886255
+                ]
+            },
+            "properties": {
+                "name": "Paolazzi Distillerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0061671,
+                    45.8772237
+                ]
+            },
+            "properties": {
+                "name": "azienda agricola la vigne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0747399,
+                    45.9288403
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale Nomi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1745091,
+                    46.5274732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3760663,
+                    46.4973562
+                ]
+            },
+            "properties": {
+                "name": "Zundlhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0261057,
+                    37.8745214
+                ]
+            },
+            "properties": {
+                "name": "Etna Wine Agriturismo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0266587,
+                    37.8742148
+                ]
+            },
+            "properties": {
+                "name": "Etna Wine Agriturismo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.561991,
+                    46.6697479
+                ]
+            },
+            "properties": {
+                "name": "PUNI Destillerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4594638,
+                    39.0570809
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sardus Pater"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5170802,
+                    45.5593631
+                ]
+            },
+            "properties": {
+                "name": "Birracrua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2274939,
+                    43.9465079
+                ]
+            },
+            "properties": {
+                "name": "Birreria San Marco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.7789801,
+                    45.0392003
+                ]
+            },
+            "properties": {
+                "name": "Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1317984,
+                    44.1608753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3200405,
+                    45.6343098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5540363,
+                    45.7072642
+                ]
+            },
+            "properties": {
+                "name": "Cantina Produttori Campodipietra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9605084,
+                    46.9092662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.1475527,
+                    45.3788207
+                ]
+            },
+            "properties": {
+                "name": "Momo Bevande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5474075,
+                    39.3195903
+                ]
+            },
+            "properties": {
+                "name": "Sa Bresca Dorada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3246091,
+                    45.9885419
+                ]
+            },
+            "properties": {
+                "name": "Cantina Sociale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9556582,
+                    40.3884275
+                ]
+            },
+            "properties": {
+                "name": "Cantina Cooperativa Salice Salentino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2647556,
+                    45.5834289
+                ]
+            },
+            "properties": {
+                "name": "Drink Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0045846,
+                    46.6497738
+                ]
+            },
+            "properties": {
+                "name": "Kaufhaus Gritsch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0205989,
+                    36.7934971
+                ]
+            },
+            "properties": {
+                "name": "casa vinicola murana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8722616,
+                    45.4833193
+                ]
+            },
+            "properties": {
+                "name": "Grappa Mazzetti Altavilla"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,243 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.4224732,
+                    34.7747864
+                ]
+            },
+            "properties": {
+                "name": "municipal library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0492843,
+                    34.6801436
+                ]
+            },
+            "properties": {
+                "name": "Pilavakis Library (closed)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.2938744,
+                    35.1639587
+                ]
+            },
+            "properties": {
+                "name": "UN Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.4174127,
+                    35.2190553
+                ]
+            },
+            "properties": {
+                "name": "CIU Information Center & Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3665227,
+                    35.1697884
+                ]
+            },
+            "properties": {
+                "name": "Achilleios Municipal Library Nicosia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9052921,
+                    35.1431177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.791362,
+                    34.779161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3087578,
+                    35.1598704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3172762,
+                    35.1614367
+                ]
+            },
+            "properties": {
+                "name": "Early Learning Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.422456,
+                    34.7747661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3267186,
+                    35.3357152
+                ]
+            },
+            "properties": {
+                "name": "National Archive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0446934,
+                    34.6755221
+                ]
+            },
+            "properties": {
+                "name": "Vasilis Michaelides Building (Central Library) - Cyprus University of Technology"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.9118816,
+                    35.1414223
+                ]
+            },
+            "properties": {
+                "name": "Ozay Oral K\u00fct\u00fcphanesi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3601297,
+                    35.1827108
+                ]
+            },
+            "properties": {
+                "name": "Milli K\u00fct\u00fcphane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.6261097,
+                    34.9161981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.5940706,
+                    34.8625326
+                ]
+            },
+            "properties": {
+                "name": "\u0394\u03b7\u03bc\u03bf\u03c3\u03b9\u03bf \u039d\u03b7\u03c0\u03b9\u03b1\u03b3\u03c9\u03b3\u03b5\u03b9\u03bf \u039c\u03b5\u03bd\u03b5\u03bf\u03c5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.5922659,
+                    34.9511048
+                ]
+            },
+            "properties": {
+                "name": "\u0394\u0397\u039c\u039f\u03a4\u0399\u039a\u0397 \u0392\u0399\u0392\u039b\u0399\u039f\u0398\u0397\u039a\u0397 \u0391\u03a1\u0391\u0394\u0399\u03a0\u03a0\u039f\u03a5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9888499,
+                    35.1987338
+                ]
+            },
+            "properties": {
+                "name": "TANTURA K\u00dcT\u00dcPHANES\u0130"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.3273365,
+                    35.2247768
+                ]
+            },
+            "properties": {
+                "name": "Neu Grand Library"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

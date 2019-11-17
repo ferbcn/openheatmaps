@@ -1,0 +1,10 @@
+venv
+flaskenv
+djangoenv
+*.pyc
+staticfiles
+.env
+db.sqlite3
+.DS_Store
+/flask_session
+flask_session

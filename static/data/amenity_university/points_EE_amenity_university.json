@@ -1,0 +1,356 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7716338,
+                    59.4387934
+                ]
+            },
+            "properties": {
+                "name": "Tallinna \u00dclikool"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.714508,
+                    58.378305
+                ]
+            },
+            "properties": {
+                "name": "Matemaatika-informaatikateaduskond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.716561,
+                    58.376738
+                ]
+            },
+            "properties": {
+                "name": "Mainor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7225339,
+                    58.3734323
+                ]
+            },
+            "properties": {
+                "name": "Balti Kaitsekolled\u017e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.69711,
+                    58.388444
+                ]
+            },
+            "properties": {
+                "name": "Eesti Maa\u00fclikool"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7461952,
+                    59.4385542
+                ]
+            },
+            "properties": {
+                "name": "Eesti Kunstiakadeemia Arhitektuuriteaduskond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.799308,
+                    59.422699
+                ]
+            },
+            "properties": {
+                "name": "Tallinna Arvutikool O\u00dc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7223005,
+                    58.3734777
+                ]
+            },
+            "properties": {
+                "name": "Kaitsev\u00e4e \u00dchendatud \u00d5ppeasutused"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6642783,
+                    59.3955064
+                ]
+            },
+            "properties": {
+                "name": "Eesti Infotehnoloogia Kolled\u017e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.748259,
+                    59.431266
+                ]
+            },
+            "properties": {
+                "name": "Eesti Muusika- ja Teatriakadeemia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6022233,
+                    58.3664573
+                ]
+            },
+            "properties": {
+                "name": "Muusikamaja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7169365,
+                    58.3790165
+                ]
+            },
+            "properties": {
+                "name": "Sotsiaal- ja haridusteaduskond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7301601,
+                    58.3892747
+                ]
+            },
+            "properties": {
+                "name": "Tallinna Tehnika\u00fclikooli Tartu kolled\u017e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.714904,
+                    58.3782345
+                ]
+            },
+            "properties": {
+                "name": "Matemaatika-Informaatika teaduskond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.694314,
+                    58.368182
+                ]
+            },
+            "properties": {
+                "name": "Biomedicum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.714395,
+                    58.378298
+                ]
+            },
+            "properties": {
+                "name": "Arvutiteaduse Instituut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.694529,
+                    58.36598
+                ]
+            },
+            "properties": {
+                "name": "Tehnoloogiainstituut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4884274,
+                    58.3852238
+                ]
+            },
+            "properties": {
+                "name": "Tartu \u00dclikooli P\u00e4rnu kolled\u017e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7636071,
+                    59.3979077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7050051,
+                    59.4065731
+                ]
+            },
+            "properties": {
+                "name": "Tallinna \u00dclikool \u00d5igusakadeemia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5977298,
+                    58.3666845
+                ]
+            },
+            "properties": {
+                "name": "Viljandi Kultuuriakadeemia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5944153,
+                    58.3656663
+                ]
+            },
+            "properties": {
+                "name": "Viljandi Kultuuriakadeemia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6926148,
+                    58.3672687
+                ]
+            },
+            "properties": {
+                "name": "Chemicum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6902544,
+                    58.3664558
+                ]
+            },
+            "properties": {
+                "name": "Physicum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7717776,
+                    59.4393343
+                ]
+            },
+            "properties": {
+                "name": "Balti Filmi- ja Meediakool"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6969527,
+                    58.3886938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6647258,
+                    59.3954088
+                ]
+            },
+            "properties": {
+                "name": "Tallinna Tehnika\u00fclikool"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

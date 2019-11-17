@@ -1,0 +1,4409 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1573584,
+                    47.2562377
+                ]
+            },
+            "properties": {
+                "name": "Kemenesaljai Egyes\u00edtett K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4453265,
+                    46.6858336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.90948,
+                    47.0555099
+                ]
+            },
+            "properties": {
+                "name": "Kist\u00e9rs\u00e9gi Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9134994,
+                    47.0551169
+                ]
+            },
+            "properties": {
+                "name": "K Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1226643,
+                    47.5391512
+                ]
+            },
+            "properties": {
+                "name": "\u00c9szak Pesti K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2200989,
+                    46.0733974
+                ]
+            },
+            "properties": {
+                "name": "Szem\u00e9szeti Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1022029,
+                    47.561265
+                ]
+            },
+            "properties": {
+                "name": "\u00c1rp\u00e1d K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1703257,
+                    47.0126891
+                ]
+            },
+            "properties": {
+                "name": "P\u00e1ndy K\u00e1lm\u00e1n K\u00f3rh\u00e1z Szeghalom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1767639,
+                    47.0155114
+                ]
+            },
+            "properties": {
+                "name": "Rendel\u0151int\u00e9zet (szakrendel\u0151k)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0718341,
+                    47.5313495
+                ]
+            },
+            "properties": {
+                "name": "Magyar Honv\u00e9ds\u00e9g Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1679043,
+                    47.7345709
+                ]
+            },
+            "properties": {
+                "name": "Selye J\u00e1nos K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1865989,
+                    46.5252019
+                ]
+            },
+            "properties": {
+                "name": "Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5787887,
+                    47.6685901
+                ]
+            },
+            "properties": {
+                "name": "Szanat\u00f3rium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9811972,
+                    46.5327344
+                ]
+            },
+            "properties": {
+                "name": "Szent Kereszt K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9594442,
+                    46.1755328
+                ]
+            },
+            "properties": {
+                "name": "Szent R\u00f3kus K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4077101,
+                    47.1781532
+                ]
+            },
+            "properties": {
+                "name": "Egyes\u00edtett Gy\u00f3gy\u00edt\u00f3 Megel\u0151z\u0151 Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6358777,
+                    47.4928928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0733468,
+                    47.4998964
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9terfy S\u00e1ndor utcai k\u00f3rh\u00e1z Sz\u00f6vets\u00e9g utcai r\u00e9szlege"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2370296,
+                    46.2175522
+                ]
+            },
+            "properties": {
+                "name": "Mellkasi Betegek Szakk\u00f3rh\u00e1za"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2983244,
+                    45.8507428
+                ]
+            },
+            "properties": {
+                "name": "K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.64935,
+                    46.1464642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7132491,
+                    46.367712
+                ]
+            },
+            "properties": {
+                "name": "Balassa J\u00e1nos K\u00f3rh\u00e1z, pszichi\u00e1triai rehabilit\u00e1ci\u00f3s int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7284572,
+                    48.0939268
+                ]
+            },
+            "properties": {
+                "name": "Vasgy\u00e1ri SZTK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1224277,
+                    47.7425953
+                ]
+            },
+            "properties": {
+                "name": "Selye J\u00e1nos Szakrendel\u0151 Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4107793,
+                    47.172579
+                ]
+            },
+            "properties": {
+                "name": "\u00c1llatk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6620351,
+                    47.6515461
+                ]
+            },
+            "properties": {
+                "name": "Balfi Gy\u00f3gyf\u00fcrd\u0151k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2203643,
+                    46.8766514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8562411,
+                    48.1022925
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9gh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9612021,
+                    47.473764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8515341,
+                    45.873754
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2218666,
+                    46.8770425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2222153,
+                    46.8763054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2216628,
+                    46.8782452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4063768,
+                    46.5799201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4904447,
+                    47.000779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1688414,
+                    47.7355819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6214331,
+                    48.1631099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2602167,
+                    47.5478622
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9gh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7353989,
+                    46.4937983
+                ]
+            },
+            "properties": {
+                "name": "Region\u00e1lis Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9351525,
+                    48.204746
+                ]
+            },
+            "properties": {
+                "name": "II. R\u00e1k\u00f3czi Ferenc K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7312456,
+                    46.4961931
+                ]
+            },
+            "properties": {
+                "name": "Orvosi \u00fcgyelet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9025323,
+                    47.6168576
+                ]
+            },
+            "properties": {
+                "name": "Szakorvosi rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1151091,
+                    47.5806628
+                ]
+            },
+            "properties": {
+                "name": "H\u00e1ziorvosi rendel\u0151int\u00e9zet \u00e9s Fog\u00e1szat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0671285,
+                    46.6690983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2408816,
+                    46.076244
+                ]
+            },
+            "properties": {
+                "name": "L\u00e1nc utcai rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2015605,
+                    46.0643425
+                ]
+            },
+            "properties": {
+                "name": "Veress Endre utcai rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3140873,
+                    46.4133021
+                ]
+            },
+            "properties": {
+                "name": "Erzs\u00e9bet K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0785067,
+                    47.5484124
+                ]
+            },
+            "properties": {
+                "name": "Madar\u00e1sz Utcai Gyermekk\u00f3rh\u00e1z Szakrendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3784929,
+                    46.2140924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4658872,
+                    46.2174713
+                ]
+            },
+            "properties": {
+                "name": "Dr. Di\u00f3sszil\u00e1gyi S\u00e1muel K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6916289,
+                    47.9184042
+                ]
+            },
+            "properties": {
+                "name": "Margit K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1903474,
+                    47.5094178
+                ]
+            },
+            "properties": {
+                "name": "SZTK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2111835,
+                    47.5071904
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9terfy S\u00e1ndor Utcai K\u00f3rh\u00e1z \u00e9s Rendel\u0151int\u00e9zet Zsenge utcai \u00e9p\u00fclete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6021116,
+                    47.8750608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1157535,
+                    47.3199798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4601064,
+                    47.397685
+                ]
+            },
+            "properties": {
+                "name": "Fej\u00e9r Megyei Szent Gy\u00f6rgy K\u00f3rh\u00e1z Cs\u00e1kv\u00e1ri gy\u00f3gyint\u00e9zete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0794675,
+                    46.9595617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7073373,
+                    47.4010587
+                ]
+            },
+            "properties": {
+                "name": "Csepreg V\u00e1ros Eg\u00e9szs\u00e9gh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9104503,
+                    47.492665
+                ]
+            },
+            "properties": {
+                "name": "Szent Erzs\u00e9bet k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0379661,
+                    47.8215158
+                ]
+            },
+            "properties": {
+                "name": "Fog\u00e1szat \u00e9s rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2679064,
+                    46.9558898
+                ]
+            },
+            "properties": {
+                "name": "Rendel\u0151int\u00e9zet Szentgotth\u00e1rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0597328,
+                    47.9262559
+                ]
+            },
+            "properties": {
+                "name": "Par\u00e1df\u00fcrd\u0151i \u00c1llami K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3155183,
+                    47.647116
+                ]
+            },
+            "properties": {
+                "name": "Tata V\u00e1rosi K\u00f3rh\u00e1z Rendel\u0151int\u00e9zet Fizikoter\u00e1piai R\u00e9szleg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8493289,
+                    47.4945579
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9gcentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9798408,
+                    46.5324301
+                ]
+            },
+            "properties": {
+                "name": "Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9812413,
+                    46.5348667
+                ]
+            },
+            "properties": {
+                "name": "Dial\u00edzis K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3925693,
+                    47.4448343
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9gh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3923286,
+                    47.4450712
+                ]
+            },
+            "properties": {
+                "name": "\u00c9jszakai/h\u00e9tv\u00e9gi \u00fcgyelet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6817226,
+                    47.3604894
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9gh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5989242,
+                    47.6117168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5432094,
+                    47.2261913
+                ]
+            },
+            "properties": {
+                "name": "Ter\u00fcleti K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5433531,
+                    47.2269166
+                ]
+            },
+            "properties": {
+                "name": "S\u00fcrg\u0151ss\u00e9gi betegell\u00e1t\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5590693,
+                    47.7261966
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0237076,
+                    47.4990567
+                ]
+            },
+            "properties": {
+                "name": "Batthy\u00e1ny K\u00e1zm\u00e9r Szakk\u00f3rh\u00e1z \u00e9s Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3095102,
+                    48.0796882
+                ]
+            },
+            "properties": {
+                "name": "Dr. Kenessey Albert K\u00f3rh\u00e1z - Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4291505,
+                    47.8463371
+                ]
+            },
+            "properties": {
+                "name": "V\u00e1rosi Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3578968,
+                    47.9571154
+                ]
+            },
+            "properties": {
+                "name": "H\u00e1ziorvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0800343,
+                    47.527407
+                ]
+            },
+            "properties": {
+                "name": "Ny\u00edr\u0151 Gyula k\u00f3rh\u00e1z - Orsz\u00e1gos Pszichi\u00e1triai \u00e9s Addiktol\u00f3giai Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6287477,
+                    47.0029689
+                ]
+            },
+            "properties": {
+                "name": "V\u00e1rosi k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6855857,
+                    47.0730125
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4541819,
+                    45.8687877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1437567,
+                    47.6282327
+                ]
+            },
+            "properties": {
+                "name": "IV. sz. H\u00e1ziorvosi k\u00f6rzet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.916975,
+                    47.4284876
+                ]
+            },
+            "properties": {
+                "name": "T\u00fcd\u0151gy\u00f3gyint\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9133705,
+                    47.3246518
+                ]
+            },
+            "properties": {
+                "name": "K\u00e1tai G\u00e1bor K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1358292,
+                    47.8367604
+                ]
+            },
+            "properties": {
+                "name": "ment\u0151k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5791039,
+                    47.5976125
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5791409,
+                    47.597504
+                ]
+            },
+            "properties": {
+                "name": "Gy\u00f3gyszert\u00e1r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5770265,
+                    47.5982574
+                ]
+            },
+            "properties": {
+                "name": "Gyermek orvosi rendel\u0151k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.797878,
+                    47.0515119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7986083,
+                    47.0514589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7792072,
+                    47.0450827
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7419963,
+                    47.030277
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8063389,
+                    47.052425
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8005835,
+                    47.0491344
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7321238,
+                    46.4967396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.186297,
+                    48.2768969
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7325369,
+                    46.4970757
+                ]
+            },
+            "properties": {
+                "name": "Szakorvosi rendel\u0151k"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7321238,
+                    46.4967396
+                ]
+            },
+            "properties": {
+                "name": "H\u00e1ziorvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.872221,
+                    47.817743
+                ]
+            },
+            "properties": {
+                "name": "SZTK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.231814,
+                    46.074081
+                ]
+            },
+            "properties": {
+                "name": "Izraelita Szeretetotthon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.730706,
+                    47.645687
+                ]
+            },
+            "properties": {
+                "name": "Dr. Pir\u00f3th Endre Ment\u00e1lhigi\u00e9n\u00e9s Otthon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.877978,
+                    46.851262
+                ]
+            },
+            "properties": {
+                "name": "IRIS \u00c1pol\u00e1si Otthon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.618782,
+                    47.166218
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.530489,
+                    47.899901
+                ]
+            },
+            "properties": {
+                "name": "Honv\u00e9ds\u00e9gi \u00fcd\u00fcl\u0151, szanat\u00f3rium (nem l\u00e1togathat\u00f3)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.930345,
+                    46.807947
+                ]
+            },
+            "properties": {
+                "name": "T\u00fari \u00e1llatk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.364503,
+                    47.288976
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0823228,
+                    47.4967984
+                ]
+            },
+            "properties": {
+                "name": "Orsz\u00e1gos Traumatol\u00f3giai Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.681938,
+                    47.342942
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.471008,
+                    47.326698
+                ]
+            },
+            "properties": {
+                "name": "Gr\u00f3f Esterh\u00e1zy K\u00f3rh\u00e1z \u00e9s Rendel\u0151int\u00e9zeti Szakrendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.060544,
+                    47.926502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.512646,
+                    47.99559
+                ]
+            },
+            "properties": {
+                "name": "Szatm\u00e1r-Beregi K\u00f3rh\u00e1z \u00e9s Gy\u00f3gyf\u00fcrd\u0151 Nonprofit Kft."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.449933,
+                    46.289617
+                ]
+            },
+            "properties": {
+                "name": "Gondvisel\u00e9s Szoci\u00e1lis Otthon Szenved\u00e9lybetegek Rehabilit\u00e1ci\u00f3s R\u00e9szlege"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.85194,
+                    47.618188
+                ]
+            },
+            "properties": {
+                "name": "Fog\u00e1szat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.024175,
+                    47.59497
+                ]
+            },
+            "properties": {
+                "name": "V\u00e1rosi k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.973833,
+                    47.864633
+                ]
+            },
+            "properties": {
+                "name": "M\u00e1trai Gy\u00f3gyint\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.010901,
+                    47.871633
+                ]
+            },
+            "properties": {
+                "name": "Szanat\u00f3rium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.044757,
+                    46.901508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.474042,
+                    46.433418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.962133,
+                    46.174783
+                ]
+            },
+            "properties": {
+                "name": "Bajai V\u00e1rosi K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.914277,
+                    47.325427
+                ]
+            },
+            "properties": {
+                "name": "Karcagi K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6532751,
+                    48.1049385
+                ]
+            },
+            "properties": {
+                "name": "Fogorvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6515259,
+                    48.1023864
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9gh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.606005,
+                    47.5336536
+                ]
+            },
+            "properties": {
+                "name": "S\u00fcrg\u0151ss\u00e9gi betegell\u00e1t\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2055482,
+                    46.0753411
+                ]
+            },
+            "properties": {
+                "name": "S\u00fcrg\u0151ss\u00e9gi betegfelv\u00e9tel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6309626,
+                    47.5442376
+                ]
+            },
+            "properties": {
+                "name": "N\u0151gy\u00f3gy\u00e1szati Centrum 4D ultrahang vizsg\u00e1lat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.938797,
+                    47.6085959
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.138504,
+                    47.8825128
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5339514,
+                    48.1719058
+                ]
+            },
+            "properties": {
+                "name": "V\u00e9d\u0151n\u0151i szolg\u00e1lat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4410605,
+                    46.8851869
+                ]
+            },
+            "properties": {
+                "name": "De\u00e1k Jen\u0151 K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4139405,
+                    47.1912403
+                ]
+            },
+            "properties": {
+                "name": "Fej\u00e9r Megyei Szent Gy\u00f6rgy K\u00f3rh\u00e1z 1-es Sz\u00e1m\u00fa Szakambulancia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.125625,
+                    46.2536839
+                ]
+            },
+            "properties": {
+                "name": "Hospital szeged"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0308122,
+                    47.5178993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3342583,
+                    47.5015212
+                ]
+            },
+            "properties": {
+                "name": "Kov\u00e1cs Arnold pszichol\u00f3gus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.070825,
+                    47.4839581
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem (SOTE) II. sz\u00e1m\u00fa Gyermekklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8975708,
+                    47.5260771
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8166568,
+                    46.3156731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1959854,
+                    48.16264
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0864491,
+                    47.5465533
+                ]
+            },
+            "properties": {
+                "name": "Gyermekorvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9341989,
+                    47.5217419
+                ]
+            },
+            "properties": {
+                "name": "Nappali K\u00f3rh\u00e1z, OORI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9314496,
+                    47.5233535
+                ]
+            },
+            "properties": {
+                "name": "OORI: Orsz\u00e1gos Orvosi Rehabilit\u00e1ci\u00f3s Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7258042,
+                    48.2950633
+                ]
+            },
+            "properties": {
+                "name": "Koch R\u00f3bert K\u00f3rh\u00e1z \u00e9s Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.131469,
+                    46.7693314
+                ]
+            },
+            "properties": {
+                "name": "B\u00e9k\u00e9s V\u00e1rosi Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6591485,
+                    46.5597592
+                ]
+            },
+            "properties": {
+                "name": "Szakrendel\u0151 (SZTK)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6510808,
+                    48.3980024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0897776,
+                    48.2085433
+                ]
+            },
+            "properties": {
+                "name": "Kisvarda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7255848,
+                    47.9551873
+                ]
+            },
+            "properties": {
+                "name": "Start Rehabilit\u00e1ci\u00f3s Kht."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1468837,
+                    46.2439259
+                ]
+            },
+            "properties": {
+                "name": "VUK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1471214,
+                    46.2444857
+                ]
+            },
+            "properties": {
+                "name": "\u00dajklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.148714,
+                    46.2453081
+                ]
+            },
+            "properties": {
+                "name": "F\u00fcl-Orr-G\u00e9g\u00e9szeti klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1493135,
+                    46.2452251
+                ]
+            },
+            "properties": {
+                "name": "Gyermek klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1458141,
+                    46.2439483
+                ]
+            },
+            "properties": {
+                "name": "Id. Jancs\u00f3 Mikl\u00f3s orvosi koll\u00e9gium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1787579,
+                    46.5367907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1614491,
+                    47.4778478
+                ]
+            },
+            "properties": {
+                "name": "Bajcsy-Zsilinszky K\u00f3rh\u00e1z \u00e9s Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0790433,
+                    47.5024102
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9terfy S\u00e1ndor Utcai K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0729973,
+                    47.5165545
+                ]
+            },
+            "properties": {
+                "name": "Honv\u00e9d K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1002806,
+                    47.4666071
+                ]
+            },
+            "properties": {
+                "name": "Mer\u00e9nyi Guszt\u00e1v K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1439929,
+                    46.3836856
+                ]
+            },
+            "properties": {
+                "name": "Szent Luk\u00e1cs k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9637625,
+                    47.5475212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0376194,
+                    47.515996
+                ]
+            },
+            "properties": {
+                "name": "Irgalmasrendi K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0369268,
+                    47.5188811
+                ]
+            },
+            "properties": {
+                "name": "Irgalmasrendiek K\u00f3rh\u00e1za"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2224749,
+                    46.0702702
+                ]
+            },
+            "properties": {
+                "name": "Gyermekklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2241822,
+                    46.0733269
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00fcl\u00e9szet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2249174,
+                    46.0733702
+                ]
+            },
+            "properties": {
+                "name": "Fog\u00e1szati \u00e9s Sz\u00e1jseb\u00e9szeti Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2217844,
+                    46.0726035
+                ]
+            },
+            "properties": {
+                "name": "Idegseb\u00e9szeti Klinika Neurol\u00f3giai Klinika Pszichi\u00e1triai \u00e9s Orvosi Pszichol\u00f3giai Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2203441,
+                    46.0733328
+                ]
+            },
+            "properties": {
+                "name": "Baranya Megyei K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.746808,
+                    47.7904845
+                ]
+            },
+            "properties": {
+                "name": "Vaszary Kolos K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2058333,
+                    46.0752513
+                ]
+            },
+            "properties": {
+                "name": "400 \u00e1gyas klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2046808,
+                    46.075299
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00edvgy\u00f3gy\u00e1szati Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.026002,
+                    47.46122
+                ]
+            },
+            "properties": {
+                "name": "Kelen k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0983448,
+                    47.5184957
+                ]
+            },
+            "properties": {
+                "name": "Orsz\u00e1gos Klinikai Idegtudom\u00e1nyi Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0926925,
+                    47.4789537
+                ]
+            },
+            "properties": {
+                "name": "Heim P\u00e1l Gyermekk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0874026,
+                    47.4770703
+                ]
+            },
+            "properties": {
+                "name": "Szent Istv\u00e1n K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0836742,
+                    47.251768
+                ]
+            },
+            "properties": {
+                "name": "Pszichi\u00e1triai rehabilit\u00e1ci\u00f3s int\u00e9zet Intah\u00e1za"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6824607,
+                    45.9971796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1255954,
+                    46.2541354
+                ]
+            },
+            "properties": {
+                "name": "Szeged MJV \u00d6nkorm\u00e1nyzat\u00e1nak K\u00f3rh\u00e1za"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3967126,
+                    47.6005378
+                ]
+            },
+            "properties": {
+                "name": "Szent Borb\u00e1la K\u00f3rh\u00e1z Szanat\u00f3rium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0815851,
+                    47.4964553
+                ]
+            },
+            "properties": {
+                "name": "Orsz\u00e1gos Traumatol\u00f3giai Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.03526,
+                    47.4693412
+                ]
+            },
+            "properties": {
+                "name": "Szent Imre K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6389515,
+                    47.6764528
+                ]
+            },
+            "properties": {
+                "name": "Petz Alad\u00e1r Megyei Oktat\u00f3 K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0334227,
+                    47.4822496
+                ]
+            },
+            "properties": {
+                "name": "Pet\u0151 Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7885364,
+                    48.0915424
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Ign\u00e1c Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont \u00e9s Egyetemi Oktat\u00f3 K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.100555,
+                    47.5657014
+                ]
+            },
+            "properties": {
+                "name": "\u00dajpesti Szakorvosi Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6084205,
+                    47.5321965
+                ]
+            },
+            "properties": {
+                "name": "Debreceni Egyetem Ken\u00e9zy Gyula K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9636544,
+                    47.5478258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9432934,
+                    46.9644859
+                ]
+            },
+            "properties": {
+                "name": "Szent Pantaleon k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9424248,
+                    46.9636893
+                ]
+            },
+            "properties": {
+                "name": "Rendel\u0151int\u00e9zet (Clinics)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6248013,
+                    47.5568363
+                ]
+            },
+            "properties": {
+                "name": "M\u0171vese \u00c1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7224494,
+                    48.0903405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2053214,
+                    46.0752464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.818143,
+                    47.1706207
+                ]
+            },
+            "properties": {
+                "name": "Toldy Ferenc k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3160984,
+                    47.9551794
+                ]
+            },
+            "properties": {
+                "name": "Szabolcs-Szatm\u00e1r-Bereg Megyei K\u00f3rh\u00e1zak M\u00e1t\u00e9szalkai K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8553011,
+                    46.7508897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0432951,
+                    46.9005369
+                ]
+            },
+            "properties": {
+                "name": "V\u00e1rosi K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0424129,
+                    46.9001921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0420784,
+                    46.9009398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9103335,
+                    47.0904081
+                ]
+            },
+            "properties": {
+                "name": "Cholnoky Ferenc Megyei K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8659981,
+                    47.260616
+                ]
+            },
+            "properties": {
+                "name": "Zirci Erzs\u00e9bet K\u00f3rh\u00e1z - Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2726896,
+                    47.6622026
+                ]
+            },
+            "properties": {
+                "name": "Misszi\u00f3 Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7992531,
+                    46.3586989
+                ]
+            },
+            "properties": {
+                "name": "Kaposi M\u00f3r Megyei K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0750216,
+                    47.5487152
+                ]
+            },
+            "properties": {
+                "name": "Madar\u00e1sz Utcai Gyermekk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.909657,
+                    47.3216321
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00e1zhalom Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1575356,
+                    47.2558557
+                ]
+            },
+            "properties": {
+                "name": "Kemenesaljai Egyes\u00edtett K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3320467,
+                    47.4898597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6179966,
+                    47.238016
+                ]
+            },
+            "properties": {
+                "name": "Markusovszky K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7304947,
+                    47.9511058
+                ]
+            },
+            "properties": {
+                "name": "J\u00f3sa Andr\u00e1s Oktat\u00f3k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3334825,
+                    46.1254826
+                ]
+            },
+            "properties": {
+                "name": "B\u00e1csalm\u00e1si Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0918099,
+                    47.4735066
+                ]
+            },
+            "properties": {
+                "name": "Szent L\u00e1szl\u00f3 K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2053891,
+                    46.0762787
+                ]
+            },
+            "properties": {
+                "name": "ll. Belgy\u00f3gy\u00e1szati Klinika \u00e9s Nephrol\u00f3giai Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0087472,
+                    47.5305843
+                ]
+            },
+            "properties": {
+                "name": "Csat\u00e1rka \u00fati rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2520653,
+                    46.7691337
+                ]
+            },
+            "properties": {
+                "name": "V\u00e1rosi K\u00f3rh\u00e1z Keszthely"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7902228,
+                    46.0545518
+                ]
+            },
+            "properties": {
+                "name": "Szigetv\u00e1ri V\u00e1rosi K\u00f3rh\u00e1z \u00e9s Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8454496,
+                    46.8353168
+                ]
+            },
+            "properties": {
+                "name": "Zala Megyei K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6267296,
+                    47.687475
+                ]
+            },
+            "properties": {
+                "name": "Petz Alad\u00e1r Megyei Oktat\u00f3 K\u00f3rh\u00e1z - Reumatol\u00f3giai Oszt\u00e1ly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8986376,
+                    46.9566073
+                ]
+            },
+            "properties": {
+                "name": "Magyar Honv\u00e9ds\u00e9g Balatonf\u00fcredi Kardiol\u00f3giai Rehabilit\u00e1ci\u00f3s Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4353961,
+                    47.1906647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1336074,
+                    47.4250551
+                ]
+            },
+            "properties": {
+                "name": "Jahn Ferenc D\u00e9l-Pesti K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3741414,
+                    47.9056032
+                ]
+            },
+            "properties": {
+                "name": "Markhot Ferenc Oktat\u00f3k\u00f3rh\u00e1z \u00e9s Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1544375,
+                    46.2750959
+                ]
+            },
+            "properties": {
+                "name": "Dr. Waltner K\u00e1roly Otthon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9295385,
+                    47.7872203
+                ]
+            },
+            "properties": {
+                "name": "Bug\u00e1t P\u00e1l K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.931298,
+                    47.7881318
+                ]
+            },
+            "properties": {
+                "name": "Bug\u00e1t P\u00e1l K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9337711,
+                    47.8172254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5915493,
+                    47.0108551
+                ]
+            },
+            "properties": {
+                "name": "Dr. Batthy\u00e1ny-Strattmann L\u00e1szl\u00f3 K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6816885,
+                    47.671344
+                ]
+            },
+            "properties": {
+                "name": "Albert Schweitzer K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6817553,
+                    47.670713
+                ]
+            },
+            "properties": {
+                "name": "Albert Schweitzer K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6198336,
+                    47.2475435
+                ]
+            },
+            "properties": {
+                "name": "Gyermek \u00e9s Ifj\u00fas\u00e1g Pszichi\u00e1triai Gondoz\u00f3, Vas megyei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6178896,
+                    46.8888893
+                ]
+            },
+            "properties": {
+                "name": "Fej\u00e9r Megyei \u00d6nkorm\u00e1nyzat Szent Gy\u00f6rgy K\u00f3rh\u00e1za \u00e9s Rendel\u0151int\u00e9zete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5648071,
+                    47.8062606
+                ]
+            },
+            "properties": {
+                "name": "V\u00e1rosi Szakorvosi Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2640824,
+                    46.1908504
+                ]
+            },
+            "properties": {
+                "name": "Orvosi \u00dcgyelet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8373199,
+                    46.7113164
+                ]
+            },
+            "properties": {
+                "name": "V\u00e1rosi K\u00f3rh\u00e1z \u00e9s Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9994076,
+                    46.4516122
+                ]
+            },
+            "properties": {
+                "name": "Kanizsai Dorottya k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3159194,
+                    47.6458804
+                ]
+            },
+            "properties": {
+                "name": "\u00c1rp\u00e1d-h\u00e1zi Szent Erzs\u00e9bet Szakk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2654546,
+                    46.9553805
+                ]
+            },
+            "properties": {
+                "name": "Vas Megyei Rehabilit\u00e1ci\u00f3s K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0686373,
+                    47.4875187
+                ]
+            },
+            "properties": {
+                "name": "Arc- \u00c1llcsont- Sz\u00e1jseb\u00e9szeti \u00e9s Fog\u00e1szati Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0850077,
+                    47.476437
+                ]
+            },
+            "properties": {
+                "name": "Gottsegen Gy\u00f6rgy Orsz\u00e1gos Kardiol\u00f3giai Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9756691,
+                    47.5268548
+                ]
+            },
+            "properties": {
+                "name": "Szent Ferenc K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2128176,
+                    46.0677207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6957544,
+                    46.9174519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0886,
+                    47.5175243
+                ]
+            },
+            "properties": {
+                "name": "Bethesda Gyermekk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5280673,
+                    47.4073275
+                ]
+            },
+            "properties": {
+                "name": "Els\u0151seg\u00e9ly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5148084,
+                    48.0817606
+                ]
+            },
+            "properties": {
+                "name": "Sz\u00e9cs\u00e9ny Kist\u00e9rs\u00e9gi Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.669742,
+                    47.6826693
+                ]
+            },
+            "properties": {
+                "name": "K\u00f6zponti Orvosi \u00dcgyelet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.874351,
+                    46.9621413
+                ]
+            },
+            "properties": {
+                "name": "Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0134174,
+                    47.5069451
+                ]
+            },
+            "properties": {
+                "name": "\u00c9rseb\u00e9szeti Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9754149,
+                    47.5298479
+                ]
+            },
+            "properties": {
+                "name": "Vadaskert Alap\u00edtv\u00e1ny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.00519,
+                    47.5109355
+                ]
+            },
+            "properties": {
+                "name": "K\u00fatv\u00f6lgyi Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0028287,
+                    47.5117469
+                ]
+            },
+            "properties": {
+                "name": "Pet\u0151 Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0307975,
+                    47.5179232
+                ]
+            },
+            "properties": {
+                "name": "Budai Gyermekk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5653447,
+                    47.1114622
+                ]
+            },
+            "properties": {
+                "name": "Magyar Imre K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2915535,
+                    48.2085501
+                ]
+            },
+            "properties": {
+                "name": "Alm\u00e1si Balogh P\u00e1l K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3356833,
+                    47.6088296
+                ]
+            },
+            "properties": {
+                "name": "Szoci\u00e1lis Otthon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0224691,
+                    47.4962028
+                ]
+            },
+            "properties": {
+                "name": "Orsz\u00e1gos Gerincgy\u00f3gy\u00e1szati K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0209994,
+                    47.5005392
+                ]
+            },
+            "properties": {
+                "name": "Orsz\u00e1gos Onkol\u00f3giai Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8973096,
+                    46.9590895
+                ]
+            },
+            "properties": {
+                "name": "Vas\u00fateg\u00e9szs\u00e9g\u00fcgyi Rehabilit\u00e1ci\u00f3s Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9955419,
+                    46.3548618
+                ]
+            },
+            "properties": {
+                "name": "Kaposi M\u00f3r Oktat\u00f3 K\u00f3rh\u00e1z Mosd\u00f3si Telephely"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8594588,
+                    46.8736025
+                ]
+            },
+            "properties": {
+                "name": "Zala Megyei K\u00f3rh\u00e1z, P\u00f3zvai telephely"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6984725,
+                    46.3436509
+                ]
+            },
+            "properties": {
+                "name": "Balassa J\u00e1nos K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7018754,
+                    46.3452702
+                ]
+            },
+            "properties": {
+                "name": "Balassa J\u00e1nos K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2073415,
+                    47.1754172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3951841,
+                    47.580938
+                ]
+            },
+            "properties": {
+                "name": "Helikopter lesz\u00e1ll\u00f3hely"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9455967,
+                    46.1849155
+                ]
+            },
+            "properties": {
+                "name": "orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2826083,
+                    47.6605244
+                ]
+            },
+            "properties": {
+                "name": "Szoci\u00e1lis Otthon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3261313,
+                    46.2979418
+                ]
+            },
+            "properties": {
+                "name": "J\u00e1noshalmi Kist\u00e9rs\u00e9gi Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.068145,
+                    47.4952751
+                ]
+            },
+            "properties": {
+                "name": "Szent R\u00f3kus K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6499674,
+                    48.3164908
+                ]
+            },
+            "properties": {
+                "name": "Izs\u00f3falvi Pszichi\u00e1triai Szakk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7146973,
+                    47.9803043
+                ]
+            },
+            "properties": {
+                "name": "J\u00f3sa Andr\u00e1s Oktat\u00f3 K\u00f3rh\u00e1z \u00e9s Szanat\u00f3rium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1485259,
+                    47.7839047
+                ]
+            },
+            "properties": {
+                "name": "J\u00e1vorszky \u00d6d\u00f6n V\u00e1rosi K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1015316,
+                    47.5199198
+                ]
+            },
+            "properties": {
+                "name": "Uzsoki utcai k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9420071,
+                    47.2493883
+                ]
+            },
+            "properties": {
+                "name": "Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5728203,
+                    47.3195845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1261147,
+                    47.7786792
+                ]
+            },
+            "properties": {
+                "name": "Irgalmasrendi k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0779967,
+                    47.4838805
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis Egyetem I. Gyermekklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0752273,
+                    47.5007542
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9terfy S\u00e1ndor Utcai K\u00f3rh\u00e1z Als\u00f3erd\u0151sori Telephelye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9307983,
+                    47.5219159
+                ]
+            },
+            "properties": {
+                "name": "HM 3. sz\u00e1m\u00fa Rehabilit\u00e1ci\u00f3s,. Kr\u00f3nikus Ut\u00f3kezel\u0151 oszt\u00e1ly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1036935,
+                    47.5579554
+                ]
+            },
+            "properties": {
+                "name": "K\u00e1rolyi S\u00e1ndor K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0046257,
+                    47.3331606
+                ]
+            },
+            "properties": {
+                "name": "Szigetszentmikl\u00f3si Szakorvosi Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2280557,
+                    46.0525277
+                ]
+            },
+            "properties": {
+                "name": "Honv\u00e9d k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6191098,
+                    48.2545954
+                ]
+            },
+            "properties": {
+                "name": "K\u00d3RH\u00c1Z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1702667,
+                    47.1566823
+                ]
+            },
+            "properties": {
+                "name": "Het\u00e9nyi G\u00e9za K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1443275,
+                    46.3835042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2663253,
+                    46.9541752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3087156,
+                    48.128932
+                ]
+            },
+            "properties": {
+                "name": "V\u00e1s\u00e1rosnam\u00e9nyi K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2293343,
+                    46.0747803
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9csi Irgalmasrendi K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2258612,
+                    46.0897048
+                ]
+            },
+            "properties": {
+                "name": "Da Vinci mag\u00e1nklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7877592,
+                    48.0994486
+                ]
+            },
+            "properties": {
+                "name": "K\u00f6rzeti Orvosi Rendel\u0151 (feln\u0151tt)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2106175,
+                    46.0783166
+                ]
+            },
+            "properties": {
+                "name": "Gyermekk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9415512,
+                    47.7589098
+                ]
+            },
+            "properties": {
+                "name": "Szent Kozma \u00e9s Damj\u00e1n Rehabilit\u00e1ci\u00f3s Szakk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.800157,
+                    46.0522693
+                ]
+            },
+            "properties": {
+                "name": "\u00c1llatk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.140883,
+                    48.2184182
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9gh\u00e1z \u00e9s Patika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3618488,
+                    46.2324258
+                ]
+            },
+            "properties": {
+                "name": "Nagyat\u00e1di K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.150844,
+                    47.4491469
+                ]
+            },
+            "properties": {
+                "name": "Jahn Ferenc Rehabilit\u00e1ci\u00f3s Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7977937,
+                    46.3588616
+                ]
+            },
+            "properties": {
+                "name": "B. Braun Avitum 4. sz\u00e1m\u00fa Dial\u00edzisk\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.737247,
+                    47.756343
+                ]
+            },
+            "properties": {
+                "name": "Kom\u00e1rom-Esztergom Megyei Integr\u00e1lt Szoci\u00e1lis Int\u00e9zm\u00e9ny Pszichi\u00e1triai Betegek Otthona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1615433,
+                    46.2443546
+                ]
+            },
+            "properties": {
+                "name": "\u00dajszegedi Gyermekk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0594707,
+                    47.4247821
+                ]
+            },
+            "properties": {
+                "name": "Jahn Ferenc D\u00e9l-pesti K\u00f3rh\u00e1z Csepeli Weiss Manfr\u00e9d Telephelye"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6593352,
+                    46.5590119
+                ]
+            },
+            "properties": {
+                "name": "Orosh\u00e1za K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2463836,
+                    47.6104067
+                ]
+            },
+            "properties": {
+                "name": "Margit K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8255538,
+                    46.3826172
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont (CT, MR)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.825466,
+                    46.3818774
+                ]
+            },
+            "properties": {
+                "name": "Kaposv\u00e1ri Egyetem Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont - Sug\u00e1rter\u00e1pia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9033181,
+                    47.7615206
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9g\u00fcgyi k\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6797908,
+                    46.9106675
+                ]
+            },
+            "properties": {
+                "name": "Magyar Honv\u00e9ds\u00e9g Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2132584,
+                    46.0677072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2130459,
+                    46.0677173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5992019,
+                    47.6770138
+                ]
+            },
+            "properties": {
+                "name": "Soproni Erzs\u00e9bet Oktat\u00f3 K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9941454,
+                    46.354777
+                ]
+            },
+            "properties": {
+                "name": "Kaposi M\u00f3r Oktat\u00f3 K\u00f3rh\u00e1z T\u00fcd\u0151 \u00e9s sz\u00edvk\u00f3rh\u00e1za."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4731338,
+                    46.4329378
+                ]
+            },
+            "properties": {
+                "name": "Semmelweis K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2532357,
+                    46.6629207
+                ]
+            },
+            "properties": {
+                "name": "Dr. Bugyi Istv\u00e1n K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.066609,
+                    47.5183891
+                ]
+            },
+            "properties": {
+                "name": "Ny\u00edr\u0151 Gyula K\u00f3rh\u00e1z - OPAI - T\u00fcd\u0151sz\u0171r\u0151 \u00e1llom\u00e1s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6498959,
+                    48.3978814
+                ]
+            },
+            "properties": {
+                "name": "Erzs\u00e9bet K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9021238,
+                    47.5234018
+                ]
+            },
+            "properties": {
+                "name": "V\u00e1mosp\u00e9rcs Kist\u00e9rs\u00e9gi J\u00e1r\u00f3beteg Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2701053,
+                    47.8732557
+                ]
+            },
+            "properties": {
+                "name": "Karolina K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7344564,
+                    48.1339147
+                ]
+            },
+            "properties": {
+                "name": "Ibr\u00e1ny-Nagyhal\u00e1sz Kist\u00e9rs\u00e9gi J\u00e1r\u00f3beteg Szakell\u00e1t\u00f3 Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2118601,
+                    47.0186751
+                ]
+            },
+            "properties": {
+                "name": "Orvosi rendel\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5134484,
+                    47.9951088
+                ]
+            },
+            "properties": {
+                "name": "Feh\u00e9rgyarmati K\u00f3rh\u00e1z \u00e9s Gy\u00f3gyf\u00fcrd\u0151"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0377195,
+                    47.5153947
+                ]
+            },
+            "properties": {
+                "name": "Irgalmasrendi K\u00f3rh\u00e1z b\u0151v\u00edt\u00e9se"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5440737,
+                    47.2267231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5431898,
+                    47.2262557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5435284,
+                    47.2261809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9311497,
+                    47.5226593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8265921,
+                    46.3856803
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e9szs\u00e9gh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7256029,
+                    48.2952011
+                ]
+            },
+            "properties": {
+                "name": "Koch R\u00f3bert K\u00f3rh\u00e1z \u00e9s Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.726154,
+                    48.2947381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5161965,
+                    47.515807
+                ]
+            },
+            "properties": {
+                "name": "Petz Alad\u00e1r Megyei Oktat\u00f3 K\u00f3rh\u00e1z Pszichi\u00e1triai, Ment\u00e1lhigi\u00e9n\u00e9s \u00e9s Addiktol\u00f3giai Oszt\u00e1ly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8094838,
+                    48.1147835
+                ]
+            },
+            "properties": {
+                "name": "Szent L\u00e1z\u00e1r Megyei K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1499801,
+                    46.2475121
+                ]
+            },
+            "properties": {
+                "name": "Szent Gy\u00f6rgyi Albert Klinikai K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2717216,
+                    46.1881686
+                ]
+            },
+            "properties": {
+                "name": "K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7338028,
+                    47.7190687
+                ]
+            },
+            "properties": {
+                "name": "Dorogi Szent Borb\u00e1la Szakk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5989664,
+                    47.6770784
+                ]
+            },
+            "properties": {
+                "name": "Soproni Erzs\u00e9bet Oktat\u00f3 K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.147478,
+                    46.2441286
+                ]
+            },
+            "properties": {
+                "name": "D\u00e9li Klinikai T\u00f6mb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6489274,
+                    47.6722439
+                ]
+            },
+            "properties": {
+                "name": "Petz Alad\u00e1r Megyei Oktat\u00f3 K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6729841,
+                    46.909141
+                ]
+            },
+            "properties": {
+                "name": "B\u00e1cs-Kiskun Megyei K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1047179,
+                    46.6834096
+                ]
+            },
+            "properties": {
+                "name": "R\u00e9thy P\u00e1l K\u00f3rh\u00e1z-Rendel\u0151int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6237261,
+                    47.5639509
+                ]
+            },
+            "properties": {
+                "name": "Auguszta Hotel \u00e9s Di\u00e1ksz\u00e1ll\u00f3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6214855,
+                    47.5624852
+                ]
+            },
+            "properties": {
+                "name": "Auguszta Neurol\u00f3giai Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7905416,
+                    48.1208249
+                ]
+            },
+            "properties": {
+                "name": "Borsod-Aba\u00faj-Zempl\u00e9n Megyei K\u00f3rh\u00e1z \u00e9s Egyetemi Oktat\u00f3 K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.945778,
+                    47.5204059
+                ]
+            },
+            "properties": {
+                "name": "Orsz\u00e1gos Kor\u00e1nyi Pulmonol\u00f3giai Int\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3496985,
+                    47.5995552
+                ]
+            },
+            "properties": {
+                "name": "Tormay K\u00e1roly Eg\u00e9szs\u00e9g\u00fcgyi K\u00f6zpont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6221972,
+                    47.2126426
+                ]
+            },
+            "properties": {
+                "name": "T\u00fcd\u0151szanat\u00f3rium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8973514,
+                    46.9562193
+                ]
+            },
+            "properties": {
+                "name": "\u00c1llami Sz\u00edvk\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4352551,
+                    47.1917824
+                ]
+            },
+            "properties": {
+                "name": "Szent Gy\u00f6rgy K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.435995,
+                    47.1910626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.441426,
+                    46.8850724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5885428,
+                    46.5401038
+                ]
+            },
+            "properties": {
+                "name": "Kakassz\u00e9ki Gy\u00f3gyint\u00e9zet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0900218,
+                    48.2087271
+                ]
+            },
+            "properties": {
+                "name": "Fels\u0151-szabolcsi k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2764339,
+                    46.6411564
+                ]
+            },
+            "properties": {
+                "name": "P\u00e1ndy K\u00e1lm\u00e1n k\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1432576,
+                    47.2031136
+                ]
+            },
+            "properties": {
+                "name": "Szent Don\u00e1t K\u00f3rh\u00e1z V\u00e1rpalota"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.189482,
+                    46.7867177
+                ]
+            },
+            "properties": {
+                "name": "Szent Andr\u00e1s Reumak\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1621514,
+                    47.4784908
+                ]
+            },
+            "properties": {
+                "name": "Bajcsy-Zsilinszky K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0049208,
+                    47.509703
+                ]
+            },
+            "properties": {
+                "name": "Szent J\u00e1nos K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2535556,
+                    47.5391338
+                ]
+            },
+            "properties": {
+                "name": "Fl\u00f3r Ferenc K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7847143,
+                    48.0884911
+                ]
+            },
+            "properties": {
+                "name": "Szent Ferenc K\u00f3rh\u00e1z"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0304424,
+                    47.5392506
+                ]
+            },
+            "properties": {
+                "name": "Szent Margit K\u00f3rh\u00e1z"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

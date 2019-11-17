@@ -1,0 +1,259 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2088424,
+                    49.9340849
+                ]
+            },
+            "properties": {
+                "name": "Ourdaller Biblioth\u00e9ik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0858315,
+                    49.4785129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1307362,
+                    49.6030311
+                ]
+            },
+            "properties": {
+                "name": "Promoculture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1184585,
+                    49.6206702
+                ]
+            },
+            "properties": {
+                "name": "Biblioth\u00e8que paroissale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1336284,
+                    49.6153529
+                ]
+            },
+            "properties": {
+                "name": "Nederlandstalige Jeugdbibliotheek Luxemburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0020318,
+                    50.1206312
+                ]
+            },
+            "properties": {
+                "name": "Biblioth\u00e8que Tony Bourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8876685,
+                    49.5209935
+                ]
+            },
+            "properties": {
+                "name": "Biblioth\u00e8que Municipale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1040781,
+                    49.7482503
+                ]
+            },
+            "properties": {
+                "name": "Mierscher Lieshaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9846377,
+                    49.4998281
+                ]
+            },
+            "properties": {
+                "name": "Escher Biblioth\u00e9ik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0891774,
+                    49.4835326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.063201,
+                    49.4876525
+                ]
+            },
+            "properties": {
+                "name": "La Bo\u00eete \u00e0 Lire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0969493,
+                    49.5178715
+                ]
+            },
+            "properties": {
+                "name": "Free Use"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1010117,
+                    49.4866117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1081429,
+                    49.7511703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1082266,
+                    49.750933
+                ]
+            },
+            "properties": {
+                "name": "Centre National de la litterature"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1309174,
+                    49.6097755
+                ]
+            },
+            "properties": {
+                "name": "Biblioth\u00e8que nationale de Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1343788,
+                    49.6083917
+                ]
+            },
+            "properties": {
+                "name": "Archives nationales Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1301275,
+                    49.6116962
+                ]
+            },
+            "properties": {
+                "name": "Biblioth\u00e8que municipale de Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1149556,
+                    49.5858227
+                ]
+            },
+            "properties": {
+                "name": "Phototh\u00e8que de la Ville de Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9476434,
+                    49.5022189
+                ]
+            },
+            "properties": {
+                "name": "BiblioLab Campus Belval"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

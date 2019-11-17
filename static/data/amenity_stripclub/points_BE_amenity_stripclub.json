@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5805653,
+                    50.6918057
+                ]
+            },
+            "properties": {
+                "name": "Aloha club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.355601,
+                    50.8474083
+                ]
+            },
+            "properties": {
+                "name": "Club 73"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5547752,
+                    50.9827675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5681508,
+                    50.9855693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3605556,
+                    50.8282805
+                ]
+            },
+            "properties": {
+                "name": "Le Peplum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3546736,
+                    50.8522587
+                ]
+            },
+            "properties": {
+                "name": "Club L\u2019Intime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2304049,
+                    50.73096
+                ]
+            },
+            "properties": {
+                "name": "Show Club De Zwarte Kat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3482276,
+                    50.8455123
+                ]
+            },
+            "properties": {
+                "name": "Chez Mamam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3573015,
+                    50.8547131
+                ]
+            },
+            "properties": {
+                "name": "Gascogne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3564882,
+                    50.8547734
+                ]
+            },
+            "properties": {
+                "name": "Pink District"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

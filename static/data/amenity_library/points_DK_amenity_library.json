@@ -1,0 +1,4019 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5268969,
+                    55.7615045
+                ]
+            },
+            "properties": {
+                "name": "J\u00e6gersborg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5151347,
+                    54.7772503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3734326,
+                    55.3656674
+                ]
+            },
+            "properties": {
+                "name": "Dalum bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.429847,
+                    55.3669895
+                ]
+            },
+            "properties": {
+                "name": "Odense matematiske bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4283207,
+                    55.3678886
+                ]
+            },
+            "properties": {
+                "name": "Syddansk Universitets-bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3360068,
+                    55.4101248
+                ]
+            },
+            "properties": {
+                "name": "Tarup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4899579,
+                    55.3082016
+                ]
+            },
+            "properties": {
+                "name": "\u00c5rslev bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4775578,
+                    55.6419224
+                ]
+            },
+            "properties": {
+                "name": "Hvidovre Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5507497,
+                    55.679554
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Danasvej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5231139,
+                    55.6886735
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Godth\u00e5bsvej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4992001,
+                    55.7041757
+                ]
+            },
+            "properties": {
+                "name": "Br\u00f8nsh\u00f8j Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4772025,
+                    55.7108103
+                ]
+            },
+            "properties": {
+                "name": "Husum Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4572052,
+                    55.6812093
+                ]
+            },
+            "properties": {
+                "name": "R\u00f8dovre Hovedbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4914391,
+                    55.6866031
+                ]
+            },
+            "properties": {
+                "name": "Vanl\u00f8se Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4981934,
+                    55.7424161
+                ]
+            },
+            "properties": {
+                "name": "Gladsaxe Hovedbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5300363,
+                    55.6467542
+                ]
+            },
+            "properties": {
+                "name": "Sydhavnens Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0126291,
+                    55.7133743
+                ]
+            },
+            "properties": {
+                "name": "Juelsminde Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5762559,
+                    55.7091573
+                ]
+            },
+            "properties": {
+                "name": "\u00d8bro Jagtvej Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3567167,
+                    55.6567552
+                ]
+            },
+            "properties": {
+                "name": "Hovedbiblioteket Albertslund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3192583,
+                    55.7497225
+                ]
+            },
+            "properties": {
+                "name": "M\u00e5l\u00f8v Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5437877,
+                    55.6677861
+                ]
+            },
+            "properties": {
+                "name": "Vesterbro Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4008697,
+                    55.4448865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1489675,
+                    55.7372257
+                ]
+            },
+            "properties": {
+                "name": "Gunds\u00f8magle Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6740232,
+                    54.8895392
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Broager"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7032964,
+                    55.7708399
+                ]
+            },
+            "properties": {
+                "name": "Hedensted Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4820069,
+                    55.7186985
+                ]
+            },
+            "properties": {
+                "name": "Tingbjerg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8938859,
+                    54.9144033
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket H\u00f8rup"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5569057,
+                    55.6859744
+                ]
+            },
+            "properties": {
+                "name": "Bl\u00e5g\u00e5rdens Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7840279,
+                    54.9132978
+                ]
+            },
+            "properties": {
+                "name": "S\u00f8nderborg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7841661,
+                    54.9129702
+                ]
+            },
+            "properties": {
+                "name": "Deutsche B\u00fccherei Sonderburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7798696,
+                    54.9127313
+                ]
+            },
+            "properties": {
+                "name": "Syddansk Universitetsbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2996819,
+                    55.6484468
+                ]
+            },
+            "properties": {
+                "name": "Taastrup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4967042,
+                    55.8807717
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8rsholm Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4849037,
+                    55.2504665
+                ]
+            },
+            "properties": {
+                "name": "Haderslev Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3712705,
+                    55.7834916
+                ]
+            },
+            "properties": {
+                "name": "V\u00e6rl\u00f8se Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8464906,
+                    55.8650241
+                ]
+            },
+            "properties": {
+                "name": "Horsens Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6157565,
+                    56.3603487
+                ]
+            },
+            "properties": {
+                "name": "Holstebro Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5163437,
+                    55.9077707
+                ]
+            },
+            "properties": {
+                "name": "Tarm Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4801569,
+                    55.4914676
+                ]
+            },
+            "properties": {
+                "name": "Kolding Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7288227,
+                    54.6693894
+                ]
+            },
+            "properties": {
+                "name": "Nysted Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4744273,
+                    56.3030238
+                ]
+            },
+            "properties": {
+                "name": "R\u00f8nde Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9322632,
+                    56.0353917
+                ]
+            },
+            "properties": {
+                "name": "Skanderborg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.276366,
+                    55.7587549
+                ]
+            },
+            "properties": {
+                "name": "Endelave Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9501906,
+                    56.1202471
+                ]
+            },
+            "properties": {
+                "name": "Stj\u00e6r Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0844479,
+                    56.0415935
+                ]
+            },
+            "properties": {
+                "name": "Solbjerg bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0479273,
+                    55.121281
+                ]
+            },
+            "properties": {
+                "name": "Pr\u00e6st\u00f8 Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9049503,
+                    56.1554276
+                ]
+            },
+            "properties": {
+                "name": "galten bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1630995,
+                    56.1563574
+                ]
+            },
+            "properties": {
+                "name": "\u00c5by Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1672884,
+                    56.17962
+                ]
+            },
+            "properties": {
+                "name": "Hasle Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2139509,
+                    55.5333354
+                ]
+            },
+            "properties": {
+                "name": "Solr\u00f8d Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5793994,
+                    55.6664321
+                ]
+            },
+            "properties": {
+                "name": "Islands Brygge Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.604231,
+                    55.6652546
+                ]
+            },
+            "properties": {
+                "name": "Sundby Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5037214,
+                    55.9346104
+                ]
+            },
+            "properties": {
+                "name": "NIv\u00e5 Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4675797,
+                    55.3498966
+                ]
+            },
+            "properties": {
+                "name": "Sonderho bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0408341,
+                    56.4604409
+                ]
+            },
+            "properties": {
+                "name": "Randers Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9982105,
+                    56.1453805
+                ]
+            },
+            "properties": {
+                "name": "Harlev Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0293055,
+                    56.5667977
+                ]
+            },
+            "properties": {
+                "name": "Skive Biblotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6130753,
+                    55.6503429
+                ]
+            },
+            "properties": {
+                "name": "Bibliotekshuset"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3762211,
+                    56.3333712
+                ]
+            },
+            "properties": {
+                "name": "M\u00f8rke bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6707608,
+                    55.5931218
+                ]
+            },
+            "properties": {
+                "name": "Drag\u00f8r Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8724911,
+                    54.9466425
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Augustenborg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7671417,
+                    54.9118223
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Dybb\u00f8l"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5904099,
+                    54.9195399
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Gr\u00e5sten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7492552,
+                    55.0568003
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Nordborg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8219493,
+                    54.9245058
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Ulkeb\u00f8l"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4508518,
+                    55.6700945
+                ]
+            },
+            "properties": {
+                "name": "Tremilen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6395606,
+                    55.5941531
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket i Holl\u00e6nderhallen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.356084,
+                    55.6136683
+                ]
+            },
+            "properties": {
+                "name": "Ish\u00f8j Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5920924,
+                    55.6722942
+                ]
+            },
+            "properties": {
+                "name": "Christianshavns Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5700009,
+                    55.6755517
+                ]
+            },
+            "properties": {
+                "name": "R\u00e5dhusbiblioteket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5954937,
+                    55.6487317
+                ]
+            },
+            "properties": {
+                "name": "Solvang Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5817704,
+                    55.694588
+                ]
+            },
+            "properties": {
+                "name": "\u00d8sterbro Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4221897,
+                    55.7426102
+                ]
+            },
+            "properties": {
+                "name": "Hjortespring Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5008535,
+                    55.6710686
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Domus Vista"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2782662,
+                    55.8390858
+                ]
+            },
+            "properties": {
+                "name": "Lynge Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5950169,
+                    55.7869915
+                ]
+            },
+            "properties": {
+                "name": "Taarb\u00e6k Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3598137,
+                    55.7296483
+                ]
+            },
+            "properties": {
+                "name": "Ballerup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4082637,
+                    55.6528556
+                ]
+            },
+            "properties": {
+                "name": "Br\u00f8ndbyvester Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5388551,
+                    55.7323661
+                ]
+            },
+            "properties": {
+                "name": "Dysseg\u00e5rd Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5736656,
+                    55.7585596
+                ]
+            },
+            "properties": {
+                "name": "Ordrup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.518703,
+                    55.7510892
+                ]
+            },
+            "properties": {
+                "name": "Vangede Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0194024,
+                    55.9720571
+                ]
+            },
+            "properties": {
+                "name": "Frederiksv\u00e6rk bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4567148,
+                    55.760712
+                ]
+            },
+            "properties": {
+                "name": "Bibliografen Bagsv\u00e6rd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4971841,
+                    55.7296575
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8je Gladsaxe Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4699974,
+                    55.723787
+                ]
+            },
+            "properties": {
+                "name": "M\u00f8rkh\u00f8j Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4396348,
+                    55.7573254
+                ]
+            },
+            "properties": {
+                "name": "V\u00e6rebro Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.063911,
+                    55.8378858
+                ]
+            },
+            "properties": {
+                "name": "Frederikssund Hovedbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1723153,
+                    55.8465497
+                ]
+            },
+            "properties": {
+                "name": "Slangerup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9544768,
+                    55.7485767
+                ]
+            },
+            "properties": {
+                "name": "Skibby Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.197206,
+                    55.6497107
+                ]
+            },
+            "properties": {
+                "name": "Hedehusene Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4018313,
+                    55.7647657
+                ]
+            },
+            "properties": {
+                "name": "Hareskov Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3776311,
+                    55.8139003
+                ]
+            },
+            "properties": {
+                "name": "Farum Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7991233,
+                    55.4464634
+                ]
+            },
+            "properties": {
+                "name": "Ringsted Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0024847,
+                    57.2538141
+                ]
+            },
+            "properties": {
+                "name": "L\u00e6s\u00f8 Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1277395,
+                    57.3191452
+                ]
+            },
+            "properties": {
+                "name": "L\u00e6s\u00f8 Bibliotek, \u00d8sterby"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3097786,
+                    56.5493355
+                ]
+            },
+            "properties": {
+                "name": "Lemvig Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5331554,
+                    56.6506663
+                ]
+            },
+            "properties": {
+                "name": "Thyholm Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4493158,
+                    55.0731841
+                ]
+            },
+            "properties": {
+                "name": "Vester Skerninge Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.8602805,
+                    56.797277
+                ]
+            },
+            "properties": {
+                "name": "Mors\u00f8 Folkebibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6024079,
+                    55.0613604
+                ]
+            },
+            "properties": {
+                "name": "Svendborg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4458523,
+                    55.9491998
+                ]
+            },
+            "properties": {
+                "name": "Tun\u00f8 Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3988009,
+                    55.9791875
+                ]
+            },
+            "properties": {
+                "name": "Fredensborg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5292367,
+                    55.9643475
+                ]
+            },
+            "properties": {
+                "name": "Humleb\u00e6k Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.110311,
+                    56.1881114
+                ]
+            },
+            "properties": {
+                "name": "Tilst Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.985245,
+                    55.8525374
+                ]
+            },
+            "properties": {
+                "name": "J\u00e6gerspris Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.50122,
+                    55.8108358
+                ]
+            },
+            "properties": {
+                "name": "Odsherred Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4232116,
+                    54.9681066
+                ]
+            },
+            "properties": {
+                "name": "Drej\u00f8 Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3517549,
+                    55.3940645
+                ]
+            },
+            "properties": {
+                "name": "Bolbro Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2006335,
+                    57.4720047
+                ]
+            },
+            "properties": {
+                "name": "Sindal Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1184302,
+                    55.7303404
+                ]
+            },
+            "properties": {
+                "name": "Billund Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5850352,
+                    55.4634653
+                ]
+            },
+            "properties": {
+                "name": "Tj\u00e6reborg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2955438,
+                    55.5089615
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8ng Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2253447,
+                    55.5393892
+                ]
+            },
+            "properties": {
+                "name": "G\u00f8rlev Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1378731,
+                    54.8350213
+                ]
+            },
+            "properties": {
+                "name": "Nakskov bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4138184,
+                    55.0428014
+                ]
+            },
+            "properties": {
+                "name": "Deutsche Zentralb\u00fccherei Apenrade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0004739,
+                    57.0278553
+                ]
+            },
+            "properties": {
+                "name": "Trekanten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8700597,
+                    54.7698916
+                ]
+            },
+            "properties": {
+                "name": "Nyk\u00f8bing Falster Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4797773,
+                    55.6198375
+                ]
+            },
+            "properties": {
+                "name": "Varde Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5009312,
+                    56.6193923
+                ]
+            },
+            "properties": {
+                "name": "M\u00f8ldrup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4723149,
+                    55.8111563
+                ]
+            },
+            "properties": {
+                "name": "Holte bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4968007,
+                    56.6936831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5578695,
+                    55.4592665
+                ]
+            },
+            "properties": {
+                "name": "Munkebo bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7610087,
+                    55.2328971
+                ]
+            },
+            "properties": {
+                "name": "N\u00e6stved Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4233315,
+                    55.6232655
+                ]
+            },
+            "properties": {
+                "name": "Kulturhuset Br\u00f8nden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4791962,
+                    55.2369692
+                ]
+            },
+            "properties": {
+                "name": "Ringe Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7073922,
+                    55.1017096
+                ]
+            },
+            "properties": {
+                "name": "Bornholms Arkiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5877808,
+                    57.7226957
+                ]
+            },
+            "properties": {
+                "name": "Skagens Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1825944,
+                    55.4578322
+                ]
+            },
+            "properties": {
+                "name": "K\u00f8ge Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7032541,
+                    55.4655988
+                ]
+            },
+            "properties": {
+                "name": "Bramming Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1646578,
+                    56.1306009
+                ]
+            },
+            "properties": {
+                "name": "Viby Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9428904,
+                    57.0228894
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Gr\u00f8nlands Torv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7090922,
+                    55.7166704
+                ]
+            },
+            "properties": {
+                "name": "Holb\u00e6k Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0476455,
+                    55.3786274
+                ]
+            },
+            "properties": {
+                "name": "Aarup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0882227,
+                    55.5638893
+                ]
+            },
+            "properties": {
+                "name": "Bogense Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7579337,
+                    55.5670166
+                ]
+            },
+            "properties": {
+                "name": "Fredericia Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1528766,
+                    56.1418697
+                ]
+            },
+            "properties": {
+                "name": "Ikast Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4051346,
+                    55.4975405
+                ]
+            },
+            "properties": {
+                "name": "S\u00e6dding Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5235362,
+                    55.786915
+                ]
+            },
+            "properties": {
+                "name": "DTU Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1812293,
+                    55.3397247
+                ]
+            },
+            "properties": {
+                "name": "Tommerup bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3399796,
+                    55.6577034
+                ]
+            },
+            "properties": {
+                "name": "Bibliotek og Medborgercenter Hedemarken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8835561,
+                    57.036547
+                ]
+            },
+            "properties": {
+                "name": "Hasseris Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4287278,
+                    56.2873086
+                ]
+            },
+            "properties": {
+                "name": "Mosaikken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6062422,
+                    57.1132774
+                ]
+            },
+            "properties": {
+                "name": "Hanstholm Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4487213,
+                    56.4625384
+                ]
+            },
+            "properties": {
+                "name": "Houlk\u00e6r Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3983003,
+                    55.659779
+                ]
+            },
+            "properties": {
+                "name": "Jyderup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1402978,
+                    55.1369046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7638355,
+                    55.5414144
+                ]
+            },
+            "properties": {
+                "name": "Strib Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1490264,
+                    55.9089398
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00e6vinge Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7644648,
+                    56.0909581
+                ]
+            },
+            "properties": {
+                "name": "Ry Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7616034,
+                    55.6161894
+                ]
+            },
+            "properties": {
+                "name": "T\u00f8ll\u00f8se Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4181467,
+                    55.7547151
+                ]
+            },
+            "properties": {
+                "name": "Jelling bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9646341,
+                    56.1898267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0955625,
+                    56.1064639
+                ]
+            },
+            "properties": {
+                "name": "Kolt-Hasselager Kombi-bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1923774,
+                    56.02653
+                ]
+            },
+            "properties": {
+                "name": "Helsinge Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3983155,
+                    56.4496997
+                ]
+            },
+            "properties": {
+                "name": "Viborg Hovedbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4075049,
+                    56.4531684
+                ]
+            },
+            "properties": {
+                "name": "Landsarkivet for N\u00f8rrejylland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.4085677,
+                    56.4502855
+                ]
+            },
+            "properties": {
+                "name": "Viborg Lokalhistorisk Arkiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8944663,
+                    56.3913948
+                ]
+            },
+            "properties": {
+                "name": "Lang\u00e5 bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.582234,
+                    55.6749503
+                ]
+            },
+            "properties": {
+                "name": "Rigsarkivet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2679195,
+                    55.5664882
+                ]
+            },
+            "properties": {
+                "name": "Karlslunde Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2487819,
+                    56.3451433
+                ]
+            },
+            "properties": {
+                "name": "Frederiks Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1778981,
+                    55.4577224
+                ]
+            },
+            "properties": {
+                "name": "K\u00f8ge Byhistoriske Arkiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.44978,
+                    55.3659987
+                ]
+            },
+            "properties": {
+                "name": "Holluf Pile Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1284555,
+                    55.0614231
+                ]
+            },
+            "properties": {
+                "name": "Nex\u00f8 Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5664491,
+                    55.6961052
+                ]
+            },
+            "properties": {
+                "name": "Patientbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1358768,
+                    56.0912058
+                ]
+            },
+            "properties": {
+                "name": "Tranbjerg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0238311,
+                    56.2118094
+                ]
+            },
+            "properties": {
+                "name": "Sabro Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2156982,
+                    56.0603486
+                ]
+            },
+            "properties": {
+                "name": "Beder-Malling Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2824753,
+                    56.2120544
+                ]
+            },
+            "properties": {
+                "name": "Eg\u00e5 Kombi-bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1355482,
+                    56.1557135
+                ]
+            },
+            "properties": {
+                "name": "Gellerup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2718415,
+                    56.2432685
+                ]
+            },
+            "properties": {
+                "name": "Hjortsh\u00f8j Kombi-bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2077588,
+                    56.1140919
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8jbjerg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2281134,
+                    56.2343665
+                ]
+            },
+            "properties": {
+                "name": "Lystrup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6100803,
+                    55.9744285
+                ]
+            },
+            "properties": {
+                "name": "Br\u00e6dstrup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.859341,
+                    56.7699157
+                ]
+            },
+            "properties": {
+                "name": "Arden Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6740916,
+                    55.2535557
+                ]
+            },
+            "properties": {
+                "name": "\u00d8rb\u00e6k Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4396407,
+                    55.6674861
+                ]
+            },
+            "properties": {
+                "name": "Kilden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5030014,
+                    55.6491426
+                ]
+            },
+            "properties": {
+                "name": "Vigerslev Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9770904,
+                    56.1359345
+                ]
+            },
+            "properties": {
+                "name": "Herning Centralbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4387563,
+                    55.4068416
+                ]
+            },
+            "properties": {
+                "name": "Vollsmose Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2656643,
+                    55.7921091
+                ]
+            },
+            "properties": {
+                "name": "Ganl\u00f8se Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1246789,
+                    55.2221816
+                ]
+            },
+            "properties": {
+                "name": "Haarby Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9516494,
+                    57.0413819
+                ]
+            },
+            "properties": {
+                "name": "Vejg\u00e5rd Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6563874,
+                    56.377018
+                ]
+            },
+            "properties": {
+                "name": "Bjerringbro bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1178979,
+                    56.7185307
+                ]
+            },
+            "properties": {
+                "name": "Hadsund Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0477501,
+                    55.3786914
+                ]
+            },
+            "properties": {
+                "name": "Aarup Lokalhistoriske Arkiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.01673,
+                    55.48444
+                ]
+            },
+            "properties": {
+                "name": "Br\u00f8rup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.10578,
+                    55.27825
+                ]
+            },
+            "properties": {
+                "name": "Glamsbjerg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7367919,
+                    55.5055771
+                ]
+            },
+            "properties": {
+                "name": "Middelfart Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.876473,
+                    55.4599
+                ]
+            },
+            "properties": {
+                "name": "N\u00f8rre \u00c5by Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.22349,
+                    56.19369
+                ]
+            },
+            "properties": {
+                "name": "Risskov Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.49548,
+                    55.52721
+                ]
+            },
+            "properties": {
+                "name": "Dianalund Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5809518,
+                    55.6312555
+                ]
+            },
+            "properties": {
+                "name": "\u00d8restad Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.59604,
+                    55.83028
+                ]
+            },
+            "properties": {
+                "name": "Tranebjerg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.388614,
+                    55.3948485
+                ]
+            },
+            "properties": {
+                "name": "Historiens Hus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2901469,
+                    55.2456371
+                ]
+            },
+            "properties": {
+                "name": "Vojens Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2513353,
+                    55.4853736
+                ]
+            },
+            "properties": {
+                "name": "S\u00f8nders\u00f8 Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.131525,
+                    55.3851048
+                ]
+            },
+            "properties": {
+                "name": "Vissenbjerg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5863624,
+                    55.6033268
+                ]
+            },
+            "properties": {
+                "name": "Vestamager Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6543362,
+                    55.6432759
+                ]
+            },
+            "properties": {
+                "name": "B\u00f8rkop Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0605337,
+                    55.1922237
+                ]
+            },
+            "properties": {
+                "name": "Toftlund Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4514732,
+                    55.6274402
+                ]
+            },
+            "properties": {
+                "name": "Aved\u00f8re Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.96358,
+                    55.3245652
+                ]
+            },
+            "properties": {
+                "name": "Bibliotek og Borgerservice Haslev"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4749139,
+                    55.7939041
+                ]
+            },
+            "properties": {
+                "name": "Mikrobibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5171911,
+                    56.8021921
+                ]
+            },
+            "properties": {
+                "name": "Aars Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9804641,
+                    55.5001804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.868802,
+                    54.9373845
+                ]
+            },
+            "properties": {
+                "name": "T\u00f8nder Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3526647,
+                    55.4030968
+                ]
+            },
+            "properties": {
+                "name": "Slagelse Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.924089,
+                    57.0577047
+                ]
+            },
+            "properties": {
+                "name": "N\u00f8rresundby Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.792949,
+                    56.6385291
+                ]
+            },
+            "properties": {
+                "name": "Hobro Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.664878,
+                    55.922655
+                ]
+            },
+            "properties": {
+                "name": "Odsherreds Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0510033,
+                    55.2869563
+                ]
+            },
+            "properties": {
+                "name": "Gram bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0530222,
+                    55.3659186
+                ]
+            },
+            "properties": {
+                "name": "R\u00f8dding Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.54122,
+                    55.74671
+                ]
+            },
+            "properties": {
+                "name": "Gentoftegade Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7177916,
+                    54.935504
+                ]
+            },
+            "properties": {
+                "name": "Langelands Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.788165,
+                    56.3874149
+                ]
+            },
+            "properties": {
+                "name": "Ulstrup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.2423289,
+                    56.0867159
+                ]
+            },
+            "properties": {
+                "name": "Ringk\u00f8bing Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9908069,
+                    57.457822
+                ]
+            },
+            "properties": {
+                "name": "Hj\u00f8rring Bibliotekerne - Metropol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4098472,
+                    57.5952319
+                ]
+            },
+            "properties": {
+                "name": "\u00c5lb\u00e6k Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5187067,
+                    54.8535454
+                ]
+            },
+            "properties": {
+                "name": "Marstal Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.861213,
+                    56.7967692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9145702,
+                    55.269359
+                ]
+            },
+            "properties": {
+                "name": "Assens Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9708963,
+                    55.2119277
+                ]
+            },
+            "properties": {
+                "name": "Gudhjem Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3519414,
+                    55.4032718
+                ]
+            },
+            "properties": {
+                "name": "Slagelse Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.2143587,
+                    56.1534636
+                ]
+            },
+            "properties": {
+                "name": "Aarhus Hovedbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5299423,
+                    55.6807503
+                ]
+            },
+            "properties": {
+                "name": "Frederiksberg Hovedbiblioteket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5737639,
+                    55.6807715
+                ]
+            },
+            "properties": {
+                "name": "Hovedbiblioteket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4983747,
+                    55.7733967
+                ]
+            },
+            "properties": {
+                "name": "Stadsbiblioteket i Lyngby"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5414914,
+                    55.6789372
+                ]
+            },
+            "properties": {
+                "name": "Det Biovidenskabelige Fakultetsbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5733353,
+                    55.7376209
+                ]
+            },
+            "properties": {
+                "name": "Gentofte Hovedbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5897835,
+                    55.6617791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6052975,
+                    55.6814809
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket for Arkitektur, Design og Scenekunst"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1360102,
+                    55.6518841
+                ]
+            },
+            "properties": {
+                "name": "Roskilde Universitetsbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1993414,
+                    56.1702878
+                ]
+            },
+            "properties": {
+                "name": "Det Kgl. Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5204446,
+                    55.7063046
+                ]
+            },
+            "properties": {
+                "name": "Vejle Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9782779,
+                    57.020813
+                ]
+            },
+            "properties": {
+                "name": "Aalborg Universitetsbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5606626,
+                    55.6973091
+                ]
+            },
+            "properties": {
+                "name": "Det Natur- og Sundhedsvidenskabelige Fakultetsbibliotek - KUB Nord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3084805,
+                    56.2713001
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00f8dstrup Kombi Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5128657,
+                    55.6654159
+                ]
+            },
+            "properties": {
+                "name": "Valby Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7488289,
+                    55.2466915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2914285,
+                    55.2542822
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00e6lsk\u00f8r Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2828013,
+                    56.0667921
+                ]
+            },
+            "properties": {
+                "name": "BLIK - Gr\u00e6sted Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5345532,
+                    57.4415118
+                ]
+            },
+            "properties": {
+                "name": "Frederikshavn Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5472684,
+                    55.9952839
+                ]
+            },
+            "properties": {
+                "name": "Esperg\u00e6rde Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5438278,
+                    55.6990435
+                ]
+            },
+            "properties": {
+                "name": "N\u00f8rrebro Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5954161,
+                    56.4909188
+                ]
+            },
+            "properties": {
+                "name": "Struer Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4108799,
+                    54.8878089
+                ]
+            },
+            "properties": {
+                "name": "\u00c6r\u00f8sk\u00f8bing Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.609609,
+                    55.538938
+                ]
+            },
+            "properties": {
+                "name": "Taulov Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3115155,
+                    55.62004
+                ]
+            },
+            "properties": {
+                "name": "Egtved Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3643794,
+                    54.827846
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6710884,
+                    55.3594294
+                ]
+            },
+            "properties": {
+                "name": "Ullerslev Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6151158,
+                    56.0382275
+                ]
+            },
+            "properties": {
+                "name": "Kulturv\u00e6rftet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6996236,
+                    54.9496733
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket Vester Sottrup"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4854573,
+                    55.4955914
+                ]
+            },
+            "properties": {
+                "name": "Kvaglund Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6227354,
+                    55.6321767
+                ]
+            },
+            "properties": {
+                "name": "T\u00e5rnby Hovedbiblioteket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7886238,
+                    55.3124912
+                ]
+            },
+            "properties": {
+                "name": "Nyborg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4395806,
+                    55.6677004
+                ]
+            },
+            "properties": {
+                "name": "Kulturhuset Kilden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3540363,
+                    55.8678115
+                ]
+            },
+            "properties": {
+                "name": "Aller\u00f8d Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3940255,
+                    55.6636727
+                ]
+            },
+            "properties": {
+                "name": "Glostrup Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4356521,
+                    55.7253454
+                ]
+            },
+            "properties": {
+                "name": "Herlev Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2977994,
+                    55.9275555
+                ]
+            },
+            "properties": {
+                "name": "Hiller\u00f8d Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.157517,
+                    55.7920093
+                ]
+            },
+            "properties": {
+                "name": "\u00d8lstykke Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3217389,
+                    56.2724211
+                ]
+            },
+            "properties": {
+                "name": "Ulfborg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6858419,
+                    56.9562811
+                ]
+            },
+            "properties": {
+                "name": "Thisted Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.308268,
+                    55.7315394
+                ]
+            },
+            "properties": {
+                "name": "Sm\u00f8rum Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.401105,
+                    55.718513
+                ]
+            },
+            "properties": {
+                "name": "Skovlunde Kulturhus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0588802,
+                    56.8126189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4272489,
+                    55.840558
+                ]
+            },
+            "properties": {
+                "name": "Birker\u00f8d Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6903052,
+                    55.3542829
+                ]
+            },
+            "properties": {
+                "name": "Glums\u00f8 Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8531001,
+                    55.9594288
+                ]
+            },
+            "properties": {
+                "name": "Hundested Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9607964,
+                    57.5899932
+                ]
+            },
+            "properties": {
+                "name": "Hirtshals Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.96795,
+                    55.2438092
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8jrup Sogns Lokalhistoriske Arkiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3597615,
+                    55.7296214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.4964734,
+                    55.948035
+                ]
+            },
+            "properties": {
+                "name": "Skjern bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8791243,
+                    54.764665
+                ]
+            },
+            "properties": {
+                "name": "University College Sj\u00e6lland, Biblioteket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5432772,
+                    55.3038283
+                ]
+            },
+            "properties": {
+                "name": "Fuglebjerg bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1525997,
+                    55.9737143
+                ]
+            },
+            "properties": {
+                "name": "Odder Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8915587,
+                    54.997309
+                ]
+            },
+            "properties": {
+                "name": "Vordingborg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1040641,
+                    55.7529503
+                ]
+            },
+            "properties": {
+                "name": "Jyllinge Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2427567,
+                    54.9336222
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Tingleff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1262186,
+                    55.9409984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3995498,
+                    55.5150588
+                ]
+            },
+            "properties": {
+                "name": "Otterup bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5967637,
+                    54.9983969
+                ]
+            },
+            "properties": {
+                "name": "T\u00e5singe Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5231206,
+                    55.7084831
+                ]
+            },
+            "properties": {
+                "name": "Biblioteket p\u00e5 Rentemestervej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5057311,
+                    57.3334263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2503454,
+                    56.9675826
+                ]
+            },
+            "properties": {
+                "name": "L\u00f8gst\u00f8r Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2880753,
+                    54.9872432
+                ]
+            },
+            "properties": {
+                "name": "M\u00f8n Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.3309921,
+                    55.0727148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0594476,
+                    56.2637298
+                ]
+            },
+            "properties": {
+                "name": "Hinnerup Bibliotek og Kulturhus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6351827,
+                    54.7977813
+                ]
+            },
+            "properties": {
+                "name": "Saksk\u00f8bing Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.1267315,
+                    55.0076657
+                ]
+            },
+            "properties": {
+                "name": "Ravsted Lokalhistorisk Arkiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0654999,
+                    55.1869036
+                ]
+            },
+            "properties": {
+                "name": "Lokalhistorisk arkiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4939773,
+                    55.8775603
+                ]
+            },
+            "properties": {
+                "name": "Midlertidigt bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9807849,
+                    56.6505492
+                ]
+            },
+            "properties": {
+                "name": "Mariager Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3874044,
+                    55.6242103
+                ]
+            },
+            "properties": {
+                "name": "Vallensb\u00e6k Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.0448963,
+                    56.3255769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1478209,
+                    56.2531849
+                ]
+            },
+            "properties": {
+                "name": "Trige Kombi-bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.455331,
+                    56.0903828
+                ]
+            },
+            "properties": {
+                "name": "Hornb\u00e6k Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.7695062,
+                    55.1581023
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00e6rb\u00e6k Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5398253,
+                    55.8162225
+                ]
+            },
+            "properties": {
+                "name": "N\u00e6rum Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7992738,
+                    55.2800417
+                ]
+            },
+            "properties": {
+                "name": "Allinge Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9619513,
+                    55.9459804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.19252,
+                    56.6533639
+                ]
+            },
+            "properties": {
+                "name": "Havndal Egnsarkiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7503759,
+                    55.9413723
+                ]
+            },
+            "properties": {
+                "name": "R\u00f8rvig Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0881153,
+                    55.6419612
+                ]
+            },
+            "properties": {
+                "name": "Roskilde Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.454564,
+                    55.4694845
+                ]
+            },
+            "properties": {
+                "name": "Hovedbiblioteket, Esbjerg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3833321,
+                    55.3996325
+                ]
+            },
+            "properties": {
+                "name": "Landsarkivet for Fyn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5828388,
+                    55.6737529
+                ]
+            },
+            "properties": {
+                "name": "Det Kongelige Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7078219,
+                    55.1018554
+                ]
+            },
+            "properties": {
+                "name": "R\u00f8nne Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5467374,
+                    56.1659271
+                ]
+            },
+            "properties": {
+                "name": "Silkeborg Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8874253,
+                    56.4104799
+                ]
+            },
+            "properties": {
+                "name": "Grenaa Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9276684,
+                    57.0471402
+                ]
+            },
+            "properties": {
+                "name": "Hovedbiblioteket"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

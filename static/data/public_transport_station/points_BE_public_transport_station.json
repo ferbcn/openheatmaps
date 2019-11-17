@@ -1,0 +1,3607 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3362419,
+                    50.8356748
+                ]
+            },
+            "properties": {
+                "name": "Bruxelles-Midi - Brussel-Zuid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8551282,
+                    50.5882282
+                ]
+            },
+            "properties": {
+                "name": "Verviers-Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4016642,
+                    50.8337292
+                ]
+            },
+            "properties": {
+                "name": "Thieffry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4041965,
+                    50.8185429
+                ]
+            },
+            "properties": {
+                "name": "Delta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4054332,
+                    50.8212957
+                ]
+            },
+            "properties": {
+                "name": "Hankar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4038813,
+                    50.8277223
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9tillon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3979237,
+                    50.8394624
+                ]
+            },
+            "properties": {
+                "name": "Merode"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3818382,
+                    50.8428062
+                ]
+            },
+            "properties": {
+                "name": "Schuman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36877,
+                    50.8455451
+                ]
+            },
+            "properties": {
+                "name": "Arts-Loi - Kunst-Wet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3586397,
+                    50.8465485
+                ]
+            },
+            "properties": {
+                "name": "Gare Centrale - Centraal Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3523853,
+                    50.8499284
+                ]
+            },
+            "properties": {
+                "name": "De Brouck\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3478425,
+                    50.8521404
+                ]
+            },
+            "properties": {
+                "name": "Sainte-Catherine - Sint-Katelijne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3487828,
+                    50.833342
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4tel des Monnaies - Munthof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3544976,
+                    50.8352664
+                ]
+            },
+            "properties": {
+                "name": "Louise - Louiza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3616931,
+                    50.8382614
+                ]
+            },
+            "properties": {
+                "name": "Porte de Namur - Naamsepoort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.365713,
+                    50.8539544
+                ]
+            },
+            "properties": {
+                "name": "Botanique - Kruidtuin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3691066,
+                    50.8499675
+                ]
+            },
+            "properties": {
+                "name": "Madou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3665289,
+                    50.8412722
+                ]
+            },
+            "properties": {
+                "name": "Tr\u00f4ne - Troon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4096426,
+                    50.815096
+                ]
+            },
+            "properties": {
+                "name": "Beaulieu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4209192,
+                    50.8135301
+                ]
+            },
+            "properties": {
+                "name": "Demey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3513146,
+                    50.8573007
+                ]
+            },
+            "properties": {
+                "name": "Yser - IJzer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325184,
+                    50.8569002
+                ]
+            },
+            "properties": {
+                "name": "Osseghem - Ossegem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3229722,
+                    50.8534442
+                ]
+            },
+            "properties": {
+                "name": "Beekkant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3206513,
+                    50.8485097
+                ]
+            },
+            "properties": {
+                "name": "Gare de l'Ouest - Weststation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3308225,
+                    50.8411736
+                ]
+            },
+            "properties": {
+                "name": "Clemenceau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3242362,
+                    50.8452755
+                ]
+            },
+            "properties": {
+                "name": "Delacroix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3396697,
+                    50.8604772
+                ]
+            },
+            "properties": {
+                "name": "Ribaucourt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3402537,
+                    50.8548502
+                ]
+            },
+            "properties": {
+                "name": "Comte de Flandre - Graaf van Vlaanderen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3321841,
+                    50.8570847
+                ]
+            },
+            "properties": {
+                "name": "\u00c9tangs Noirs - Zwarte Vijvers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3180457,
+                    50.843756
+                ]
+            },
+            "properties": {
+                "name": "Jacques Brel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3124915,
+                    50.8396805
+                ]
+            },
+            "properties": {
+                "name": "Aumale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.305343,
+                    50.8349886
+                ]
+            },
+            "properties": {
+                "name": "Saint-Guidon - Sint-Guido"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3006508,
+                    50.8294786
+                ]
+            },
+            "properties": {
+                "name": "Veeweyde - Veeweide"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2970381,
+                    50.8249137
+                ]
+            },
+            "properties": {
+                "name": "Bizet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2939154,
+                    50.8211173
+                ]
+            },
+            "properties": {
+                "name": "La Roue - Het Rad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2896467,
+                    50.8162662
+                ]
+            },
+            "properties": {
+                "name": "CERIA - COOVI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2807327,
+                    50.8166829
+                ]
+            },
+            "properties": {
+                "name": "Eddy Merckx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.267078,
+                    50.8152348
+                ]
+            },
+            "properties": {
+                "name": "Erasme - Erasmus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3368135,
+                    50.8684247
+                ]
+            },
+            "properties": {
+                "name": "Belgica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3419624,
+                    50.886095
+                ]
+            },
+            "properties": {
+                "name": "Stuyvenbergh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.337113,
+                    50.8900078
+                ]
+            },
+            "properties": {
+                "name": "Houba-Brugmann"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3359769,
+                    50.8968737
+                ]
+            },
+            "properties": {
+                "name": "Heysel - Heizel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3287022,
+                    50.8965494
+                ]
+            },
+            "properties": {
+                "name": "Roi Baudouin - Koning Boudewijn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3600896,
+                    50.8603818
+                ]
+            },
+            "properties": {
+                "name": "Gare du Nord - Noordstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3769687,
+                    50.8438339
+                ]
+            },
+            "properties": {
+                "name": "Maelbeek - Maalbeek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4286923,
+                    50.8122156
+                ]
+            },
+            "properties": {
+                "name": "Herrmann-Debroux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4136974,
+                    50.8402731
+                ]
+            },
+            "properties": {
+                "name": "Jos\u00e9phine-Charlotte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4184758,
+                    50.8424865
+                ]
+            },
+            "properties": {
+                "name": "Gribaumont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4257772,
+                    50.8442261
+                ]
+            },
+            "properties": {
+                "name": "Tomberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4357016,
+                    50.8474846
+                ]
+            },
+            "properties": {
+                "name": "Roodebeek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4473648,
+                    50.8474667
+                ]
+            },
+            "properties": {
+                "name": "Vandervelde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4585462,
+                    50.8489121
+                ]
+            },
+            "properties": {
+                "name": "Crainhem - Kraainem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4641152,
+                    50.8420671
+                ]
+            },
+            "properties": {
+                "name": "Stockel - Stokkel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3479499,
+                    50.8778954
+                ]
+            },
+            "properties": {
+                "name": "Bockstael"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3309785,
+                    50.863048
+                ]
+            },
+            "properties": {
+                "name": "Elisabeth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4211011,
+                    51.2159949
+                ]
+            },
+            "properties": {
+                "name": "Antwerpen-Centraal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.337768,
+                    50.8965657
+                ]
+            },
+            "properties": {
+                "name": "Heysel - Heizel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4520601,
+                    50.4127386
+                ]
+            },
+            "properties": {
+                "name": "Charleroi Janson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5694838,
+                    50.6735333
+                ]
+            },
+            "properties": {
+                "name": "Ottignies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4369785,
+                    51.2213901
+                ]
+            },
+            "properties": {
+                "name": "Neerpelt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.330489,
+                    50.8631917
+                ]
+            },
+            "properties": {
+                "name": "Simonis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5455429,
+                    50.6995037
+                ]
+            },
+            "properties": {
+                "name": "Profondsart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828734,
+                    51.1809816
+                ]
+            },
+            "properties": {
+                "name": "Herentals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5836066,
+                    50.570615
+                ]
+            },
+            "properties": {
+                "name": "Tilff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4528546,
+                    50.8496906
+                ]
+            },
+            "properties": {
+                "name": "Alma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4016498,
+                    50.2883952
+                ]
+            },
+            "properties": {
+                "name": "Gare de Berz\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9754899,
+                    50.6596575
+                ]
+            },
+            "properties": {
+                "name": "Welkenraedt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8063518,
+                    50.5681835
+                ]
+            },
+            "properties": {
+                "name": "Pepinster"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8641993,
+                    50.5907956
+                ]
+            },
+            "properties": {
+                "name": "Verviers-Palais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.475077,
+                    50.4222435
+                ]
+            },
+            "properties": {
+                "name": "Gilly Gazom\u00e8tre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8150624,
+                    50.5362043
+                ]
+            },
+            "properties": {
+                "name": "Theux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4374842,
+                    50.4052733
+                ]
+            },
+            "properties": {
+                "name": "Charleroi-Sud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7086684,
+                    51.0738324
+                ]
+            },
+            "properties": {
+                "name": "Heist-op-den-Berg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4349351,
+                    50.4065083
+                ]
+            },
+            "properties": {
+                "name": "Charleroi Vilette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4427352,
+                    50.4148607
+                ]
+            },
+            "properties": {
+                "name": "Beaux-Arts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0432248,
+                    50.709035
+                ]
+            },
+            "properties": {
+                "name": "Hergenrath"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8224344,
+                    50.5255053
+                ]
+            },
+            "properties": {
+                "name": "Franchimont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8043758,
+                    50.5635435
+                ]
+            },
+            "properties": {
+                "name": "Pepinster-Cit\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8555258,
+                    50.4901895
+                ]
+            },
+            "properties": {
+                "name": "Spa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8669785,
+                    50.4893039
+                ]
+            },
+            "properties": {
+                "name": "Spa-G\u00e9ronst\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.938375,
+                    50.6255705
+                ]
+            },
+            "properties": {
+                "name": "Dolhain-Gileppe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8730278,
+                    50.3691636
+                ]
+            },
+            "properties": {
+                "name": "Trois-Ponts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3622545,
+                    50.8456068
+                ]
+            },
+            "properties": {
+                "name": "Parc - Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4075524,
+                    50.8378361
+                ]
+            },
+            "properties": {
+                "name": "Montgomery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3584821,
+                    50.8554537
+                ]
+            },
+            "properties": {
+                "name": "Rogier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2884415,
+                    50.3425215
+                ]
+            },
+            "properties": {
+                "name": "Thuin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4506354,
+                    50.4172074
+                ]
+            },
+            "properties": {
+                "name": "Charleroi Waterloo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4487821,
+                    50.4094299
+                ]
+            },
+            "properties": {
+                "name": "Charleroi Parc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4455656,
+                    50.4062018
+                ]
+            },
+            "properties": {
+                "name": "Charleroi Tirou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437347,
+                    50.4115541
+                ]
+            },
+            "properties": {
+                "name": "Charleroi Ouest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4612335,
+                    50.419929
+                ]
+            },
+            "properties": {
+                "name": "Charleroi Samaritaine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4795181,
+                    50.4237616
+                ]
+            },
+            "properties": {
+                "name": "Gilly Gilly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4874166,
+                    50.4270775
+                ]
+            },
+            "properties": {
+                "name": "Gilly Marabout"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4951033,
+                    50.4290725
+                ]
+            },
+            "properties": {
+                "name": "Gilly Sart Culpart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5028128,
+                    50.4303817
+                ]
+            },
+            "properties": {
+                "name": "Gilly Soleilmont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35854,
+                    50.8560737
+                ]
+            },
+            "properties": {
+                "name": "Rogier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3378962,
+                    50.8364861
+                ]
+            },
+            "properties": {
+                "name": "Gare du Midi - Zuidstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3428824,
+                    50.8339923
+                ]
+            },
+            "properties": {
+                "name": "Porte de Hal - Hallepoort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3429602,
+                    50.8735372
+                ]
+            },
+            "properties": {
+                "name": "Pannenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6159915,
+                    50.6696984
+                ]
+            },
+            "properties": {
+                "name": "Louvain-la-Neuve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8292864,
+                    49.5639089
+                ]
+            },
+            "properties": {
+                "name": "Athus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4945703,
+                    51.1634857
+                ]
+            },
+            "properties": {
+                "name": "Boechout"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.567065,
+                    50.624728
+                ]
+            },
+            "properties": {
+                "name": "Li\u00e8ge-Guillemins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.593564,
+                    50.5107094
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9ruwelz Astrid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9261879,
+                    50.8078688
+                ]
+            },
+            "properties": {
+                "name": "Tienen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3582301,
+                    50.8557317
+                ]
+            },
+            "properties": {
+                "name": "Rogier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3412341,
+                    50.8402525
+                ]
+            },
+            "properties": {
+                "name": "Lemonnier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3406826,
+                    50.8401048
+                ]
+            },
+            "properties": {
+                "name": "Lemonnier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345455,
+                    50.8443013
+                ]
+            },
+            "properties": {
+                "name": "Anneessens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5619531,
+                    51.1358421
+                ]
+            },
+            "properties": {
+                "name": "Lier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8099838,
+                    50.5446963
+                ]
+            },
+            "properties": {
+                "name": "Juslenville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9540191,
+                    50.1896189
+                ]
+            },
+            "properties": {
+                "name": "Gouvy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9095207,
+                    50.2787325
+                ]
+            },
+            "properties": {
+                "name": "Vielsalm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4410918,
+                    50.2841673
+                ]
+            },
+            "properties": {
+                "name": "Melreux-Hotton"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3139556,
+                    50.2025003
+                ]
+            },
+            "properties": {
+                "name": "Marloie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5195859,
+                    50.3768695
+                ]
+            },
+            "properties": {
+                "name": "Bomal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5728296,
+                    50.530514
+                ]
+            },
+            "properties": {
+                "name": "Esneux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.585541,
+                    50.4860898
+                ]
+            },
+            "properties": {
+                "name": "Rivage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5619438,
+                    50.640538
+                ]
+            },
+            "properties": {
+                "name": "Li\u00e8ge-Jonfosse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5709122,
+                    50.6464988
+                ]
+            },
+            "properties": {
+                "name": "Li\u00e8ge-Palais"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6229797,
+                    50.6607262
+                ]
+            },
+            "properties": {
+                "name": "Herstal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5690642,
+                    50.6981667
+                ]
+            },
+            "properties": {
+                "name": "Liers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3275497,
+                    50.9309341
+                ]
+            },
+            "properties": {
+                "name": "Hasselt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4199612,
+                    50.9106473
+                ]
+            },
+            "properties": {
+                "name": "Diepenbeek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1759902,
+                    50.8172129
+                ]
+            },
+            "properties": {
+                "name": "Sint-Truiden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0800985,
+                    50.7479715
+                ]
+            },
+            "properties": {
+                "name": "Landen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0511119,
+                    50.9930532
+                ]
+            },
+            "properties": {
+                "name": "Diest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8240803,
+                    50.9844425
+                ]
+            },
+            "properties": {
+                "name": "Aarschot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.715648,
+                    50.8813454
+                ]
+            },
+            "properties": {
+                "name": "Leuven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4962955,
+                    50.967071
+                ]
+            },
+            "properties": {
+                "name": "Genk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6388242,
+                    51.1134905
+                ]
+            },
+            "properties": {
+                "name": "Berlaar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.114703,
+                    51.1904643
+                ]
+            },
+            "properties": {
+                "name": "Mol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.312068,
+                    51.2117144
+                ]
+            },
+            "properties": {
+                "name": "Lommel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2810644,
+                    51.038289
+                ]
+            },
+            "properties": {
+                "name": "Heusden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3297639,
+                    51.033547
+                ]
+            },
+            "properties": {
+                "name": "Zolder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2580336,
+                    51.1173328
+                ]
+            },
+            "properties": {
+                "name": "Leopoldsburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2344744,
+                    51.0886422
+                ]
+            },
+            "properties": {
+                "name": "Beverlo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2363211,
+                    51.0503819
+                ]
+            },
+            "properties": {
+                "name": "Beringen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1652774,
+                    51.1689959
+                ]
+            },
+            "properties": {
+                "name": "Balen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9891837,
+                    51.168858
+                ]
+            },
+            "properties": {
+                "name": "Geel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9021152,
+                    51.1739671
+                ]
+            },
+            "properties": {
+                "name": "Olen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.353047,
+                    50.8514851
+                ]
+            },
+            "properties": {
+                "name": "De Brouck\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9378811,
+                    51.3227241
+                ]
+            },
+            "properties": {
+                "name": "Turnhout"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8944454,
+                    51.2419281
+                ]
+            },
+            "properties": {
+                "name": "Tielen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5099699,
+                    50.6196915
+                ]
+            },
+            "properties": {
+                "name": "Pont-de-Seraing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5552369,
+                    50.6108606
+                ]
+            },
+            "properties": {
+                "name": "Sclessin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5313534,
+                    50.7130451
+                ]
+            },
+            "properties": {
+                "name": "Rixensart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.515088,
+                    50.7255002
+                ]
+            },
+            "properties": {
+                "name": "Genval"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.448908,
+                    50.7662727
+                ]
+            },
+            "properties": {
+                "name": "Groenendaal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4082856,
+                    50.7945262
+                ]
+            },
+            "properties": {
+                "name": "Boitsfort - Bosvoorde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4563752,
+                    50.5944412
+                ]
+            },
+            "properties": {
+                "name": "Fl\u00e9malle-Haute"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4675804,
+                    50.5997958
+                ]
+            },
+            "properties": {
+                "name": "Leman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4984853,
+                    50.6186268
+                ]
+            },
+            "properties": {
+                "name": "Jemeppe-sur-Meuse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4801246,
+                    50.6048537
+                ]
+            },
+            "properties": {
+                "name": "Fl\u00e9malle-Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4023477,
+                    50.5827286
+                ]
+            },
+            "properties": {
+                "name": "Engis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2896888,
+                    50.5392815
+                ]
+            },
+            "properties": {
+                "name": "Ampsin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3207698,
+                    50.5460435
+                ]
+            },
+            "properties": {
+                "name": "Amay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3310014,
+                    50.5540416
+                ]
+            },
+            "properties": {
+                "name": "Haute-Flone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1921875,
+                    50.5231736
+                ]
+            },
+            "properties": {
+                "name": "Bas Oha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2209811,
+                    50.5278461
+                ]
+            },
+            "properties": {
+                "name": "Statte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2330408,
+                    50.5267332
+                ]
+            },
+            "properties": {
+                "name": "Huy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.082338,
+                    50.4972745
+                ]
+            },
+            "properties": {
+                "name": "Ch\u00e2teau de Seilles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.965401,
+                    50.4806705
+                ]
+            },
+            "properties": {
+                "name": "Marche-les-Dames"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9976502,
+                    50.4700859
+                ]
+            },
+            "properties": {
+                "name": "Nam\u00eache"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0265885,
+                    50.4922014
+                ]
+            },
+            "properties": {
+                "name": "Sclaigneaux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8625647,
+                    50.4686285
+                ]
+            },
+            "properties": {
+                "name": "Namur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.457049,
+                    50.6582321
+                ]
+            },
+            "properties": {
+                "name": "Bierset-Awans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2860394,
+                    50.685301
+                ]
+            },
+            "properties": {
+                "name": "Bleret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3207531,
+                    50.6787498
+                ]
+            },
+            "properties": {
+                "name": "Remicourt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3669576,
+                    50.6700196
+                ]
+            },
+            "properties": {
+                "name": "Momalle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3981407,
+                    50.6641207
+                ]
+            },
+            "properties": {
+                "name": "Fexhe-le-Haut-Clocher"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4300419,
+                    50.6607892
+                ]
+            },
+            "properties": {
+                "name": "Voroux-Goreux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2496619,
+                    50.6946489
+                ]
+            },
+            "properties": {
+                "name": "Waremme"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9950215,
+                    50.7715802
+                ]
+            },
+            "properties": {
+                "name": "Ezemaal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0363342,
+                    50.7637479
+                ]
+            },
+            "properties": {
+                "name": "Neerwinden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8356836,
+                    50.8360362
+                ]
+            },
+            "properties": {
+                "name": "Vertrijk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6326967,
+                    50.9004245
+                ]
+            },
+            "properties": {
+                "name": "Veltem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6751574,
+                    50.9037678
+                ]
+            },
+            "properties": {
+                "name": "Herent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5058,
+                    50.8833278
+                ]
+            },
+            "properties": {
+                "name": "Nossegem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5410778,
+                    50.8927499
+                ]
+            },
+            "properties": {
+                "name": "Kortenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5865908,
+                    50.896625
+                ]
+            },
+            "properties": {
+                "name": "Erps-Kwerps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4452666,
+                    50.8899608
+                ]
+            },
+            "properties": {
+                "name": "Diegem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4729671,
+                    50.8850132
+                ]
+            },
+            "properties": {
+                "name": "Zaventem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4156912,
+                    50.8897104
+                ]
+            },
+            "properties": {
+                "name": "Haren-Sud - Haren-Zuid"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6133677,
+                    50.6677539
+                ]
+            },
+            "properties": {
+                "name": "Louvain-La-Neuve, Gare d'Autobus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6728753,
+                    50.4729088
+                ]
+            },
+            "properties": {
+                "name": "Aywaille"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6501229,
+                    50.736373
+                ]
+            },
+            "properties": {
+                "name": "Gastuche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8095655,
+                    49.6804083
+                ]
+            },
+            "properties": {
+                "name": "Arlon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4243739,
+                    51.0788132
+                ]
+            },
+            "properties": {
+                "name": "Rumst Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6054584,
+                    50.7160819
+                ]
+            },
+            "properties": {
+                "name": "Gare de Wavre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3605519,
+                    51.0906349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8694834,
+                    51.0334524
+                ]
+            },
+            "properties": {
+                "name": "Busstation Diksmuide"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4736183,
+                    50.783924
+                ]
+            },
+            "properties": {
+                "name": "Station Tongeren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3427647,
+                    50.8733762
+                ]
+            },
+            "properties": {
+                "name": "Pannenhuis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3915593,
+                    50.300399
+                ]
+            },
+            "properties": {
+                "name": "Gare de Cour-sur-Heure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3559238,
+                    51.0663004
+                ]
+            },
+            "properties": {
+                "name": "Station van Willebroek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8771812,
+                    50.368975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9648604,
+                    50.2105639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6888668,
+                    50.5732493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0714796,
+                    50.8102191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3032964,
+                    50.5305149
+                ]
+            },
+            "properties": {
+                "name": "Terminus La Glanerie Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4918224,
+                    50.056227
+                ]
+            },
+            "properties": {
+                "name": "Gare de Couvain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8769949,
+                    50.8484074
+                ]
+            },
+            "properties": {
+                "name": "Ieper Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8760207,
+                    50.8482657
+                ]
+            },
+            "properties": {
+                "name": "Station Ieper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3427674,
+                    50.821681
+                ]
+            },
+            "properties": {
+                "name": "Albert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3452879,
+                    50.8441406
+                ]
+            },
+            "properties": {
+                "name": "Anneessens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3457138,
+                    50.8257352
+                ]
+            },
+            "properties": {
+                "name": "Horta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3463668,
+                    50.8297529
+                ]
+            },
+            "properties": {
+                "name": "Parvis de Saint-Gilles - Sint-Gillisvoorplein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3429226,
+                    50.8332699
+                ]
+            },
+            "properties": {
+                "name": "Porte de Hal - Hallepoort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3375734,
+                    50.8368203
+                ]
+            },
+            "properties": {
+                "name": "Gare du Midi - Zuidstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3583419,
+                    50.8555867
+                ]
+            },
+            "properties": {
+                "name": "Rogier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3491586,
+                    50.8478669
+                ]
+            },
+            "properties": {
+                "name": "Bourse - Beurs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3600595,
+                    50.8603191
+                ]
+            },
+            "properties": {
+                "name": "Gare du Nord - Noordstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3493514,
+                    50.8335356
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4tel des Monnaies - Munthof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3547109,
+                    50.8356394
+                ]
+            },
+            "properties": {
+                "name": "Louise - Louiza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3620423,
+                    50.8384604
+                ]
+            },
+            "properties": {
+                "name": "Porte de Namur - Naamsepoort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3666994,
+                    50.8412224
+                ]
+            },
+            "properties": {
+                "name": "Tr\u00f4ne - Troon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3687937,
+                    50.8455044
+                ]
+            },
+            "properties": {
+                "name": "Arts-Loi - Kunst-Wet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3622061,
+                    50.8459887
+                ]
+            },
+            "properties": {
+                "name": "Parc - Park"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3654667,
+                    50.8536438
+                ]
+            },
+            "properties": {
+                "name": "Botanique - Kruidtuin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3300744,
+                    50.8633184
+                ]
+            },
+            "properties": {
+                "name": "Simonis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3689452,
+                    50.8496947
+                ]
+            },
+            "properties": {
+                "name": "Madou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3393152,
+                    50.860562
+                ]
+            },
+            "properties": {
+                "name": "Ribaucourt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3514474,
+                    50.8572587
+                ]
+            },
+            "properties": {
+                "name": "Yser - IJzer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3413169,
+                    50.8403341
+                ]
+            },
+            "properties": {
+                "name": "Lemonnier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0867815,
+                    51.1502506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3477176,
+                    50.8523859
+                ]
+            },
+            "properties": {
+                "name": "Sainte-Catherine - Sint-Katelijne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3768956,
+                    50.8438019
+                ]
+            },
+            "properties": {
+                "name": "Maelbeek - Maalbeek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2806528,
+                    50.8167203
+                ]
+            },
+            "properties": {
+                "name": "Eddy Merckx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2672415,
+                    50.8152812
+                ]
+            },
+            "properties": {
+                "name": "Erasme - Erasmus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3822251,
+                    50.8427988
+                ]
+            },
+            "properties": {
+                "name": "Schuman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3984537,
+                    50.8393167
+                ]
+            },
+            "properties": {
+                "name": "Merode"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4076031,
+                    50.837661
+                ]
+            },
+            "properties": {
+                "name": "Montgomery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4135213,
+                    50.8401685
+                ]
+            },
+            "properties": {
+                "name": "Jos\u00e9phine-Charlotte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4184042,
+                    50.8424912
+                ]
+            },
+            "properties": {
+                "name": "Gribaumont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4257747,
+                    50.844337
+                ]
+            },
+            "properties": {
+                "name": "Tomberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.435967,
+                    50.8475537
+                ]
+            },
+            "properties": {
+                "name": "Roodebeek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4474698,
+                    50.8474842
+                ]
+            },
+            "properties": {
+                "name": "Vandervelde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4529246,
+                    50.8497232
+                ]
+            },
+            "properties": {
+                "name": "Alma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4585544,
+                    50.8489207
+                ]
+            },
+            "properties": {
+                "name": "Crainhem - Kraainem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4642597,
+                    50.8420038
+                ]
+            },
+            "properties": {
+                "name": "Stockel - Stokkel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.293903,
+                    50.8211034
+                ]
+            },
+            "properties": {
+                "name": "La Roue - Het Rad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2896356,
+                    50.8162716
+                ]
+            },
+            "properties": {
+                "name": "CERIA - COOVI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2971903,
+                    50.8250021
+                ]
+            },
+            "properties": {
+                "name": "Bizet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3002543,
+                    50.8292235
+                ]
+            },
+            "properties": {
+                "name": "Veeweyde - Veeweide"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3052846,
+                    50.8348091
+                ]
+            },
+            "properties": {
+                "name": "Saint-Guidon - Sint-Guido"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3123598,
+                    50.8395967
+                ]
+            },
+            "properties": {
+                "name": "Aumale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3180368,
+                    50.8438432
+                ]
+            },
+            "properties": {
+                "name": "Jacques Brel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3587834,
+                    50.8464955
+                ]
+            },
+            "properties": {
+                "name": "Gare Centrale - Centraal Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4054905,
+                    50.8437118
+                ]
+            },
+            "properties": {
+                "name": "Georges Henri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4053913,
+                    50.8330693
+                ]
+            },
+            "properties": {
+                "name": "Boileau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4021452,
+                    50.8492255
+                ]
+            },
+            "properties": {
+                "name": "Diamant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3207882,
+                    50.8485776
+                ]
+            },
+            "properties": {
+                "name": "Gare de l'Ouest - Weststation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3234112,
+                    50.8532832
+                ]
+            },
+            "properties": {
+                "name": "Beekkant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3252103,
+                    50.8569629
+                ]
+            },
+            "properties": {
+                "name": "Osseghem - Ossegem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3405636,
+                    50.8547109
+                ]
+            },
+            "properties": {
+                "name": "Comte de Flandre - Graaf van Vlaanderen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3321955,
+                    50.8570576
+                ]
+            },
+            "properties": {
+                "name": "\u00c9tangs Noirs - Zwarte Vijvers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3524126,
+                    50.8508082
+                ]
+            },
+            "properties": {
+                "name": "De Brouck\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3241445,
+                    50.8453392
+                ]
+            },
+            "properties": {
+                "name": "Delacroix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4017653,
+                    50.8334606
+                ]
+            },
+            "properties": {
+                "name": "Thieffry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4096348,
+                    50.8151006
+                ]
+            },
+            "properties": {
+                "name": "Beaulieu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4038744,
+                    50.827731
+                ]
+            },
+            "properties": {
+                "name": "P\u00e9tillon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4055196,
+                    50.8214504
+                ]
+            },
+            "properties": {
+                "name": "Hankar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4037751,
+                    50.8181363
+                ]
+            },
+            "properties": {
+                "name": "Delta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4286868,
+                    50.8123085
+                ]
+            },
+            "properties": {
+                "name": "Herrmann-Debroux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4209449,
+                    50.813458
+                ]
+            },
+            "properties": {
+                "name": "Demey"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3364122,
+                    50.8681223
+                ]
+            },
+            "properties": {
+                "name": "Belgica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3279999,
+                    50.8964273
+                ]
+            },
+            "properties": {
+                "name": "Roi Baudouin - Koning Boudewijn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3308545,
+                    50.8411286
+                ]
+            },
+            "properties": {
+                "name": "Clemenceau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3374149,
+                    50.8965459
+                ]
+            },
+            "properties": {
+                "name": "Heysel - Heizel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6535105,
+                    50.8356406
+                ]
+            },
+            "properties": {
+                "name": "Oud-Heverlee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8019359,
+                    50.4992132
+                ]
+            },
+            "properties": {
+                "name": "Rhisnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8770437,
+                    50.3690254
+                ]
+            },
+            "properties": {
+                "name": "Lustin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9416468,
+                    50.4541793
+                ]
+            },
+            "properties": {
+                "name": "Gare de Mons (future)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4676747,
+                    50.4215466
+                ]
+            },
+            "properties": {
+                "name": "D\u00e9p\u00f4t du TEC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.391946,
+                    50.8336403
+                ]
+            },
+            "properties": {
+                "name": "Station Vichte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1639827,
+                    51.1267459
+                ]
+            },
+            "properties": {
+                "name": "Zedelgem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6004056,
+                    51.0867539
+                ]
+            },
+            "properties": {
+                "name": "De Panne Moeder Lambic"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,1284 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9583581,
+                    45.3375407
+                ]
+            },
+            "properties": {
+                "name": "Latinovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7036585,
+                    45.5587719
+                ]
+            },
+            "properties": {
+                "name": "Osijek Dravski Most"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3070491,
+                    45.8223675
+                ]
+            },
+            "properties": {
+                "name": "Bo\u017ejakovina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3467808,
+                    46.3056273
+                ]
+            },
+            "properties": {
+                "name": "Vara\u017edin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4207251,
+                    45.2610655
+                ]
+            },
+            "properties": {
+                "name": "Budrovci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5779185,
+                    45.5205858
+                ]
+            },
+            "properties": {
+                "name": "\u010cepin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.523807,
+                    45.4214941
+                ]
+            },
+            "properties": {
+                "name": "Lipovac-Koritna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5399522,
+                    45.4433101
+                ]
+            },
+            "properties": {
+                "name": "Hrastovac Vu\u010dki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8534951,
+                    46.1822902
+                ]
+            },
+            "properties": {
+                "name": "\u017dutnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9117216,
+                    46.0563763
+                ]
+            },
+            "properties": {
+                "name": "\u0160trucljevo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8877801,
+                    46.1148796
+                ]
+            },
+            "properties": {
+                "name": "Velika Ves"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8961195,
+                    46.0963707
+                ]
+            },
+            "properties": {
+                "name": "Dukovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4717737,
+                    46.2684772
+                ]
+            },
+            "properties": {
+                "name": "Jal\u017eabet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9835659,
+                    46.1735257
+                ]
+            },
+            "properties": {
+                "name": "Golubovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.124629,
+                    46.2314943
+                ]
+            },
+            "properties": {
+                "name": "Ivanec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2186977,
+                    46.2597345
+                ]
+            },
+            "properties": {
+                "name": "Cerje Tu\u017eno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6214408,
+                    46.0492632
+                ]
+            },
+            "properties": {
+                "name": "Vojakova\u010dki Klo\u0161tar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6476714,
+                    46.0665122
+                ]
+            },
+            "properties": {
+                "name": "Carevdar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7122168,
+                    46.101241
+                ]
+            },
+            "properties": {
+                "name": "Sokolovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1030661,
+                    45.2957402
+                ]
+            },
+            "properties": {
+                "name": "Raji\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2886142,
+                    45.252549
+                ]
+            },
+            "properties": {
+                "name": "Dragali\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4625458,
+                    45.2356712
+                ]
+            },
+            "properties": {
+                "name": "Zapolje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5834645,
+                    45.2095614
+                ]
+            },
+            "properties": {
+                "name": "Vrbova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7168503,
+                    45.1704873
+                ]
+            },
+            "properties": {
+                "name": "Lu\u017eani-Malino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7952556,
+                    45.1605879
+                ]
+            },
+            "properties": {
+                "name": "Brodski Stupnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.927827,
+                    45.1769286
+                ]
+            },
+            "properties": {
+                "name": "Slobodnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3494637,
+                    45.208587
+                ]
+            },
+            "properties": {
+                "name": "Perkovci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7314682,
+                    45.2305371
+                ]
+            },
+            "properties": {
+                "name": "Ratkovica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7797136,
+                    45.3238467
+                ]
+            },
+            "properties": {
+                "name": "Novoselci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6721701,
+                    45.3793467
+                ]
+            },
+            "properties": {
+                "name": "Mihaljevci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6626424,
+                    45.4009253
+                ]
+            },
+            "properties": {
+                "name": "Trenkovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5504152,
+                    45.4631864
+                ]
+            },
+            "properties": {
+                "name": "Dopsin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4265386,
+                    45.3464688
+                ]
+            },
+            "properties": {
+                "name": "Vi\u0161kovci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4600215,
+                    45.6896012
+                ]
+            },
+            "properties": {
+                "name": "Deanovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4457966,
+                    46.3837842
+                ]
+            },
+            "properties": {
+                "name": "\u010cakovec-Buzovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4204772,
+                    46.3844338
+                ]
+            },
+            "properties": {
+                "name": "\u010cakovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3587967,
+                    46.2540615
+                ]
+            },
+            "properties": {
+                "name": "Tur\u010din"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.732133,
+                    43.3484291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3385143,
+                    46.1771218
+                ]
+            },
+            "properties": {
+                "name": "Novi Marof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8484712,
+                    43.7253136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.065554,
+                    45.7457862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.063632,
+                    45.7519593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0596432,
+                    45.7609525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8209453,
+                    45.9537621
+                ]
+            },
+            "properties": {
+                "name": "Luka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5903301,
+                    46.0267346
+                ]
+            },
+            "properties": {
+                "name": "Majurec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1689576,
+                    45.8106438
+                ]
+            },
+            "properties": {
+                "name": "Sesvetski Kraljevec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.168985,
+                    45.8107354
+                ]
+            },
+            "properties": {
+                "name": "Sesvetski Kraljevec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4910626,
+                    45.6711936
+                ]
+            },
+            "properties": {
+                "name": "\u0160irinec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6577788,
+                    45.5376948
+                ]
+            },
+            "properties": {
+                "name": "Voloder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9110905,
+                    45.3643383
+                ]
+            },
+            "properties": {
+                "name": "Stara Subocka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1030453,
+                    45.2956749
+                ]
+            },
+            "properties": {
+                "name": "Raji\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5259545,
+                    45.2223127
+                ]
+            },
+            "properties": {
+                "name": "Staro Petrovo Selo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5834789,
+                    45.2096043
+                ]
+            },
+            "properties": {
+                "name": "Vrbova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.650226,
+                    45.1898496
+                ]
+            },
+            "properties": {
+                "name": "Nova Kapela-Batrina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7065891,
+                    45.2146595
+                ]
+            },
+            "properties": {
+                "name": "Dragovci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7576726,
+                    45.2472505
+                ]
+            },
+            "properties": {
+                "name": "Bu\u010dje Koprivnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7760586,
+                    45.2590244
+                ]
+            },
+            "properties": {
+                "name": "Sulkovci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7169514,
+                    45.1705027
+                ]
+            },
+            "properties": {
+                "name": "Lu\u017eani-Malino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7952652,
+                    45.1605483
+                ]
+            },
+            "properties": {
+                "name": "Brodski Stupnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8128991,
+                    45.1636548
+                ]
+            },
+            "properties": {
+                "name": "Kuti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8129171,
+                    45.1636161
+                ]
+            },
+            "properties": {
+                "name": "Kuti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9046513,
+                    45.1811391
+                ]
+            },
+            "properties": {
+                "name": "Sibinj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8420928,
+                    45.1702716
+                ]
+            },
+            "properties": {
+                "name": "Stari Slatinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8421037,
+                    45.1702338
+                ]
+            },
+            "properties": {
+                "name": "Stari Slatinik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.927822,
+                    45.1768937
+                ]
+            },
+            "properties": {
+                "name": "Slobodnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1215438,
+                    45.163511
+                ]
+            },
+            "properties": {
+                "name": "Donja Vrba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1516882,
+                    45.1681973
+                ]
+            },
+            "properties": {
+                "name": "Zadubravlje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1860436,
+                    45.1737101
+                ]
+            },
+            "properties": {
+                "name": "Gar\u010din"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2472165,
+                    45.1829011
+                ]
+            },
+            "properties": {
+                "name": "Staro Topolje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4138154,
+                    45.2270071
+                ]
+            },
+            "properties": {
+                "name": "Strizivojna-Vrpolje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8128338,
+                    45.8796323
+                ]
+            },
+            "properties": {
+                "name": "Novi Dvori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8467447,
+                    45.9947087
+                ]
+            },
+            "properties": {
+                "name": "Veliko Trgovi\u0161\u0107e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9660562,
+                    45.982946
+                ]
+            },
+            "properties": {
+                "name": "Donja Stubica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9289148,
+                    46.001526
+                ]
+            },
+            "properties": {
+                "name": "Oroslavje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9288431,
+                    46.0015312
+                ]
+            },
+            "properties": {
+                "name": "Oroslavje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9414622,
+                    45.9748947
+                ]
+            },
+            "properties": {
+                "name": "Stubi\u010dke Toplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2867838,
+                    42.945613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1383099,
+                    42.9563521
+                ]
+            },
+            "properties": {
+                "name": "Taxi boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9789114,
+                    45.4631284
+                ]
+            },
+            "properties": {
+                "name": "Poljana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7054399,
+                    45.5541345
+                ]
+            },
+            "properties": {
+                "name": "Osijek OLT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4084601,
+                    45.6853666
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor Beli\u0161\u0107e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.434896,
+                    46.3915224
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor \u010cakovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3876136,
+                    45.8359284
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor Virovitica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3722144,
+                    45.4916366
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor Sisak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9457772,
+                    45.2398042
+                ]
+            },
+            "properties": {
+                "name": "\u017deljezni\u010dka stanica Pazin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5451732,
+                    45.5000949
+                ]
+            },
+            "properties": {
+                "name": "Karlovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8182301,
+                    46.1641956
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor Koprivnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5275343,
+                    45.2352445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3768734,
+                    45.0683292
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor Dvor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.378143,
+                    45.2543982
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor Nova Gradi\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6285009,
+                    45.0187516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6162056,
+                    45.7490009
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor \u010cazma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8450498,
+                    45.8947701
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor Bjelovar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.808468,
+                    46.3538885
+                ]
+            },
+            "properties": {
+                "name": "\u017deljeznica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4163135,
+                    45.3067731
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor \u0110akovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9418501,
+                    45.574155
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor Gare\u0161nica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5491105,
+                    46.0220007
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor Kri\u017eevci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1356499,
+                    42.9597107
+                ]
+            },
+            "properties": {
+                "name": "Taxi Boat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9681167,
+                    43.8600821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0766361,
+                    46.0920447
+                ]
+            },
+            "properties": {
+                "name": "Autobusni kolodvor Zlatar"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

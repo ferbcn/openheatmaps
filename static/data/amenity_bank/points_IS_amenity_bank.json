@@ -1,0 +1,917 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7069013,
+                    64.8953245
+                ]
+            },
+            "properties": {
+                "name": "Sparisj\u00f3\u00f0ur \u00d3lafsvikur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0895753,
+                    65.6823742
+                ]
+            },
+            "properties": {
+                "name": "Byr sparisj\u00f3\u00f0ur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0918715,
+                    65.6836703
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0919624,
+                    65.6829303
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.089243,
+                    65.681579
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbanki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.3996945,
+                    65.2616698
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2335081,
+                    63.7507458
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9965023,
+                    63.9369559
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9993826,
+                    63.9369525
+                ]
+            },
+            "properties": {
+                "name": "Arion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.0701676,
+                    64.3212875
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbanki Hf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.0689701,
+                    64.3203339
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn Hf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.0127458,
+                    65.0710099
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.4048812,
+                    65.2604959
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.6475296,
+                    66.0727582
+                ]
+            },
+            "properties": {
+                "name": "Sparisj\u00f3\u00f0ur \u00d3lafsfjar\u00f0ar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2104951,
+                    64.2535251
+                ]
+            },
+            "properties": {
+                "name": "Sparisj\u00f3\u00f0urinn Hornafir\u00f0i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.6941468,
+                    65.1477776
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.6832643,
+                    65.1476068
+                ]
+            },
+            "properties": {
+                "name": "Sparisj\u00f3\u00f0ur Nor\u00f0fjar\u00f0ar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.219667,
+                    65.0323248
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.2578803,
+                    64.9249529
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.7258707,
+                    65.075807
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.0081013,
+                    63.4190597
+                ]
+            },
+            "properties": {
+                "name": "Arion-banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8984771,
+                    64.1456676
+                ]
+            },
+            "properties": {
+                "name": "MP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.4472665,
+                    65.5539409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.342282,
+                    66.0461828
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbank\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.405238,
+                    65.2613568
+                ]
+            },
+            "properties": {
+                "name": "Information Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -14.2854805,
+                    64.6566796
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9093203,
+                    64.5428482
+                ]
+            },
+            "properties": {
+                "name": "Arionbanki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2869069,
+                    65.6597246
+                ]
+            },
+            "properties": {
+                "name": "Arion Banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7634363,
+                    65.1087433
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.7058378,
+                    64.8947785
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9386694,
+                    64.1478028
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.4533108,
+                    64.1771108
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0475906,
+                    63.7902801
+                ]
+            },
+            "properties": {
+                "name": "KB Bank"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8806238,
+                    64.1390262
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbanki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8943076,
+                    64.1299983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.814646,
+                    64.1252768
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9071781,
+                    64.1119331
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9577062,
+                    64.0688536
+                ]
+            },
+            "properties": {
+                "name": "Landsbanki \u00cdslands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.957009,
+                    64.0692642
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbanki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.676559,
+                    65.704557
+                ]
+            },
+            "properties": {
+                "name": "Sparisj\u00f3\u00f0urinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.1206785,
+                    66.0741216
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.119958,
+                    66.0730397
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbanki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.6735082,
+                    65.7055106
+                ]
+            },
+            "properties": {
+                "name": "Iceland Visit Hostel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -13.9988672,
+                    65.26197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9565857,
+                    64.0680154
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.550895,
+                    63.994989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.9999025,
+                    63.9373878
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbanki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.954563,
+                    64.1406188
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3728683,
+                    65.7214338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -23.4905175,
+                    65.8771028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3428431,
+                    66.0394769
+                ]
+            },
+            "properties": {
+                "name": "Sparisj\u00f3\u00f0ur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -17.3402365,
+                    66.0448019
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.881136,
+                    64.1028275
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8083645,
+                    64.1259049
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbanki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8811836,
+                    64.1381114
+                ]
+            },
+            "properties": {
+                "name": "MP banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9506094,
+                    64.1539245
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbanki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.189675,
+                    63.9952171
+                ]
+            },
+            "properties": {
+                "name": "Arion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8962051,
+                    64.1463188
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.2662556,
+                    63.4404252
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbanki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8852478,
+                    64.101843
+                ]
+            },
+            "properties": {
+                "name": "\u00cdslandsbanki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.6246245,
+                    63.9960777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -22.4357804,
+                    63.8431359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -19.0052745,
+                    63.4154531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9197303,
+                    64.0888019
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.8439773,
+                    64.1082832
+                ]
+            },
+            "properties": {
+                "name": "Landsbanki \u00cdslands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.698844,
+                    64.1671561
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.7643633,
+                    64.1311774
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -21.9052176,
+                    64.1453261
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.2090439,
+                    64.2508396
+                ]
+            },
+            "properties": {
+                "name": "Landsbankinn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -15.9510455,
+                    66.45461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -20.4023105,
+                    63.8355908
+                ]
+            },
+            "properties": {
+                "name": "Arion banki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -18.0994026,
+                    65.6882989
+                ]
+            },
+            "properties": {
+                "name": "Sparisj\u00f3\u00f0urinn"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{% extends "layout.html" %}
+
+{% block heading %}
+<div class="container">
+      <h5>Input Parameters</h5>
+</div>
+{% endblock %}
+
+{% block body %}
+
+<div class="container">
+      <form action="{{ url_for('index') }}" method="post">
+          <div class="form-group">
+            <label for="country">Country List:</label>
+            <select class="form-control" name="country">
+                <option>all</option>
+              {% for cc in countries%}
+                <option>{{ cc }}</option>
+              {% endfor %}
+            </select>
+          </div>
+          <div class="form-group">
+            <label for="fact">POI:</label>
+            <select class="form-control" name="fact">
+              {% for f in facts%}
+                <option>{{ f }}</option>
+              {% endfor %}
+            </select>
+          </div>
+
+          <p><button class="btn btn-danger">Send</button></p>
+      </form>
+
+{% endblock %}

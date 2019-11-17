@@ -1,0 +1,7553 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4381101,
+                    60.1253759
+                ]
+            },
+            "properties": {
+                "name": "Kirkkonummen p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6278296,
+                    61.5052459
+                ]
+            },
+            "properties": {
+                "name": "Tesoman kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0377672,
+                    60.2070232
+                ]
+            },
+            "properties": {
+                "name": "Herttoniemen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0527831,
+                    60.1945445
+                ]
+            },
+            "properties": {
+                "name": "Roihuvuoren kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0130252,
+                    60.2275287
+                ]
+            },
+            "properties": {
+                "name": "Viikin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7257877,
+                    60.2108404
+                ]
+            },
+            "properties": {
+                "name": "Kauniaisten kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9386342,
+                    60.1713458
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto Helsinki 10"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0851575,
+                    60.2377166
+                ]
+            },
+            "properties": {
+                "name": "Kontulan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6110396,
+                    63.0992677
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8759076,
+                    60.2387865
+                ]
+            },
+            "properties": {
+                "name": "Kannelm\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8603318,
+                    60.2463271
+                ]
+            },
+            "properties": {
+                "name": "Malminkartanon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8873685,
+                    60.2324917
+                ]
+            },
+            "properties": {
+                "name": "Pohjois-Haagan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3594477,
+                    60.4322896
+                ]
+            },
+            "properties": {
+                "name": "Lausteen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3198526,
+                    60.6316575
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1303105,
+                    63.8359715
+                ]
+            },
+            "properties": {
+                "name": "Kokkolan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4183107,
+                    60.9838021
+                ]
+            },
+            "properties": {
+                "name": "Jukolan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9339174,
+                    60.2311375
+                ]
+            },
+            "properties": {
+                "name": "Maunulan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3146091,
+                    63.7497825
+                ]
+            },
+            "properties": {
+                "name": "Haapaj\u00e4rven kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9315669,
+                    60.1725576
+                ]
+            },
+            "properties": {
+                "name": "Eduskunnan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5580253,
+                    65.7360298
+                ]
+            },
+            "properties": {
+                "name": "Kemin Kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2574599,
+                    63.1316296
+                ]
+            },
+            "properties": {
+                "name": "V\u00f6r\u00e5 bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4807426,
+                    65.0611169
+                ]
+            },
+            "properties": {
+                "name": "Kaijonharjun kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7886933,
+                    61.4979788
+                ]
+            },
+            "properties": {
+                "name": "Sampolan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1030945,
+                    60.4055214
+                ]
+            },
+            "properties": {
+                "name": "Keravan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0276059,
+                    60.4017663
+                ]
+            },
+            "properties": {
+                "name": "Tuusulan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0168189,
+                    60.3754557
+                ]
+            },
+            "properties": {
+                "name": "Riihikallion kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.0240357,
+                    63.321646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7422411,
+                    60.2273609
+                ]
+            },
+            "properties": {
+                "name": "Viherlaakson kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8098167,
+                    60.2174976
+                ]
+            },
+            "properties": {
+                "name": "Sellon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0673678,
+                    61.9823648
+                ]
+            },
+            "properties": {
+                "name": "Ruoveden kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7383182,
+                    60.1597374
+                ]
+            },
+            "properties": {
+                "name": "Ison Omenan Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9412591,
+                    60.2493763
+                ]
+            },
+            "properties": {
+                "name": "Palohein\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2221722,
+                    62.385118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8280477,
+                    60.184695
+                ]
+            },
+            "properties": {
+                "name": "Aalto-yliopiston kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0930962,
+                    60.474779
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4rvenp\u00e4\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6514909,
+                    60.9236287
+                ]
+            },
+            "properties": {
+                "name": "Turengin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5930238,
+                    63.1092335
+                ]
+            },
+            "properties": {
+                "name": "Palosaaren kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6829544,
+                    63.1151645
+                ]
+            },
+            "properties": {
+                "name": "Korsholms bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5310721,
+                    60.1541757
+                ]
+            },
+            "properties": {
+                "name": "Masalan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9839407,
+                    64.4877177
+                ]
+            },
+            "properties": {
+                "name": "Ukonkantti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5091239,
+                    61.4779075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.805723,
+                    60.2040512
+                ]
+            },
+            "properties": {
+                "name": "Laajalahden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9606061,
+                    60.550344
+                ]
+            },
+            "properties": {
+                "name": "Jokelan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1263697,
+                    60.3852168
+                ]
+            },
+            "properties": {
+                "name": "Salon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0761713,
+                    60.3517602
+                ]
+            },
+            "properties": {
+                "name": "Lumon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0933107,
+                    60.3422571
+                ]
+            },
+            "properties": {
+                "name": "Mikkolan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.476764,
+                    65.025777
+                ]
+            },
+            "properties": {
+                "name": "Tuiran kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4853232,
+                    65.0395579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3073208,
+                    60.4607187
+                ]
+            },
+            "properties": {
+                "name": "Nummen Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9493927,
+                    60.1703967
+                ]
+            },
+            "properties": {
+                "name": "Kansalliskirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6587759,
+                    60.2035392
+                ]
+            },
+            "properties": {
+                "name": "Entressen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5569715,
+                    60.9218136
+                ]
+            },
+            "properties": {
+                "name": "Taavetin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5175018,
+                    60.4252061
+                ]
+            },
+            "properties": {
+                "name": "Piikki\u00f6n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4516719,
+                    60.7205244
+                ]
+            },
+            "properties": {
+                "name": "Elim\u00e4en kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7055047,
+                    63.6750246
+                ]
+            },
+            "properties": {
+                "name": "Jakobstads Stadsbiblioteket"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5153386,
+                    64.9935782
+                ]
+            },
+            "properties": {
+                "name": "Kaukovainion kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9688477,
+                    59.8239807
+                ]
+            },
+            "properties": {
+                "name": "Hangon kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5676709,
+                    64.9832447
+                ]
+            },
+            "properties": {
+                "name": "Maikkulan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6671659,
+                    60.1297996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7844387,
+                    61.6378826
+                ]
+            },
+            "properties": {
+                "name": "Hirvensalmen Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4004445,
+                    64.9346464
+                ]
+            },
+            "properties": {
+                "name": "Oulunsalon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8708137,
+                    62.3177965
+                ]
+            },
+            "properties": {
+                "name": "Varkauden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6076557,
+                    60.8467569
+                ]
+            },
+            "properties": {
+                "name": "Korian kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6921296,
+                    63.5494257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.771532,
+                    61.0029077
+                ]
+            },
+            "properties": {
+                "name": "Ahtialan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6873456,
+                    61.5018228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4217619,
+                    65.0660334
+                ]
+            },
+            "properties": {
+                "name": "Rajakyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7547967,
+                    60.3785384
+                ]
+            },
+            "properties": {
+                "name": "Klaukkalan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8673673,
+                    61.417643
+                ]
+            },
+            "properties": {
+                "name": "M\u00e4ntyharjun kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9134423,
+                    59.9225909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0243274,
+                    60.4671704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5332181,
+                    64.9564901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1031716,
+                    60.2773539
+                ]
+            },
+            "properties": {
+                "name": "Hakunilan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3329139,
+                    64.0966129
+                ]
+            },
+            "properties": {
+                "name": "Iisakki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0604579,
+                    63.1004981
+                ]
+            },
+            "properties": {
+                "name": "Kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0341292,
+                    60.2745782
+                ]
+            },
+            "properties": {
+                "name": "Tapulikaupungin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1435848,
+                    60.2088023
+                ]
+            },
+            "properties": {
+                "name": "Vuosaaren kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7383388,
+                    62.2883776
+                ]
+            },
+            "properties": {
+                "name": "Palokan aluekirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8490626,
+                    61.4502681
+                ]
+            },
+            "properties": {
+                "name": "Hervannan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9386696,
+                    60.4654872
+                ]
+            },
+            "properties": {
+                "name": "Kotkan kaupunginkirjasto, p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7897589,
+                    61.4830735
+                ]
+            },
+            "properties": {
+                "name": "Nekalan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.012731,
+                    60.2273463
+                ]
+            },
+            "properties": {
+                "name": "Viikin kampuskirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7294293,
+                    60.8072737
+                ]
+            },
+            "properties": {
+                "name": "Orimattilan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6476137,
+                    60.9628984
+                ]
+            },
+            "properties": {
+                "name": "Launeen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0122648,
+                    62.9772239
+                ]
+            },
+            "properties": {
+                "name": "Laihian kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1932869,
+                    61.675426
+                ]
+            },
+            "properties": {
+                "name": "Rantakyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0024865,
+                    61.3672096
+                ]
+            },
+            "properties": {
+                "name": "Nakkilan kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.570056,
+                    62.7339127
+                ]
+            },
+            "properties": {
+                "name": "Ilmajoen kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3789297,
+                    62.2742804
+                ]
+            },
+            "properties": {
+                "name": "Kristiinankaupunki kaupunginkijasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8044913,
+                    60.1775632
+                ]
+            },
+            "properties": {
+                "name": "Tapiolan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7766857,
+                    61.3765468
+                ]
+            },
+            "properties": {
+                "name": "Kuljun kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0856151,
+                    62.098275
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0583571,
+                    60.2235143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6940614,
+                    62.3023288
+                ]
+            },
+            "properties": {
+                "name": "Kirjastoauto Aino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1654101,
+                    66.1117666
+                ]
+            },
+            "properties": {
+                "name": "Posion Kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9973891,
+                    60.2755337
+                ]
+            },
+            "properties": {
+                "name": "Suutarilan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.140733,
+                    65.8459018
+                ]
+            },
+            "properties": {
+                "name": "Tornion Kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6912624,
+                    62.2907265
+                ]
+            },
+            "properties": {
+                "name": "Kirjastoauto Aino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1199285,
+                    60.1995458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6046296,
+                    60.9771953
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4rp\u00e4sen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.273097,
+                    61.6866294
+                ]
+            },
+            "properties": {
+                "name": "Mikkelin kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9093857,
+                    62.8291653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6496969,
+                    60.9322101
+                ]
+            },
+            "properties": {
+                "name": "Renkom\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.7885158,
+                    62.5887911
+                ]
+            },
+            "properties": {
+                "name": "Niinivaaran kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5310231,
+                    63.5220187
+                ]
+            },
+            "properties": {
+                "name": "Nykarleby stadsbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6127659,
+                    62.8838724
+                ]
+            },
+            "properties": {
+                "name": "Neulam\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0314917,
+                    63.7276529
+                ]
+            },
+            "properties": {
+                "name": "Kronoby bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0314951,
+                    60.6813862
+                ]
+            },
+            "properties": {
+                "name": "Porlammin sivukirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1218989,
+                    60.204506
+                ]
+            },
+            "properties": {
+                "name": "Perni\u00f6n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9752012,
+                    60.1888127
+                ]
+            },
+            "properties": {
+                "name": "Kansallisarkisto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3952644,
+                    63.3670805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8518626,
+                    60.2771136
+                ]
+            },
+            "properties": {
+                "name": "Martinlaakson kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8173191,
+                    62.6148023
+                ]
+            },
+            "properties": {
+                "name": "Rantakyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7704129,
+                    62.227274
+                ]
+            },
+            "properties": {
+                "name": "Kuokkalan pienkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.635783,
+                    60.1539846
+                ]
+            },
+            "properties": {
+                "name": "Kivenlahden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8407803,
+                    62.5415283
+                ]
+            },
+            "properties": {
+                "name": "Reijolan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.801812,
+                    62.6024812
+                ]
+            },
+            "properties": {
+                "name": "Karsikon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1816767,
+                    61.5637951
+                ]
+            },
+            "properties": {
+                "name": "Kuhmoisten kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9785344,
+                    60.5740416
+                ]
+            },
+            "properties": {
+                "name": "Tavastilan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1893549,
+                    62.9676243
+                ]
+            },
+            "properties": {
+                "name": "Berg\u00f6 Bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4203431,
+                    60.4145407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.335301,
+                    62.4719711
+                ]
+            },
+            "properties": {
+                "name": "N\u00e4rpes bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.8122654,
+                    62.6602566
+                ]
+            },
+            "properties": {
+                "name": "Lehmon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6887628,
+                    65.092231
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4\u00e4lin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8720192,
+                    61.470192
+                ]
+            },
+            "properties": {
+                "name": "Kaukaj\u00e4rven kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8537612,
+                    60.2613435
+                ]
+            },
+            "properties": {
+                "name": "Myyrm\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3197666,
+                    61.0634804
+                ]
+            },
+            "properties": {
+                "name": "Mustolan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1700139,
+                    67.2870905
+                ]
+            },
+            "properties": {
+                "name": "Savukosken kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9912196,
+                    60.2498002
+                ]
+            },
+            "properties": {
+                "name": "Pukinm\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7398113,
+                    60.3059722
+                ]
+            },
+            "properties": {
+                "name": "Kalaj\u00e4rven kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9988026,
+                    63.7416239
+                ]
+            },
+            "properties": {
+                "name": "Vierem\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1150379,
+                    60.2463462
+                ]
+            },
+            "properties": {
+                "name": "L\u00e4nsim\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1531422,
+                    62.3015436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4707852,
+                    61.0522997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0624395,
+                    60.3233482
+                ]
+            },
+            "properties": {
+                "name": "Koivukyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1936302,
+                    61.0590246
+                ]
+            },
+            "properties": {
+                "name": "Lappeenrannan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.149132,
+                    61.0819394
+                ]
+            },
+            "properties": {
+                "name": "Voisalmen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1987992,
+                    61.8642291
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4ms\u00e4n p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9482594,
+                    60.1713848
+                ]
+            },
+            "properties": {
+                "name": "Helsingin yliopiston p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9497023,
+                    60.1729295
+                ]
+            },
+            "properties": {
+                "name": "Mets\u00e4talo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9493415,
+                    60.1712923
+                ]
+            },
+            "properties": {
+                "name": "Topelia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7616428,
+                    61.4829208
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4pp\u00e4r\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1100568,
+                    61.0505867
+                ]
+            },
+            "properties": {
+                "name": "Sammonlahden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7442638,
+                    60.4898345
+                ]
+            },
+            "properties": {
+                "name": "Huutj\u00e4rven Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2739612,
+                    61.6934731
+                ]
+            },
+            "properties": {
+                "name": "Maakunta-arkisto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3012237,
+                    60.3034932
+                ]
+            },
+            "properties": {
+                "name": "Paraisten Kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1677414,
+                    60.450291
+                ]
+            },
+            "properties": {
+                "name": "Pansion kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6211445,
+                    60.8147524
+                ]
+            },
+            "properties": {
+                "name": "Forssan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4890656,
+                    60.8047708
+                ]
+            },
+            "properties": {
+                "name": "Jokioisten kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9007021,
+                    62.3709914
+                ]
+            },
+            "properties": {
+                "name": "Vihtavuoren kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7947724,
+                    63.6007498
+                ]
+            },
+            "properties": {
+                "name": "Peders\u00f6re kommunbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8637813,
+                    61.5138787
+                ]
+            },
+            "properties": {
+                "name": "Ruosniemen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8398142,
+                    61.4670312
+                ]
+            },
+            "properties": {
+                "name": "Sampolan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.595585,
+                    61.5558668
+                ]
+            },
+            "properties": {
+                "name": "Pihlavan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8678755,
+                    61.5937763
+                ]
+            },
+            "properties": {
+                "name": "Noormarkun kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7616215,
+                    62.2658731
+                ]
+            },
+            "properties": {
+                "name": "Lohikosken pienkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0319975,
+                    61.2016369
+                ]
+            },
+            "properties": {
+                "name": "Heinolan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0046977,
+                    60.0436639
+                ]
+            },
+            "properties": {
+                "name": "Ing\u00e5 bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.624802,
+                    62.3139651
+                ]
+            },
+            "properties": {
+                "name": "R\u00e4\u00e4kkyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8238345,
+                    62.9990698
+                ]
+            },
+            "properties": {
+                "name": "Alaj\u00e4rven kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6507737,
+                    63.4034711
+                ]
+            },
+            "properties": {
+                "name": "Jeppo bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.781573,
+                    61.5578731
+                ]
+            },
+            "properties": {
+                "name": "Suodenniemen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9867462,
+                    60.1466442
+                ]
+            },
+            "properties": {
+                "name": "Suomenlinnan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5938089,
+                    67.4136925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5239901,
+                    61.179028
+                ]
+            },
+            "properties": {
+                "name": "V\u00e4\u00e4ksyn kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6964363,
+                    62.9796767
+                ]
+            },
+            "properties": {
+                "name": "kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4063745,
+                    65.086034
+                ]
+            },
+            "properties": {
+                "name": "Pateniemen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1789683,
+                    61.5229702
+                ]
+            },
+            "properties": {
+                "name": "Puumalan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5227278,
+                    59.8936198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8239427,
+                    61.8605348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8247532,
+                    62.6352814
+                ]
+            },
+            "properties": {
+                "name": "T\u00f6ys\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6173479,
+                    62.5858619
+                ]
+            },
+            "properties": {
+                "name": "Alavuden kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9462693,
+                    60.166138
+                ]
+            },
+            "properties": {
+                "name": "Rikhardinkadun kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6979477,
+                    60.4670077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7067232,
+                    60.852247
+                ]
+            },
+            "properties": {
+                "name": "Haanojan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5165332,
+                    61.1413983
+                ]
+            },
+            "properties": {
+                "name": "Pyynp\u00e4\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9204143,
+                    60.7572121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4427309,
+                    59.9750205
+                ]
+            },
+            "properties": {
+                "name": "Eken\u00e4s bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3005558,
+                    62.0681274
+                ]
+            },
+            "properties": {
+                "name": "Rantasalmen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7250318,
+                    60.8870435
+                ]
+            },
+            "properties": {
+                "name": "Lehdokin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2837741,
+                    60.4245551
+                ]
+            },
+            "properties": {
+                "name": "Ilpoisten kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2637834,
+                    60.4891985
+                ]
+            },
+            "properties": {
+                "name": "Runosm\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1004792,
+                    61.1352973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2806508,
+                    60.8947518
+                ]
+            },
+            "properties": {
+                "name": "Rengon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2044581,
+                    62.8729541
+                ]
+            },
+            "properties": {
+                "name": "Soinin Kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2981858,
+                    61.6959639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.841867,
+                    63.1610074
+                ]
+            },
+            "properties": {
+                "name": "Kvevlax bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7241338,
+                    63.6521938
+                ]
+            },
+            "properties": {
+                "name": "Kyrkoby bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9902804,
+                    63.623949
+                ]
+            },
+            "properties": {
+                "name": "Ytteresse bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0447829,
+                    63.5954268
+                ]
+            },
+            "properties": {
+                "name": "\u00d6veresse bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7128749,
+                    65.0094548
+                ]
+            },
+            "properties": {
+                "name": "Hailuodon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1271327,
+                    63.5493026
+                ]
+            },
+            "properties": {
+                "name": "Nurmeksen kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6452326,
+                    61.4662118
+                ]
+            },
+            "properties": {
+                "name": "Pirkkalan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2113244,
+                    60.261681
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto Sakarinm\u00e4ki \u00d6stersundom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3493876,
+                    61.4895352
+                ]
+            },
+            "properties": {
+                "name": "Linnavuoren kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9339535,
+                    60.201814
+                ]
+            },
+            "properties": {
+                "name": "Haaga-Helian kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0250013,
+                    62.0108496
+                ]
+            },
+            "properties": {
+                "name": "Parkanon Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7493166,
+                    60.7065352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9358785,
+                    60.2007754
+                ]
+            },
+            "properties": {
+                "name": "Pasilan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6750011,
+                    62.1288329
+                ]
+            },
+            "properties": {
+                "name": "Muuramen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2579409,
+                    61.6803187
+                ]
+            },
+            "properties": {
+                "name": "Xamk Kampus kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9532779,
+                    60.3746715
+                ]
+            },
+            "properties": {
+                "name": "Rym\u00e4ttyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6408053,
+                    62.8543432
+                ]
+            },
+            "properties": {
+                "name": "Jynk\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.013749,
+                    63.475377
+                ]
+            },
+            "properties": {
+                "name": "Purmo bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9540966,
+                    60.1740082
+                ]
+            },
+            "properties": {
+                "name": "Suomen Sukututkimusseuran kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2031432,
+                    60.5317893
+                ]
+            },
+            "properties": {
+                "name": "Karkkilan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7638146,
+                    62.4885722
+                ]
+            },
+            "properties": {
+                "name": "Jalasj\u00e4rven kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8187993,
+                    61.2922834
+                ]
+            },
+            "properties": {
+                "name": "Ruokolahden kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7911644,
+                    61.4870237
+                ]
+            },
+            "properties": {
+                "name": "Porin kaupungin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.15324,
+                    65.0297929
+                ]
+            },
+            "properties": {
+                "name": "Ylikiimingin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8603153,
+                    60.952848
+                ]
+            },
+            "properties": {
+                "name": "Alastaron Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5624803,
+                    62.0167879
+                ]
+            },
+            "properties": {
+                "name": "Korpilahden l\u00e4hikirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8511394,
+                    60.670053
+                ]
+            },
+            "properties": {
+                "name": "Myrskyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.695973,
+                    60.3865655
+                ]
+            },
+            "properties": {
+                "name": "Kev\u00e4tkummun kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4326924,
+                    62.3802448
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4ppil\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9764087,
+                    60.20899
+                ]
+            },
+            "properties": {
+                "name": "Arabianrannan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2560213,
+                    61.5073964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2813436,
+                    61.351121
+                ]
+            },
+            "properties": {
+                "name": "Padasjoen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6453946,
+                    64.7621628
+                ]
+            },
+            "properties": {
+                "name": "Tyrn\u00e4v\u00e4n p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6191228,
+                    63.6469588
+                ]
+            },
+            "properties": {
+                "name": "Kiuruveden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6810514,
+                    67.9590014
+                ]
+            },
+            "properties": {
+                "name": "Muonion kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6805793,
+                    62.2296665
+                ]
+            },
+            "properties": {
+                "name": "Keltinm\u00e4en l\u00e4hikirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6477413,
+                    62.3897003
+                ]
+            },
+            "properties": {
+                "name": "Tikkakosken l\u00e4hikirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8691212,
+                    62.2491127
+                ]
+            },
+            "properties": {
+                "name": "Vaajakosken aluekirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5719487,
+                    62.2698567
+                ]
+            },
+            "properties": {
+                "name": "Vesangan l\u00e4hikirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8009386,
+                    62.2707745
+                ]
+            },
+            "properties": {
+                "name": "Huhtasuon l\u00e4hikirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.443527,
+                    62.0459111
+                ]
+            },
+            "properties": {
+                "name": "Kurun kirjaston sivutoimipiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4110381,
+                    64.8081646
+                ]
+            },
+            "properties": {
+                "name": "Limingan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9645653,
+                    60.936853
+                ]
+            },
+            "properties": {
+                "name": "Nastolan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1312367,
+                    62.1022318
+                ]
+            },
+            "properties": {
+                "name": "Kiteen kaupungin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1816641,
+                    60.0899793
+                ]
+            },
+            "properties": {
+                "name": "Degerby filialbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6870267,
+                    62.8929036
+                ]
+            },
+            "properties": {
+                "name": "Kuopion Kaupungin Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9146341,
+                    61.4635949
+                ]
+            },
+            "properties": {
+                "name": "Kirjastoauto Kustaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0731173,
+                    60.2241485
+                ]
+            },
+            "properties": {
+                "name": "Myllypuron mediakirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8652011,
+                    61.4999373
+                ]
+            },
+            "properties": {
+                "name": "Kirjastoauto Kustaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2672388,
+                    61.659166
+                ]
+            },
+            "properties": {
+                "name": "Kaituenm\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.562861,
+                    60.1727803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8590413,
+                    61.4498416
+                ]
+            },
+            "properties": {
+                "name": "Tampereen teknillisen yliopiston kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3297066,
+                    61.47662
+                ]
+            },
+            "properties": {
+                "name": "Sahalahden Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9727515,
+                    61.1020836
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4\u00e4p\u00e4l\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5604161,
+                    63.0494553
+                ]
+            },
+            "properties": {
+                "name": "Kyyj\u00e4rven kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7249484,
+                    63.0857283
+                ]
+            },
+            "properties": {
+                "name": "Variskan kijasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0492141,
+                    61.770409
+                ]
+            },
+            "properties": {
+                "name": "Ikaalisten kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6207795,
+                    60.8180792
+                ]
+            },
+            "properties": {
+                "name": "Tervakosken kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.813942,
+                    63.6805958
+                ]
+            },
+            "properties": {
+                "name": "Valtimon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8062792,
+                    62.7800137
+                ]
+            },
+            "properties": {
+                "name": "Konginkankaan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0936751,
+                    61.0642487
+                ]
+            },
+            "properties": {
+                "name": "LUT Tiedekirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2259457,
+                    61.1009895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0762615,
+                    60.3963433
+                ]
+            },
+            "properties": {
+                "name": "Halikon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2810458,
+                    60.3497097
+                ]
+            },
+            "properties": {
+                "name": "Muurlan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.5026859,
+                    61.1180168
+                ]
+            },
+            "properties": {
+                "name": "Joutsenon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.840292,
+                    60.6941478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0058666,
+                    60.792298
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4696757,
+                    62.6109714
+                ]
+            },
+            "properties": {
+                "name": "\u00d6vermark bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4241264,
+                    66.715525
+                ]
+            },
+            "properties": {
+                "name": "Kemij\u00e4rven kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9764033,
+                    60.1879376
+                ]
+            },
+            "properties": {
+                "name": "Tilastokirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.659179,
+                    61.3609518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0728248,
+                    61.4628673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7692789,
+                    62.140053
+                ]
+            },
+            "properties": {
+                "name": "S\u00e4yn\u00e4tsalon l\u00e4hikirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7134889,
+                    66.4857167
+                ]
+            },
+            "properties": {
+                "name": "Lapin yliopiston kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7749398,
+                    60.3448798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0145564,
+                    61.5790437
+                ]
+            },
+            "properties": {
+                "name": "Hartolan kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7050326,
+                    62.2499139
+                ]
+            },
+            "properties": {
+                "name": "Kortepohjan l\u00e4hikirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6351814,
+                    61.9877592
+                ]
+            },
+            "properties": {
+                "name": "Kangasniemen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5839778,
+                    60.644068
+                ]
+            },
+            "properties": {
+                "name": "Pukkilan kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6691343,
+                    64.8679001
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6688045,
+                    66.5122769
+                ]
+            },
+            "properties": {
+                "name": "Korkalovaaran sivukirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3688433,
+                    61.784055
+                ]
+            },
+            "properties": {
+                "name": "Sulkavan kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4769084,
+                    65.0078069
+                ]
+            },
+            "properties": {
+                "name": "Oulun maakunta-arkisto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4477739,
+                    65.0451805
+                ]
+            },
+            "properties": {
+                "name": "Koskelan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4667681,
+                    65.0612507
+                ]
+            },
+            "properties": {
+                "name": "Tiedekirjasto Pegasus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2209941,
+                    60.5405104
+                ]
+            },
+            "properties": {
+                "name": "Ruskon p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9432637,
+                    62.8186173
+                ]
+            },
+            "properties": {
+                "name": "Lehtim\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.525504,
+                    64.0722097
+                ]
+            },
+            "properties": {
+                "name": "Kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6962461,
+                    60.6685888
+                ]
+            },
+            "properties": {
+                "name": "Miehikk\u00e4l\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9835464,
+                    65.3612319
+                ]
+            },
+            "properties": {
+                "name": "Pudasj\u00e4rven kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1946357,
+                    61.6422327
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4meenkyr\u00f6n kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6493166,
+                    62.9022012
+                ]
+            },
+            "properties": {
+                "name": "Puijonlaakson kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3072152,
+                    64.1659714
+                ]
+            },
+            "properties": {
+                "name": "Alavieskan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6014938,
+                    60.5274642
+                ]
+            },
+            "properties": {
+                "name": "Askolan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5888009,
+                    60.6500343
+                ]
+            },
+            "properties": {
+                "name": "Auran kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6901097,
+                    61.1538216
+                ]
+            },
+            "properties": {
+                "name": "Kylm\u00e4kosken kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5352148,
+                    60.4936684
+                ]
+            },
+            "properties": {
+                "name": "Monninkyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7124297,
+                    64.2167352
+                ]
+            },
+            "properties": {
+                "name": "Tieto 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9829271,
+                    60.2283905
+                ]
+            },
+            "properties": {
+                "name": "Finstr\u00f6ms bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9618734,
+                    63.9299617
+                ]
+            },
+            "properties": {
+                "name": "Nivalan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0961693,
+                    60.5310747
+                ]
+            },
+            "properties": {
+                "name": "Kellokosken kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5199077,
+                    63.9061864
+                ]
+            },
+            "properties": {
+                "name": "Sievin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9940186,
+                    60.6769568
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.7439531,
+                    62.6043355
+                ]
+            },
+            "properties": {
+                "name": "It\u00e4-Suomen yliopiston kirjasto (Joensuun campus)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6309183,
+                    63.2120757
+                ]
+            },
+            "properties": {
+                "name": "Lappaj\u00e4rven kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5538042,
+                    65.0190421
+                ]
+            },
+            "properties": {
+                "name": "Myllyojan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7541812,
+                    61.3145303
+                ]
+            },
+            "properties": {
+                "name": "Lemp\u00e4\u00e4l\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7591241,
+                    61.4165863
+                ]
+            },
+            "properties": {
+                "name": "S\u00e4\u00e4ksj\u00e4rven kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4982011,
+                    61.4661885
+                ]
+            },
+            "properties": {
+                "name": "Koskenm\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0179589,
+                    62.9677638
+                ]
+            },
+            "properties": {
+                "name": "Lapuan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8256585,
+                    62.7892352
+                ]
+            },
+            "properties": {
+                "name": "Kampuskirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8832846,
+                    60.1587032
+                ]
+            },
+            "properties": {
+                "name": "Lauttasaaren kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6624426,
+                    63.0735788
+                ]
+            },
+            "properties": {
+                "name": "Siilinj\u00e4rven Kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1801393,
+                    62.6551397
+                ]
+            },
+            "properties": {
+                "name": "N\u00e4rpes bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4985406,
+                    62.1388753
+                ]
+            },
+            "properties": {
+                "name": "Kolhon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3800613,
+                    60.5920346
+                ]
+            },
+            "properties": {
+                "name": "Paattisten kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6478404,
+                    61.5839385
+                ]
+            },
+            "properties": {
+                "name": "Anttola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6328985,
+                    60.3736721
+                ]
+            },
+            "properties": {
+                "name": "Gammelbackan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.41269,
+                    60.4459883
+                ]
+            },
+            "properties": {
+                "name": "Littoisten kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.058815,
+                    60.271164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0190937,
+                    60.2655655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1547283,
+                    61.0218158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0092389,
+                    60.6181991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8434266,
+                    61.1029237
+                ]
+            },
+            "properties": {
+                "name": "Lapin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0508002,
+                    60.5698871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0536951,
+                    60.7457776
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3048813,
+                    60.610908
+                ]
+            },
+            "properties": {
+                "name": "Vahdon l\u00e4hikirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.837311,
+                    61.2267494
+                ]
+            },
+            "properties": {
+                "name": "Vuoksenniskan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4406402,
+                    60.7194695
+                ]
+            },
+            "properties": {
+                "name": "Lopen Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6421536,
+                    62.8390434
+                ]
+            },
+            "properties": {
+                "name": "Py\u00f6r\u00f6n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1545687,
+                    60.9674209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5087163,
+                    67.1109471
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7925519,
+                    67.3313525
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8722272,
+                    60.4703602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9208638,
+                    60.1599869
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4tk\u00e4saaren infokeskus ja kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7958947,
+                    62.2129797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5129169,
+                    61.4676456
+                ]
+            },
+            "properties": {
+                "name": "Nokian p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6338575,
+                    68.3855813
+                ]
+            },
+            "properties": {
+                "name": "Enontekij\u00f6n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4091465,
+                    60.7996164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0148191,
+                    60.2502645
+                ]
+            },
+            "properties": {
+                "name": "Malmin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8839367,
+                    61.495981
+                ]
+            },
+            "properties": {
+                "name": "Koilliskeskuksen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9507223,
+                    60.1510524
+                ]
+            },
+            "properties": {
+                "name": "Jomala kommunbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2859675,
+                    60.4543414
+                ]
+            },
+            "properties": {
+                "name": "Quantumin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0683908,
+                    60.2787416
+                ]
+            },
+            "properties": {
+                "name": "Saltviks kommunbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6150844,
+                    60.1687107
+                ]
+            },
+            "properties": {
+                "name": "Saunalahden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7831163,
+                    60.1605468
+                ]
+            },
+            "properties": {
+                "name": "Haukilahden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6729273,
+                    60.1378193
+                ]
+            },
+            "properties": {
+                "name": "Soukan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2666715,
+                    60.3755039
+                ]
+            },
+            "properties": {
+                "name": "Sipoon p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8519264,
+                    62.564832
+                ]
+            },
+            "properties": {
+                "name": "Suolahden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3652696,
+                    65.3233977
+                ]
+            },
+            "properties": {
+                "name": "Ijo kommunbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8195056,
+                    60.321561
+                ]
+            },
+            "properties": {
+                "name": "Sammatin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0313458,
+                    60.4504135
+                ]
+            },
+            "properties": {
+                "name": "Pern\u00e5 n\u00e4rbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3290707,
+                    65.1145572
+                ]
+            },
+            "properties": {
+                "name": "Kellon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2512503,
+                    59.9021589
+                ]
+            },
+            "properties": {
+                "name": "Lappohjan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3318152,
+                    60.2980346
+                ]
+            },
+            "properties": {
+                "name": "S\u00f6derkullan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4606363,
+                    63.8583599
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4lvi\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3678494,
+                    60.4075396
+                ]
+            },
+            "properties": {
+                "name": "Kaarinan Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1227261,
+                    61.9170864
+                ]
+            },
+            "properties": {
+                "name": "Leivonm\u00e4en Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3584209,
+                    61.6764321
+                ]
+            },
+            "properties": {
+                "name": "Oriveden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9590102,
+                    60.2847732
+                ]
+            },
+            "properties": {
+                "name": "Point Library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0798584,
+                    60.2120043
+                ]
+            },
+            "properties": {
+                "name": "It\u00e4keskuksen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7880143,
+                    60.2645956
+                ]
+            },
+            "properties": {
+                "name": "Kumlinge bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6189469,
+                    61.6748788
+                ]
+            },
+            "properties": {
+                "name": "Ahlaisten kirjasto, Pori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7567364,
+                    60.9999933
+                ]
+            },
+            "properties": {
+                "name": "Ahtialan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4956654,
+                    61.3383605
+                ]
+            },
+            "properties": {
+                "name": "Aitoon lainausasema (kirjasto), P\u00e4lk\u00e4ne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9965711,
+                    63.6251673
+                ]
+            },
+            "properties": {
+                "name": "Ala - \u00c4ht\u00e4v\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8594232,
+                    63.237237
+                ]
+            },
+            "properties": {
+                "name": "Alah\u00e4rm\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8602781,
+                    60.9528295
+                ]
+            },
+            "properties": {
+                "name": "Alastaron kirjasto, Loimaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3270312,
+                    63.7088556
+                ]
+            },
+            "properties": {
+                "name": "Alavetelin kirjasto, Kruunupyy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3074247,
+                    64.1678471
+                ]
+            },
+            "properties": {
+                "name": "Alavieskan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4802695,
+                    65.0153917
+                ]
+            },
+            "properties": {
+                "name": "Ammatillisen opettajakorkeakoulun kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9657424,
+                    60.201134
+                ]
+            },
+            "properties": {
+                "name": "Arcadan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4849129,
+                    62.3036839
+                ]
+            },
+            "properties": {
+                "name": "Aseman kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9757367,
+                    60.2079357
+                ]
+            },
+            "properties": {
+                "name": "Arabianrannan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3954995,
+                    65.1987458
+                ]
+            },
+            "properties": {
+                "name": "Aseman kirjasto, Haukipudas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.0865452,
+                    61.2991303
+                ]
+            },
+            "properties": {
+                "name": "Aseman kirjasto, Rautj\u00e4rvi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8657303,
+                    60.5723653
+                ]
+            },
+            "properties": {
+                "name": "Askaisten kirjasto, Masku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.190624,
+                    62.9689313
+                ]
+            },
+            "properties": {
+                "name": "Berg\u00f6 bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.851291,
+                    63.8191646
+                ]
+            },
+            "properties": {
+                "name": "Bosund bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2635506,
+                    60.3743027
+                ]
+            },
+            "properties": {
+                "name": "Sipoon p\u00e4\u00e4kirjasto, v\u00e4ist\u00f6tilat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0314831,
+                    59.9858741
+                ]
+            },
+            "properties": {
+                "name": "Bromarvin sivukirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0429719,
+                    60.4144993
+                ]
+            },
+            "properties": {
+                "name": "Br\u00e4nd\u00f6 kommunbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0736332,
+                    60.2081434
+                ]
+            },
+            "properties": {
+                "name": "Celia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0658086,
+                    60.252563
+                ]
+            },
+            "properties": {
+                "name": "Lohjan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5479367,
+                    61.0811235
+                ]
+            },
+            "properties": {
+                "name": "Urjalan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9682521,
+                    60.1319146
+                ]
+            },
+            "properties": {
+                "name": "Bok Malen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.847733,
+                    60.3759856
+                ]
+            },
+            "properties": {
+                "name": "Geta kommunbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4458383,
+                    60.2668699
+                ]
+            },
+            "properties": {
+                "name": "Toijan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8210721,
+                    60.1870221
+                ]
+            },
+            "properties": {
+                "name": "Learning Hub Greenhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8186207,
+                    60.1872923
+                ]
+            },
+            "properties": {
+                "name": "Learning Hub Atrium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1342342,
+                    61.0904557
+                ]
+            },
+            "properties": {
+                "name": "Kalvolan kirjasto-palvelupiste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2974044,
+                    60.4367466
+                ]
+            },
+            "properties": {
+                "name": "Vasaram\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3250301,
+                    61.1155435
+                ]
+            },
+            "properties": {
+                "name": "Hamkin kirjasto Lepaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3869901,
+                    60.0306974
+                ]
+            },
+            "properties": {
+                "name": "F\u00f6gl\u00f6 bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5167409,
+                    64.0750627
+                ]
+            },
+            "properties": {
+                "name": "Bibliotek Centria Ylivieska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1817611,
+                    60.090417
+                ]
+            },
+            "properties": {
+                "name": "Degerby bibliotek, Ing\u00e5"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5465657,
+                    60.2318886
+                ]
+            },
+            "properties": {
+                "name": "Ecker\u00f6 bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5940595,
+                    65.0103944
+                ]
+            },
+            "properties": {
+                "name": "Hiukkavaaran Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4796033,
+                    60.9767603
+                ]
+            },
+            "properties": {
+                "name": "Hamkin p\u00e4\u00e4kirjasto Visam\u00e4ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5669575,
+                    61.4630717
+                ]
+            },
+            "properties": {
+                "name": "Kiikoisten kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2581339,
+                    60.1174644
+                ]
+            },
+            "properties": {
+                "name": "Lumparlands bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7905171,
+                    61.4775154
+                ]
+            },
+            "properties": {
+                "name": "SAMK-kirjasto Pori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3739807,
+                    61.0554797
+                ]
+            },
+            "properties": {
+                "name": "Hattulan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3210793,
+                    60.416715
+                ]
+            },
+            "properties": {
+                "name": "Kirkonkyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0245871,
+                    60.7879151
+                ]
+            },
+            "properties": {
+                "name": "Hausj\u00e4rven kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9687552,
+                    60.1992455
+                ]
+            },
+            "properties": {
+                "name": "Diakonia-ammattikorkeakoulun kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7780918,
+                    61.4952774
+                ]
+            },
+            "properties": {
+                "name": "Tampereen yliopiston kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7711558,
+                    60.8186169
+                ]
+            },
+            "properties": {
+                "name": "Hamkin kirjasto Mustiala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6214428,
+                    60.8156924
+                ]
+            },
+            "properties": {
+                "name": "Hamkin kirjasto Forssa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1084561,
+                    61.196491
+                ]
+            },
+            "properties": {
+                "name": "Hamkin kirjasto Evo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7608788,
+                    60.734041
+                ]
+            },
+            "properties": {
+                "name": "Hamkin kirjasto Riihim\u00e4ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9971286,
+                    61.2795646
+                ]
+            },
+            "properties": {
+                "name": "Hamkin kirjasto Valkeakoski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2109554,
+                    64.5053897
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3675566,
+                    60.4084801
+                ]
+            },
+            "properties": {
+                "name": "Kaarinan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8062005,
+                    62.779944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5650684,
+                    61.5729376
+                ]
+            },
+            "properties": {
+                "name": "Er\u00e4j\u00e4rven sivukirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.74029,
+                    61.204577
+                ]
+            },
+            "properties": {
+                "name": "Eurajoen kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4549692,
+                    63.3616759
+                ]
+            },
+            "properties": {
+                "name": "Evij\u00e4rven kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8476422,
+                    60.3761775
+                ]
+            },
+            "properties": {
+                "name": "Geta kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4093101,
+                    64.6063351
+                ]
+            },
+            "properties": {
+                "name": "Haapajoen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.463442,
+                    65.0154246
+                ]
+            },
+            "properties": {
+                "name": "Oulun p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2540936,
+                    62.7064321
+                ]
+            },
+            "properties": {
+                "name": "Saarij\u00e4rven kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9621167,
+                    60.2050111
+                ]
+            },
+            "properties": {
+                "name": "Tiedekirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9536318,
+                    60.1836124
+                ]
+            },
+            "properties": {
+                "name": "Kallion kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9326151,
+                    60.1630306
+                ]
+            },
+            "properties": {
+                "name": "Snadia Campus library"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4659503,
+                    60.9995904
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4meenlinnan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9471365,
+                    60.2108343
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4pyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9626526,
+                    60.2280723
+                ]
+            },
+            "properties": {
+                "name": "Oulunkyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8758028,
+                    60.196838
+                ]
+            },
+            "properties": {
+                "name": "Munkkiniemen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8634647,
+                    60.6311653
+                ]
+            },
+            "properties": {
+                "name": "Hyvink\u00e4\u00e4n p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2792061,
+                    60.4532691
+                ]
+            },
+            "properties": {
+                "name": "Boktornet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2723612,
+                    60.4508352
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0762761,
+                    60.2605061
+                ]
+            },
+            "properties": {
+                "name": "Jakom\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0423964,
+                    60.2950102
+                ]
+            },
+            "properties": {
+                "name": "Tikkurilan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8054542,
+                    60.2567107
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4hkin\u00e4rinteen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2837709,
+                    60.4545875
+                ]
+            },
+            "properties": {
+                "name": "Feeniks-kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8529865,
+                    61.4905743
+                ]
+            },
+            "properties": {
+                "name": "Messukyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6694013,
+                    60.9833158
+                ]
+            },
+            "properties": {
+                "name": "Lahden kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.891702,
+                    60.2139034
+                ]
+            },
+            "properties": {
+                "name": "Etel\u00e4-Haagan Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3677661,
+                    62.8543854
+                ]
+            },
+            "properties": {
+                "name": "Polvij\u00e4rven kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1889566,
+                    60.5714315
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.514139,
+                    60.9894227
+                ]
+            },
+            "properties": {
+                "name": "Hollolan kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.271267,
+                    60.4504173
+                ]
+            },
+            "properties": {
+                "name": "Turun kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0569122,
+                    60.2915907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7225463,
+                    66.4965021
+                ]
+            },
+            "properties": {
+                "name": "Lapin maakuntakirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1458584,
+                    61.1266197
+                ]
+            },
+            "properties": {
+                "name": "Euran Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7361867,
+                    62.2378081
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto (B)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7426734,
+                    62.238763
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7107768,
+                    62.1884073
+                ]
+            },
+            "properties": {
+                "name": "Keljonkankaan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6866293,
+                    62.8929734
+                ]
+            },
+            "properties": {
+                "name": "Kuopion p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2736856,
+                    61.3391212
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4lk\u00e4neen Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0602676,
+                    62.5655113
+                ]
+            },
+            "properties": {
+                "name": "Per\u00e4sein\u00e4joen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4359133,
+                    60.2719219
+                ]
+            },
+            "properties": {
+                "name": "Veikkolan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5949582,
+                    60.1880242
+                ]
+            },
+            "properties": {
+                "name": "Kauklahden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5941547,
+                    61.5606253
+                ]
+            },
+            "properties": {
+                "name": "Yl\u00f6j\u00e4rven P\u00e4\u00e4kirjasto Leija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0276722,
+                    60.4016322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.7513378,
+                    62.6016753
+                ]
+            },
+            "properties": {
+                "name": "Pohjois-Karjalan maakuntakirjasto;Joensuun kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7505303,
+                    61.4981736
+                ]
+            },
+            "properties": {
+                "name": "Tampereen p\u00e4\u00e4kirjasto Metso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5915856,
+                    63.1045649
+                ]
+            },
+            "properties": {
+                "name": "Tritonia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3601698,
+                    60.4425403
+                ]
+            },
+            "properties": {
+                "name": "Varissuon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3399679,
+                    60.8904522
+                ]
+            },
+            "properties": {
+                "name": "Iitin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6262147,
+                    61.3031815
+                ]
+            },
+            "properties": {
+                "name": "Vesilahden p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3951285,
+                    63.3671313
+                ]
+            },
+            "properties": {
+                "name": "Kirjastotalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7710747,
+                    65.1290653
+                ]
+            },
+            "properties": {
+                "name": "Kiimingin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8711428,
+                    61.1643279
+                ]
+            },
+            "properties": {
+                "name": "Akaan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7716468,
+                    60.7401098
+                ]
+            },
+            "properties": {
+                "name": "Kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4688437,
+                    60.5226461
+                ]
+            },
+            "properties": {
+                "name": "Kylistalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2666376,
+                    60.3754801
+                ]
+            },
+            "properties": {
+                "name": "Sipoon p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.9166774,
+                    62.088958
+                ]
+            },
+            "properties": {
+                "name": "Enonkosken kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6407763,
+                    62.8543202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7281113,
+                    61.878801
+                ]
+            },
+            "properties": {
+                "name": "Kurun kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5409703,
+                    65.8012098
+                ]
+            },
+            "properties": {
+                "name": "Keminmaan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7272388,
+                    64.2293073
+                ]
+            },
+            "properties": {
+                "name": "Kajaanin kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.501952,
+                    61.1265774
+                ]
+            },
+            "properties": {
+                "name": "Rauman p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8659922,
+                    61.5993412
+                ]
+            },
+            "properties": {
+                "name": "P\u00e4ij\u00e4l\u00e4n Pirtti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9502615,
+                    60.1703449
+                ]
+            },
+            "properties": {
+                "name": "Kansalliskirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6624418,
+                    63.0736015
+                ]
+            },
+            "properties": {
+                "name": "Siilinj\u00e4rven kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9222129,
+                    60.169766
+                ]
+            },
+            "properties": {
+                "name": "Aalto Yliopisto T\u00f6\u00f6l\u00f6n kampuskirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9556281,
+                    64.2608036
+                ]
+            },
+            "properties": {
+                "name": "Kalajoen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9624461,
+                    60.1922209
+                ]
+            },
+            "properties": {
+                "name": "Vallilan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4725214,
+                    64.6846993
+                ]
+            },
+            "properties": {
+                "name": "Raahen p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6211566,
+                    60.228022
+                ]
+            },
+            "properties": {
+                "name": "Karhusuon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7432997,
+                    62.482729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2731786,
+                    60.8686204
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4rk\u00f6l\u00e4n kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2568328,
+                    64.4620844
+                ]
+            },
+            "properties": {
+                "name": "Pyh\u00e4joen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5222157,
+                    63.6659004
+                ]
+            },
+            "properties": {
+                "name": "Sonkaj\u00e4rven kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7086356,
+                    60.870069
+                ]
+            },
+            "properties": {
+                "name": "Kouvolan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9071839,
+                    60.1905005
+                ]
+            },
+            "properties": {
+                "name": "Terveystieteiden keskuskirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9174245,
+                    60.1833453
+                ]
+            },
+            "properties": {
+                "name": "T\u00f6\u00f6l\u00f6n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1642497,
+                    60.4805523
+                ]
+            },
+            "properties": {
+                "name": "Raision kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.3581882,
+                    61.4335715
+                ]
+            },
+            "properties": {
+                "name": "Rautj\u00e4rven p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7298286,
+                    62.6026507
+                ]
+            },
+            "properties": {
+                "name": "\u00c4\u00e4nekosken kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6809834,
+                    60.8725136
+                ]
+            },
+            "properties": {
+                "name": "Kampuskirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7863792,
+                    60.7673554
+                ]
+            },
+            "properties": {
+                "name": "Myllykosken kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9479767,
+                    62.4152775
+                ]
+            },
+            "properties": {
+                "name": "Laukaan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.225176,
+                    60.4119462
+                ]
+            },
+            "properties": {
+                "name": "Hirvensalon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4528416,
+                    60.5076009
+                ]
+            },
+            "properties": {
+                "name": "Liedon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2611171,
+                    61.0723275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.853842,
+                    61.8975593
+                ]
+            },
+            "properties": {
+                "name": "Juvan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4073054,
+                    62.9302603
+                ]
+            },
+            "properties": {
+                "name": "Vesannon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8423438,
+                    62.7861939
+                ]
+            },
+            "properties": {
+                "name": "Alvar Aallon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5993018,
+                    60.7207998
+                ]
+            },
+            "properties": {
+                "name": "Riihikosken kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7142834,
+                    61.4991781
+                ]
+            },
+            "properties": {
+                "name": "Pispalan kirjastotalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6282349,
+                    60.9064801
+                ]
+            },
+            "properties": {
+                "name": "Kuusankosken kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.257885,
+                    61.680405
+                ]
+            },
+            "properties": {
+                "name": "K, Xamk kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1874996,
+                    64.8367266
+                ]
+            },
+            "properties": {
+                "name": "Lumijoen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5076917,
+                    62.8082524
+                ]
+            },
+            "properties": {
+                "name": "Kuortaneen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9433925,
+                    60.1018263
+                ]
+            },
+            "properties": {
+                "name": "Mariehamns stadsbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6635652,
+                    60.1676774
+                ]
+            },
+            "properties": {
+                "name": "N\u00f6ykki\u00f6n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.1721992,
+                    65.9678762
+                ]
+            },
+            "properties": {
+                "name": "Kuusamon Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3250018,
+                    63.3435743
+                ]
+            },
+            "properties": {
+                "name": "Bj\u00f6rk\u00f6by bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2025596,
+                    60.6234017
+                ]
+            },
+            "properties": {
+                "name": "Lapinj\u00e4rven kunnankirjasto - Lapptr\u00e4sk kommunbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7692425,
+                    60.2455135
+                ]
+            },
+            "properties": {
+                "name": "Laaksolahden kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.500504,
+                    61.5501559
+                ]
+            },
+            "properties": {
+                "name": "Parikkalan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7109449,
+                    62.2571485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7893558,
+                    62.4935586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.787553,
+                    62.4929123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7562279,
+                    63.9794321
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4rs\u00e4m\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7531191,
+                    63.2345426
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8154534,
+                    64.264803
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7642538,
+                    63.3548098
+                ]
+            },
+            "properties": {
+                "name": "Varpaisj\u00e4rven l\u00e4hikirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8488921,
+                    63.0847147
+                ]
+            },
+            "properties": {
+                "name": "Viitasaaren kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6244169,
+                    61.3600547
+                ]
+            },
+            "properties": {
+                "name": "Luvian kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9322101,
+                    60.5167412
+                ]
+            },
+            "properties": {
+                "name": "Karhulan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6672377,
+                    60.397059
+                ]
+            },
+            "properties": {
+                "name": "Porvoon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.623524,
+                    62.0330687
+                ]
+            },
+            "properties": {
+                "name": "M\u00e4nt\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7137778,
+                    65.0095385
+                ]
+            },
+            "properties": {
+                "name": "Hailuodon Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9285141,
+                    63.8965412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8600863,
+                    60.2261159
+                ]
+            },
+            "properties": {
+                "name": "Pit\u00e4j\u00e4nm\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.121066,
+                    62.6243999
+                ]
+            },
+            "properties": {
+                "name": "Suonenjoen kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8343494,
+                    60.6486175
+                ]
+            },
+            "properties": {
+                "name": "Paavolan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3798631,
+                    64.1399792
+                ]
+            },
+            "properties": {
+                "name": "Haapaveden kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7952174,
+                    62.2424329
+                ]
+            },
+            "properties": {
+                "name": "Halssilan l\u00e4hikirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5038565,
+                    60.0221514
+                ]
+            },
+            "properties": {
+                "name": "Dragsfj\u00e4rds kommunbibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2521957,
+                    63.7736229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6599298,
+                    64.0642273
+                ]
+            },
+            "properties": {
+                "name": "Himangan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8115839,
+                    62.8796235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7047398,
+                    60.8697303
+                ]
+            },
+            "properties": {
+                "name": "XAMK kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.725091,
+                    63.0867303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6898642,
+                    61.4705559
+                ]
+            },
+            "properties": {
+                "name": "Nuolialan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9056798,
+                    60.1915559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.771698,
+                    62.2384156
+                ]
+            },
+            "properties": {
+                "name": "Virtain Kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8357589,
+                    64.5621367
+                ]
+            },
+            "properties": {
+                "name": "Vaalan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7894502,
+                    61.7301035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2791583,
+                    62.6277958
+                ]
+            },
+            "properties": {
+                "name": "Konneveden kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.8744651,
+                    61.8724998
+                ]
+            },
+            "properties": {
+                "name": "Savonlinnan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0311062,
+                    61.2629544
+                ]
+            },
+            "properties": {
+                "name": "Valkeakosken p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9137176,
+                    67.653038
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0083112,
+                    61.6940953
+                ]
+            },
+            "properties": {
+                "name": "Pomarkun kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3160936,
+                    60.3341425
+                ]
+            },
+            "properties": {
+                "name": "Vihdin kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5036465,
+                    64.1266888
+                ]
+            },
+            "properties": {
+                "name": "Kuhmon kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1500396,
+                    61.3153811
+                ]
+            },
+            "properties": {
+                "name": "Harjavallan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.546518,
+                    68.6578009
+                ]
+            },
+            "properties": {
+                "name": "Ivalon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7954457,
+                    61.4709903
+                ]
+            },
+            "properties": {
+                "name": "Koivistonkyl\u00e4n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.986945,
+                    64.8096506
+                ]
+            },
+            "properties": {
+                "name": "Koivu ja t\u00e4hti - kulttuurikeskus "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9050569,
+                    61.3473837
+                ]
+            },
+            "properties": {
+                "name": "Vammalan Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2229334,
+                    60.1419903
+                ]
+            },
+            "properties": {
+                "name": "Siuntion kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7665878,
+                    61.2131243
+                ]
+            },
+            "properties": {
+                "name": "Viialan kirjasto Vilkku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7132156,
+                    64.21693
+                ]
+            },
+            "properties": {
+                "name": "Tieto 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.961845,
+                    63.9299732
+                ]
+            },
+            "properties": {
+                "name": "Nivalan kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0538403,
+                    60.8504251
+                ]
+            },
+            "properties": {
+                "name": "Loimaan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9831132,
+                    60.8672917
+                ]
+            },
+            "properties": {
+                "name": "Hirvikosken kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.831571,
+                    61.1159033
+                ]
+            },
+            "properties": {
+                "name": "Tuuloksen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6957223,
+                    60.3444347
+                ]
+            },
+            "properties": {
+                "name": "Sauvon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.151535,
+                    60.5768949
+                ]
+            },
+            "properties": {
+                "name": "Ruissalon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8089171,
+                    60.4634478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8423329,
+                    62.7855306
+                ]
+            },
+            "properties": {
+                "name": "Sein\u00e4joen P\u00e4\u00e4kirjasto Apila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4248876,
+                    63.2135468
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2662374,
+                    60.4409199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2644302,
+                    60.4890812
+                ]
+            },
+            "properties": {
+                "name": "Runosm\u00e4en koulu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2590141,
+                    61.9924087
+                ]
+            },
+            "properties": {
+                "name": "Honkajoen kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4982315,
+                    61.4661871
+                ]
+            },
+            "properties": {
+                "name": "Koskenm\u00e4en kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1522536,
+                    62.788423
+                ]
+            },
+            "properties": {
+                "name": "Enon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5326449,
+                    65.9274689
+                ]
+            },
+            "properties": {
+                "name": "Ranuan kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.1314206,
+                    62.1021956
+                ]
+            },
+            "properties": {
+                "name": "Kiteen Kaupungin Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.4873804,
+                    62.8117842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2333135,
+                    61.1048974
+                ]
+            },
+            "properties": {
+                "name": "Putulan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7399596,
+                    60.1903731
+                ]
+            },
+            "properties": {
+                "name": "Opinm\u00e4ki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9680069,
+                    62.8973141
+                ]
+            },
+            "properties": {
+                "name": "Karttulan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7790374,
+                    61.1921033
+                ]
+            },
+            "properties": {
+                "name": "Imatran kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1797868,
+                    62.2099889
+                ]
+            },
+            "properties": {
+                "name": "Kihni\u00f6n kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5249899,
+                    60.0966179
+                ]
+            },
+            "properties": {
+                "name": "Pojo bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.9273812,
+                    62.6709929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5117916,
+                    60.6292332
+                ]
+            },
+            "properties": {
+                "name": "Someron kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4040852,
+                    61.8059783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5044974,
+                    61.8617025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.373279,
+                    60.476922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7777215,
+                    61.3190403
+                ]
+            },
+            "properties": {
+                "name": "Kiikan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5738793,
+                    63.3693832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0873382,
+                    60.6015205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4336254,
+                    62.3899215
+                ]
+            },
+            "properties": {
+                "name": "Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.1988026,
+                    60.2894795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6976728,
+                    61.1832197
+                ]
+            },
+            "properties": {
+                "name": "Huittisten kaupunginkirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2110098,
+                    62.2663601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5655783,
+                    62.1375934
+                ]
+            },
+            "properties": {
+                "name": "Karvian kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3102219,
+                    60.4746101
+                ]
+            },
+            "properties": {
+                "name": "Tessj\u00f6 bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3485959,
+                    61.2568285
+                ]
+            },
+            "properties": {
+                "name": "Kokem\u00e4en Kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1648401,
+                    60.2239149
+                ]
+            },
+            "properties": {
+                "name": "Sunds bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8955329,
+                    63.624487
+                ]
+            },
+            "properties": {
+                "name": "K\u00e5llby bibliotek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6421359,
+                    62.8554938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0794824,
+                    63.1203822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3689521,
+                    61.7839924
+                ]
+            },
+            "properties": {
+                "name": "Sulkavan kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.3895039,
+                    64.133759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8254104,
+                    65.3691652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4526415,
+                    60.5075731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.363626,
+                    60.5457986
+                ]
+            },
+            "properties": {
+                "name": "Kustavin kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8378985,
+                    62.3295541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9352266,
+                    63.6044478
+                ]
+            },
+            "properties": {
+                "name": "Reisj\u00e4rven kunnankirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0549065,
+                    60.1789277
+                ]
+            },
+            "properties": {
+                "name": "Laajasalon kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3548925,
+                    65.1767093
+                ]
+            },
+            "properties": {
+                "name": "Haukiputaan p\u00e4\u00e4kirjasto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2716778,
+                    60.450513
+                ]
+            },
+            "properties": {
+                "name": "Turun kaupunginkirjasto"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

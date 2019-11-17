@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5177577,
+                    42.8266129
+                ]
+            },
+            "properties": {
+                "name": "Kolasin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5782824,
+                    42.9637339
+                ]
+            },
+            "properties": {
+                "name": "Mojkovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8391358,
+                    42.2901658
+                ]
+            },
+            "properties": {
+                "name": "Autobuska Stanica Budva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9373853,
+                    42.599666
+                ]
+            },
+            "properties": {
+                "name": "Autobuska stanica Plav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8702976,
+                    42.8473283
+                ]
+            },
+            "properties": {
+                "name": "Berane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2677699,
+                    42.4318414
+                ]
+            },
+            "properties": {
+                "name": "Autobuska stanica Podgorica"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

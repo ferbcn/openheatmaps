@@ -1,0 +1,227 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.101008,
+                    49.6178599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1354188,
+                    49.6311117
+                ]
+            },
+            "properties": {
+                "name": "S\u00e9nologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9816753,
+                    49.501863
+                ]
+            },
+            "properties": {
+                "name": "Centre hospitalier \u00c9mile Mayrisch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9339816,
+                    49.9653188
+                ]
+            },
+            "properties": {
+                "name": "Clinique saint Joseph Wiltz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1738867,
+                    49.6279616
+                ]
+            },
+            "properties": {
+                "name": "Rehazenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0887905,
+                    49.4705813
+                ]
+            },
+            "properties": {
+                "name": "H\u00f4pital de la ville de Dudelange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0980222,
+                    49.8434629
+                ]
+            },
+            "properties": {
+                "name": "Centre Pontalize - Home pour personnes agees"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0965136,
+                    49.8432061
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier Neuro-Psychiatrique (CHNP)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1761694,
+                    49.6324996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1355773,
+                    49.6315763
+                ]
+            },
+            "properties": {
+                "name": "Clinique d'Eich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.154904,
+                    49.8702496
+                ]
+            },
+            "properties": {
+                "name": "Maison des Soins Sacr\u00e9 Coeur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9858649,
+                    49.5012509
+                ]
+            },
+            "properties": {
+                "name": "Clinique Sainte-Marie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8253207,
+                    49.7591265
+                ]
+            },
+            "properties": {
+                "name": "Centre de Convalescence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0954536,
+                    49.8537612
+                ]
+            },
+            "properties": {
+                "name": "Centre Hospitalier du Nord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9123983,
+                    49.6608894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1006483,
+                    49.8432388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8866953,
+                    49.5328427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1282651,
+                    49.6037743
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

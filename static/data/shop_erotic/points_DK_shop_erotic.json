@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8505382,
+                    55.8626392
+                ]
+            },
+            "properties": {
+                "name": "Erotic Master"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5588804,
+                    55.670993
+                ]
+            },
+            "properties": {
+                "name": "Plane E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5497685,
+                    55.6724645
+                ]
+            },
+            "properties": {
+                "name": "Play House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.547701,
+                    55.6748772
+                ]
+            },
+            "properties": {
+                "name": "Butik Paradiss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.472566,
+                    55.48704
+                ]
+            },
+            "properties": {
+                "name": "Hotgirl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55622,
+                    55.67155
+                ]
+            },
+            "properties": {
+                "name": "Fetish Fashion Denmark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.55484,
+                    55.67276
+                ]
+            },
+            "properties": {
+                "name": "Latexa Fashion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0763578,
+                    55.6380746
+                ]
+            },
+            "properties": {
+                "name": "Det Erotiske Spejl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4264878,
+                    55.3826694
+                ]
+            },
+            "properties": {
+                "name": "Orion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5699839,
+                    55.6788603
+                ]
+            },
+            "properties": {
+                "name": "SM Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9184296,
+                    57.0446357
+                ]
+            },
+            "properties": {
+                "name": "DreamX"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

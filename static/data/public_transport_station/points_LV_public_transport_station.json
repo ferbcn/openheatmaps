@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.21373,
+                    56.8492476
+                ]
+            },
+            "properties": {
+                "name": "Madona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2816588,
+                    57.3129867
+                ]
+            },
+            "properties": {
+                "name": "C\u0113su autoosta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5249303,
+                    55.8712938
+                ]
+            },
+            "properties": {
+                "name": "Daugavpils autoosta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0172613,
+                    56.5242151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8540999,
+                    57.1531868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3449585,
+                    56.5196578
+                ]
+            },
+            "properties": {
+                "name": "R\u0113zekne II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5524404,
+                    56.5749524
+                ]
+            },
+            "properties": {
+                "name": "Ilm\u0101ja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1800857,
+                    56.3512494
+                ]
+            },
+            "properties": {
+                "name": "L\u012bv\u0101ni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2758482,
+                    56.6221998
+                ]
+            },
+            "properties": {
+                "name": "Aizkraukles stacija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0178454,
+                    56.5241516
+                ]
+            },
+            "properties": {
+                "name": "Liep\u0101jas autoosta"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

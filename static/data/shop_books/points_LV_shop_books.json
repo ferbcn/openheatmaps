@@ -1,0 +1,936 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1946854,
+                    56.4073879
+                ]
+            },
+            "properties": {
+                "name": "Eila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.113207,
+                    56.9487648
+                ]
+            },
+            "properties": {
+                "name": "Valters un Rapa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1091514,
+                    56.9546981
+                ]
+            },
+            "properties": {
+                "name": "Zvaigzne ABC gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1218132,
+                    56.9516583
+                ]
+            },
+            "properties": {
+                "name": "J\u0101\u0146a Rozes gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1268468,
+                    56.9513961
+                ]
+            },
+            "properties": {
+                "name": "J\u0101\u0146a Rozes gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1131052,
+                    56.9484282
+                ]
+            },
+            "properties": {
+                "name": "Globuss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0494447,
+                    57.4235204
+                ]
+            },
+            "properties": {
+                "name": "Zvaigznes gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1229156,
+                    56.9500577
+                ]
+            },
+            "properties": {
+                "name": "Pie Humberta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.600513,
+                    56.8132218
+                ]
+            },
+            "properties": {
+                "name": "Zvaigzne ABC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8091804,
+                    56.7176348
+                ]
+            },
+            "properties": {
+                "name": "Jumava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5197778,
+                    55.8699203
+                ]
+            },
+            "properties": {
+                "name": "Adamas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5221519,
+                    55.8710296
+                ]
+            },
+            "properties": {
+                "name": "Gr\u0101matas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4171702,
+                    57.5381712
+                ]
+            },
+            "properties": {
+                "name": "Zvaigzne ABC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2739733,
+                    57.3122895
+                ]
+            },
+            "properties": {
+                "name": "C\u0113su Spr\u012bd\u012btis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1326556,
+                    56.9541162
+                ]
+            },
+            "properties": {
+                "name": "R\u0113riha gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1225419,
+                    56.941449
+                ]
+            },
+            "properties": {
+                "name": "Gora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6069471,
+                    56.9595105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1208909,
+                    56.9540536
+                ]
+            },
+            "properties": {
+                "name": "Jumava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2325408,
+                    56.8318167
+                ]
+            },
+            "properties": {
+                "name": "J\u0101\u0146a Rozes gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.111521,
+                    56.9494877
+                ]
+            },
+            "properties": {
+                "name": "Zvaigznes gr\u0101matn\u012bca outlet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5613,
+                    55.8799854
+                ]
+            },
+            "properties": {
+                "name": "Janus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5591764,
+                    55.8810611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8496921,
+                    57.1573761
+                ]
+            },
+            "properties": {
+                "name": "J\u0101nis Roze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1857134,
+                    56.9581008
+                ]
+            },
+            "properties": {
+                "name": "J\u0101\u0146a Rozes gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1247185,
+                    56.9490038
+                ]
+            },
+            "properties": {
+                "name": "Polaris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1124475,
+                    56.9482199
+                ]
+            },
+            "properties": {
+                "name": "J\u0101nis Roze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1194618,
+                    56.9469819
+                ]
+            },
+            "properties": {
+                "name": "Polaris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5225215,
+                    55.8716858
+                ]
+            },
+            "properties": {
+                "name": "Gr\u0101matas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7226074,
+                    56.9030374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1360508,
+                    56.9743759
+                ]
+            },
+            "properties": {
+                "name": "Dino Zoo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3911263,
+                    56.7420676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0501897,
+                    57.4238005
+                ]
+            },
+            "properties": {
+                "name": "Donita gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1292879,
+                    56.9553572
+                ]
+            },
+            "properties": {
+                "name": "Intelektu\u0101l\u0101 gr\u0101mata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1580884,
+                    56.9676794
+                ]
+            },
+            "properties": {
+                "name": "J\u0101\u0146a Rozes gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2546191,
+                    56.9569766
+                ]
+            },
+            "properties": {
+                "name": "J\u0101nis Roze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1191034,
+                    56.9563915
+                ]
+            },
+            "properties": {
+                "name": "Lira"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0599497,
+                    56.9689313
+                ]
+            },
+            "properties": {
+                "name": "Mnogoknig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4960351,
+                    56.6646342
+                ]
+            },
+            "properties": {
+                "name": "Zvaigzne ABC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1305337,
+                    56.9600477
+                ]
+            },
+            "properties": {
+                "name": "J\u0101nis Roze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1213959,
+                    56.9476538
+                ]
+            },
+            "properties": {
+                "name": "J\u0101nis Roze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0820027,
+                    56.9496803
+                ]
+            },
+            "properties": {
+                "name": "J\u0101nis Roze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3363724,
+                    56.854568
+                ]
+            },
+            "properties": {
+                "name": "J\u0101nis Roze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1213864,
+                    56.9477577
+                ]
+            },
+            "properties": {
+                "name": "Millili"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0127343,
+                    56.9605222
+                ]
+            },
+            "properties": {
+                "name": "Mnogoknig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0071792,
+                    56.5093895
+                ]
+            },
+            "properties": {
+                "name": "J\u0101\u0146a Rozes gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0085956,
+                    56.50902
+                ]
+            },
+            "properties": {
+                "name": "Liep\u0101jas centr\u0101l\u0101 gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0178755,
+                    56.5113906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1225909,
+                    56.9517347
+                ]
+            },
+            "properties": {
+                "name": "Zvaigznes gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.117364,
+                    56.9567041
+                ]
+            },
+            "properties": {
+                "name": "Robert's Books"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9066643,
+                    57.4240713
+                ]
+            },
+            "properties": {
+                "name": "Gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1898611,
+                    56.9496029
+                ]
+            },
+            "properties": {
+                "name": "Minogo Knig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7605791,
+                    56.6679506
+                ]
+            },
+            "properties": {
+                "name": "J\u0101nis Roze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5761741,
+                    56.8178493
+                ]
+            },
+            "properties": {
+                "name": "J\u0101nis Roze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.844633,
+                    57.1431384
+                ]
+            },
+            "properties": {
+                "name": "Zvaigznes gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2871319,
+                    56.6261758
+                ]
+            },
+            "properties": {
+                "name": "Globuss"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1142426,
+                    56.9450014
+                ]
+            },
+            "properties": {
+                "name": "Valters un Rapa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1233848,
+                    56.9511694
+                ]
+            },
+            "properties": {
+                "name": "Zvaigzne ABC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8782583,
+                    56.4953928
+                ]
+            },
+            "properties": {
+                "name": "J\u0101nis Roze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3354991,
+                    56.5147279
+                ]
+            },
+            "properties": {
+                "name": "Zvaigzne ABC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9596303,
+                    56.9674403
+                ]
+            },
+            "properties": {
+                "name": "Zvaigznes gr\u0101matu nams"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.320196,
+                    57.0711066
+                ]
+            },
+            "properties": {
+                "name": "Zvaigznes gr\u0101matn\u012bca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1210532,
+                    56.9489827
+                ]
+            },
+            "properties": {
+                "name": "Polaris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1603654,
+                    56.965939
+                ]
+            },
+            "properties": {
+                "name": "Polaris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1644942,
+                    56.9660983
+                ]
+            },
+            "properties": {
+                "name": "Valters un Rapa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1279624,
+                    56.954759
+                ]
+            },
+            "properties": {
+                "name": "Musica Baltica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1221408,
+                    56.9499515
+                ]
+            },
+            "properties": {
+                "name": "J\u0101\u0146a S\u0113ta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7160888,
+                    57.5123366
+                ]
+            },
+            "properties": {
+                "name": "Zvaigzne ABC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1738622,
+                    56.9345917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1980047,
+                    56.4104368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2741566,
+                    57.3127996
+                ]
+            },
+            "properties": {
+                "name": "Zvaigznes gr\u0101matu nams"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.171468,
+                    56.971515
+                ]
+            },
+            "properties": {
+                "name": "Zvaigznes gr\u0101matu nams"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5205152,
+                    55.8761049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8674881,
+                    56.4974131
+                ]
+            },
+            "properties": {
+                "name": "Aisma"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,3831 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5705163,
+                    57.6675898
+                ]
+            },
+            "properties": {
+                "name": "Bollebygd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0009443,
+                    55.6091924
+                ]
+            },
+            "properties": {
+                "name": "Malm\u00f6 C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9146441,
+                    59.4758766
+                ]
+            },
+            "properties": {
+                "name": "Rotebro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.836549,
+                    59.199162
+                ]
+            },
+            "properties": {
+                "name": "Tumba station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6464399,
+                    65.9130518
+                ]
+            },
+            "properties": {
+                "name": "T\u00f6re Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1416084,
+                    65.8545239
+                ]
+            },
+            "properties": {
+                "name": "Kalix Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5533743,
+                    59.6084346
+                ]
+            },
+            "properties": {
+                "name": "Centralen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4269337,
+                    60.48275
+                ]
+            },
+            "properties": {
+                "name": "Borl\u00e4nge resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0338551,
+                    61.2989122
+                ]
+            },
+            "properties": {
+                "name": "S\u00f6derhamn Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7515164,
+                    59.4777692
+                ]
+            },
+            "properties": {
+                "name": "Kungs\u00e4ngens station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9992036,
+                    55.6024741
+                ]
+            },
+            "properties": {
+                "name": "Gustav Adolfs torg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8295777,
+                    59.626952
+                ]
+            },
+            "properties": {
+                "name": "Edane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7186257,
+                    58.1873363
+                ]
+            },
+            "properties": {
+                "name": "Nossebro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0492963,
+                    57.6109286
+                ]
+            },
+            "properties": {
+                "name": "K\u00e5llered station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3597197,
+                    56.6614977
+                ]
+            },
+            "properties": {
+                "name": "Kalmar C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6427109,
+                    57.7555561
+                ]
+            },
+            "properties": {
+                "name": "V\u00e4stervik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4917848,
+                    58.5273829
+                ]
+            },
+            "properties": {
+                "name": "G\u00f6tene busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.358899,
+                    56.6617439
+                ]
+            },
+            "properties": {
+                "name": "Kalmar C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2668149,
+                    63.8262313
+                ]
+            },
+            "properties": {
+                "name": "Vasaplan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2648409,
+                    63.8299889
+                ]
+            },
+            "properties": {
+                "name": "Ume\u00e5 busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.623998,
+                    58.4169619
+                ]
+            },
+            "properties": {
+                "name": "Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1862332,
+                    58.5957161
+                ]
+            },
+            "properties": {
+                "name": "Fj\u00e4rrbussterminalen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5911133,
+                    59.6537311
+                ]
+            },
+            "properties": {
+                "name": "Arvika station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3206222,
+                    58.7223938
+                ]
+            },
+            "properties": {
+                "name": "Tanumshede centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2539317,
+                    58.6919583
+                ]
+            },
+            "properties": {
+                "name": "Grebbestads busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8231786,
+                    58.0716706
+                ]
+            },
+            "properties": {
+                "name": "Stenungsunds station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0539247,
+                    57.0179932
+                ]
+            },
+            "properties": {
+                "name": "Eke bussterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9325795,
+                    57.7199732
+                ]
+            },
+            "properties": {
+                "name": "Bor\u00e5s Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.677208,
+                    58.4651852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9621184,
+                    57.7235918
+                ]
+            },
+            "properties": {
+                "name": "Sjukhuset Bor\u00e5s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.006366,
+                    55.5888085
+                ]
+            },
+            "properties": {
+                "name": "S\u00f6derv\u00e4rn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2308164,
+                    59.263778
+                ]
+            },
+            "properties": {
+                "name": "Mariefred busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1518273,
+                    56.0313117
+                ]
+            },
+            "properties": {
+                "name": "Kristianstad Centralen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0273669,
+                    55.7225657
+                ]
+            },
+            "properties": {
+                "name": "Bj\u00e4rred centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3097588,
+                    62.3922199
+                ]
+            },
+            "properties": {
+                "name": "Navet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3796968,
+                    57.2380595
+                ]
+            },
+            "properties": {
+                "name": "Hemse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1270123,
+                    56.1311278
+                ]
+            },
+            "properties": {
+                "name": "Klippans station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8164706,
+                    58.3532229
+                ]
+            },
+            "properties": {
+                "name": "Torp Terminalen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9558693,
+                    58.1794864
+                ]
+            },
+            "properties": {
+                "name": "Tidaholm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.078496,
+                    57.5757623
+                ]
+            },
+            "properties": {
+                "name": "Lindome station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0718644,
+                    59.8670234
+                ]
+            },
+            "properties": {
+                "name": "Almunge skola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4378043,
+                    58.2734143
+                ]
+            },
+            "properties": {
+                "name": "Lysekil S\u00f6dra hamnen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9166663,
+                    59.1317065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9082768,
+                    56.7424574
+                ]
+            },
+            "properties": {
+                "name": "Nybro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7790769,
+                    60.6147591
+                ]
+            },
+            "properties": {
+                "name": "Sandviken Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3212652,
+                    56.3979875
+                ]
+            },
+            "properties": {
+                "name": "L\u00f6nsboda Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3235614,
+                    58.4779872
+                ]
+            },
+            "properties": {
+                "name": "S\u00f6derk\u00f6pings resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5432851,
+                    57.3046186
+                ]
+            },
+            "properties": {
+                "name": "Gislaveds bussterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3525852,
+                    62.035526
+                ]
+            },
+            "properties": {
+                "name": "Svegs J\u00e4rnv\u00e4gsstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6282472,
+                    58.488685
+                ]
+            },
+            "properties": {
+                "name": "H\u00e5by terminalen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1739125,
+                    58.9366843
+                ]
+            },
+            "properties": {
+                "name": "Str\u00f6mstad station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1638335,
+                    58.5045415
+                ]
+            },
+            "properties": {
+                "name": "Lidk\u00f6ping resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7641654,
+                    56.1586345
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4ssleholm C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6192579,
+                    58.4191672
+                ]
+            },
+            "properties": {
+                "name": "Fj\u00e4rrbussterminalen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8818234,
+                    57.9148173
+                ]
+            },
+            "properties": {
+                "name": "Mullsj\u00f6 resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2274976,
+                    59.5954166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2837148,
+                    56.206551
+                ]
+            },
+            "properties": {
+                "name": "Ronneby Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0874137,
+                    59.6443158
+                ]
+            },
+            "properties": {
+                "name": "Enk\u00f6ping Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8272056,
+                    55.8659162
+                ]
+            },
+            "properties": {
+                "name": "Landskrona Skeppsbron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.183382,
+                    60.1500471
+                ]
+            },
+            "properties": {
+                "name": "Ludvika Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6646328,
+                    57.4023867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1242035,
+                    57.9584186
+                ]
+            },
+            "properties": {
+                "name": "\u00c4lv\u00e4ngen centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9095619,
+                    57.6520008
+                ]
+            },
+            "properties": {
+                "name": "Fr\u00f6lunda Torg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5306479,
+                    65.5362277
+                ]
+            },
+            "properties": {
+                "name": "Sorsele Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1673102,
+                    57.78399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1158378,
+                    60.8853862
+                ]
+            },
+            "properties": {
+                "name": "R\u00e4ttviks busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6564731,
+                    56.8821922
+                ]
+            },
+            "properties": {
+                "name": "Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1374649,
+                    56.5506031
+                ]
+            },
+            "properties": {
+                "name": "\u00c4lmhults busstation (Stationen)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3700331,
+                    60.2584309
+                ]
+            },
+            "properties": {
+                "name": "\u00d6sthammars Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0433286,
+                    57.8931573
+                ]
+            },
+            "properties": {
+                "name": "N\u00f6dinge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0414519,
+                    59.5171254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1079497,
+                    55.4902567
+                ]
+            },
+            "properties": {
+                "name": "V\u00e4stra Ingelstad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0800958,
+                    60.0626807
+                ]
+            },
+            "properties": {
+                "name": "Alunda Bussterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4646578,
+                    59.3230865
+                ]
+            },
+            "properties": {
+                "name": "Skoghall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8287612,
+                    66.6078106
+                ]
+            },
+            "properties": {
+                "name": "Jokkmokk Bussstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0446399,
+                    61.2230331
+                ]
+            },
+            "properties": {
+                "name": "\u00c4lvdalen busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5126948,
+                    60.3454574
+                ]
+            },
+            "properties": {
+                "name": "Tierp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9730036,
+                    57.7091812
+                ]
+            },
+            "properties": {
+                "name": "G\u00f6teborgs centralstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5706618,
+                    57.667796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.950038,
+                    64.7536427
+                ]
+            },
+            "properties": {
+                "name": "Skellefte\u00e5 busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5011614,
+                    63.2015685
+                ]
+            },
+            "properties": {
+                "name": "Bj\u00e4sta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8385094,
+                    66.3266413
+                ]
+            },
+            "properties": {
+                "name": "\u00d6verkalix busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0273627,
+                    57.1655883
+                ]
+            },
+            "properties": {
+                "name": "Resecenter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8900779,
+                    62.1572979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7210289,
+                    58.1250994
+                ]
+            },
+            "properties": {
+                "name": "Varekils bussstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2633798,
+                    58.9226126
+                ]
+            },
+            "properties": {
+                "name": "Skee station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5838352,
+                    56.050201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0012932,
+                    60.1366168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4328108,
+                    57.6672863
+                ]
+            },
+            "properties": {
+                "name": "G\u00e4llstad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3537962,
+                    57.5362793
+                ]
+            },
+            "properties": {
+                "name": "Limmared"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3514991,
+                    57.4851204
+                ]
+            },
+            "properties": {
+                "name": "Tranemo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4116451,
+                    57.7938796
+                ]
+            },
+            "properties": {
+                "name": "Ulricehamn busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4844964,
+                    64.9145462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.735886,
+                    57.3578668
+                ]
+            },
+            "properties": {
+                "name": "Gnosj\u00f6 station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.11268,
+                    65.0967355
+                ]
+            },
+            "properties": {
+                "name": "Storuman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4693994,
+                    63.5369008
+                ]
+            },
+            "properties": {
+                "name": "Ramsele busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6702922,
+                    64.5948374
+                ]
+            },
+            "properties": {
+                "name": "Lycksele resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3839686,
+                    64.8678508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1398365,
+                    59.1260122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7743893,
+                    58.7079386
+                ]
+            },
+            "properties": {
+                "name": "Bergslagstorget"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9002309,
+                    57.3694064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9077901,
+                    58.8789876
+                ]
+            },
+            "properties": {
+                "name": "Askersund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6627988,
+                    59.8653595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2334203,
+                    56.0753357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4704932,
+                    56.0750981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9211717,
+                    56.7452151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8750506,
+                    59.0423922
+                ]
+            },
+            "properties": {
+                "name": "Ving\u00e5ker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5870576,
+                    59.6555441
+                ]
+            },
+            "properties": {
+                "name": "Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1883272,
+                    60.1764509
+                ]
+            },
+            "properties": {
+                "name": "Gimo busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6748182,
+                    62.997074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2896493,
+                    65.8559768
+                ]
+            },
+            "properties": {
+                "name": "R\u00e5ne\u00e5 Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1797532,
+                    60.1804952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8455376,
+                    57.4865355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3507833,
+                    63.5831087
+                ]
+            },
+            "properties": {
+                "name": "Hammerdal busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0151556,
+                    57.851473
+                ]
+            },
+            "properties": {
+                "name": "Bohus centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6969414,
+                    57.5057013
+                ]
+            },
+            "properties": {
+                "name": "Kinna Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.079416,
+                    57.4905121
+                ]
+            },
+            "properties": {
+                "name": "Kungsbacka station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1483042,
+                    59.8353538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1730157,
+                    59.7136121
+                ]
+            },
+            "properties": {
+                "name": "Filipstads busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1562514,
+                    57.6905422
+                ]
+            },
+            "properties": {
+                "name": "Torsvik bussterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0041784,
+                    57.7273513
+                ]
+            },
+            "properties": {
+                "name": "Gamlestaden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0132735,
+                    57.8252103
+                ]
+            },
+            "properties": {
+                "name": "Surte station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1161666,
+                    57.958166
+                ]
+            },
+            "properties": {
+                "name": "\u00c4lv\u00e4ngen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2716804,
+                    57.7690868
+                ]
+            },
+            "properties": {
+                "name": "Lerum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0254724,
+                    57.7247854
+                ]
+            },
+            "properties": {
+                "name": "S\u00e4ven\u00e4s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1831339,
+                    58.5966527
+                ]
+            },
+            "properties": {
+                "name": "Norrk\u00f6ping C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7856811,
+                    58.4363826
+                ]
+            },
+            "properties": {
+                "name": "Linghem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1006134,
+                    57.5385939
+                ]
+            },
+            "properties": {
+                "name": "Anneberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0840091,
+                    57.5135192
+                ]
+            },
+            "properties": {
+                "name": "Kungsbacka Hede"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9990604,
+                    56.5022529
+                ]
+            },
+            "properties": {
+                "name": "Laholm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0323526,
+                    55.8230233
+                ]
+            },
+            "properties": {
+                "name": "D\u00f6sjebro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8139456,
+                    55.9441998
+                ]
+            },
+            "properties": {
+                "name": "Glumsl\u00f6v"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1675131,
+                    55.7269551
+                ]
+            },
+            "properties": {
+                "name": "Gunnesbo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9117426,
+                    55.8609346
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4ljarp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1114039,
+                    55.7943641
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4vlinge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7277133,
+                    56.0236621
+                ]
+            },
+            "properties": {
+                "name": "Raml\u00f6sa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7834962,
+                    55.9658595
+                ]
+            },
+            "properties": {
+                "name": "Rydeb\u00e4ck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0857829,
+                    55.8705218
+                ]
+            },
+            "properties": {
+                "name": "Teckomatorp"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9957337,
+                    55.883817
+                ]
+            },
+            "properties": {
+                "name": "Billeberga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9433425,
+                    59.9331716
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4lldalen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3310443,
+                    56.9809637
+                ]
+            },
+            "properties": {
+                "name": "Blomsterm\u00e5la"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1455697,
+                    57.4982451
+                ]
+            },
+            "properties": {
+                "name": "Vaggeryd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0048234,
+                    60.0759517
+                ]
+            },
+            "properties": {
+                "name": "Gr\u00e4ngesberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6351887,
+                    60.604558
+                ]
+            },
+            "properties": {
+                "name": "Knutpunkten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3480888,
+                    57.168188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.13268,
+                    55.4676727
+                ]
+            },
+            "properties": {
+                "name": "\u00d6stra Grevie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0648326,
+                    61.3449526
+                ]
+            },
+            "properties": {
+                "name": "Alfta busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6491175,
+                    56.9750293
+                ]
+            },
+            "properties": {
+                "name": "Alstermo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8723271,
+                    56.6809309
+                ]
+            },
+            "properties": {
+                "name": "Folkparken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4387818,
+                    57.9753257
+                ]
+            },
+            "properties": {
+                "name": "Brobacka korsv\u00e4g"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2879658,
+                    56.9974308
+                ]
+            },
+            "properties": {
+                "name": "Lenhovda Terminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2982863,
+                    63.8189318
+                ]
+            },
+            "properties": {
+                "name": "Universitetssjukhuset"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5836978,
+                    59.8070604
+                ]
+            },
+            "properties": {
+                "name": "Sikfors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5302226,
+                    59.7046561
+                ]
+            },
+            "properties": {
+                "name": "Grythyttan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3076807,
+                    59.6236575
+                ]
+            },
+            "properties": {
+                "name": "Nykroppa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1863839,
+                    55.7067251
+                ]
+            },
+            "properties": {
+                "name": "Lund centralstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7799015,
+                    57.7095976
+                ]
+            },
+            "properties": {
+                "name": "Amhult Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6573178,
+                    58.0244174
+                ]
+            },
+            "properties": {
+                "name": "K\u00e5llek\u00e4rr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.792399,
+                    57.8440829
+                ]
+            },
+            "properties": {
+                "name": "K\u00e4rna Bussterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0591297,
+                    59.3316953
+                ]
+            },
+            "properties": {
+                "name": "Stockholm City"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0620848,
+                    59.31365
+                ]
+            },
+            "properties": {
+                "name": "Stockholms s\u00f6dra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7915307,
+                    57.7100774
+                ]
+            },
+            "properties": {
+                "name": "Sandareds Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7529682,
+                    63.07808
+                ]
+            },
+            "properties": {
+                "name": "Pr\u00e4stmon (Korsningen)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2829889,
+                    56.2069878
+                ]
+            },
+            "properties": {
+                "name": "Ronneby Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9722479,
+                    57.7102182
+                ]
+            },
+            "properties": {
+                "name": "Nils Ericson Terminalen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9874264,
+                    57.7577942
+                ]
+            },
+            "properties": {
+                "name": "K\u00f6rkarlens Gata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6942926,
+                    56.0436283
+                ]
+            },
+            "properties": {
+                "name": "Knutpunkten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.018488,
+                    57.6555897
+                ]
+            },
+            "properties": {
+                "name": "M\u00f6lndals station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3742406,
+                    62.2678427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9419463,
+                    57.7190218
+                ]
+            },
+            "properties": {
+                "name": "S\u00f6dra Torget"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2892466,
+                    58.2832212
+                ]
+            },
+            "properties": {
+                "name": "Drottningtorget"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6259464,
+                    58.4160361
+                ]
+            },
+            "properties": {
+                "name": "Link\u00f6pings centralstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1171351,
+                    57.6571013
+                ]
+            },
+            "properties": {
+                "name": "M\u00f6lnlycketerminalen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2177568,
+                    59.2588658
+                ]
+            },
+            "properties": {
+                "name": "Mariefred"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0231222,
+                    55.6057642
+                ]
+            },
+            "properties": {
+                "name": "V\u00e4rnhem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1053808,
+                    57.7384566
+                ]
+            },
+            "properties": {
+                "name": "Partille Centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0351753,
+                    57.7798374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1612268,
+                    65.5854316
+                ]
+            },
+            "properties": {
+                "name": "Lule\u00e5 Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9755551,
+                    57.7027231
+                ]
+            },
+            "properties": {
+                "name": "Heden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1321271,
+                    58.3222
+                ]
+            },
+            "properties": {
+                "name": "Mj\u00f6lby Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6052771,
+                    59.9249334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6465636,
+                    59.8582211
+                ]
+            },
+            "properties": {
+                "name": "Uppsala centralstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5297012,
+                    57.9271397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7004038,
+                    55.6308899
+                ]
+            },
+            "properties": {
+                "name": "Sj\u00f6bo busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8266262,
+                    55.4277039
+                ]
+            },
+            "properties": {
+                "name": "Ystads station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2812821,
+                    56.2831975
+                ]
+            },
+            "properties": {
+                "name": "\u00d6rkelljunga busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5937516,
+                    56.4579234
+                ]
+            },
+            "properties": {
+                "name": "Markaryds j\u00e4rnv\u00e4gsstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0969889,
+                    55.7278911
+                ]
+            },
+            "properties": {
+                "name": "Br\u00f6sarps bussterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1271891,
+                    58.7053277
+                ]
+            },
+            "properties": {
+                "name": "T\u00f6reboda resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1068491,
+                    55.9221402
+                ]
+            },
+            "properties": {
+                "name": "Sval\u00f6v Skolgatan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0859578,
+                    55.8711487
+                ]
+            },
+            "properties": {
+                "name": "Teckomatorps station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0006033,
+                    55.6085667
+                ]
+            },
+            "properties": {
+                "name": "Centralplan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2988753,
+                    58.2871859
+                ]
+            },
+            "properties": {
+                "name": "Trollh\u00e4ttan Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1629103,
+                    57.784279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9322438,
+                    57.7206619
+                ]
+            },
+            "properties": {
+                "name": "Bor\u00e5s C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6393024,
+                    63.1757975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.923218,
+                    58.3539654
+                ]
+            },
+            "properties": {
+                "name": "Uddevalla Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9305069,
+                    58.3499888
+                ]
+            },
+            "properties": {
+                "name": "Kampenhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1852352,
+                    58.5966108
+                ]
+            },
+            "properties": {
+                "name": "Resecentrum Norrk\u00f6ping"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3467969,
+                    55.7172657
+                ]
+            },
+            "properties": {
+                "name": "S\u00f6dra Sandby busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.707394,
+                    63.2874914
+                ]
+            },
+            "properties": {
+                "name": "Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8659534,
+                    56.6698996
+                ]
+            },
+            "properties": {
+                "name": "Halmstad Regionbussterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5416936,
+                    55.9367834
+                ]
+            },
+            "properties": {
+                "name": "H\u00f6\u00f6r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5341713,
+                    60.5822687
+                ]
+            },
+            "properties": {
+                "name": "Storviks station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0429465,
+                    59.3901793
+                ]
+            },
+            "properties": {
+                "name": "Danderyds sjukhus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1083256,
+                    61.7252778
+                ]
+            },
+            "properties": {
+                "name": "Hudiksvall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2167083,
+                    60.1296246
+                ]
+            },
+            "properties": {
+                "name": "Avesta Krylbo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1254999,
+                    58.13418
+                ]
+            },
+            "properties": {
+                "name": "Lilla Edet busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5061824,
+                    59.3694193
+                ]
+            },
+            "properties": {
+                "name": "Eskilstuna Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.553706,
+                    58.1760608
+                ]
+            },
+            "properties": {
+                "name": "Falk\u00f6ping resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6822418,
+                    58.1354908
+                ]
+            },
+            "properties": {
+                "name": "Rimforsa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1169779,
+                    57.9578964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.036302,
+                    57.185439
+                ]
+            },
+            "properties": {
+                "name": "V\u00e4rnamo Station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2936623,
+                    63.8175243
+                ]
+            },
+            "properties": {
+                "name": "Ume\u00e5 \u00d6stra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7520807,
+                    59.4777694
+                ]
+            },
+            "properties": {
+                "name": "Kungs\u00e4ngen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.108429,
+                    59.3164781
+                ]
+            },
+            "properties": {
+                "name": "Kristinehamn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4407068,
+                    59.2291687
+                ]
+            },
+            "properties": {
+                "name": "Degerfors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9758527,
+                    55.5627432
+                ]
+            },
+            "properties": {
+                "name": "Hyllie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1939269,
+                    55.7018444
+                ]
+            },
+            "properties": {
+                "name": "Botulfsplatsen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9753846,
+                    57.6640307
+                ]
+            },
+            "properties": {
+                "name": "Eksj\u00f6 j\u00e4rnv\u00e4gsstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9766752,
+                    57.6642578
+                ]
+            },
+            "properties": {
+                "name": "Eksj\u00f6 resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1958084,
+                    55.7006253
+                ]
+            },
+            "properties": {
+                "name": "Bankgatan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4362026,
+                    62.7671865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5130022,
+                    59.3267321
+                ]
+            },
+            "properties": {
+                "name": "Karlskoga Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2862988,
+                    60.5450534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1610507,
+                    58.4253409
+                ]
+            },
+            "properties": {
+                "name": "Tibro busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0641915,
+                    59.7217426
+                ]
+            },
+            "properties": {
+                "name": "Kapellsk\u00e4r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9908527,
+                    55.5479942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6515069,
+                    67.1335269
+                ]
+            },
+            "properties": {
+                "name": "Station G\u00e4llivare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6576672,
+                    67.1757935
+                ]
+            },
+            "properties": {
+                "name": "Malmberget busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6946405,
+                    57.6521946
+                ]
+            },
+            "properties": {
+                "name": "N\u00e4ssj\u00f6 resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5312294,
+                    59.5689808
+                ]
+            },
+            "properties": {
+                "name": "B\u00e5lsta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2756804,
+                    59.2898602
+                ]
+            },
+            "properties": {
+                "name": "Igelboda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6494376,
+                    59.8578406
+                ]
+            },
+            "properties": {
+                "name": "Uppsala \u00d6stra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0973301,
+                    55.6075718
+                ]
+            },
+            "properties": {
+                "name": "\u00d6resundsterminalen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0689796,
+                    55.6737648
+                ]
+            },
+            "properties": {
+                "name": "Lomma Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0310754,
+                    65.0543538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1697015,
+                    65.5888499
+                ]
+            },
+            "properties": {
+                "name": "Arvidsjaurs j\u00e4rnv\u00e4gsstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2188298,
+                    59.2589383
+                ]
+            },
+            "properties": {
+                "name": "Jvgstn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.918649,
+                    57.8627551
+                ]
+            },
+            "properties": {
+                "name": "Ytterby station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.512139,
+                    59.3664934
+                ]
+            },
+            "properties": {
+                "name": "Eskilstuna busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1675467,
+                    60.1440686
+                ]
+            },
+            "properties": {
+                "name": "Avesta busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0277626,
+                    57.165323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9282859,
+                    62.634905
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4rn\u00f6sand Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5557714,
+                    63.8494354
+                ]
+            },
+            "properties": {
+                "name": "Str\u00f6msunds busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4073068,
+                    64.2591071
+                ]
+            },
+            "properties": {
+                "name": "Dorotea busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4929867,
+                    59.3791527
+                ]
+            },
+            "properties": {
+                "name": "Karlstads busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0011092,
+                    55.5931719
+                ]
+            },
+            "properties": {
+                "name": "Station Triangeln"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8258254,
+                    55.8658061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8571405,
+                    55.8790215
+                ]
+            },
+            "properties": {
+                "name": "Landskrona station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3040337,
+                    55.8363537
+                ]
+            },
+            "properties": {
+                "name": "Esl\u00f6vs Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3048107,
+                    55.8378952
+                ]
+            },
+            "properties": {
+                "name": "Esl\u00f6vs stationshus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0825625,
+                    57.4258182
+                ]
+            },
+            "properties": {
+                "name": "Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1001603,
+                    63.3162344
+                ]
+            },
+            "properties": {
+                "name": "Storliens j\u00e4rnv\u00e4gsstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3772575,
+                    62.301197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5359978,
+                    56.6298115
+                ]
+            },
+            "properties": {
+                "name": "Emmaboda station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8101852,
+                    58.0314233
+                ]
+            },
+            "properties": {
+                "name": "V\u00e5rg\u00e5rda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8409444,
+                    59.3968137
+                ]
+            },
+            "properties": {
+                "name": "Arboga station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8356672,
+                    59.1996051
+                ]
+            },
+            "properties": {
+                "name": "Tumba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0967146,
+                    61.8270507
+                ]
+            },
+            "properties": {
+                "name": "Ljusdals Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8544075,
+                    56.2452335
+                ]
+            },
+            "properties": {
+                "name": "\u00c4ngelholm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1401155,
+                    59.1265289
+                ]
+            },
+            "properties": {
+                "name": "Kumla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0919925,
+                    58.392931
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00e4nninge station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9522318,
+                    58.260686
+                ]
+            },
+            "properties": {
+                "name": "Vara station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2062264,
+                    58.9964307
+                ]
+            },
+            "properties": {
+                "name": "Katrineholms Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2081766,
+                    58.9968554
+                ]
+            },
+            "properties": {
+                "name": "Katrineholm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6709962,
+                    55.855504
+                ]
+            },
+            "properties": {
+                "name": "H\u00f6rby busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5605638,
+                    61.009022
+                ]
+            },
+            "properties": {
+                "name": "Mora Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3187707,
+                    58.3778907
+                ]
+            },
+            "properties": {
+                "name": "V\u00e4nersborg Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0015432,
+                    58.7490911
+                ]
+            },
+            "properties": {
+                "name": "Nyk\u00f6pings bussterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0811427,
+                    57.4264612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2994991,
+                    58.2865621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3523974,
+                    62.0354514
+                ]
+            },
+            "properties": {
+                "name": "Sveg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6065587,
+                    59.9249609
+                ]
+            },
+            "properties": {
+                "name": "Sala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4748635,
+                    65.319942
+                ]
+            },
+            "properties": {
+                "name": "Pite\u00e5 Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.657033,
+                    66.3902368
+                ]
+            },
+            "properties": {
+                "name": "\u00d6vertorne\u00e5 busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6813642,
+                    58.234603
+                ]
+            },
+            "properties": {
+                "name": "Hen\u00e5ns bussterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1789577,
+                    65.5926579
+                ]
+            },
+            "properties": {
+                "name": "Arvidsjaur Busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8583427,
+                    57.6633362
+                ]
+            },
+            "properties": {
+                "name": "Vimmerby station"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2032232,
+                    64.9537011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2031413,
+                    64.9538936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3660622,
+                    67.2105708
+                ]
+            },
+            "properties": {
+                "name": "Pajala busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4990868,
+                    59.3780085
+                ]
+            },
+            "properties": {
+                "name": "Karlstad central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.279374,
+                    58.4942918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2240393,
+                    59.2773416
+                ]
+            },
+            "properties": {
+                "name": "S\u00f6dra Grev Rosengatan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7248447,
+                    59.1348349
+                ]
+            },
+            "properties": {
+                "name": "Malmk\u00f6ping busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8157299,
+                    59.9903363
+                ]
+            },
+            "properties": {
+                "name": "Fagersta Centralstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.5340276,
+                    58.118712
+                ]
+            },
+            "properties": {
+                "name": "Sollebrunns busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.763574,
+                    56.1578544
+                ]
+            },
+            "properties": {
+                "name": "H\u00e4ssleholm C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4743722,
+                    57.6980316
+                ]
+            },
+            "properties": {
+                "name": "Forserum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0881508,
+                    59.6444297
+                ]
+            },
+            "properties": {
+                "name": "Enk\u00f6ping"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3668855,
+                    59.7688818
+                ]
+            },
+            "properties": {
+                "name": "\u00c5motfors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9366747,
+                    56.8321513
+                ]
+            },
+            "properties": {
+                "name": "Ljungby Terminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2960393,
+                    57.6358744
+                ]
+            },
+            "properties": {
+                "name": "Visby busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3132774,
+                    59.0482236
+                ]
+            },
+            "properties": {
+                "name": "Gnesta bussterminal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0302943,
+                    59.2995073
+                ]
+            },
+            "properties": {
+                "name": "\u00c5rstaberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9718129,
+                    56.806511
+                ]
+            },
+            "properties": {
+                "name": "Oskarstr\u00f6m"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7914999,
+                    57.7100196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2386891,
+                    63.3151209
+                ]
+            },
+            "properties": {
+                "name": "Unders\u00e5ker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1013526,
+                    59.4275001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9684817,
+                    57.8716859
+                ]
+            },
+            "properties": {
+                "name": "Kung\u00e4lv Resecentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2981584,
+                    57.8368457
+                ]
+            },
+            "properties": {
+                "name": "Gr\u00e5bo busstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1509625,
+                    60.6758342
+                ]
+            },
+            "properties": {
+                "name": "Centralstation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.6574523,
+                    58.0245216
+                ]
+            },
+            "properties": {
+                "name": "K\u00e5llek\u00e4rr"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

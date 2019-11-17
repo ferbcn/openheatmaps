@@ -1,0 +1,190 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.6991241,
+                    52.3610817
+                ]
+            },
+            "properties": {
+                "name": "Clonmel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1367871,
+                    53.3915385
+                ]
+            },
+            "properties": {
+                "name": "Bayside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1005613,
+                    53.2044148
+                ]
+            },
+            "properties": {
+                "name": "Bray Daly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1489491,
+                    53.4026996
+                ]
+            },
+            "properties": {
+                "name": "Clongriffin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2272787,
+                    53.3629491
+                ]
+            },
+            "properties": {
+                "name": "Clontarf Road"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2393672,
+                    53.3509039
+                ]
+            },
+            "properties": {
+                "name": "Docklands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4647972,
+                    53.4172693
+                ]
+            },
+            "properties": {
+                "name": "Dunboyne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1924014,
+                    53.3783621
+                ]
+            },
+            "properties": {
+                "name": "Harmonstown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1761795,
+                    53.3815986
+                ]
+            },
+            "properties": {
+                "name": "Raheny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1614803,
+                    53.3872797
+                ]
+            },
+            "properties": {
+                "name": "Kilbarrack"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0743742,
+                    53.3891126
+                ]
+            },
+            "properties": {
+                "name": "Howth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1513171,
+                    53.4176576
+                ]
+            },
+            "properties": {
+                "name": "Portmarnock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4999434,
+                    53.2704234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2622228,
+                    53.3460602
+                ]
+            },
+            "properties": {
+                "name": "Irish Citylink"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

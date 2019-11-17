@@ -1,0 +1,63 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.964083,
+                    57.698407
+                ]
+            },
+            "properties": {
+                "name": "Chat Noir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.948463,
+                    57.699056
+                ]
+            },
+            "properties": {
+                "name": "Wandas swing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0629261,
+                    59.339579
+                ]
+            },
+            "properties": {
+                "name": "Club KINO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1928296,
+                    58.2208075
+                ]
+            },
+            "properties": {
+                "name": "McDragans"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,119 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.478735,
+                    41.3130672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5271793,
+                    42.0612244
+                ]
+            },
+            "properties": {
+                "name": "Stacioni i Trenit Shkod\u00ebr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5631532,
+                    40.8310552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6681566,
+                    41.0789149
+                ]
+            },
+            "properties": {
+                "name": "Rogozhin\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.423226,
+                    41.8668679
+                ]
+            },
+            "properties": {
+                "name": "Stacion VELIPOJE - KOSOVE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8002977,
+                    41.3349941
+                ]
+            },
+            "properties": {
+                "name": "Bus Station to North Albania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7077558,
+                    41.6772837
+                ]
+            },
+            "properties": {
+                "name": "Milot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.427269,
+                    41.6817566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6387146,
+                    41.7805829
+                ]
+            },
+            "properties": {
+                "name": "Lezh\u00eb"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

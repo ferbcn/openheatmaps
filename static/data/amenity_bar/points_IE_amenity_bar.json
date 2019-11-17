@@ -1,0 +1,5416 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2512678,
+                    53.3676758
+                ]
+            },
+            "properties": {
+                "name": "Bar@Tolka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.590202,
+                    53.3816191
+                ]
+            },
+            "properties": {
+                "name": "McMahons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6601552,
+                    53.6431758
+                ]
+            },
+            "properties": {
+                "name": "The Courtyard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6540265,
+                    53.6473746
+                ]
+            },
+            "properties": {
+                "name": "Pitstop Sports Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2238041,
+                    53.4453767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3921725,
+                    51.8128577
+                ]
+            },
+            "properties": {
+                "name": "The Gaelic Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3928669,
+                    51.811745
+                ]
+            },
+            "properties": {
+                "name": "The Corner House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0976615,
+                    52.0604365
+                ]
+            },
+            "properties": {
+                "name": "McAcculife's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4221002,
+                    52.206849
+                ]
+            },
+            "properties": {
+                "name": "The Arches"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3695936,
+                    53.7599778
+                ]
+            },
+            "properties": {
+                "name": "McEvillys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2530071,
+                    53.3727558
+                ]
+            },
+            "properties": {
+                "name": "Bar@Skylon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2467271,
+                    53.377485
+                ]
+            },
+            "properties": {
+                "name": "Bar@Regency"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2206564,
+                    53.2766653
+                ]
+            },
+            "properties": {
+                "name": "Crystal Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5218251,
+                    53.8003815
+                ]
+            },
+            "properties": {
+                "name": "The West"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3918799,
+                    51.8160749
+                ]
+            },
+            "properties": {
+                "name": "Collins Hotel Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7402838,
+                    54.946501
+                ]
+            },
+            "properties": {
+                "name": "Josie's Bar and Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1613376,
+                    53.4022449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5322465,
+                    53.6276899
+                ]
+            },
+            "properties": {
+                "name": "McGuire's Pub, Kentstown"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1491107,
+                    52.1610215
+                ]
+            },
+            "properties": {
+                "name": "The Shanty Bar & Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5877438,
+                    53.3801579
+                ]
+            },
+            "properties": {
+                "name": "Saint's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2865015,
+                    53.3420131
+                ]
+            },
+            "properties": {
+                "name": "The Source Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.286488,
+                    53.3419024
+                ]
+            },
+            "properties": {
+                "name": "Gravity Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4928224,
+                    53.3637073
+                ]
+            },
+            "properties": {
+                "name": "Zinc Venue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3888386,
+                    53.3893057
+                ]
+            },
+            "properties": {
+                "name": "Light"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2157497,
+                    52.2709774
+                ]
+            },
+            "properties": {
+                "name": "Doyle's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.0328297,
+                    53.6064557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4926458,
+                    53.363454
+                ]
+            },
+            "properties": {
+                "name": "Darkie Moores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2437451,
+                    53.3496228
+                ]
+            },
+            "properties": {
+                "name": "La Cuv\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2430718,
+                    53.3496181
+                ]
+            },
+            "properties": {
+                "name": "Lagoona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5152666,
+                    54.0876354
+                ]
+            },
+            "properties": {
+                "name": "Doddy's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2480239,
+                    53.3492828
+                ]
+            },
+            "properties": {
+                "name": "ely bar & brasserie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2647717,
+                    53.3331138
+                ]
+            },
+            "properties": {
+                "name": "C Central"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4743131,
+                    51.8996472
+                ]
+            },
+            "properties": {
+                "name": "Jump Juce Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2335402,
+                    55.2640424
+                ]
+            },
+            "properties": {
+                "name": "Club Soisialta(Social Club)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4247113,
+                    51.8788522
+                ]
+            },
+            "properties": {
+                "name": "Suttons Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.373212,
+                    51.4829508
+                ]
+            },
+            "properties": {
+                "name": "Jacob's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7804289,
+                    52.5620421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.313076,
+                    51.7439681
+                ]
+            },
+            "properties": {
+                "name": "The Harbour Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3663674,
+                    53.287319
+                ]
+            },
+            "properties": {
+                "name": "Level 4 Nightclub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4716481,
+                    54.2725555
+                ]
+            },
+            "properties": {
+                "name": "Lillies Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7974875,
+                    52.9551629
+                ]
+            },
+            "properties": {
+                "name": "Swallow Banks Bar and Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2623045,
+                    53.342172
+                ]
+            },
+            "properties": {
+                "name": "Pygmalion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2655536,
+                    53.3360962
+                ]
+            },
+            "properties": {
+                "name": "Jimmy Rabbitte's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.5818399,
+                    52.0471345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1573692,
+                    52.7986445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1239373,
+                    53.4353101
+                ]
+            },
+            "properties": {
+                "name": "Tamangoes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2304436,
+                    51.944805
+                ]
+            },
+            "properties": {
+                "name": "Sceilig Rock Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9793311,
+                    55.2040904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0406455,
+                    55.1890514
+                ]
+            },
+            "properties": {
+                "name": "Maguires"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5019309,
+                    53.4766781
+                ]
+            },
+            "properties": {
+                "name": "The Vortex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2435438,
+                    53.4014689
+                ]
+            },
+            "properties": {
+                "name": "Clonliffe Harriers Club Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1833318,
+                    53.1563931
+                ]
+            },
+            "properties": {
+                "name": "Pint o' Port"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1898801,
+                    53.1616855
+                ]
+            },
+            "properties": {
+                "name": "After Dark"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.554435,
+                    51.8544735
+                ]
+            },
+            "properties": {
+                "name": "O'S\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5259941,
+                    53.245129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3559706,
+                    53.7233164
+                ]
+            },
+            "properties": {
+                "name": "Windmill House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5319225,
+                    51.9335861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2653194,
+                    53.3412997
+                ]
+            },
+            "properties": {
+                "name": "The Capitol Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2655621,
+                    53.3403299
+                ]
+            },
+            "properties": {
+                "name": "Bow Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3898787,
+                    53.3955297
+                ]
+            },
+            "properties": {
+                "name": "Sanctuary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3923869,
+                    51.8139627
+                ]
+            },
+            "properties": {
+                "name": "Cogan's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.392683,
+                    51.8128766
+                ]
+            },
+            "properties": {
+                "name": "Rosie's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2388784,
+                    53.3433861
+                ]
+            },
+            "properties": {
+                "name": "Cafe Bar H"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5677684,
+                    53.1985955
+                ]
+            },
+            "properties": {
+                "name": "John Patricks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7382773,
+                    54.9487185
+                ]
+            },
+            "properties": {
+                "name": "Mc Ginley's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.738237,
+                    54.9478922
+                ]
+            },
+            "properties": {
+                "name": "The Cavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7382289,
+                    54.9488571
+                ]
+            },
+            "properties": {
+                "name": "Voodoo Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7382558,
+                    54.948777
+                ]
+            },
+            "properties": {
+                "name": "The Old Downtown Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2634682,
+                    53.3374044
+                ]
+            },
+            "properties": {
+                "name": "Magic Glasses"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2681589,
+                    53.3408345
+                ]
+            },
+            "properties": {
+                "name": "Sure Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2610205,
+                    53.3523303
+                ]
+            },
+            "properties": {
+                "name": "Murrays"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2588386,
+                    53.3465537
+                ]
+            },
+            "properties": {
+                "name": "Lafayette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2626471,
+                    53.3418781
+                ]
+            },
+            "properties": {
+                "name": "The South William"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4635046,
+                    52.2314268
+                ]
+            },
+            "properties": {
+                "name": "Martin's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3650119,
+                    53.2897005
+                ]
+            },
+            "properties": {
+                "name": "Metro Caf\u00e9 & Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9950065,
+                    53.675329
+                ]
+            },
+            "properties": {
+                "name": "Lifebelt Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0541073,
+                    53.2710082
+                ]
+            },
+            "properties": {
+                "name": "Martine's WIne Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0542845,
+                    53.2711276
+                ]
+            },
+            "properties": {
+                "name": "Spanish Arch bar and grill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.107808,
+                    53.6768407
+                ]
+            },
+            "properties": {
+                "name": "Ratigan's Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.261278,
+                    53.3395917
+                ]
+            },
+            "properties": {
+                "name": "Dandelion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5784867,
+                    53.9016339
+                ]
+            },
+            "properties": {
+                "name": "Durkin's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5823716,
+                    53.9031467
+                ]
+            },
+            "properties": {
+                "name": "Lir Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2178791,
+                    53.4626062
+                ]
+            },
+            "properties": {
+                "name": "Jade Wine Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0470813,
+                    53.2744865
+                ]
+            },
+            "properties": {
+                "name": "The Boss Doyles Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0515016,
+                    53.2719595
+                ]
+            },
+            "properties": {
+                "name": "De Burgos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.04643,
+                    53.2749122
+                ]
+            },
+            "properties": {
+                "name": "Elwoods Bar and Grill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0548321,
+                    53.2705499
+                ]
+            },
+            "properties": {
+                "name": "Jurys Inn Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0986415,
+                    53.2031386
+                ]
+            },
+            "properties": {
+                "name": "Campo De Fiori Wine Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4998022,
+                    53.106506
+                ]
+            },
+            "properties": {
+                "name": "Ballyknockan Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4990381,
+                    53.1060831
+                ]
+            },
+            "properties": {
+                "name": "Lakeside"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3570855,
+                    53.7169103
+                ]
+            },
+            "properties": {
+                "name": "Fusion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2285572,
+                    53.3487544
+                ]
+            },
+            "properties": {
+                "name": "Hemidemisemiquaver Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2621526,
+                    53.3480043
+                ]
+            },
+            "properties": {
+                "name": "Twisted Pepper"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9383159,
+                    53.4238403
+                ]
+            },
+            "properties": {
+                "name": "Karma Nightclub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4656539,
+                    52.7246075
+                ]
+            },
+            "properties": {
+                "name": "Delaney's Bar & Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9613416,
+                    54.2584031
+                ]
+            },
+            "properties": {
+                "name": "Mexx Nitelife"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4538184,
+                    51.6803014
+                ]
+            },
+            "properties": {
+                "name": "Carvery Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.021862,
+                    53.4877679
+                ]
+            },
+            "properties": {
+                "name": "Atlantic Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3928143,
+                    51.8121386
+                ]
+            },
+            "properties": {
+                "name": "The Stables"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0845859,
+                    53.2728588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.593226,
+                    51.8881713
+                ]
+            },
+            "properties": {
+                "name": "Treacy's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0590895,
+                    53.2701723
+                ]
+            },
+            "properties": {
+                "name": "Wildes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2935093,
+                    52.9412137
+                ]
+            },
+            "properties": {
+                "name": "M. Mc Mahon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2982474,
+                    51.7824493
+                ]
+            },
+            "properties": {
+                "name": "Pine Lodge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2937118,
+                    51.7807467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4527163,
+                    51.6799201
+                ]
+            },
+            "properties": {
+                "name": "James J. Crowley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1536822,
+                    53.4516473
+                ]
+            },
+            "properties": {
+                "name": "Gilbert & Wright"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4721714,
+                    54.2681244
+                ]
+            },
+            "properties": {
+                "name": "Currids (closed)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2624624,
+                    53.3479699
+                ]
+            },
+            "properties": {
+                "name": "Adelphi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.473291,
+                    54.27195
+                ]
+            },
+            "properties": {
+                "name": "The Snug"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1372801,
+                    54.1316902
+                ]
+            },
+            "properties": {
+                "name": "Crockets on the Quay"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2526088,
+                    53.3387556
+                ]
+            },
+            "properties": {
+                "name": "Cellar Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1116679,
+                    52.2580495
+                ]
+            },
+            "properties": {
+                "name": "Kazbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.526567,
+                    54.391697
+                ]
+            },
+            "properties": {
+                "name": "Moran's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1565073,
+                    54.1144374
+                ]
+            },
+            "properties": {
+                "name": "Bar Square"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6264724,
+                    52.6602692
+                ]
+            },
+            "properties": {
+                "name": "Costello's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.095427,
+                    53.94562
+                ]
+            },
+            "properties": {
+                "name": "Dunnes bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5966234,
+                    54.2655844
+                ]
+            },
+            "properties": {
+                "name": "The Dunes Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.6814969,
+                    53.289628
+                ]
+            },
+            "properties": {
+                "name": "The Oak Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8278748,
+                    52.95486
+                ]
+            },
+            "properties": {
+                "name": "Hasset's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3415278,
+                    53.5253319
+                ]
+            },
+            "properties": {
+                "name": "Bed Bar & Bistro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7526682,
+                    52.1766076
+                ]
+            },
+            "properties": {
+                "name": "Murphy's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9856831,
+                    52.8373225
+                ]
+            },
+            "properties": {
+                "name": "Gleeson's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2785235,
+                    53.348862
+                ]
+            },
+            "properties": {
+                "name": "Oscars Smithfield"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9690956,
+                    55.1832276
+                ]
+            },
+            "properties": {
+                "name": "Cafe Arnou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.095167,
+                    53.943976
+                ]
+            },
+            "properties": {
+                "name": "Anchorage bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8148538,
+                    52.6767927
+                ]
+            },
+            "properties": {
+                "name": "Larrys Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4902065,
+                    51.8493554
+                ]
+            },
+            "properties": {
+                "name": "Red bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5232735,
+                    51.7053609
+                ]
+            },
+            "properties": {
+                "name": "Oscar Madison's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8555907,
+                    53.8352656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3495776,
+                    53.7096977
+                ]
+            },
+            "properties": {
+                "name": "Pheasant Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2641644,
+                    53.3574023
+                ]
+            },
+            "properties": {
+                "name": "Eccles Townhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3351801,
+                    53.3410509
+                ]
+            },
+            "properties": {
+                "name": "Platform One"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3568639,
+                    53.3416494
+                ]
+            },
+            "properties": {
+                "name": "Tim Young's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7069106,
+                    52.2693155
+                ]
+            },
+            "properties": {
+                "name": "An Cearnog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4656907,
+                    51.8952384
+                ]
+            },
+            "properties": {
+                "name": "The Hub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.448266,
+                    55.0756286
+                ]
+            },
+            "properties": {
+                "name": "Cylist's Rest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4753971,
+                    54.271168
+                ]
+            },
+            "properties": {
+                "name": "Tricky's McGarrigles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1239311,
+                    51.9153566
+                ]
+            },
+            "properties": {
+                "name": "Two Mile Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1093346,
+                    53.007387
+                ]
+            },
+            "properties": {
+                "name": "The Woodpecker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4574445,
+                    55.127432
+                ]
+            },
+            "properties": {
+                "name": "Drift Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2346781,
+                    54.1813142
+                ]
+            },
+            "properties": {
+                "name": "The Canal Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2641396,
+                    53.3430838
+                ]
+            },
+            "properties": {
+                "name": "The Library Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2650316,
+                    53.3359048
+                ]
+            },
+            "properties": {
+                "name": "Kamden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6328018,
+                    52.6608223
+                ]
+            },
+            "properties": {
+                "name": "McGettigan's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2643631,
+                    53.3422564
+                ]
+            },
+            "properties": {
+                "name": "Chelsea Drugstore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2609008,
+                    53.3472913
+                ]
+            },
+            "properties": {
+                "name": "Arlington Bar & Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1048772,
+                    53.5848009
+                ]
+            },
+            "properties": {
+                "name": "Joe Mays"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2575719,
+                    53.334817
+                ]
+            },
+            "properties": {
+                "name": "Alfie Byrnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2589217,
+                    53.340163
+                ]
+            },
+            "properties": {
+                "name": "La Ruelle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.262992,
+                    53.3542938
+                ]
+            },
+            "properties": {
+                "name": "Cheers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2575823,
+                    53.3448626
+                ]
+            },
+            "properties": {
+                "name": "Senior Common Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7061925,
+                    52.3522097
+                ]
+            },
+            "properties": {
+                "name": "Gleeson's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0113156,
+                    52.8781688
+                ]
+            },
+            "properties": {
+                "name": "O'Kellys"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0200375,
+                    52.8926032
+                ]
+            },
+            "properties": {
+                "name": "The High Trees"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3222761,
+                    53.4280328
+                ]
+            },
+            "properties": {
+                "name": "The Anglers bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3339398,
+                    53.525964
+                ]
+            },
+            "properties": {
+                "name": "The Bridge House - Bar & Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2697764,
+                    53.3441347
+                ]
+            },
+            "properties": {
+                "name": "Oscars Christchurch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7379533,
+                    51.7443978
+                ]
+            },
+            "properties": {
+                "name": "The Old Market Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8690837,
+                    52.6349932
+                ]
+            },
+            "properties": {
+                "name": "Ryans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4705669,
+                    51.8981887
+                ]
+            },
+            "properties": {
+                "name": "The Long Valley Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4667289,
+                    51.897029
+                ]
+            },
+            "properties": {
+                "name": "Charlie's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.590748,
+                    52.6485209
+                ]
+            },
+            "properties": {
+                "name": "I-Kandi Venue Wine Bar & Night Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8677471,
+                    52.638804
+                ]
+            },
+            "properties": {
+                "name": "The Old Abbey Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8666139,
+                    52.6383336
+                ]
+            },
+            "properties": {
+                "name": "Skehan's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8129829,
+                    53.1569079
+                ]
+            },
+            "properties": {
+                "name": "Lumville House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2742687,
+                    52.1395037
+                ]
+            },
+            "properties": {
+                "name": "Paudie's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2667065,
+                    52.1412224
+                ]
+            },
+            "properties": {
+                "name": "An Chonair Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2661175,
+                    52.1413653
+                ]
+            },
+            "properties": {
+                "name": "Nellie Fred's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2667022,
+                    52.1411992
+                ]
+            },
+            "properties": {
+                "name": "An Chonair"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2686881,
+                    52.1419706
+                ]
+            },
+            "properties": {
+                "name": "Adam's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2661668,
+                    52.1404002
+                ]
+            },
+            "properties": {
+                "name": "Barrack Height"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2663331,
+                    52.1404957
+                ]
+            },
+            "properties": {
+                "name": "Muiris Dan's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9338269,
+                    52.2213782
+                ]
+            },
+            "properties": {
+                "name": "Roches Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9333501,
+                    52.2210765
+                ]
+            },
+            "properties": {
+                "name": "The Strand Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9196647,
+                    52.244964
+                ]
+            },
+            "properties": {
+                "name": "Slainte Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.789307,
+                    53.5575023
+                ]
+            },
+            "properties": {
+                "name": "Brogan's Guest House & Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2338652,
+                    53.4275084
+                ]
+            },
+            "properties": {
+                "name": "Vertigo Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2642961,
+                    53.3437169
+                ]
+            },
+            "properties": {
+                "name": "J.T. Pims"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.914629,
+                    53.860828
+                ]
+            },
+            "properties": {
+                "name": "The Copper Still Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6819973,
+                    52.3549024
+                ]
+            },
+            "properties": {
+                "name": "The Bush Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3002136,
+                    53.4142045
+                ]
+            },
+            "properties": {
+                "name": "Corrigan's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6486518,
+                    52.6214858
+                ]
+            },
+            "properties": {
+                "name": "Alfies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4607075,
+                    51.8979756
+                ]
+            },
+            "properties": {
+                "name": "Goldberg's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9989638,
+                    53.7197525
+                ]
+            },
+            "properties": {
+                "name": "PJ Byrne's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2640981,
+                    53.3440595
+                ]
+            },
+            "properties": {
+                "name": "Hely's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2494796,
+                    53.3513612
+                ]
+            },
+            "properties": {
+                "name": "The Vaults"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4778252,
+                    51.9034875
+                ]
+            },
+            "properties": {
+                "name": "The Old Reliable"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1180545,
+                    52.2636173
+                ]
+            },
+            "properties": {
+                "name": "Jack T's bar and function Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2709125,
+                    55.0275401
+                ]
+            },
+            "properties": {
+                "name": "Teat Tessie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2376973,
+                    53.3470317
+                ]
+            },
+            "properties": {
+                "name": "White Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1111759,
+                    54.654589
+                ]
+            },
+            "properties": {
+                "name": "The Scotsman's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.9187301,
+                    53.3957717
+                ]
+            },
+            "properties": {
+                "name": "The Shamrock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.9187285,
+                    53.3960536
+                ]
+            },
+            "properties": {
+                "name": "Ryan's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.211426,
+                    53.296478
+                ]
+            },
+            "properties": {
+                "name": "Kennedys Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.8550772,
+                    53.401917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8597926,
+                    55.0463167
+                ]
+            },
+            "properties": {
+                "name": "The Glenveagh Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1119212,
+                    52.2575222
+                ]
+            },
+            "properties": {
+                "name": "Revolution Gastro Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.1006577,
+                    53.2056361
+                ]
+            },
+            "properties": {
+                "name": "Hibernia Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0594918,
+                    52.236339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7334967,
+                    53.2273789
+                ]
+            },
+            "properties": {
+                "name": "Cawleys Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7339784,
+                    53.2295889
+                ]
+            },
+            "properties": {
+                "name": "Rafterys Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7345444,
+                    53.2302183
+                ]
+            },
+            "properties": {
+                "name": "Cheevers Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.122643,
+                    52.2614577
+                ]
+            },
+            "properties": {
+                "name": "Bolger's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2917626,
+                    53.3819717
+                ]
+            },
+            "properties": {
+                "name": "Premier Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7872056,
+                    51.9089222
+                ]
+            },
+            "properties": {
+                "name": "The Village Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.7885735,
+                    51.9093888
+                ]
+            },
+            "properties": {
+                "name": "O'Riordans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2270405,
+                    53.3081294
+                ]
+            },
+            "properties": {
+                "name": "UCD Clubhouse Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.1118665,
+                    52.2576316
+                ]
+            },
+            "properties": {
+                "name": "Mojo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3988849,
+                    51.9384939
+                ]
+            },
+            "properties": {
+                "name": "The Brook Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2671118,
+                    53.345308
+                ]
+            },
+            "properties": {
+                "name": "The Liquor Rooms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5316044,
+                    53.1717735
+                ]
+            },
+            "properties": {
+                "name": "Mick Reid's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4735085,
+                    54.2696046
+                ]
+            },
+            "properties": {
+                "name": "Harry's bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2594682,
+                    53.3418854
+                ]
+            },
+            "properties": {
+                "name": "Davy Byrne's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.471443,
+                    54.2701185
+                ]
+            },
+            "properties": {
+                "name": "5th on Teeling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0154936,
+                    53.6638774
+                ]
+            },
+            "properties": {
+                "name": "Issac's Well"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2231801,
+                    53.3399687
+                ]
+            },
+            "properties": {
+                "name": "The Irishtown House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2507725,
+                    53.3560423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.263144,
+                    53.356763
+                ]
+            },
+            "properties": {
+                "name": "Pat Hanway"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4637209,
+                    53.2667537
+                ]
+            },
+            "properties": {
+                "name": "local"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4466099,
+                    51.9169386
+                ]
+            },
+            "properties": {
+                "name": "Fox and Hounds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9717293,
+                    52.9413765
+                ]
+            },
+            "properties": {
+                "name": "silken thomas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2551574,
+                    53.3340014
+                ]
+            },
+            "properties": {
+                "name": "House Dublin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.052839,
+                    53.2727876
+                ]
+            },
+            "properties": {
+                "name": "Coyotes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4660339,
+                    51.9014301
+                ]
+            },
+            "properties": {
+                "name": "Br\u00fa Bar & Hostel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5455877,
+                    53.7089328
+                ]
+            },
+            "properties": {
+                "name": "Lynch's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5078754,
+                    52.0582132
+                ]
+            },
+            "properties": {
+                "name": "The Lane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5732435,
+                    52.0705367
+                ]
+            },
+            "properties": {
+                "name": "The Valley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5096672,
+                    52.0602213
+                ]
+            },
+            "properties": {
+                "name": "The Speakeasy Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2412802,
+                    53.3322511
+                ]
+            },
+            "properties": {
+                "name": "Den Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2734068,
+                    53.3433255
+                ]
+            },
+            "properties": {
+                "name": "The Beer Market"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5834257,
+                    51.8787066
+                ]
+            },
+            "properties": {
+                "name": "F.B.O'Sullivan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7080206,
+                    52.2691734
+                ]
+            },
+            "properties": {
+                "name": "Og's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1082146,
+                    54.6536743
+                ]
+            },
+            "properties": {
+                "name": "toni's bistro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259287,
+                    53.3309476
+                ]
+            },
+            "properties": {
+                "name": "Charlemont Bar & Bistro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2218221,
+                    51.9477697
+                ]
+            },
+            "properties": {
+                "name": "Bowler's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.22671,
+                    51.9459548
+                ]
+            },
+            "properties": {
+                "name": "Cha Healy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2268663,
+                    51.9460966
+                ]
+            },
+            "properties": {
+                "name": "Cr\u00e0ineen's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2205239,
+                    51.947883
+                ]
+            },
+            "properties": {
+                "name": "East End"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2235233,
+                    51.9471168
+                ]
+            },
+            "properties": {
+                "name": "Frank's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.224522,
+                    51.9468068
+                ]
+            },
+            "properties": {
+                "name": "Kelly's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2222633,
+                    51.9473974
+                ]
+            },
+            "properties": {
+                "name": "Mike Murts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2269917,
+                    51.9460346
+                ]
+            },
+            "properties": {
+                "name": "The Anchor Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2258222,
+                    51.9463293
+                ]
+            },
+            "properties": {
+                "name": "The Fertha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2629605,
+                    53.3450767
+                ]
+            },
+            "properties": {
+                "name": "Vintage Cocktail Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3539786,
+                    53.7152004
+                ]
+            },
+            "properties": {
+                "name": "The Gray Goose"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3565907,
+                    53.7159771
+                ]
+            },
+            "properties": {
+                "name": "Gleesons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2768406,
+                    52.1394016
+                ]
+            },
+            "properties": {
+                "name": "marina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2527928,
+                    53.337863
+                ]
+            },
+            "properties": {
+                "name": "Xico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5103585,
+                    52.0606808
+                ]
+            },
+            "properties": {
+                "name": "Jack C's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3022744,
+                    54.22982
+                ]
+            },
+            "properties": {
+                "name": "Stanfords Village Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2308186,
+                    52.9325389
+                ]
+            },
+            "properties": {
+                "name": "Jacobs Well"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7384503,
+                    53.4671477
+                ]
+            },
+            "properties": {
+                "name": "Joyces Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4630836,
+                    51.8904863
+                ]
+            },
+            "properties": {
+                "name": "The Southern Star"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2860059,
+                    53.8566208
+                ]
+            },
+            "properties": {
+                "name": "Hog's Heaven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4766077,
+                    51.9001797
+                ]
+            },
+            "properties": {
+                "name": "Dennehy's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4405809,
+                    54.9835169
+                ]
+            },
+            "properties": {
+                "name": "The Port"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2978204,
+                    53.8580241
+                ]
+            },
+            "properties": {
+                "name": "Sam Adams"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2391226,
+                    53.8436456
+                ]
+            },
+            "properties": {
+                "name": "Healy Mac's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2366936,
+                    53.3362221
+                ]
+            },
+            "properties": {
+                "name": "caf\u00e9 Ballsbridge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3726435,
+                    51.4834384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.3726158,
+                    51.4834247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.1134291,
+                    51.7208954
+                ]
+            },
+            "properties": {
+                "name": "O\"murchus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.728826,
+                    53.2382311
+                ]
+            },
+            "properties": {
+                "name": "Cookes Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2448627,
+                    53.6377583
+                ]
+            },
+            "properties": {
+                "name": "Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5220566,
+                    53.799556
+                ]
+            },
+            "properties": {
+                "name": "Cosy Joe's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4702205,
+                    51.8971593
+                ]
+            },
+            "properties": {
+                "name": "Seventy Six on the Green"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4773686,
+                    51.8986898
+                ]
+            },
+            "properties": {
+                "name": "Vicarstown Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6389004,
+                    53.2747834
+                ]
+            },
+            "properties": {
+                "name": "Mary Ward's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5304777,
+                    54.2351713
+                ]
+            },
+            "properties": {
+                "name": "Coolera House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4703604,
+                    53.2811356
+                ]
+            },
+            "properties": {
+                "name": "Rathcoole Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4183787,
+                    52.702441
+                ]
+            },
+            "properties": {
+                "name": "O'Keeffes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4183301,
+                    52.7026185
+                ]
+            },
+            "properties": {
+                "name": "O'Dorthey's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4299405,
+                    52.7462193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4306558,
+                    52.7456951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2485692,
+                    53.3362743
+                ]
+            },
+            "properties": {
+                "name": "Olive Green"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2596097,
+                    53.3411842
+                ]
+            },
+            "properties": {
+                "name": "The Gotham Cafe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.367133,
+                    54.8288791
+                ]
+            },
+            "properties": {
+                "name": "Eileens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4446605,
+                    54.8372571
+                ]
+            },
+            "properties": {
+                "name": "Annora's Bar and Caf\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2825399,
+                    54.796719
+                ]
+            },
+            "properties": {
+                "name": "Keeny's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0394242,
+                    55.1892944
+                ]
+            },
+            "properties": {
+                "name": "Susie's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0414749,
+                    55.1893555
+                ]
+            },
+            "properties": {
+                "name": "McGettigan's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0407971,
+                    55.188609
+                ]
+            },
+            "properties": {
+                "name": "Annie's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0401531,
+                    55.1883091
+                ]
+            },
+            "properties": {
+                "name": "Trawlerman Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2553324,
+                    53.3459878
+                ]
+            },
+            "properties": {
+                "name": "Ruin Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2084685,
+                    53.0966608
+                ]
+            },
+            "properties": {
+                "name": "The Gate House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2042042,
+                    51.8687194
+                ]
+            },
+            "properties": {
+                "name": "Murphs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3893625,
+                    53.8973322
+                ]
+            },
+            "properties": {
+                "name": "McBride resturant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3893626,
+                    53.8972466
+                ]
+            },
+            "properties": {
+                "name": "P.J Byrnes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3891655,
+                    53.8968296
+                ]
+            },
+            "properties": {
+                "name": "Brewery Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3271237,
+                    53.1175718
+                ]
+            },
+            "properties": {
+                "name": "Horans Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0475763,
+                    53.2742347
+                ]
+            },
+            "properties": {
+                "name": "Darcy's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3436856,
+                    53.5248357
+                ]
+            },
+            "properties": {
+                "name": "The Fence"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.378477,
+                    53.1668511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6293975,
+                    52.6614759
+                ]
+            },
+            "properties": {
+                "name": "The Copper Rooms"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9517412,
+                    52.2420821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4245406,
+                    52.2092295
+                ]
+            },
+            "properties": {
+                "name": "Meyler's Bar & Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5870026,
+                    52.1749665
+                ]
+            },
+            "properties": {
+                "name": "James Kehoe Bar & Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2621526,
+                    53.3480043
+                ]
+            },
+            "properties": {
+                "name": "Wigwam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0756458,
+                    53.1558702
+                ]
+            },
+            "properties": {
+                "name": "Linnane's Seafood Bar & Restaurant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.936239,
+                    52.7033204
+                ]
+            },
+            "properties": {
+                "name": "The Honk Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.1972103,
+                    53.3214531
+                ]
+            },
+            "properties": {
+                "name": "Whitethorn Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2869606,
+                    53.3432314
+                ]
+            },
+            "properties": {
+                "name": "Open Gate Brewery"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.8456003,
+                    53.282914
+                ]
+            },
+            "properties": {
+                "name": "Athenry Golf Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2480644,
+                    53.3491172
+                ]
+            },
+            "properties": {
+                "name": "Urban Brewing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6427543,
+                    54.6368221
+                ]
+            },
+            "properties": {
+                "name": "the rusty mackerel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8007624,
+                    54.052826
+                ]
+            },
+            "properties": {
+                "name": "Shorts Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0789839,
+                    53.091916
+                ]
+            },
+            "properties": {
+                "name": "The Thirteenth"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4736799,
+                    51.8995433
+                ]
+            },
+            "properties": {
+                "name": "Jim Cashman's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2640363,
+                    53.3420522
+                ]
+            },
+            "properties": {
+                "name": "Market Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.1396667,
+                    51.7609286
+                ]
+            },
+            "properties": {
+                "name": "Keatings Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2561461,
+                    53.3392353
+                ]
+            },
+            "properties": {
+                "name": "The Saddle Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9992469,
+                    53.7192576
+                ]
+            },
+            "properties": {
+                "name": "O'Briens Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2029446,
+                    53.2952467
+                ]
+            },
+            "properties": {
+                "name": "Brass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4686518,
+                    51.8984229
+                ]
+            },
+            "properties": {
+                "name": "Meade\u2019s Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.275278,
+                    52.466944
+                ]
+            },
+            "properties": {
+                "name": "The Top House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2603156,
+                    53.3428419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4728169,
+                    51.8987279
+                ]
+            },
+            "properties": {
+                "name": "Le Chateau Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4698554,
+                    51.897671
+                ]
+            },
+            "properties": {
+                "name": "Canty's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2603868,
+                    53.3523379
+                ]
+            },
+            "properties": {
+                "name": "The Living Room"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5778962,
+                    53.9014993
+                ]
+            },
+            "properties": {
+                "name": "Molly's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2658072,
+                    53.3223753
+                ]
+            },
+            "properties": {
+                "name": "Stella Cocktail Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.5689428,
+                    51.7763157
+                ]
+            },
+            "properties": {
+                "name": "The Rising Sun Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2661411,
+                    53.3414251
+                ]
+            },
+            "properties": {
+                "name": "The Snug Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2615136,
+                    53.3462652
+                ]
+            },
+            "properties": {
+                "name": "r.i.o.t."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.7362951,
+                    54.1201506
+                ]
+            },
+            "properties": {
+                "name": "Comet Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.415657,
+                    51.8970501
+                ]
+            },
+            "properties": {
+                "name": "The Leaping Salmom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.7013004,
+                    52.1687375
+                ]
+            },
+            "properties": {
+                "name": "Castle Inn Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.3269957,
+                    52.7688299
+                ]
+            },
+            "properties": {
+                "name": "Ryan's Thatched Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4747632,
+                    53.0011972
+                ]
+            },
+            "properties": {
+                "name": "Purcell"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4747395,
+                    53.0017551
+                ]
+            },
+            "properties": {
+                "name": "Tom Delaney & Sons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2694325,
+                    52.1423445
+                ]
+            },
+            "properties": {
+                "name": "Foxy Johns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -10.2698682,
+                    52.1423539
+                ]
+            },
+            "properties": {
+                "name": "Mcarthy's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4233057,
+                    52.4801315
+                ]
+            },
+            "properties": {
+                "name": "Bob's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0822667,
+                    52.2462748
+                ]
+            },
+            "properties": {
+                "name": "Juice Master"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4630946,
+                    52.3408937
+                ]
+            },
+            "properties": {
+                "name": "BOA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3758108,
+                    53.2840702
+                ]
+            },
+            "properties": {
+                "name": "Grain & Grill Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.618742,
+                    52.6473284
+                ]
+            },
+            "properties": {
+                "name": "Grill & Grain Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4747422,
+                    51.9027515
+                ]
+            },
+            "properties": {
+                "name": "Bells Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5143537,
+                    52.3373397
+                ]
+            },
+            "properties": {
+                "name": "Grain & Grill Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9274805,
+                    53.2779094
+                ]
+            },
+            "properties": {
+                "name": "Q Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2995236,
+                    53.0139881
+                ]
+            },
+            "properties": {
+                "name": "Grill & Grain Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0450057,
+                    53.2860321
+                ]
+            },
+            "properties": {
+                "name": "Point Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2786626,
+                    53.3496315
+                ]
+            },
+            "properties": {
+                "name": "Grain & Grill Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3927858,
+                    53.3137459
+                ]
+            },
+            "properties": {
+                "name": "Grain & Grill Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2436233,
+                    53.3435319
+                ]
+            },
+            "properties": {
+                "name": "Grain & Grill Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.262401,
+                    53.3550126
+                ]
+            },
+            "properties": {
+                "name": "Belvedere Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.2190127,
+                    53.3260674
+                ]
+            },
+            "properties": {
+                "name": "Canal Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7975283,
+                    52.9575615
+                ]
+            },
+            "properties": {
+                "name": "Railway Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7966866,
+                    52.955076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2639089,
+                    53.3431342
+                ]
+            },
+            "properties": {
+                "name": "The Library Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5676061,
+                    53.3900282
+                ]
+            },
+            "properties": {
+                "name": "Carton House Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5913503,
+                    53.3810327
+                ]
+            },
+            "properties": {
+                "name": "The Duke and Coachman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.590227,
+                    53.3814177
+                ]
+            },
+            "properties": {
+                "name": "The Clock House"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.0037473,
+                    52.1649172
+                ]
+            },
+            "properties": {
+                "name": "Aggie's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9952575,
+                    52.155911
+                ]
+            },
+            "properties": {
+                "name": "The Spinnaker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3017798,
+                    53.0340716
+                ]
+            },
+            "properties": {
+                "name": "Coppers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3017186,
+                    53.0338627
+                ]
+            },
+            "properties": {
+                "name": "Manhattan Mixer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3031669,
+                    53.0333808
+                ]
+            },
+            "properties": {
+                "name": "Donoghue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3032461,
+                    53.0336295
+                ]
+            },
+            "properties": {
+                "name": "Liam Casey & Son"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3000643,
+                    53.033924
+                ]
+            },
+            "properties": {
+                "name": "Lethian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.302005,
+                    53.0334503
+                ]
+            },
+            "properties": {
+                "name": "The Welcome Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2999349,
+                    53.0339778
+                ]
+            },
+            "properties": {
+                "name": "Sally Garden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3022801,
+                    53.0334886
+                ]
+            },
+            "properties": {
+                "name": "The Square Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2976054,
+                    53.0343719
+                ]
+            },
+            "properties": {
+                "name": "Kavanaghs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4810515,
+                    54.0284455
+                ]
+            },
+            "properties": {
+                "name": "Higgins Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.278946,
+                    53.6985762
+                ]
+            },
+            "properties": {
+                "name": "The Village Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2710225,
+                    53.6785913
+                ]
+            },
+            "properties": {
+                "name": "The Lough Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.9818589,
+                    52.8479017
+                ]
+            },
+            "properties": {
+                "name": "O'Keefe's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2228079,
+                    53.4567294
+                ]
+            },
+            "properties": {
+                "name": "The Old Schoolhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2585489,
+                    52.6538908
+                ]
+            },
+            "properties": {
+                "name": "David Campion's Lounge Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.4937776,
+                    53.2366356
+                ]
+            },
+            "properties": {
+                "name": "Tight Johnny She\u00e1in"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.4493541,
+                    53.2141021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0949446,
+                    53.9437324
+                ]
+            },
+            "properties": {
+                "name": "Cryan\u2019s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0950169,
+                    53.944815
+                ]
+            },
+            "properties": {
+                "name": "The Barrelstore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0953941,
+                    53.9454492
+                ]
+            },
+            "properties": {
+                "name": "Flynn's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0938596,
+                    53.9464422
+                ]
+            },
+            "properties": {
+                "name": "Paddy's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2615257,
+                    53.3419932
+                ]
+            },
+            "properties": {
+                "name": "Berlin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0584102,
+                    53.277926
+                ]
+            },
+            "properties": {
+                "name": "Be\u00e1r an Chol\u00e1iste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2604412,
+                    53.3532236
+                ]
+            },
+            "properties": {
+                "name": "The Metro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.8673105,
+                    53.9211731
+                ]
+            },
+            "properties": {
+                "name": "Spirit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3356959,
+                    53.342616
+                ]
+            },
+            "properties": {
+                "name": "Sarsfield Racing Pigeon Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3575331,
+                    53.3418271
+                ]
+            },
+            "properties": {
+                "name": "Ballyfermot Sports and Social Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.855968,
+                    53.9523659
+                ]
+            },
+            "properties": {
+                "name": "The Way Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2529245,
+                    53.3426963
+                ]
+            },
+            "properties": {
+                "name": "The Pavilion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.259066,
+                    53.3407501
+                ]
+            },
+            "properties": {
+                "name": "Caf\u00e9 en Seine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2587071,
+                    53.3406624
+                ]
+            },
+            "properties": {
+                "name": "Caf\u00e9 en Seine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2587918,
+                    53.3404641
+                ]
+            },
+            "properties": {
+                "name": "Sams Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2588713,
+                    53.3397572
+                ]
+            },
+            "properties": {
+                "name": "Dawson Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2540837,
+                    53.3379225
+                ]
+            },
+            "properties": {
+                "name": "Ely Wine Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.5896014,
+                    53.3817664
+                ]
+            },
+            "properties": {
+                "name": "Oak Alley"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2990269,
+                    53.6794546
+                ]
+            },
+            "properties": {
+                "name": "Comiskey's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2994618,
+                    53.6798022
+                ]
+            },
+            "properties": {
+                "name": "Farrelly's"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2165054,
+                    53.2763595
+                ]
+            },
+            "properties": {
+                "name": "The Copper Bar / Holy Cow Steakhouse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2607621,
+                    53.3518722
+                ]
+            },
+            "properties": {
+                "name": "Toddy's Bar & Brasserie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2634637,
+                    53.6280889
+                ]
+            },
+            "properties": {
+                "name": "Whytes bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2360314,
+                    53.6412507
+                ]
+            },
+            "properties": {
+                "name": "The Cock Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2350577,
+                    53.6403913
+                ]
+            },
+            "properties": {
+                "name": "The Huntsman Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.3378473,
+                    53.2663397
+                ]
+            },
+            "properties": {
+                "name": "Ned's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.9902689,
+                    53.9752767
+                ]
+            },
+            "properties": {
+                "name": "The Swan Lake Inn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0096842,
+                    53.9255066
+                ]
+            },
+            "properties": {
+                "name": "Duignan's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0100764,
+                    53.9252156
+                ]
+            },
+            "properties": {
+                "name": "Taylors Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.0098826,
+                    53.9258021
+                ]
+            },
+            "properties": {
+                "name": "McLoughlin's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.110763,
+                    54.654218
+                ]
+            },
+            "properties": {
+                "name": "The Reveller Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2802749,
+                    53.3475982
+                ]
+            },
+            "properties": {
+                "name": "Token"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.280286,
+                    53.3232488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6331111,
+                    52.0697875
+                ]
+            },
+            "properties": {
+                "name": "The Beaufort Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.6371311,
+                    52.0690125
+                ]
+            },
+            "properties": {
+                "name": "The Inn Between Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.3876697,
+                    53.9656627
+                ]
+            },
+            "properties": {
+                "name": "Jackie's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2981773,
+                    53.8584817
+                ]
+            },
+            "properties": {
+                "name": "Bosh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2967825,
+                    53.8580315
+                ]
+            },
+            "properties": {
+                "name": "bar one"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.0703372,
+                    53.3975109
+                ]
+            },
+            "properties": {
+                "name": "playboy speedboat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.2447413,
+                    53.6384172
+                ]
+            },
+            "properties": {
+                "name": "Carra Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.4185605,
+                    53.7369461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2227097,
+                    53.4564789
+                ]
+            },
+            "properties": {
+                "name": "Chalk Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5231588,
+                    53.797849
+                ]
+            },
+            "properties": {
+                "name": "McGings"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5235693,
+                    53.7981792
+                ]
+            },
+            "properties": {
+                "name": "Clock Tarvern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5246623,
+                    53.7988874
+                ]
+            },
+            "properties": {
+                "name": "M J Hoban"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5252168,
+                    53.798671
+                ]
+            },
+            "properties": {
+                "name": "Big Tree"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.5219156,
+                    53.7995499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0708849,
+                    53.1204159
+                ]
+            },
+            "properties": {
+                "name": "Daly's Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2615597,
+                    53.3440675
+                ]
+            },
+            "properties": {
+                "name": "The Bank on College Green"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

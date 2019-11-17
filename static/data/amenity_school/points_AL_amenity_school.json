@@ -1,0 +1,5602 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8580564,
+                    41.2892468
+                ]
+            },
+            "properties": {
+                "name": "Arsakeio e Tiranes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6987324,
+                    41.3841781
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 Vje\u00e7are - B\u00ebrxull\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4483032,
+                    42.0530837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6880001,
+                    41.3823591
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e ciklit t\u00eb ul\u00ebt (Kod\u00ebr-B\u00ebrxull\u00eb)."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7823823,
+                    41.3713831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4763595,
+                    40.9765059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4314835,
+                    40.9336835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.44659,
+                    40.9601618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.462744,
+                    40.9497811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2908899,
+                    40.9354239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4523768,
+                    41.326952
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Sportive Kombetare \"Bernardina Qerraxhia\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.010372,
+                    41.6075795
+                ]
+            },
+            "properties": {
+                "name": "Qendra Komunitare Burrel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0110954,
+                    41.6084275
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"31 Korriku\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.555276,
+                    40.725768
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi Janaq Kilica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4252881,
+                    41.6788195
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi \"Said Najdeni\"-\"Said Najdeni\" High School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4303214,
+                    41.6837672
+                ]
+            },
+            "properties": {
+                "name": "\"Selim Alliu\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4299294,
+                    41.6835995
+                ]
+            },
+            "properties": {
+                "name": "\"Demir Gashi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4271599,
+                    41.6811572
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme \"Nazmi Rrushiti\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7832227,
+                    40.6160028
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 7 N\u00ebntori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7835723,
+                    40.6231945
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Fillore \"Stavri Themeli\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.780402,
+                    40.6252913
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme \"Raqi Qirnxhi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7812807,
+                    40.6194048
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"M\u00ebsonj\u00ebtore\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5562408,
+                    40.7204525
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 Vje\u00e7are Liri Gero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7873265,
+                    41.3370542
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 vjecare \"Dhora Leka\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.135368,
+                    40.0767581
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Urani Rumbo\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6852671,
+                    41.4924582
+                ]
+            },
+            "properties": {
+                "name": "Primary school in Bilaj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5647018,
+                    40.7317234
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Jakov Xoxa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6490092,
+                    41.7777106
+                ]
+            },
+            "properties": {
+                "name": "Shkola 9-Vje\u00e7are \"Gjergj Fishta\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6448542,
+                    41.778352
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Gjergj Kastrioti\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6447386,
+                    41.7779755
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Beselidhja\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6464977,
+                    41.7761192
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Jo Publike \"Ragacionistet\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8264133,
+                    41.3388706
+                ]
+            },
+            "properties": {
+                "name": "H. Mahmud Dashi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5597948,
+                    41.428504
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme e Bashkuar Kull\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4488477,
+                    41.3207214
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Kushtrimi i Lirise\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4320863,
+                    41.2638281
+                ]
+            },
+            "properties": {
+                "name": "Schule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.604172,
+                    41.982851
+                ]
+            },
+            "properties": {
+                "name": "Schule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4883798,
+                    40.4593517
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Industriale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4900882,
+                    40.4677678
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Ali Demi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4874405,
+                    40.457512
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Elite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4876702,
+                    40.469671
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Muzikes Naim Frasheri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4875823,
+                    40.4762756
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Perla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4846516,
+                    40.4774856
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Aviacionit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4892337,
+                    40.4634474
+                ]
+            },
+            "properties": {
+                "name": "Universiteti Pavaresia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4916044,
+                    40.4631916
+                ]
+            },
+            "properties": {
+                "name": "Universiteti Ismail Qemali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4898251,
+                    40.4614964
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Ismail Qemali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.487224,
+                    40.4567627
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Aulona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4674541,
+                    40.4837011
+                ]
+            },
+            "properties": {
+                "name": "Schule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4132778,
+                    40.4890779
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 vjecare Backe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4059028,
+                    40.5001057
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Raman Xhemali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1438637,
+                    42.416668
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Xheladin Gosturani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1226609,
+                    42.4114827
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Hysni Zajmi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1977245,
+                    42.435428
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 vjecare Gegaj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5976748,
+                    42.0637241
+                ]
+            },
+            "properties": {
+                "name": "Ton\u00e7 Gjon Toma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1230366,
+                    42.3910576
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 Vjecare Babine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9568817,
+                    40.7035504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.96011,
+                    40.6996735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1357044,
+                    40.0745579
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi Asim Zeneli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4898052,
+                    40.4694316
+                ]
+            },
+            "properties": {
+                "name": "Shkola Nr. 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.226091,
+                    42.003172
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 Vjecare Thirre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.5448592,
+                    41.0686014
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme \"Halit Berzeshta\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7768771,
+                    40.7970119
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Vje\u00e7are \"Myfit Mero\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8375782,
+                    40.726965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5538245,
+                    40.7244973
+                ]
+            },
+            "properties": {
+                "name": "English Corner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6823013,
+                    40.341335
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi \"Petro Nini Luarasi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6764673,
+                    40.427082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6720984,
+                    40.3217854
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Vje\u00e7are"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6000216,
+                    40.1533886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6398913,
+                    40.1539986
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Gjik Buxhili\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4689735,
+                    40.6215881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5470701,
+                    40.7182768
+                ]
+            },
+            "properties": {
+                "name": "Shkola jopublike \"Arberia\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.557164,
+                    40.7312682
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Mark Dashi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5647664,
+                    40.8052807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5336596,
+                    40.9970593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5613042,
+                    41.0777798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5413657,
+                    41.1837394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5647245,
+                    41.4613888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6889189,
+                    41.7062331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5514002,
+                    41.9279424
+                ]
+            },
+            "properties": {
+                "name": "Shkola 9-Vje\u00e7are \"Lush Kola\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5171611,
+                    41.9803059
+                ]
+            },
+            "properties": {
+                "name": "Shkola 9-Vje\u00e7are \"Shaban Banushi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6541315,
+                    41.8104516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5906587,
+                    41.879711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8027886,
+                    41.3339194
+                ]
+            },
+            "properties": {
+                "name": "Universiteti Logos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5382397,
+                    40.7052407
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Zhupanit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8354608,
+                    41.5488075
+                ]
+            },
+            "properties": {
+                "name": "9 Vjecare Shkrete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8187319,
+                    41.5248901
+                ]
+            },
+            "properties": {
+                "name": "9 Vjecare Noje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8019348,
+                    41.309912
+                ]
+            },
+            "properties": {
+                "name": "University of New York Tirana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.705618,
+                    40.7374577
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare \"Alush Grepcka\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7020198,
+                    40.7365127
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e mesme \"Adem Vrapi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8343467,
+                    41.3062227
+                ]
+            },
+            "properties": {
+                "name": "Shkolla teknologjike Herman Gmeiner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5609081,
+                    40.7248882
+                ]
+            },
+            "properties": {
+                "name": "Autoshkolla Shpata F & D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0975269,
+                    40.4581654
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare Bubes 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8056728,
+                    41.3149256
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are Jopublike \"Kristaq Rama\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8314932,
+                    41.3351622
+                ]
+            },
+            "properties": {
+                "name": "Asambli k\u00ebrcimit p\u00ebr f\u00ebmij\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7629958,
+                    41.3574399
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Kol\u00eb Jakova\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8272196,
+                    41.3232848
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi \"Newton\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.827675,
+                    41.3224437
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Performance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8249163,
+                    41.3280646
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Teknike Ekonomike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8046642,
+                    41.3048026
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Selit\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.704347,
+                    40.9405322
+                ]
+            },
+            "properties": {
+                "name": "shkolla fillore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7047815,
+                    40.9411765
+                ]
+            },
+            "properties": {
+                "name": "shkolla 8 nentori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8262662,
+                    41.3526712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8265773,
+                    41.3533316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7664386,
+                    41.3458647
+                ]
+            },
+            "properties": {
+                "name": "Kolegji Turgut Ozal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7060122,
+                    41.4048395
+                ]
+            },
+            "properties": {
+                "name": "Universiteti Epoka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8865167,
+                    42.2144593
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 Vje\u00e7are Toplan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7185961,
+                    42.5313848
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 Vjecare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8744499,
+                    40.7728937
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e mesme \"Muhamer Janina\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8762161,
+                    40.7735266
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare \"Sali Gjuka\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4389337,
+                    41.0834215
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Qukes 3"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4450675,
+                    41.3107071
+                ]
+            },
+            "properties": {
+                "name": "Albanian College Durres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7357637,
+                    41.3561694
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Ernest Koliqi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9831337,
+                    40.3500377
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi \"Sali Nivica\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3146588,
+                    41.1832336
+                ]
+            },
+            "properties": {
+                "name": "SHKOLLA E MESME \"IBRAHIM MU\u00c7A\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3173974,
+                    41.1803356
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare \"Genc Leka\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3165436,
+                    41.1799921
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare \"Vilson Blloshmi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9735008,
+                    42.312358
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 vjecare Betosh, Lekbibaj, Tropoje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0160549,
+                    41.6104757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9478727,
+                    41.2178797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.81958,
+                    41.3139033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0891447,
+                    41.1138692
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Pedagogjike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0990689,
+                    41.1234491
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Joprivate Arianiti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7424473,
+                    41.3826085
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 vjecare Demokracia Valias I Ri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7724918,
+                    40.6249719
+                ]
+            },
+            "properties": {
+                "name": "American University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.444469,
+                    41.3226945
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Eftali Ko\u00e7i\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4531901,
+                    41.3241862
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Qemal Mici\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6270607,
+                    41.3755041
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are, Marikaj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1931691,
+                    40.3123657
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Kamber B\u00ebnja\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1941453,
+                    40.3125252
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi \"Sejfulla Malshova\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4477761,
+                    41.3266771
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi \"Naim Frash\u00ebri\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4508089,
+                    41.3194825
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are Marie Ka\u00e7ulini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4524362,
+                    41.3269791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4517758,
+                    41.3253557
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi \"Leonik Tomeo\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6174668,
+                    40.6848226
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme \"Zhani Ciko\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0188571,
+                    40.2964165
+                ]
+            },
+            "properties": {
+                "name": "Avni Rustemi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.353927,
+                    40.2311723
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Meleq Gosinishti\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3520651,
+                    40.2342772
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Nonda Bulka\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6826198,
+                    40.3418027
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Papa Kristo Negovani\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4300816,
+                    41.6836554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4294277,
+                    41.6850419
+                ]
+            },
+            "properties": {
+                "name": "Universiteti \"Aleksand\u00ebr Moisiu\", Filiali Peshkopi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0117242,
+                    41.6080341
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Ilia Qiqi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5185653,
+                    42.0629418
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare \"Miqesia\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5069998,
+                    42.0585851
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme \"Kol\u00eb Idromeno\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.411266,
+                    41.9109474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6955862,
+                    40.1380176
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Vuno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8285609,
+                    41.3331067
+                ]
+            },
+            "properties": {
+                "name": "E Kuqe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1970957,
+                    40.080804
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 Vje\u00e7are Asim Zeneli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3506139,
+                    40.2343682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3539914,
+                    40.2310824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8314338,
+                    41.3237849
+                ]
+            },
+            "properties": {
+                "name": "Mihal Grameno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7768894,
+                    40.6166815
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme \"Themistokli G\u00ebrmenji\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7783501,
+                    40.6135267
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Muzik\u00ebs Tefta Tashko Ko\u00e7o"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0248746,
+                    42.2788468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0809116,
+                    41.1156111
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Speciale Zera Jete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7763735,
+                    42.3947734
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Thethit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0899123,
+                    41.112875
+                ]
+            },
+            "properties": {
+                "name": "Xhaferr Kongoli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0898287,
+                    41.113002
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Abdyl Paralloi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4425733,
+                    41.3119872
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi \"Gjergj Kastrioti\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4487088,
+                    41.3140081
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Jusuf Puka\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4940775,
+                    42.3957211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4301655,
+                    41.6840184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4304018,
+                    41.6839804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2910248,
+                    40.9353707
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Xhezar Meci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5546532,
+                    41.1896917
+                ]
+            },
+            "properties": {
+                "name": "Shkolla n\u00ebnt\u00eb vje\u00e7are \"Rilindja\" dhe Shkolla e Mesme Profesionale \"26 Marsi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7103276,
+                    41.6568104
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare Shullaz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4857331,
+                    41.9795049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3929089,
+                    42.0001471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4062092,
+                    41.9929103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3814183,
+                    41.9589746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5149798,
+                    42.0616146
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Martin Camaj\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5515782,
+                    42.0619121
+                ]
+            },
+            "properties": {
+                "name": "D\u00ebshmoret e Rrencit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5740766,
+                    42.0243625
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are Zef Jubani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8104413,
+                    41.3295739
+                ]
+            },
+            "properties": {
+                "name": "Avni Rustemi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3983633,
+                    42.0717898
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Reshit Hyseni\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4771235,
+                    42.033558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4408065,
+                    41.98053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3928719,
+                    42.055541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3802844,
+                    42.0228512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.417311,
+                    42.0226669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4158466,
+                    42.0305254
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are Elba\u00e7e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3921876,
+                    42.0189276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4175466,
+                    41.9864426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4483481,
+                    42.0296478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4421728,
+                    42.0173142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4329766,
+                    42.0148797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4422209,
+                    42.0167799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4315582,
+                    42.0147763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5144763,
+                    42.0629936
+                ]
+            },
+            "properties": {
+                "name": "Kollegji Turk - Yunus Emre Enstit\u00fcs\u00fc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.519125,
+                    42.0709437
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi \"SCUTARI\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5190836,
+                    42.0746454
+                ]
+            },
+            "properties": {
+                "name": "Kop\u00ebshti Ton Alimhilli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5119033,
+                    42.0704444
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"TEUTA\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7631136,
+                    41.3772438
+                ]
+            },
+            "properties": {
+                "name": "Ibrahim Rugova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4845354,
+                    42.018273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4845159,
+                    42.0179988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5081231,
+                    42.0680971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6918187,
+                    42.5893365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5329111,
+                    42.2378186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5968498,
+                    42.1217644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6573401,
+                    41.3932399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6568855,
+                    41.3929501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6549071,
+                    41.3938696
+                ]
+            },
+            "properties": {
+                "name": "Kopshti Vore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4141039,
+                    41.9694328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4014752,
+                    41.9763478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3970224,
+                    41.983576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5000687,
+                    42.078049
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme Zoteknike \"Zija Buliqi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9853157,
+                    40.6224263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8890404,
+                    42.4500804
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Margegaj\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7835824,
+                    40.6232809
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Fillore ' Stavri Themeli'"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4793124,
+                    41.3315335
+                ]
+            },
+            "properties": {
+                "name": "Kolegji Turgut \u00d6zal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0875939,
+                    41.1161918
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Naim Frash\u00ebri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6475505,
+                    42.4867372
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vjecare Vuk\u00ebl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4535261,
+                    42.0586925
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Ernest Koliqi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7192429,
+                    42.5876893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6690776,
+                    42.5978923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6412316,
+                    42.4795014
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vjecare Vuk\u00ebl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4460141,
+                    42.3554016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0870595,
+                    41.119303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7697675,
+                    41.3817165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7688085,
+                    41.3775679
+                ]
+            },
+            "properties": {
+                "name": "100 Vjetori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7634089,
+                    41.3768559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6465294,
+                    41.7756622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6464549,
+                    41.7776587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6447415,
+                    41.7780932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6490139,
+                    41.7777676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4982923,
+                    41.9688639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5151702,
+                    42.0822456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5106066,
+                    42.0602342
+                ]
+            },
+            "properties": {
+                "name": "MEDRESEJA \"HAXHI SHEH SHAMIA\" - Dega e Vajzave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7872517,
+                    41.3802068
+                ]
+            },
+            "properties": {
+                "name": "Primary and Secondary School: Ahmet Zogu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5682734,
+                    40.730926
+                ]
+            },
+            "properties": {
+                "name": "Pinellopi Pirro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5550622,
+                    40.7252858
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi Janaq Kilica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5553318,
+                    40.7255617
+                ]
+            },
+            "properties": {
+                "name": "Janaq Kilica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7014758,
+                    40.9417877
+                ]
+            },
+            "properties": {
+                "name": "Kongresi i Lushnjes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5619128,
+                    41.1824305
+                ]
+            },
+            "properties": {
+                "name": "High School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9579468,
+                    40.7022571
+                ]
+            },
+            "properties": {
+                "name": "Gjinazi \"Bab\u00eb Dud\u00eb Karbunara\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0818979,
+                    41.1213817
+                ]
+            },
+            "properties": {
+                "name": "Gjimnazi Ahmet Dakli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1578148,
+                    41.9641416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9548633,
+                    41.4546808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.969406,
+                    41.4713516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9212438,
+                    41.5445179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9906379,
+                    41.535646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9623362,
+                    41.5260539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.022199,
+                    41.5510234
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 vjecare \"Veli Alla\" Ripe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.971104,
+                    41.4427728
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 vjecare Bastar i Mesem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9336758,
+                    41.4291432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1672036,
+                    42.4247538
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare Haxhi Zenuni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.51134,
+                    41.9943792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1227715,
+                    42.4115565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1977879,
+                    42.4354009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.167011,
+                    42.4013383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1673919,
+                    42.4007708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0023913,
+                    39.770422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1230433,
+                    42.3910249
+                ]
+            },
+            "properties": {
+                "name": "Schule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6509099,
+                    42.399892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.70587,
+                    40.8628122
+                ]
+            },
+            "properties": {
+                "name": "Dituria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8161485,
+                    41.3321248
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Vatra e Dijes\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8079227,
+                    41.3261833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.718716,
+                    40.866746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7061264,
+                    40.8629741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6947783,
+                    40.2110704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7157394,
+                    40.2258466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.706031,
+                    40.7372534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7019616,
+                    40.7363855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3842831,
+                    42.2871648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0113435,
+                    41.1441217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8004678,
+                    41.2396075
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are Fushas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8034823,
+                    41.2175347
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e mesme e bashkuar \"Feti Vogli\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0029944,
+                    42.1891476
+                ]
+            },
+            "properties": {
+                "name": "Elementary School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0034669,
+                    42.189949
+                ]
+            },
+            "properties": {
+                "name": "High school"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8378953,
+                    41.1803505
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are Ko\u00e7aj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.825195,
+                    41.1961534
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Fillore Mustafako\u00e7aj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8245543,
+                    41.3448627
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Jopublike Tirana Jone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0945818,
+                    40.4902514
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare Bubes 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8221199,
+                    41.2169179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7903797,
+                    41.3215899
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Teknologjike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7905064,
+                    41.3190484
+                ]
+            },
+            "properties": {
+                "name": "1 Qershori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0926901,
+                    39.9497338
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare '1 Maji'"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7872313,
+                    41.3169092
+                ]
+            },
+            "properties": {
+                "name": "Kolegji Turk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.793098,
+                    40.7319089
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Mesme e Bashkuar \"Ibrahim Brushi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7968039,
+                    40.7153177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0884206,
+                    41.7800327
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e mesme Shkurte Cara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0725093,
+                    41.6953793
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare Dukagjin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0707496,
+                    41.7249271
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare Gjocaj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.088118,
+                    41.7362994
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare Lami i Madh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.09977,
+                    41.6911939
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 vje\u00e7are \"Nikolae Jorga\" Macukull"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4841521,
+                    41.8139288
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9 Vjecare Tesjse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4238578,
+                    41.8689683
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Bushtrice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7174692,
+                    41.2775186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.880412,
+                    41.3411428
+                ]
+            },
+            "properties": {
+                "name": "\"The Independent\" College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7832755,
+                    40.6171155
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme Profesionale Fan S. Noli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0909223,
+                    41.3286515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8595451,
+                    41.3340642
+                ]
+            },
+            "properties": {
+                "name": "Androkli Kostallari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8506345,
+                    41.3529406
+                ]
+            },
+            "properties": {
+                "name": "Pal Engjelli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.8665178,
+                    40.5163527
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Bajram Islami\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8976761,
+                    42.0476482
+                ]
+            },
+            "properties": {
+                "name": "Migjeni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8360277,
+                    41.3409454
+                ]
+            },
+            "properties": {
+                "name": "Eqrem \u00c7abej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9338978,
+                    41.0964004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8442023,
+                    41.3450331
+                ]
+            },
+            "properties": {
+                "name": "Gjon Buzuku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0256174,
+                    41.8662731
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Marianne Graf\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8769129,
+                    41.3146081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8713717,
+                    41.288983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8697067,
+                    41.7722642
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme Profesionale \u201cSh\u00ebn Jozefi Pun\u00ebtor\u201d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8658555,
+                    41.2712048
+                ]
+            },
+            "properties": {
+                "name": "Tirana International School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8336039,
+                    41.2715398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0095076,
+                    41.6956146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8631209,
+                    41.2803555
+                ]
+            },
+            "properties": {
+                "name": "World Academy of Tirana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8911417,
+                    41.2807477
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \u201cNexhmi Tafaj\u201d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0374538,
+                    39.9887871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.6382635,
+                    41.0663636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8613681,
+                    41.3341769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0491861,
+                    40.1719242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9306797,
+                    40.5103022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8153947,
+                    41.3168484
+                ]
+            },
+            "properties": {
+                "name": "Petro Nini Luarasi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8156352,
+                    41.3243457
+                ]
+            },
+            "properties": {
+                "name": "Dora D'Istria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8066665,
+                    41.3226552
+                ]
+            },
+            "properties": {
+                "name": "Pjet\u00ebr Budi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8135387,
+                    41.3351072
+                ]
+            },
+            "properties": {
+                "name": "7 Marsi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8125796,
+                    41.3316134
+                ]
+            },
+            "properties": {
+                "name": "Jeronim De Rada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8104771,
+                    41.3333163
+                ]
+            },
+            "properties": {
+                "name": "Hasan Vogli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8183928,
+                    41.3343514
+                ]
+            },
+            "properties": {
+                "name": "Lidhja e Prizrenit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8189567,
+                    41.3330796
+                ]
+            },
+            "properties": {
+                "name": "Sami Frash\u00ebri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8065995,
+                    41.3326766
+                ]
+            },
+            "properties": {
+                "name": "Qemal Stafa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0090954,
+                    40.005178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5239872,
+                    42.0694524
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Teknike Pyjore \"Kol\u00eb Margjini\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5209959,
+                    42.062457
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are \"Ndoc Mazi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5210874,
+                    42.0587288
+                ]
+            },
+            "properties": {
+                "name": "Kopshti dhe Shkolla 9-vje\u00e7are Jopublike \"COR JESU\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5173729,
+                    42.0591435
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Austriake \"Peter Mahringer\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5141744,
+                    42.0605884
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"D\u00ebshmor\u00ebt e Prishtin\u00ebs\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5085146,
+                    42.0591307
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Ali La\u00e7ej\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.505492,
+                    42.0480946
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Isuf Tabaku\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4940169,
+                    42.0390345
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Ruzhdi Daca\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4956491,
+                    42.0507374
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Liria\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5060914,
+                    42.0662394
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme \"Shejnaze Juka\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5024,
+                    42.0689453
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Salo Halili\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5041883,
+                    42.0751676
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Azem Hajdari\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5218546,
+                    42.0682591
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Mati Logoreci\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5209828,
+                    42.0721135
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Pashko Vasa\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5257612,
+                    42.0781038
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme Industriale \"Arben Broci\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5149488,
+                    42.0766311
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare \"Skenderbeg\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.514519,
+                    42.0829693
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are \"Isa Jakupi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5187186,
+                    42.0712627
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme \"Jordan Misja\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5181374,
+                    42.0716124
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare \"Branko Kadia\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5112696,
+                    42.0657803
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme \"28 N\u00ebntori\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5052183,
+                    42.0629001
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare \"Ndre Mjeda\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5020128,
+                    42.0612437
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are ABC \"NEKI LEZHA\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5089742,
+                    42.0730306
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme \"Oso Kuka\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5087541,
+                    42.0723491
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare \"Xheladin Fishta\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5094719,
+                    42.0675183
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vjecare \"Ismail Qemali\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5162725,
+                    42.0748322
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Artistike Prek Jakova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5515939,
+                    41.1944596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5574908,
+                    41.1819858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4047921,
+                    41.8738688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.63686,
+                    41.7835127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5141981,
+                    42.0641948
+                ]
+            },
+            "properties": {
+                "name": "Pjet\u00ebr M\u00ebshkalla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5134379,
+                    42.0630334
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-Vje\u00e7are dhe Gjimnazi Jopublik \"Maria Ndihm\u00ebtare\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5132906,
+                    42.0651611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1646736,
+                    41.226366
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Ibrahim Bozhiqi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7197726,
+                    40.3591891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8005735,
+                    40.9905231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4899939,
+                    40.4613268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.025897,
+                    41.5315017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8025975,
+                    40.7015892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1303823,
+                    40.5241331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8267207,
+                    42.0216322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.331295,
+                    41.6796619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5973181,
+                    40.5347497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4194375,
+                    42.0778843
+                ]
+            },
+            "properties": {
+                "name": "Bajram Curri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4186595,
+                    42.0781814
+                ]
+            },
+            "properties": {
+                "name": "Havzi Mella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7938602,
+                    41.5104203
+                ]
+            },
+            "properties": {
+                "name": "Nr. 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8112687,
+                    40.5134372
+                ]
+            },
+            "properties": {
+                "name": "Hajredin Fratari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7948668,
+                    41.5100536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.9850494,
+                    40.6268961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4161587,
+                    42.1962191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8390227,
+                    40.1786351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7439451,
+                    40.2052973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0793066,
+                    40.2575442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6903542,
+                    42.2882663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4954526,
+                    42.1102674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0815793,
+                    41.1193514
+                ]
+            },
+            "properties": {
+                "name": "Skolla 9-Vjecare \"Qamil Guranjaku\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7960766,
+                    42.3078407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0333938,
+                    41.4614624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.369492,
+                    41.8395877
+                ]
+            },
+            "properties": {
+                "name": "Shkolla 9-vje\u00e7are Kalis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3134946,
+                    41.7369581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8694787,
+                    41.8384521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8013058,
+                    41.6035762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8129319,
+                    41.3167404
+                ]
+            },
+            "properties": {
+                "name": "D\u00ebshmor\u00ebt e Liris\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7961915,
+                    41.318738
+                ]
+            },
+            "properties": {
+                "name": "26 N\u00ebntori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8114461,
+                    41.3261952
+                ]
+            },
+            "properties": {
+                "name": "Konferenca e Pez\u00ebs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.804895,
+                    41.3208216
+                ]
+            },
+            "properties": {
+                "name": "Vasil Shanto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8085371,
+                    41.3248401
+                ]
+            },
+            "properties": {
+                "name": "Arben Broci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8292407,
+                    41.3274086
+                ]
+            },
+            "properties": {
+                "name": "1 Maji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8390997,
+                    41.330837
+                ]
+            },
+            "properties": {
+                "name": "Kushtrimi i Liris\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8446279,
+                    41.3393774
+                ]
+            },
+            "properties": {
+                "name": "Hasan Prishtina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8656171,
+                    41.3333772
+                ]
+            },
+            "properties": {
+                "name": "Avdulla Keta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7941697,
+                    41.3371583
+                ]
+            },
+            "properties": {
+                "name": "28 N\u00ebntori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8303821,
+                    41.3362807
+                ]
+            },
+            "properties": {
+                "name": "4 D\u00ebshmor\u00ebt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.832781,
+                    41.3371744
+                ]
+            },
+            "properties": {
+                "name": "Andon Zako \u00c7ajupi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7936752,
+                    41.337463
+                ]
+            },
+            "properties": {
+                "name": "Ahmet Gashi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7893572,
+                    41.3398285
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Aleks Buda\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8321022,
+                    41.3282718
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Ali Demi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8279695,
+                    41.3188975
+                ]
+            },
+            "properties": {
+                "name": "Asim Vokshi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8025025,
+                    41.3167851
+                ]
+            },
+            "properties": {
+                "name": "At Zef Pllumi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8380034,
+                    41.3460825
+                ]
+            },
+            "properties": {
+                "name": "Bajram Curri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8017488,
+                    41.3199563
+                ]
+            },
+            "properties": {
+                "name": "Besnik Sykja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7882986,
+                    41.3356571
+                ]
+            },
+            "properties": {
+                "name": "Dhora Leka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8133842,
+                    41.3206589
+                ]
+            },
+            "properties": {
+                "name": "Edith Durham"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8109882,
+                    41.3208666
+                ]
+            },
+            "properties": {
+                "name": "Emin Duraku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8231029,
+                    41.3300608
+                ]
+            },
+            "properties": {
+                "name": "Fan S. Noli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7730729,
+                    41.3514466
+                ]
+            },
+            "properties": {
+                "name": "Gjergj Fishta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8251235,
+                    41.3276709
+                ]
+            },
+            "properties": {
+                "name": "Gjergji Canco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7976967,
+                    41.3262196
+                ]
+            },
+            "properties": {
+                "name": "Gustav Mayer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8311275,
+                    41.3313689
+                ]
+            },
+            "properties": {
+                "name": "Hasan Tahsim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7908508,
+                    41.321024
+                ]
+            },
+            "properties": {
+                "name": "Karl Gega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8306234,
+                    41.3019228
+                ]
+            },
+            "properties": {
+                "name": "Ibrahim Brahja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.77708,
+                    41.3598624
+                ]
+            },
+            "properties": {
+                "name": "Isa Boletini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8284201,
+                    41.3287024
+                ]
+            },
+            "properties": {
+                "name": "Ismail Qemali"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8135858,
+                    41.3271203
+                ]
+            },
+            "properties": {
+                "name": "Kostandin Kristoforidhi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7624184,
+                    41.357648
+                ]
+            },
+            "properties": {
+                "name": "Kol\u00eb Jakova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8345068,
+                    41.3346377
+                ]
+            },
+            "properties": {
+                "name": "Kongresi i Lushnj\u00ebs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7828614,
+                    41.3204646
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Kongresi Manastirit\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1205136,
+                    41.5524631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.12693,
+                    41.5334737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9734542,
+                    42.3123787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.291175,
+                    41.2650403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8268663,
+                    41.3257318
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Komb\u00ebtare Koreografike"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7692295,
+                    41.311891
+                ]
+            },
+            "properties": {
+                "name": "Lasgush Poradeci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8527115,
+                    41.3453339
+                ]
+            },
+            "properties": {
+                "name": "Luigj Gurakuqi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0844451,
+                    42.3846506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8441661,
+                    41.302656
+                ]
+            },
+            "properties": {
+                "name": "Mustafa Qemal Ataturk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8258815,
+                    41.3373071
+                ]
+            },
+            "properties": {
+                "name": "Misto Mame"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7915813,
+                    41.3130199
+                ]
+            },
+            "properties": {
+                "name": "Murat Toptani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.765544,
+                    41.312816
+                ]
+            },
+            "properties": {
+                "name": "Musine Kokalari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.846661,
+                    41.3145887
+                ]
+            },
+            "properties": {
+                "name": "Mustafa Greblleshi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.846748,
+                    41.3153415
+                ]
+            },
+            "properties": {
+                "name": "Sand\u00ebr Prosi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7708073,
+                    41.314656
+                ]
+            },
+            "properties": {
+                "name": "Myslym Keta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7981877,
+                    41.3261371
+                ]
+            },
+            "properties": {
+                "name": "Naim Frash\u00ebri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8360153,
+                    41.3332577
+                ]
+            },
+            "properties": {
+                "name": "Niket Dardani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.830524,
+                    41.3221198
+                ]
+            },
+            "properties": {
+                "name": "Osman Myderizi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8246364,
+                    41.3343677
+                ]
+            },
+            "properties": {
+                "name": "Partizani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8062166,
+                    41.3386122
+                ]
+            },
+            "properties": {
+                "name": "Qazim Turdiu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8358638,
+                    41.3453582
+                ]
+            },
+            "properties": {
+                "name": "Ramazan Jarani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8032987,
+                    41.3245465
+                ]
+            },
+            "properties": {
+                "name": "Sabaudin Gabrani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8219062,
+                    41.3324068
+                ]
+            },
+            "properties": {
+                "name": "Servete Ma\u00e7i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7719639,
+                    41.3128668
+                ]
+            },
+            "properties": {
+                "name": "Shyqyri Peza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8160685,
+                    41.3312703
+                ]
+            },
+            "properties": {
+                "name": "Sinan Tafaj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8222985,
+                    41.3346456
+                ]
+            },
+            "properties": {
+                "name": "Siri Kodra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8272445,
+                    41.3381742
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00ebnder \u00c7a\u00e7i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.7832035,
+                    41.3458893
+                ]
+            },
+            "properties": {
+                "name": "Sk\u00ebnder Luarasi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8356321,
+                    41.3375214
+                ]
+            },
+            "properties": {
+                "name": "Xhezmi Delli"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.9715724,
+                    41.2184381
+                ]
+            },
+            "properties": {
+                "name": "Shkolla e Mesme e Bashkuar Krrab\u00eb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8275068,
+                    41.337323
+                ]
+            },
+            "properties": {
+                "name": "Instituti nx\u00ebn\u00ebsit q\u00eb nuk d\u00ebgjojn\u00eb 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.8269568,
+                    41.3378663
+                ]
+            },
+            "properties": {
+                "name": "Instituti nx\u00ebn\u00ebsit q\u00eb nuk d\u00ebgjojn\u00eb 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5589298,
+                    41.1873931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4487588,
+                    40.3160586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.7424913,
+                    40.5621096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0117242,
+                    41.6080341
+                ]
+            },
+            "properties": {
+                "name": "Shkolla \"Ilia Qiqi\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.5240601,
+                    42.0582412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1218423,
+                    40.6355334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.3543032,
+                    40.5469431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.4807111,
+                    41.6969822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0721633,
+                    41.1111552
+                ]
+            },
+            "properties": {
+                "name": "Skolla Profesionale Ali Myftiu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.074813,
+                    41.1097621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.6407178,
+                    41.7869435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0754017,
+                    42.3598614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.0720825,
+                    42.3557556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2958941,
+                    42.292574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.2081857,
+                    42.2928013
+                ]
+            },
+            "properties": {
+                "name": "Shkolla Murat Paci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.379276,
+                    42.2483354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.1015818,
+                    41.6532606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.4399629,
+                    41.9802028
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

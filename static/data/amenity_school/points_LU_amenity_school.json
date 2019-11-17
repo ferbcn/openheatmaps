@@ -1,0 +1,4326 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2170675,
+                    49.6154226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.960745,
+                    49.5834608
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Primaire de la commune de Dippach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0989537,
+                    49.9935404
+                ]
+            },
+            "properties": {
+                "name": "Park Hosingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0979317,
+                    49.5195999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8702675,
+                    49.5572977
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8701167,
+                    49.5570252
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Pr\u00e9scolaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3233965,
+                    49.6103267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0541275,
+                    49.6100936
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Pr\u00e9scolaire Prince S\u00e9bastien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4421581,
+                    49.6835955
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique Joseph Bech"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0993615,
+                    49.8510966
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique Agricole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1260075,
+                    49.6527275
+                ]
+            },
+            "properties": {
+                "name": "Bereldange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9829945,
+                    49.5095901
+                ]
+            },
+            "properties": {
+                "name": "A\u00e9rodrome Schoul (Primary School)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1736598,
+                    49.7953614
+                ]
+            },
+            "properties": {
+                "name": "Prim\u00e4rschoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0311099,
+                    49.6284704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.123554,
+                    49.6791757
+                ]
+            },
+            "properties": {
+                "name": "Ecole Willy Goergen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1007779,
+                    49.8506992
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Pr\u00e9scolaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1479942,
+                    49.538721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.85544,
+                    49.5468575
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Lamadelaine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1111615,
+                    50.1252302
+                ]
+            },
+            "properties": {
+                "name": "Schoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0280827,
+                    50.054817
+                ]
+            },
+            "properties": {
+                "name": "Centre d'\u00e9ducation diff\u00e9renci\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7875903,
+                    49.9321162
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole R\u00e9gionale Harlange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1572858,
+                    49.8701004
+                ]
+            },
+            "properties": {
+                "name": "Place Stehres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2208221,
+                    49.5789351
+                ]
+            },
+            "properties": {
+                "name": "Um Ewent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3794614,
+                    49.7005745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0807228,
+                    49.4819623
+                ]
+            },
+            "properties": {
+                "name": "Gaffelt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0316183,
+                    49.4601926
+                ]
+            },
+            "properties": {
+                "name": "Autoecole Weis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0415417,
+                    49.5246317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1275427,
+                    49.7216149
+                ]
+            },
+            "properties": {
+                "name": "School / Schule / \u00c9cole primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2571256,
+                    49.5113904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9134628,
+                    49.8521403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1148897,
+                    49.8619051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9325548,
+                    49.9682841
+                ]
+            },
+            "properties": {
+                "name": "EF Villa Millermoaler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.932308,
+                    49.9675664
+                ]
+            },
+            "properties": {
+                "name": "EF Reenert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9315999,
+                    49.9679494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8381369,
+                    49.8404342
+                ]
+            },
+            "properties": {
+                "name": "Centre scolaire et sportif de Koetschette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1993583,
+                    49.547357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3503203,
+                    49.5281271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3494781,
+                    49.5279773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1041673,
+                    49.519776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0340345,
+                    49.6716455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9389851,
+                    49.7958539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9934322,
+                    49.4944625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8379128,
+                    49.8408054
+                ]
+            },
+            "properties": {
+                "name": "Sport hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1405806,
+                    49.6728794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2255729,
+                    49.5248369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0050724,
+                    49.8335406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8833732,
+                    49.7311685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9727123,
+                    49.9348211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1246786,
+                    49.6044872
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Priv\u00e9e Grandjean"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.990112,
+                    49.4752846
+                ]
+            },
+            "properties": {
+                "name": "Waldschoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0098404,
+                    49.5630305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0727052,
+                    49.4718499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1494423,
+                    49.5099202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1451779,
+                    49.5388675
+                ]
+            },
+            "properties": {
+                "name": "Music Factory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0614583,
+                    49.9091649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8875002,
+                    49.5229818
+                ]
+            },
+            "properties": {
+                "name": "Futur \u00e9cole h\u00f4teli\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9844967,
+                    49.726184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2197755,
+                    49.7863137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2067494,
+                    49.6152212
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole de musique Leonardo Castellano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1282703,
+                    49.5244645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1019277,
+                    49.7483706
+                ]
+            },
+            "properties": {
+                "name": "Nic welter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2692119,
+                    49.630469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0411526,
+                    49.5220554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0372676,
+                    49.4872336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1244216,
+                    49.6785973
+                ]
+            },
+            "properties": {
+                "name": "Ecole Sepp Hansen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1242685,
+                    49.6795442
+                ]
+            },
+            "properties": {
+                "name": "Ecole Michel Rodange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1616409,
+                    49.6095186
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire de Hamm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1274163,
+                    49.6188906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1206847,
+                    49.6150171
+                ]
+            },
+            "properties": {
+                "name": "Institut national des langues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.915935,
+                    49.6584195
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire Steinfort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0891045,
+                    49.4878442
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire Brill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0893775,
+                    49.4830324
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Nic. Biever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0871486,
+                    49.4775914
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Primaire Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0850793,
+                    49.4732982
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Primaire Deich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2541143,
+                    49.713707
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8727469,
+                    49.5978102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.977154,
+                    49.4918404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9832908,
+                    49.4992431
+                ]
+            },
+            "properties": {
+                "name": "Ly\u00e7\u00e9e des Gar\u00e7ons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9775966,
+                    49.5026156
+                ]
+            },
+            "properties": {
+                "name": "Ly\u00e7\u00e9e Hubert Clement"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8761782,
+                    49.5585938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1226213,
+                    49.6194274
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole pr\u00e9scolaire Henri VII"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1257779,
+                    49.6220544
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e des Arts et M\u00e9tiers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1180575,
+                    49.6263442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.112262,
+                    49.624864
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique Michel Lucius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8924961,
+                    49.5360541
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole des Gar\u00e7ons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8921647,
+                    49.5350884
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole des Filles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8904233,
+                    49.5222994
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale Differdange-Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9257887,
+                    49.5083451
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Belvaux Poste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1090422,
+                    49.6024676
+                ]
+            },
+            "properties": {
+                "name": "Campus Geessekn\u00e4ppchen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1297609,
+                    49.6002631
+                ]
+            },
+            "properties": {
+                "name": "Centre Scolaire, Soci\u00e9taire et Sportif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0979041,
+                    49.8451528
+                ]
+            },
+            "properties": {
+                "name": "Conservatoire du Nord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0991145,
+                    49.8513323
+                ]
+            },
+            "properties": {
+                "name": "Lycee Technique Agricole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9762448,
+                    49.4897203
+                ]
+            },
+            "properties": {
+                "name": "Conservatoire de musique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2993707,
+                    49.6650738
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2831794,
+                    49.5065534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1554645,
+                    49.6275256
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Europ\u00e9enne Luxembourg I Kirchberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0717355,
+                    49.6164678
+                ]
+            },
+            "properties": {
+                "name": "Hueflach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0714961,
+                    49.6159382
+                ]
+            },
+            "properties": {
+                "name": "Hueflach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3371703,
+                    49.7804207
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1106307,
+                    49.6035458
+                ]
+            },
+            "properties": {
+                "name": "Ath\u00e9n\u00e9e de Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0712046,
+                    49.4875564
+                ]
+            },
+            "properties": {
+                "name": "Prim\u00e4rschoul Butschebuerg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0711698,
+                    49.4874848
+                ]
+            },
+            "properties": {
+                "name": "Prim\u00e4rschoul Butschebuerg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0080175,
+                    49.5068774
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire Nelly Stein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9858357,
+                    49.5292108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1023768,
+                    49.7472195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.102206,
+                    49.7481185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1018525,
+                    49.7476357
+                ]
+            },
+            "properties": {
+                "name": "B\u00e2timent Albert Elsen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0085981,
+                    49.5037206
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire Lydie Schmit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0944917,
+                    49.603137
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole pr\u00e9scolaire et primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1612054,
+                    49.623274
+                ]
+            },
+            "properties": {
+                "name": "Saint-Georg International School Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9017884,
+                    49.5172397
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique Mathias Adam Annexe Jenker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1031808,
+                    49.8467184
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole priv\u00e9e Sainte-Anne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0348073,
+                    49.6214322
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e technique Josy Barthel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9094837,
+                    49.5673293
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole centrale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9888028,
+                    49.5095164
+                ]
+            },
+            "properties": {
+                "name": "Lallenger Schoul (Primary School)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2664076,
+                    49.6297373
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire de Munsbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1147774,
+                    49.6214959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.273544,
+                    49.5060051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0710398,
+                    49.6162858
+                ]
+            },
+            "properties": {
+                "name": "Pavillon Hueflach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9078335,
+                    49.5679946
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique pour Professions de Sant\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1213715,
+                    49.6197485
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e des Gar\u00e7ons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1504447,
+                    49.6186676
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole priv\u00e9e Notre-Dame Sainte-Sophie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.129188,
+                    49.6024895
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Priv\u00e9e Fieldgen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1162982,
+                    49.6246162
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique du Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1214004,
+                    49.6197487
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e des Gar\u00e7ons Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.035127,
+                    49.6718328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1611465,
+                    49.6284074
+                ]
+            },
+            "properties": {
+                "name": "Centre Polyvalent de l'Enfance (CPE)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1176159,
+                    49.6241234
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Vauban"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1344601,
+                    49.6353987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1348659,
+                    49.6349586
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique Priv\u00e9 \u00c9mile Metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1827343,
+                    49.8939395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0176712,
+                    49.5054928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9276944,
+                    49.9638469
+                ]
+            },
+            "properties": {
+                "name": "Ly\u00e7\u00e9e du Nord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1531426,
+                    49.5677462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.938048,
+                    49.5204868
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole 2000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9453336,
+                    49.5988706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0386204,
+                    49.47744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9824507,
+                    49.499983
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0792095,
+                    49.6568691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0935345,
+                    49.845949
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole pr\u00e9scolaire 'Um Boeschel'"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0972698,
+                    49.849947
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique d'Ettelbruck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3630743,
+                    49.5641128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0995825,
+                    49.8453276
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9380343,
+                    49.5206034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0850283,
+                    49.4734425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9272558,
+                    49.5190635
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Scheierhaff"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1271111,
+                    49.7215281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9522826,
+                    49.6673809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2137557,
+                    49.8090282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8245081,
+                    49.5464318
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Fonderie Rodange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9031379,
+                    49.56515
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale Op Acker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.250831,
+                    49.7134263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4204412,
+                    49.815384
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.503086,
+                    49.7558914
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1284371,
+                    49.6438043
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Pr\u00e9scolaire de Beggen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3992497,
+                    49.6243033
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale de Dreiborn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5005256,
+                    49.8054449
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1179837,
+                    49.6014878
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Hollerich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0293196,
+                    49.6309777
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire Kinneksbond"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1641971,
+                    49.6107731
+                ]
+            },
+            "properties": {
+                "name": "Saint George's International School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9159431,
+                    49.6885104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8777079,
+                    49.6868501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8771577,
+                    49.6859936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0735665,
+                    50.1403497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0358849,
+                    50.0616122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.169526,
+                    49.5879767
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1090589,
+                    49.5174978
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0972858,
+                    49.6217816
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique pour les Professions de Sant\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0976468,
+                    49.6210835
+                ]
+            },
+            "properties": {
+                "name": "Centre de logop\u00e9die"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0367433,
+                    49.4870396
+                ]
+            },
+            "properties": {
+                "name": "Primaireschoul Widdem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9068905,
+                    49.5637588
+                ]
+            },
+            "properties": {
+                "name": "Ecole Pr\u00e9coce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1244348,
+                    49.678358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2785353,
+                    49.7962417
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale et Complex sportif Michel Rodange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1649153,
+                    49.6347524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1638966,
+                    49.6362838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1331669,
+                    49.540656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2499968,
+                    49.7003414
+                ]
+            },
+            "properties": {
+                "name": "L\u00ebnster Lyc\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1132867,
+                    49.6100141
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Primaire Gaston Diderich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1124716,
+                    49.6097119
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Belair Diderich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9264103,
+                    49.5466948
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole de Sanem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0501381,
+                    49.6113476
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire beim Schlass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1323952,
+                    49.6155139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1326487,
+                    49.6154937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2068754,
+                    49.9346724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2068576,
+                    49.9347294
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2206201,
+                    49.5786886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1095942,
+                    49.6227327
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fran\u00e7aise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1480245,
+                    49.5387493
+                ]
+            },
+            "properties": {
+                "name": "Cauthemer Groundschoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1550188,
+                    49.5715431
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1633992,
+                    49.5680209
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3796989,
+                    49.7007162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1630283,
+                    49.6176358
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire du Cents"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1575435,
+                    49.6257504
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique du Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1686423,
+                    49.8639057
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Classique Diekirch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1622244,
+                    49.8637327
+                ]
+            },
+            "properties": {
+                "name": "Nordstadlyc\u00e9e Annexe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9020161,
+                    49.8703655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0349783,
+                    49.6690505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2169034,
+                    49.8750764
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.963335,
+                    49.5095589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.072747,
+                    49.4720552
+                ]
+            },
+            "properties": {
+                "name": "Lycee Nic Biever (Annexe Alliance)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1905543,
+                    49.5149995
+                ]
+            },
+            "properties": {
+                "name": "Zentralschoul Fr\u00e9iseng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1899065,
+                    49.5151571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3684767,
+                    49.5452629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3659945,
+                    49.5472532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9152129,
+                    49.6587378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.144077,
+                    49.6008071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1423407,
+                    49.6063755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1427974,
+                    49.60646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1420154,
+                    49.6067419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8384995,
+                    49.8404999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1280356,
+                    49.6273556
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale Eich-M\u00fchlenbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1424453,
+                    49.6064319
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole de Police"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1386771,
+                    49.63399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1390766,
+                    49.6340342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.137773,
+                    49.6370156
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e des Arts et M\u00e9tiers - Site Dommeldange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1630301,
+                    49.6217634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1432923,
+                    49.6144348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.134068,
+                    49.6145628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.122518,
+                    49.592725
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Primaire - Gasperich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0048667,
+                    50.0185845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.109694,
+                    49.6234979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9984213,
+                    49.9935934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0909878,
+                    49.4836825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.979728,
+                    49.8876001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0869325,
+                    49.4769797
+                ]
+            },
+            "properties": {
+                "name": "Spillschoul Strutzebierg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.086198,
+                    49.4771223
+                ]
+            },
+            "properties": {
+                "name": "Maison Relais Diddel\u00e9ng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.091953,
+                    49.4919302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0778071,
+                    49.472787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0381671,
+                    49.4744249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0382743,
+                    49.4739918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0391693,
+                    49.4781934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1088029,
+                    49.5124717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1043017,
+                    49.5198166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1902032,
+                    49.5150261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0552675,
+                    49.6189524
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Maria Montessori"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2255629,
+                    49.5245633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1463088,
+                    49.5958393
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire Demy Schlechter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1411111,
+                    49.6028886
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Bonnevoie-Verger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1259319,
+                    49.6044988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1376183,
+                    49.5973072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1398295,
+                    49.6031399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1482805,
+                    49.5958655
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole pr\u00e9scolaire Nic Martha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1403916,
+                    49.5963176
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole primaire J. B. Gell\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.160271,
+                    49.6095166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1073371,
+                    49.5889473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1062999,
+                    49.5886244
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Pr\u00e9coce et Fondamentale Cessange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1213043,
+                    49.6096649
+                ]
+            },
+            "properties": {
+                "name": "Prolingua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9984706,
+                    49.9936388
+                ]
+            },
+            "properties": {
+                "name": "School"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1116844,
+                    49.756323
+                ]
+            },
+            "properties": {
+                "name": "LTPES"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1132006,
+                    49.756306
+                ]
+            },
+            "properties": {
+                "name": "SCRIPT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9901213,
+                    49.4752673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9117185,
+                    49.5678176
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole de Musique de Bascharage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3660441,
+                    49.6001967
+                ]
+            },
+            "properties": {
+                "name": "Prim\u00e4rschule Lenningen (Geb\u00e4ude \"Kokebierg\")"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2484256,
+                    49.692981
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9762515,
+                    49.7751548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0189785,
+                    49.771453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9986993,
+                    50.1211402
+                ]
+            },
+            "properties": {
+                "name": "Elw\u00ebnter Prim\u00e4rschoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8550986,
+                    49.5472242
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole fondamentale Lamadelaine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8553465,
+                    49.5467827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8386077,
+                    49.5465443
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Neiwiss Rodange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2608045,
+                    49.7525268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2146821,
+                    49.704761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9155941,
+                    49.6575828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3299012,
+                    49.5552155
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Centrale Bous"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3302573,
+                    49.5550932
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Centrale Bous"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9774389,
+                    49.4920705
+                ]
+            },
+            "properties": {
+                "name": "Brillschoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.063344,
+                    49.56703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8995597,
+                    49.770247
+                ]
+            },
+            "properties": {
+                "name": "Atert Ly\u00e7\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1464921,
+                    49.7017741
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole centrale de Lorenzweiler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4427631,
+                    49.6824457
+                ]
+            },
+            "properties": {
+                "name": "Ecoles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4454317,
+                    49.6816624
+                ]
+            },
+            "properties": {
+                "name": "Ecoles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.280075,
+                    49.5731152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.030862,
+                    49.5336868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3977027,
+                    49.6230513
+                ]
+            },
+            "properties": {
+                "name": "Schoulsyndikat Billek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0908094,
+                    49.482975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1404694,
+                    49.6910832
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Helmdange-Bofferdange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9385345,
+                    49.523399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.479763,
+                    49.7008325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4797712,
+                    49.7010205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4800072,
+                    49.7007366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4798685,
+                    49.7007713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8918532,
+                    49.5367434
+                ]
+            },
+            "properties": {
+                "name": "Pavillon pr\u00e9scolaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8960678,
+                    49.5117974
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Um Bock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1557812,
+                    49.6138837
+                ]
+            },
+            "properties": {
+                "name": "Maison Relais Waldorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9670848,
+                    49.524047
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole d'Ehlerange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8775473,
+                    49.6852676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8840071,
+                    49.6897596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8860333,
+                    49.521464
+                ]
+            },
+            "properties": {
+                "name": "Ancienne \u00c9cole M\u00e9nag\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1224436,
+                    49.5926525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1694572,
+                    49.8639943
+                ]
+            },
+            "properties": {
+                "name": "Nordstadlyc\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.984554,
+                    49.7261893
+                ]
+            },
+            "properties": {
+                "name": "Ecole fondamentale Saeul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1579594,
+                    49.8703195
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole des Filles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1703691,
+                    49.8639927
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e technique h\u00f4telier \"Alexis Heck\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1566557,
+                    49.8699683
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole des Gar\u00e7ons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1560436,
+                    49.8702332
+                ]
+            },
+            "properties": {
+                "name": "Spillschull"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9851554,
+                    49.5293372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0355748,
+                    49.6177509
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Europ\u00e9enne Luxembourg II Mamer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9267429,
+                    49.5466792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0990315,
+                    49.8291825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.102378,
+                    49.7477488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1056722,
+                    49.747472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0923466,
+                    49.7420693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4636592,
+                    49.7519836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2156288,
+                    49.8302911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0246787,
+                    49.4624723
+                ]
+            },
+            "properties": {
+                "name": "Pr\u00e9cos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0318964,
+                    49.4628678
+                ]
+            },
+            "properties": {
+                "name": "Sauerwisen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0295376,
+                    49.4621445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.029763,
+                    49.4602108
+                ]
+            },
+            "properties": {
+                "name": "J.P. Bausch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9947833,
+                    50.0985063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0375265,
+                    49.4744101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.934712,
+                    49.5044179
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique Belval"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8578335,
+                    49.5543842
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e technique Mathias Adam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1307003,
+                    49.6580756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.909135,
+                    49.5190207
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Woiwer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9722742,
+                    49.4966684
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Jean Jaur\u00e8s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1570573,
+                    49.8659212
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e classique de Diekirch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0364654,
+                    49.4806297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0876183,
+                    49.4691784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0807279,
+                    49.4921341
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Primaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9671122,
+                    49.5240023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.348852,
+                    49.6873578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8411446,
+                    49.5454846
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole am P\u00e4sch Rodange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8701084,
+                    49.5573433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9855922,
+                    49.50059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0115515,
+                    49.5014406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9003781,
+                    49.5194575
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Fousbann"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9887854,
+                    49.6448762
+                ]
+            },
+            "properties": {
+                "name": "Campus Scolaire Capellen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9885545,
+                    49.6443244
+                ]
+            },
+            "properties": {
+                "name": "Campus Scolaire Capellen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9320697,
+                    49.9696185
+                ]
+            },
+            "properties": {
+                "name": "EF Villa Mirabella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.10316,
+                    49.4852073
+                ]
+            },
+            "properties": {
+                "name": "Waldschoul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8537746,
+                    49.7624162
+                ]
+            },
+            "properties": {
+                "name": "Schoul \"um Fr\u00e4schepillchen\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.120636,
+                    49.6150398
+                ]
+            },
+            "properties": {
+                "name": "Institut National des Langues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8885083,
+                    49.7648612
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole de Musique du canton de Redange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0528556,
+                    49.5070257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2925385,
+                    49.8380887
+                ]
+            },
+            "properties": {
+                "name": "Complexe Scolaire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1387339,
+                    49.6633528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0197453,
+                    49.7345913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1553255,
+                    49.5716081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9851553,
+                    49.514865
+                ]
+            },
+            "properties": {
+                "name": "Centre d'\u00c9ducation Diff\u00e9renci\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8941429,
+                    49.5132454
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Prince Henri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9837726,
+                    49.5117644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1462357,
+                    49.700688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9180658,
+                    49.6615745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9154431,
+                    49.6585005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4977703,
+                    49.8051999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9605416,
+                    49.5833213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1591815,
+                    49.6299359
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Europ\u00e9enne - Village P\u00e9dagogique (hors d'usage)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0997503,
+                    49.602869
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole de Merl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.14234,
+                    49.6134474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9777913,
+                    49.4837383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1510126,
+                    49.6262453
+                ]
+            },
+            "properties": {
+                "name": "Institut National des Langues"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.353376,
+                    49.4922605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.099297,
+                    49.9933667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1387867,
+                    49.6628491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1171771,
+                    49.6020391
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Hollerich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1158742,
+                    49.6014396
+                ]
+            },
+            "properties": {
+                "name": "Pr\u00e9scolaire et foyer scolaire Hollerich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1343744,
+                    49.6355895
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Technique Priv\u00e9 \u00c9mile Metz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9413698,
+                    49.5131523
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole Chemin Rouge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1470085,
+                    49.7006912
+                ]
+            },
+            "properties": {
+                "name": "Complexe scolaire Jos Wohlfart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1616849,
+                    49.6094994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1025048,
+                    49.6104599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1398565,
+                    49.603032
+                ]
+            },
+            "properties": {
+                "name": "Foyer scolaire Bonnevoie Verger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1410661,
+                    49.5839254
+                ]
+            },
+            "properties": {
+                "name": "Howald Plateau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1165648,
+                    49.6084782
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole avenue du Dix Septembre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1231865,
+                    49.596952
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole de la deuxi\u00e8me chance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1069692,
+                    49.6013253
+                ]
+            },
+            "properties": {
+                "name": "International School of Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1088861,
+                    49.602869
+                ]
+            },
+            "properties": {
+                "name": "\u00c9cole de Commerce et de Gestion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1118562,
+                    49.6014397
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Aline Mayrisch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1100248,
+                    49.601561
+                ]
+            },
+            "properties": {
+                "name": "Lyc\u00e9e Michel Rodange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3441339,
+                    49.8262135
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

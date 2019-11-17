@@ -1,0 +1,779 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3493451,
+                    54.5550056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6048064,
+                    55.4980825
+                ]
+            },
+            "properties": {
+                "name": "VAGA knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2452737,
+                    54.6726744
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2755391,
+                    54.7146679
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2850515,
+                    54.6739861
+                ]
+            },
+            "properties": {
+                "name": "J. Masiulio knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3031894,
+                    54.7110342
+                ]
+            },
+            "properties": {
+                "name": "Homo Sapiens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2275279,
+                    54.4162678
+                ]
+            },
+            "properties": {
+                "name": "Kalvarijos knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2790536,
+                    54.6875292
+                ]
+            },
+            "properties": {
+                "name": "Vilniaus centrinis knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2885433,
+                    54.6806286
+                ]
+            },
+            "properties": {
+                "name": "Pegasas, pranc\u016bzi\u0161kos knygos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1252642,
+                    55.7284595
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4039303,
+                    56.0619337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2292056,
+                    54.7400998
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2453939,
+                    54.7315191
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3077363,
+                    55.936752
+                ]
+            },
+            "properties": {
+                "name": "\u017diburio knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2863416,
+                    54.6818529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5431462,
+                    55.8103389
+                ]
+            },
+            "properties": {
+                "name": "Pegasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0692351,
+                    55.9181275
+                ]
+            },
+            "properties": {
+                "name": "Books"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3176257,
+                    54.7189294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3160191,
+                    54.713249
+                ]
+            },
+            "properties": {
+                "name": "Antakalnio peleda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3130371,
+                    55.9324284
+                ]
+            },
+            "properties": {
+                "name": "\u017diburio knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2660845,
+                    54.6892797
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0983115,
+                    55.5225844
+                ]
+            },
+            "properties": {
+                "name": "Pegasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2843046,
+                    54.6861373
+                ]
+            },
+            "properties": {
+                "name": "Draugyst\u0117 Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9100681,
+                    54.8973286
+                ]
+            },
+            "properties": {
+                "name": "Pegasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2819443,
+                    54.6872598
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2884731,
+                    55.2512884
+                ]
+            },
+            "properties": {
+                "name": "Pegasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3983345,
+                    55.7099265
+                ]
+            },
+            "properties": {
+                "name": "Garg\u017ed\u0173 knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2662373,
+                    54.6895606
+                ]
+            },
+            "properties": {
+                "name": "Sofoklis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8909755,
+                    54.8965664
+                ]
+            },
+            "properties": {
+                "name": "Humanitas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2866007,
+                    54.6787409
+                ]
+            },
+            "properties": {
+                "name": "Versm\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2849698,
+                    54.6814298
+                ]
+            },
+            "properties": {
+                "name": "Mint Vinetu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0393197,
+                    54.9545863
+                ]
+            },
+            "properties": {
+                "name": "Pegasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9246487,
+                    54.8922831
+                ]
+            },
+            "properties": {
+                "name": "U\u017esienio literat\u016bros knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2893024,
+                    54.6827503
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7754253,
+                    55.0789388
+                ]
+            },
+            "properties": {
+                "name": "Jurbarko Knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2642852,
+                    54.6842064
+                ]
+            },
+            "properties": {
+                "name": "knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2770924,
+                    54.6963658
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2860594,
+                    55.2498207
+                ]
+            },
+            "properties": {
+                "name": "VAGA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2806731,
+                    54.6853116
+                ]
+            },
+            "properties": {
+                "name": "Zodiakas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2579849,
+                    54.6994882
+                ]
+            },
+            "properties": {
+                "name": "Pegasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9458276,
+                    54.6361198
+                ]
+            },
+            "properties": {
+                "name": "Pegasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2760079,
+                    54.6941078
+                ]
+            },
+            "properties": {
+                "name": "Pegasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3458418,
+                    54.5560487
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2426861,
+                    54.6990637
+                ]
+            },
+            "properties": {
+                "name": "\u017dem\u0117lapi\u0173 pasaulis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1874921,
+                    54.7099134
+                ]
+            },
+            "properties": {
+                "name": "VAGA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.286352,
+                    54.6842552
+                ]
+            },
+            "properties": {
+                "name": "Eureka! - Books in English"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2764839,
+                    54.6894585
+                ]
+            },
+            "properties": {
+                "name": "FRENDO - New and Used English Books"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2230638,
+                    54.7173625
+                ]
+            },
+            "properties": {
+                "name": "Knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3684133,
+                    55.7293839
+                ]
+            },
+            "properties": {
+                "name": "Zodiakas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2810552,
+                    55.0732258
+                ]
+            },
+            "properties": {
+                "name": "Jonavos knyga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5855496,
+                    55.9638745
+                ]
+            },
+            "properties": {
+                "name": "Pegasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.295476,
+                    54.6802707
+                ]
+            },
+            "properties": {
+                "name": "Keistoteka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1297627,
+                    55.714212
+                ]
+            },
+            "properties": {
+                "name": "Vaga"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7561468,
+                    56.199494
+                ]
+            },
+            "properties": {
+                "name": "Pegasas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2880178,
+                    54.6830011
+                ]
+            },
+            "properties": {
+                "name": "Knygynas \u201eLittera\u201c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.90843,
+                    54.8973579
+                ]
+            },
+            "properties": {
+                "name": "Centrinis knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1301615,
+                    55.7157375
+                ]
+            },
+            "properties": {
+                "name": "Knygynas \u201eAkademija\u201c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9284664,
+                    55.6286228
+                ]
+            },
+            "properties": {
+                "name": "Knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0368072,
+                    54.6492897
+                ]
+            },
+            "properties": {
+                "name": "Vilkavi\u0161kio knygynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1816093,
+                    55.490182
+                ]
+            },
+            "properties": {
+                "name": "\u0160ilal\u0117s knygynas"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

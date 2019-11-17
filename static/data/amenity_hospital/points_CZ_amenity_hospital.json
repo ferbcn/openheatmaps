@@ -1,0 +1,5574 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2654138,
+                    49.6058478
+                ]
+            },
+            "properties": {
+                "name": "Vojensk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3759965,
+                    50.4529892
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9ka\u0159sk\u00fd d\u016fm \u0160t\u011bt\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0622052,
+                    49.5619933
+                ]
+            },
+            "properties": {
+                "name": "Okresn\u00ed Nemocnice Nov\u00e9 M\u011bsto na Morav\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6907866,
+                    49.2037114
+                ]
+            },
+            "properties": {
+                "name": "Veterin\u00e1rn\u00ed ordinace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.598066,
+                    49.1772751
+                ]
+            },
+            "properties": {
+                "name": "Soukrom\u00e1 klinika LOGO s.r.o."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3748654,
+                    50.033193
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Barrandov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3732404,
+                    49.7441385
+                ]
+            },
+            "properties": {
+                "name": "MUDr. Mentlov\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8232436,
+                    50.2039781
+                ]
+            },
+            "properties": {
+                "name": "Sanus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3941643,
+                    50.0980606
+                ]
+            },
+            "properties": {
+                "name": "\u00dastav leteck\u00e9ho zdravotnictv\u00ed (\u00dast\u0159edn\u00ed vojensk\u00e1 nemocnice)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4192046,
+                    50.0621433
+                ]
+            },
+            "properties": {
+                "name": "Podolsk\u00e1 porodnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8086165,
+                    49.5320399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.021491,
+                    49.3529502
+                ]
+            },
+            "properties": {
+                "name": "Pohotovostn\u00ed slu\u017eba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3726755,
+                    49.7300875
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Bory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.80662,
+                    49.9415032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5422387,
+                    50.9457506
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice v Podh\u00e1j\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3804741,
+                    49.2930674
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Krom\u011b\u0159\u00ed\u017e budova B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.378665,
+                    49.2922906
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Krom\u011b\u0159\u00ed\u017e budova A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3957568,
+                    50.0867557
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice milosrdn\u00fdch sester a svat\u00e9ho Karla Boromejsk\u00e9ho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4715142,
+                    48.9643367
+                ]
+            },
+            "properties": {
+                "name": "Doln\u00ed are\u00e1l Nemocnice \u010cesk\u00e9 Bud\u011bjovice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8525291,
+                    50.072824
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7638751,
+                    50.0482137
+                ]
+            },
+            "properties": {
+                "name": "Zubn\u00ed poliklinika (?)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8255529,
+                    50.159906
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0525346,
+                    48.8512337
+                ]
+            },
+            "properties": {
+                "name": "Star\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6299628,
+                    49.0667247
+                ]
+            },
+            "properties": {
+                "name": "Horsk\u00e1 slu\u017eba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1446228,
+                    50.5407339
+                ]
+            },
+            "properties": {
+                "name": "Litom\u011b\u0159ick\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3501898,
+                    50.5884765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1550448,
+                    49.6363793
+                ]
+            },
+            "properties": {
+                "name": "Stodsk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8399194,
+                    50.2121256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9770403,
+                    49.4629121
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Vala\u0161sk\u00e9 Mezi\u0159\u00ed\u010d\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1764547,
+                    49.1466594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0034888,
+                    49.1389974
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Jind\u0159ich\u016fv Hradec, a.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2878,
+                    50.2048
+                ]
+            },
+            "properties": {
+                "name": "M\u011bstsk\u00e1 nemocnice M\u011bstec Kr\u00e1lov\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2118743,
+                    50.7770584
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3016106,
+                    50.7402226
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Tanvald"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1065667,
+                    50.1484188
+                ]
+            },
+            "properties": {
+                "name": "P-P Klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0128183,
+                    49.1440591
+                ]
+            },
+            "properties": {
+                "name": "poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0201338,
+                    50.5099525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.615025,
+                    50.6234663
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Vrchlab\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6122,
+                    50.6256213
+                ]
+            },
+            "properties": {
+                "name": "ANSA Sanatorium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0290605,
+                    50.6674508
+                ]
+            },
+            "properties": {
+                "name": "\u00dasteck\u00e1 poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6661655,
+                    50.0898182
+                ]
+            },
+            "properties": {
+                "name": "MediCru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1350241,
+                    49.8914136
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko Oskava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9644329,
+                    49.9593272
+                ]
+            },
+            "properties": {
+                "name": "\u0160umpersk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.15903,
+                    50.7298146
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Jablonec nad Nisou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3745786,
+                    49.7822301
+                ]
+            },
+            "properties": {
+                "name": "MEDIKA-CENTRUM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.270488,
+                    49.5988368
+                ]
+            },
+            "properties": {
+                "name": "Vojensk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2763119,
+                    49.5915675
+                ]
+            },
+            "properties": {
+                "name": "\u017delezni\u010dn\u00ed poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5361412,
+                    49.2052124
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Otrokovice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1027266,
+                    49.5935437
+                ]
+            },
+            "properties": {
+                "name": "Zdravotnick\u00e9 st\u0159edisko Hol\u00fd\u0161ov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3582626,
+                    49.5904931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4478868,
+                    50.0817424
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice na \u017di\u017ekov\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4712974,
+                    49.9949344
+                ]
+            },
+            "properties": {
+                "name": "Podhorsk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3593316,
+                    49.7652876
+                ]
+            },
+            "properties": {
+                "name": "Privamed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0522653,
+                    48.8516684
+                ]
+            },
+            "properties": {
+                "name": "Star\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8903084,
+                    49.1648759
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9\u010debna dlouhodob\u011b nemocn\u00fdch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6803897,
+                    49.7874568
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Rudolfa a Stefanie Bene\u0161ov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71792,
+                    49.9838665
+                ]
+            },
+            "properties": {
+                "name": "Lecbna Dlouhodobe Nemocnych Vojkov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3018051,
+                    50.7409711
+                ]
+            },
+            "properties": {
+                "name": "LDN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9635792,
+                    50.3120875
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Ostrov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4755914,
+                    50.3563068
+                ]
+            },
+            "properties": {
+                "name": "Centrum senior\u016f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.475532,
+                    50.3570385
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Na Podol\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7066036,
+                    49.9378235
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko Mnichovice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8762424,
+                    50.2329849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6753275,
+                    49.9959988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7491454,
+                    50.1601203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7643629,
+                    49.0568577
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Vimperk a.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7074276,
+                    49.3237113
+                ]
+            },
+            "properties": {
+                "name": "LDN Hora\u017e\u010fovice, s.r.o."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7413325,
+                    50.3291158
+                ]
+            },
+            "properties": {
+                "name": "REHOS Nejdek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2769086,
+                    49.9304797
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9ka\u0159, Stomatolog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1449975,
+                    48.8642538
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice TGM Hodon\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9042322,
+                    50.149886
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9088043,
+                    50.650842
+                ]
+            },
+            "properties": {
+                "name": "Rehamedica \u017dacl\u00e9\u0159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0722858,
+                    50.1477575
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika T\u00fdni\u0161t\u011b nad Orlic\u00ed, s.r.o."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7646563,
+                    49.5746616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.558984,
+                    50.0463057
+                ]
+            },
+            "properties": {
+                "name": "l\u00e9ka\u0159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5207385,
+                    50.4894786
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1120012,
+                    50.2694602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6141156,
+                    50.6023434
+                ]
+            },
+            "properties": {
+                "name": "Kru\u0161nohorsk\u00e1 poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1500827,
+                    49.9484559
+                ]
+            },
+            "properties": {
+                "name": "Vysokom\u00fdtsk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.195538,
+                    50.019643
+                ]
+            },
+            "properties": {
+                "name": "Oblastn\u00ed nemocnice Kol\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6133336,
+                    49.9115118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.987794,
+                    50.0671817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2614567,
+                    49.5253441
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.239272,
+                    49.792055
+                ]
+            },
+            "properties": {
+                "name": "D\u011btsk\u00e1 poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2388699,
+                    49.791989
+                ]
+            },
+            "properties": {
+                "name": "Soukrom\u00e1 poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0666997,
+                    50.7686909
+                ]
+            },
+            "properties": {
+                "name": "Euc klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3925895,
+                    49.8172829
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko Slapy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3570941,
+                    50.436078
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0839608,
+                    50.234417
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Slan\u00fd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2774388,
+                    49.9573554
+                ]
+            },
+            "properties": {
+                "name": "MUDr. Richard Klail \u2013 zubn\u00ed ambulance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8736981,
+                    49.0903822
+                ]
+            },
+            "properties": {
+                "name": "M\u011bstsk\u00e1 nemocnice Slavi\u010d\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0646482,
+                    49.8800298
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9ka\u0159sk\u00e9 za\u0159\u00edzen\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4398936,
+                    49.9033205
+                ]
+            },
+            "properties": {
+                "name": "Ambulantn\u00ed za\u0159\u00edzen\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3765862,
+                    50.1320629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6880418,
+                    50.0959538
+                ]
+            },
+            "properties": {
+                "name": "Krnovsk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5977909,
+                    49.5312041
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0508511,
+                    49.8731043
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9k\u00e1rna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4262127,
+                    50.0722865
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Karlova - 1. lekarska fakulta a Vseobecna fakultni nemocnice - Psychiatricka klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6399156,
+                    50.3688294
+                ]
+            },
+            "properties": {
+                "name": "Hospital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2160701,
+                    49.7784648
+                ]
+            },
+            "properties": {
+                "name": "HOSPIC SV. LUK\u00c1\u0160E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6117124,
+                    50.8937271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8874705,
+                    49.9835454
+                ]
+            },
+            "properties": {
+                "name": "zdravotn\u00ed st\u0159edisko Ruda nad Mor."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2689119,
+                    50.0319959
+                ]
+            },
+            "properties": {
+                "name": "Ordinace Jino\u010dany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6495589,
+                    50.5125326
+                ]
+            },
+            "properties": {
+                "name": "Pe\u010dovatelsk\u00fd d\u016fm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1017014,
+                    50.759952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3955926,
+                    49.9738078
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Zbraslav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6183875,
+                    49.0402736
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9ka\u0159sk\u00e1 slu\u017eba prvn\u00ed pomoci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7842947,
+                    50.5411537
+                ]
+            },
+            "properties": {
+                "name": "Hornick\u00e1 nemocnice s poliklinikou spol. s r.o."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2939897,
+                    49.970253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6502983,
+                    50.1779226
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Sokolov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2281734,
+                    49.8093293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2228276,
+                    49.7964267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3680366,
+                    49.3619784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.761565,
+                    49.7861686
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice V\u00edtkov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7808618,
+                    50.6303297
+                ]
+            },
+            "properties": {
+                "name": "St\u00e1tn\u00ed l\u00e9\u010debn\u00e9 l\u00e1zn\u011b Jansk\u00e9 L\u00e1zn\u011b, s.p."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7077827,
+                    50.5409113
+                ]
+            },
+            "properties": {
+                "name": "Zdravotnick\u00e9 st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4621823,
+                    48.9925924
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1916778,
+                    49.1181199
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1896833,
+                    49.1196201
+                ]
+            },
+            "properties": {
+                "name": "D\u011btsk\u00fd l\u00e9ka\u0159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0020923,
+                    49.1514841
+                ]
+            },
+            "properties": {
+                "name": "D\u011btsk\u00fd a dorostov\u00fd l\u00e9ka\u0159 - Verd\u00e1n Miroslav - Alergologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4833373,
+                    50.0909412
+                ]
+            },
+            "properties": {
+                "name": "V\u0161eobecn\u00fd praktick\u00fd l\u00e9ka\u0159, stomatologie, gynekologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4945908,
+                    50.0206492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6517196,
+                    50.1881583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.487594,
+                    48.7397517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3949422,
+                    50.1574822
+                ]
+            },
+            "properties": {
+                "name": "RHG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9802461,
+                    49.9121849
+                ]
+            },
+            "properties": {
+                "name": "Zdravotnick\u00e9 st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4551043,
+                    49.1695193
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko/Pediatrician"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4378411,
+                    49.7844405
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice s poliklinikou Hav\u00ed\u0159ov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3652413,
+                    50.0962801
+                ]
+            },
+            "properties": {
+                "name": "Cordeus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6275254,
+                    49.7955376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4794151,
+                    49.980584
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed z\u00e1chrann\u00e1 slu\u017eba Plze\u0148sk\u00e9ho kraje, v\u00fdjezdov\u00e9 stanovi\u0161t\u011b Kralovice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5206358,
+                    48.8826469
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9karna Gabriela"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6179855,
+                    49.2091352
+                ]
+            },
+            "properties": {
+                "name": "Cechov\u00e1 Ladislava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4327674,
+                    50.0560933
+                ]
+            },
+            "properties": {
+                "name": "GYMUNO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6800764,
+                    49.6118029
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6248257,
+                    49.211283
+                ]
+            },
+            "properties": {
+                "name": "Orto Poul"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6073085,
+                    49.2013308
+                ]
+            },
+            "properties": {
+                "name": "Urologie Pacl\u00edk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6045392,
+                    49.2068988
+                ]
+            },
+            "properties": {
+                "name": "Zubn\u00ed rentgen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3125689,
+                    50.2427018
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Kralupy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3612753,
+                    49.6120026
+                ]
+            },
+            "properties": {
+                "name": "Praktick\u00fd l\u00e9ka\u0159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1894962,
+                    49.1173593
+                ]
+            },
+            "properties": {
+                "name": "Z\u00e1chrann\u00e1 slu\u017eba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4231465,
+                    50.0707436
+                ]
+            },
+            "properties": {
+                "name": "Dermatovenerologick\u00e1 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8074317,
+                    49.9430279
+                ]
+            },
+            "properties": {
+                "name": "Pohotovost"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6067717,
+                    49.1887024
+                ]
+            },
+            "properties": {
+                "name": "Chirurgie Ruky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0738681,
+                    49.9645381
+                ]
+            },
+            "properties": {
+                "name": "VITA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6058783,
+                    49.2109739
+                ]
+            },
+            "properties": {
+                "name": "MUDr. Jaroslav Matu\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4326145,
+                    50.0571558
+                ]
+            },
+            "properties": {
+                "name": "Medicover"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5669249,
+                    49.6090013
+                ]
+            },
+            "properties": {
+                "name": "MUDr. Romana Pumprov\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5817465,
+                    49.6026871
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6200635,
+                    49.2100184
+                ]
+            },
+            "properties": {
+                "name": "MUDr. Andrea M\u00e1lkov\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6228219,
+                    50.5088942
+                ]
+            },
+            "properties": {
+                "name": "Hospic v Most\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3788376,
+                    49.2938226
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrick\u00e1 nemocnice Krom\u011b\u0159\u00ed\u017e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.540292,
+                    49.8694377
+                ]
+            },
+            "properties": {
+                "name": "Karvinsk\u00e1 hornick\u00e1 nemocnice a.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6027885,
+                    49.1917766
+                ]
+            },
+            "properties": {
+                "name": "Fyzioterapie Jakub Ve\u0161krna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5518499,
+                    49.4701297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0342753,
+                    49.203201
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko Kozlany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3696362,
+                    50.0781582
+                ]
+            },
+            "properties": {
+                "name": "Gynekologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.337791,
+                    50.0513664
+                ]
+            },
+            "properties": {
+                "name": "Medicur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5104726,
+                    50.2586167
+                ]
+            },
+            "properties": {
+                "name": "Almeda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3509808,
+                    50.0932359
+                ]
+            },
+            "properties": {
+                "name": "Canadian Medical Care"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6576522,
+                    49.1843871
+                ]
+            },
+            "properties": {
+                "name": "ZZS Jihomoravsk\u00e9ho kraje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7843991,
+                    50.6861251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5496464,
+                    49.8484664
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice s poliklinikou Karvin\u00e1-R\u00e1j"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1261563,
+                    49.0112007
+                ]
+            },
+            "properties": {
+                "name": "D\u011btsk\u00e1 Nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6398944,
+                    49.6377122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4236723,
+                    49.8751997
+                ]
+            },
+            "properties": {
+                "name": "Ko\u017en\u00ed klinika VZHLED"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2546776,
+                    50.4223994
+                ]
+            },
+            "properties": {
+                "name": "LDN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3744913,
+                    50.0330145
+                ]
+            },
+            "properties": {
+                "name": "D\u011btsk\u00e9 odd\u011blen\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0816729,
+                    49.8841798
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0804874,
+                    49.8794822
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0876231,
+                    49.4758924
+                ]
+            },
+            "properties": {
+                "name": "\"B\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0852156,
+                    49.4766419
+                ]
+            },
+            "properties": {
+                "name": "\"F\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0846476,
+                    49.476692
+                ]
+            },
+            "properties": {
+                "name": "\"G\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0909153,
+                    50.1405283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0886462,
+                    50.1413827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3774538,
+                    49.7624283
+                ]
+            },
+            "properties": {
+                "name": "Porodnice Lochot\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2369293,
+                    49.5837773
+                ]
+            },
+            "properties": {
+                "name": "Fakultn\u00ed nemocnice Olomouc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.573124,
+                    49.1754919
+                ]
+            },
+            "properties": {
+                "name": "Fakultn\u00ed nemocnice Bohunice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5992716,
+                    49.190478
+                ]
+            },
+            "properties": {
+                "name": "Fakultn\u00ed nemocnice u svat\u00e9 Anny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5958319,
+                    49.1989179
+                ]
+            },
+            "properties": {
+                "name": "Porodnice Obiln\u00ed trh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6170834,
+                    49.2036423
+                ]
+            },
+            "properties": {
+                "name": "D\u011btsk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5901421,
+                    49.1853837
+                ]
+            },
+            "properties": {
+                "name": "Hospic sv. Al\u017eb\u011bty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4635615,
+                    50.0228284
+                ]
+            },
+            "properties": {
+                "name": "IKEM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4197353,
+                    50.0623041
+                ]
+            },
+            "properties": {
+                "name": "\u00dastav pro p\u00e9\u010di o matku a d\u00edt\u011b Podol\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9198689,
+                    50.5598756
+                ]
+            },
+            "properties": {
+                "name": "Masarykova nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3650978,
+                    50.0963554
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika na Dlouh\u00e9m L\u00e1nu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.30347,
+                    49.683389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3728196,
+                    49.1025326
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Ivan\u010dice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6524666,
+                    49.4166868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3757955,
+                    49.7330281
+                ]
+            },
+            "properties": {
+                "name": "Fakultn\u00ed nemocnice Plze\u0148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7878826,
+                    50.0289687
+                ]
+            },
+            "properties": {
+                "name": "Pardubick\u00e1 krajsk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4811616,
+                    50.2427188
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Nov\u00fd Byd\u017eov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.534268,
+                    50.1029591
+                ]
+            },
+            "properties": {
+                "name": "Gynekologick\u00e1 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9063431,
+                    50.3574517
+                ]
+            },
+            "properties": {
+                "name": "Oblastn\u00ed nemocnice N\u00e1chod - Nemocnice Jarom\u011b\u0159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1496793,
+                    50.3591497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8266874,
+                    50.1976575
+                ]
+            },
+            "properties": {
+                "name": "Fakultn\u00ed nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1674058,
+                    50.4099957
+                ]
+            },
+            "properties": {
+                "name": "Oblastn\u00ed nemocnice N\u00e1chod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5720678,
+                    50.1069775
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Parnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9987109,
+                    49.3340602
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7068533,
+                    49.2206759
+                ]
+            },
+            "properties": {
+                "name": "O\u010dn\u00ed klinika Gemini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8052781,
+                    50.0693938
+                ]
+            },
+            "properties": {
+                "name": "\u00dastav soci\u00e1ln\u00ed p\u00e9\u010de R\u00e1by"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1459122,
+                    49.5955332
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Therapon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2709806,
+                    50.1694595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8959054,
+                    49.2128467
+                ]
+            },
+            "properties": {
+                "name": "Pohotovost"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8923438,
+                    49.2124544
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice T\u0159eb\u00ed\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.428614,
+                    50.0715067
+                ]
+            },
+            "properties": {
+                "name": "Urologick\u00e1 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2813492,
+                    50.0037893
+                ]
+            },
+            "properties": {
+                "name": "Rehabilita\u010dn\u00ed \u00fastav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0317291,
+                    49.8864626
+                ]
+            },
+            "properties": {
+                "name": "Hamzova d\u011btsk\u00e1 l\u00e9\u010debna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1516233,
+                    49.9548561
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Vysok\u00e9 M\u00fdto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4384283,
+                    50.4874976
+                ]
+            },
+            "properties": {
+                "name": "Zdravotni stredisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5871021,
+                    49.1814808
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9\u010debna pro dlouhodob\u011b nemocn\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5222653,
+                    50.1958236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6395527,
+                    49.1829354
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrick\u00e1 nemocnice Brno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4262328,
+                    50.0722392
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrick\u00e1 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4251654,
+                    50.0739157
+                ]
+            },
+            "properties": {
+                "name": "Neurologick\u00e1 klinika 1. l\u00e9ka\u0159sk\u00e9 fakulty Univerzity Karlovy a V\u0161eobecn\u00e9 fakultn\u00ed nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4789251,
+                    50.074638
+                ]
+            },
+            "properties": {
+                "name": "Fakultn\u00ed nemocnice Kr\u00e1lovsk\u00e9 Vinohrady"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.878804,
+                    49.2042313
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Vltav\u00ednsk\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5918484,
+                    49.0354749
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3439889,
+                    50.0726628
+                ]
+            },
+            "properties": {
+                "name": "Fakultn\u00ed nemocnice Motol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0882833,
+                    50.141022
+                ]
+            },
+            "properties": {
+                "name": "Oblastn\u00ed nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.400777,
+                    49.7307503
+                ]
+            },
+            "properties": {
+                "name": "M\u011bstsk\u00e1 poliklinika Slovany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.369865,
+                    49.7273607
+                ]
+            },
+            "properties": {
+                "name": "Mula\u010dova nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9889627,
+                    50.4786762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3547471,
+                    50.0747164
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Na Homolce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.227126,
+                    50.9262443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4614685,
+                    50.1155952
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Na Bulovce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0646089,
+                    50.7700037
+                ]
+            },
+            "properties": {
+                "name": "Krajsk\u00e1 nemocnice Liberec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3525807,
+                    49.818647
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9\u010debna dlouhodob\u011b nemocn\u00fdch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6335388,
+                    50.5164724
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice n\u00e1sledn\u00e9 p\u00e9\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.611521,
+                    49.2075677
+                ]
+            },
+            "properties": {
+                "name": "Surgal Clinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5664061,
+                    50.0359923
+                ]
+            },
+            "properties": {
+                "name": "P\u0159elou\u010dsk\u00e1 poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6152583,
+                    49.197766
+                ]
+            },
+            "properties": {
+                "name": "\u00darazov\u00e1 nemocnice v Brn\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4535173,
+                    49.0632461
+                ]
+            },
+            "properties": {
+                "name": "Uherskohradi\u0161\u0165sk\u00e1 nemocnice a.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.152231,
+                    49.7894527
+                ]
+            },
+            "properties": {
+                "name": "Masarykovo sanatorium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1520406,
+                    49.7895089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9141347,
+                    49.9418271
+                ]
+            },
+            "properties": {
+                "name": "Zuba\u0159i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3930795,
+                    49.7457446
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Plze\u0148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7469126,
+                    49.5555689
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Hranice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8780327,
+                    49.9347614
+                ]
+            },
+            "properties": {
+                "name": "Slezsk\u00e1 nemocnice v Opav\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2529604,
+                    49.9460174
+                ]
+            },
+            "properties": {
+                "name": "ONK, a.s., nemocnice S\u010cK, nemocnice Kutn\u00e1 Hora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.037767,
+                    50.188365
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika AGEL Nymburk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0367196,
+                    50.1858895
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Na Valech"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6997034,
+                    49.2282642
+                ]
+            },
+            "properties": {
+                "name": "Krajsk\u00e1 nemocnice Tom\u00e1\u0161e Bati"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6569541,
+                    49.2226919
+                ]
+            },
+            "properties": {
+                "name": "Atlas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2746792,
+                    49.8335977
+                ]
+            },
+            "properties": {
+                "name": "M\u011bstsk\u00e1 nemocnice Ostrava Fifejdy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6309633,
+                    49.2026197
+                ]
+            },
+            "properties": {
+                "name": "Vojensk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6415245,
+                    49.680773
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Podles\u00ed, a.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6907109,
+                    49.674736
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice T\u0159inec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4314451,
+                    49.0760371
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1577985,
+                    50.2917155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6600351,
+                    49.9936361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6598091,
+                    49.9931029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6055261,
+                    50.6222375
+                ]
+            },
+            "properties": {
+                "name": "Horsk\u00e1 nemocnice Krkono\u0161e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6086731,
+                    50.6223918
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9\u010debna dlouhodob\u011b nemocn\u00fdch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2624463,
+                    49.7162146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7043473,
+                    49.9603995
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Mari\u00e1nsk\u00e9 L\u00e1zn\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5891824,
+                    50.0439838
+                ]
+            },
+            "properties": {
+                "name": "zdravotn\u00ed st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6104973,
+                    49.7459391
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice \u010cesk\u00fd T\u011b\u0161\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1163799,
+                    49.9888493
+                ]
+            },
+            "properties": {
+                "name": "Rehabilita\u010dn\u00ed \u00fastav Hrabyn\u011b. Pracovi\u0161t\u011b Chucheln\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4122451,
+                    50.4767472
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko B\u0159ezeneck\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6546884,
+                    49.75632
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice n\u00e1sledn\u00e9 p\u00e9\u010de Moravsk\u00e1 T\u0159ebov\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0174135,
+                    48.78981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2702032,
+                    50.3914456
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice s poliklinikou Kada\u0148"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1513559,
+                    49.9551765
+                ]
+            },
+            "properties": {
+                "name": "Vysokom\u00fdtsk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6115307,
+                    50.8936146
+                ]
+            },
+            "properties": {
+                "name": "Krankenhaus Varnsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4031483,
+                    49.9701269
+                ]
+            },
+            "properties": {
+                "name": "Orlicko\u00fasteck\u00e1 Nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9092917,
+                    50.5599602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3611564,
+                    49.4529141
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1577041,
+                    49.8283811
+                ]
+            },
+            "properties": {
+                "name": "Fakultn\u00ed nemocnice Ostrava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2705633,
+                    49.8153018
+                ]
+            },
+            "properties": {
+                "name": "V\u00edtkovick\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9222885,
+                    50.4071704
+                ]
+            },
+            "properties": {
+                "name": "Klinika Dr. P\u00edrka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6890346,
+                    49.9897033
+                ]
+            },
+            "properties": {
+                "name": "Olivova d\u011btsk\u00e1 l\u00e9\u010debna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5379142,
+                    50.3195424
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice \u017datec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.536999,
+                    50.3215746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4455938,
+                    50.5020125
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Jirkov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6060044,
+                    50.6027328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5702564,
+                    49.6101968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.652692,
+                    49.0290919
+                ]
+            },
+            "properties": {
+                "name": "M\u011bstsk\u00e1 nemocnice s poliklinikou Uh. Brod, s.r.o."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5604819,
+                    49.1833125
+                ]
+            },
+            "properties": {
+                "name": "FN u sv. Anny - Dol\u00e9\u010dovac\u00ed a rehabilita\u010dn\u00ed odd\u011blen\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2385015,
+                    49.9113162
+                ]
+            },
+            "properties": {
+                "name": "Trans Hospital (pohotovost)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.468803,
+                    49.7538775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1977657,
+                    50.228171
+                ]
+            },
+            "properties": {
+                "name": "Jesenick\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8069897,
+                    49.052826
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Moravsk\u00e9 Bud\u011bjovice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8071122,
+                    49.053032
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Moravsk\u00e9 Bud\u011bjovice - budova 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.247801,
+                    50.4231163
+                ]
+            },
+            "properties": {
+                "name": "Pod\u0159ipsk\u00e1 nemocnice s poliklinikou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8792676,
+                    48.7525455
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice B\u0159eclav p.o."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3387392,
+                    49.6285802
+                ]
+            },
+            "properties": {
+                "name": "Hospic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4337622,
+                    49.3477938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5641993,
+                    49.613946
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrick\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0864581,
+                    49.476488
+                ]
+            },
+            "properties": {
+                "name": "Centrum sportovn\u00ed medic\u00edny  \"J\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0838105,
+                    49.4763946
+                ]
+            },
+            "properties": {
+                "name": "Patologie \"H\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0874814,
+                    49.4751063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.086857,
+                    49.4751441
+                ]
+            },
+            "properties": {
+                "name": "Intern\u00ed odd\u011blen\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0864864,
+                    49.475494
+                ]
+            },
+            "properties": {
+                "name": "Chirurgie \"E\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0868515,
+                    49.4752663
+                ]
+            },
+            "properties": {
+                "name": "Pohotovost"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0849085,
+                    49.4766852
+                ]
+            },
+            "properties": {
+                "name": "O\u010dn\u00ed, Infek\u010dn\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0880786,
+                    49.4748561
+                ]
+            },
+            "properties": {
+                "name": "D\u011btsk\u00e9 \"D\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0872496,
+                    49.4752674
+                ]
+            },
+            "properties": {
+                "name": "Informace"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0883382,
+                    49.4752186
+                ]
+            },
+            "properties": {
+                "name": "Plicn\u00ed odd\u011blen\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6444515,
+                    49.4903503
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Boskovice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8235267,
+                    50.2098248
+                ]
+            },
+            "properties": {
+                "name": "poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.416728,
+                    49.754682
+                ]
+            },
+            "properties": {
+                "name": "IV. Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3720758,
+                    49.766208
+                ]
+            },
+            "properties": {
+                "name": "Z\u00e1chrann\u00e1 slu\u017eba Plze\u0148sk\u00e9ho kraje, V\u00fdjezdov\u00e9 stanovi\u0161t\u011b Plze\u0148 sever"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8625445,
+                    49.8821918
+                ]
+            },
+            "properties": {
+                "name": "LDN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8634007,
+                    49.8824016
+                ]
+            },
+            "properties": {
+                "name": "Interna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8620276,
+                    49.8825508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9205766,
+                    49.7755902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9901536,
+                    49.2756704
+                ]
+            },
+            "properties": {
+                "name": "Angis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3251401,
+                    48.8120526
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice \u010cesk\u00fd Krumlov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3913534,
+                    50.0791993
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Na Strahov\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3923492,
+                    49.9704801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3922105,
+                    49.9707377
+                ]
+            },
+            "properties": {
+                "name": "V\u0161eobecn\u00e1 fakultn\u00ed nemocnice - transfuzn\u00ed odd\u011blen\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4874898,
+                    48.7398163
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Kaplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2304212,
+                    49.4344662
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Pelh\u0159imov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5694407,
+                    49.3974265
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Jihlava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.019645,
+                    50.6802512
+                ]
+            },
+            "properties": {
+                "name": "Masarykova nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0057737,
+                    49.5887604
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Nov\u00fd Ji\u010d\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0860474,
+                    49.4759086
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Prost\u011bjov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3986793,
+                    49.2147285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0863578,
+                    49.4770357
+                ]
+            },
+            "properties": {
+                "name": "\"K\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2262232,
+                    50.7815946
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice D\u011b\u010d\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7847833,
+                    50.5410107
+                ]
+            },
+            "properties": {
+                "name": "Hornick\u00e1 nemocnice s poliklinikou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3370041,
+                    49.918055
+                ]
+            },
+            "properties": {
+                "name": "Bohum\u00ednsk\u00e1 m\u011bstsk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4098192,
+                    50.4533062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4046966,
+                    50.6824135
+                ]
+            },
+            "properties": {
+                "name": "\u00dastav chirurgie ruky a plastick\u00e9 chirurgie Vysok\u00e9 nad Jizerou"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9796573,
+                    49.2780916
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Vy\u0161kov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2923509,
+                    49.4042964
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Klatovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5466146,
+                    50.9486742
+                ]
+            },
+            "properties": {
+                "name": "Lu\u017eick\u00e1 nemocnice Rumburk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1124115,
+                    49.0086352
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Kyjov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4307814,
+                    49.075981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4695287,
+                    49.7529692
+                ]
+            },
+            "properties": {
+                "name": "Svitavsk\u00e1 nemocnice, a.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.025262,
+                    49.063377
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9ka\u0159sk\u00e9 centrum - Laudonova vila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0245025,
+                    49.063374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9407849,
+                    49.8402842
+                ]
+            },
+            "properties": {
+                "name": "Domov Iv\u00e1\u0148, poskytovatel soci\u00e1ln\u00edch slu\u017eeb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9886862,
+                    49.6739851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0101217,
+                    49.6925201
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3512118,
+                    50.3588812
+                ]
+            },
+            "properties": {
+                "name": "psychiatrick\u00e1 l\u00e9\u010debna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9162009,
+                    49.8403394
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Ho\u0159ovice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1452476,
+                    48.8643721
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice TGM"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0968722,
+                    49.9652454
+                ]
+            },
+            "properties": {
+                "name": "Rehabilita\u010dn\u00ed Nemocnice Beroun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0370879,
+                    50.1870847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0282522,
+                    49.6905527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4013311,
+                    49.9041723
+                ]
+            },
+            "properties": {
+                "name": "M\u011bstsk\u00e1 nemocnice \u010c\u00e1slav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8148705,
+                    50.4484965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.749691,
+                    49.8696283
+                ]
+            },
+            "properties": {
+                "name": "Swiss Medic Clinic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.353975,
+                    49.690967
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Fr\u00fddek-M\u00edstek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3345715,
+                    49.551461
+                ]
+            },
+            "properties": {
+                "name": "Zdravotn\u00ed st\u0159edisko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9209701,
+                    50.3532335
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0885669,
+                    50.9250123
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5427541,
+                    49.5697888
+                ]
+            },
+            "properties": {
+                "name": "RZS Vl\u010dice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2280351,
+                    49.8076482
+                ]
+            },
+            "properties": {
+                "name": "Odborn\u00fd l\u00e9\u010debn\u00fd \u00fastav Paseka o.p."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1079741,
+                    50.2343191
+                ]
+            },
+            "properties": {
+                "name": "Senior centrum P\u0159epychy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.907026,
+                    50.3559474
+                ]
+            },
+            "properties": {
+                "name": "v\u00fdjezdov\u00e9 st\u0159edisko rychl\u00e9 z\u00e1chrann\u00e9 slu\u017eby"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6030833,
+                    49.3947731
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrick\u00e1 l\u00e9\u010debna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.434351,
+                    49.8750254
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice s poliklinikou Karvin\u00e1-R\u00e1j pracovi\u0161t\u011b Orlov\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6383106,
+                    50.7850459
+                ]
+            },
+            "properties": {
+                "name": "D\u011btsk\u00e1 l\u00e9\u010debna Cvikov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6173736,
+                    50.7906777
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9\u010debna respira\u010dn\u00edch chorob pro dosp\u011bl\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6659656,
+                    49.705884
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9\u010debna TRN Janov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6531779,
+                    49.4166253
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice T\u00e1bor, a.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2866606,
+                    49.8339137
+                ]
+            },
+            "properties": {
+                "name": "Institut onkologie a rehabilitace Na Ple\u0161i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.589787,
+                    49.2258573
+                ]
+            },
+            "properties": {
+                "name": "Klinika plastick\u00e9 chirurgie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.459971,
+                    50.0280995
+                ]
+            },
+            "properties": {
+                "name": "Thomayerova nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8504488,
+                    49.2191302
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Milosrdn\u00fdch brat\u0159\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2466662,
+                    50.3619382
+                ]
+            },
+            "properties": {
+                "name": "Praktick\u00fd, zubn\u00ed l\u00e9ka\u0159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6529192,
+                    49.4173904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2855781,
+                    49.6444088
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrick\u00e1 l\u00e9\u010debna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2621542,
+                    49.931376
+                ]
+            },
+            "properties": {
+                "name": "Podhorsk\u00e1 nemocnice a.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8104895,
+                    50.6358449
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Teplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6666806,
+                    49.63411
+                ]
+            },
+            "properties": {
+                "name": "Odborn\u00fd l\u00e9\u010debn\u00fd \u00fastav Jev\u00ed\u010dko - Sanatorium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6285184,
+                    49.7928485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6285399,
+                    49.7927469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5970019,
+                    49.1853856
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Milosrdn\u00fdch brat\u0159\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8410739,
+                    50.2088485
+                ]
+            },
+            "properties": {
+                "name": "Star\u00e1 fakultn\u00ed nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0114954,
+                    49.0069384
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Prachatice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5804809,
+                    49.5452787
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Milosrdn\u00fdch brat\u0159\u00ed Letovice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1646168,
+                    50.4067213
+                ]
+            },
+            "properties": {
+                "name": "Porodnice N\u00e1chod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9814563,
+                    50.5242482
+                ]
+            },
+            "properties": {
+                "name": "LDN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4142065,
+                    50.0057957
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Mod\u0159any"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3757724,
+                    49.7624632
+                ]
+            },
+            "properties": {
+                "name": "Biomedic\u00ednsk\u00e9 centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7596243,
+                    48.7435399
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Valtice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.827593,
+                    49.6654967
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Odry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4267826,
+                    50.0709153
+                ]
+            },
+            "properties": {
+                "name": "Gynekologicko-porodnick\u00e1 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4217757,
+                    50.1362797
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrick\u00e1 nemocnice Bohnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0166871,
+                    49.7630769
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice B\u00edlovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4848208,
+                    50.3474756
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice M\u011bln\u00edk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7162123,
+                    50.108052
+                ]
+            },
+            "properties": {
+                "name": "Masarykova nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4669093,
+                    48.9598422
+                ]
+            },
+            "properties": {
+                "name": "Horn\u00ed are\u00e1l Nemocnice \u010cesk\u00e9 Bud\u011bjovice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6275789,
+                    50.5057525
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Most"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3957669,
+                    50.0639293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.9986861,
+                    49.3320935
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Vset\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5924228,
+                    50.1077665
+                ]
+            },
+            "properties": {
+                "name": "LRS Chvaly"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8761056,
+                    50.2330578
+                ]
+            },
+            "properties": {
+                "name": "Karlovarsk\u00e1 krajsk\u00e1 nemocnice a.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6015597,
+                    49.1887732
+                ]
+            },
+            "properties": {
+                "name": "FN u sv. Anny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3661208,
+                    50.0696727
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Cheb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1576698,
+                    49.3021331
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice P\u00edsek, a.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1785775,
+                    49.3145405
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrick\u00e1 l\u00e9\u010debna \"U Honz\u00ed\u010dka\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6992911,
+                    50.1152444
+                ]
+            },
+            "properties": {
+                "name": "Centrum zdravotn\u00ed p\u00e9\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1698601,
+                    50.5890662
+                ]
+            },
+            "properties": {
+                "name": "Panochova nemocnice Turnov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9095991,
+                    50.4181519
+                ]
+            },
+            "properties": {
+                "name": "Klaudi\u00e1nova nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0876303,
+                    49.4755888
+                ]
+            },
+            "properties": {
+                "name": "Rehabilitace \"C\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3718643,
+                    50.5279256
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice n\u00e1sledn\u00e9 p\u00e9\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3134754,
+                    49.8643282
+                ]
+            },
+            "properties": {
+                "name": "Litomy\u0161lsk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3753105,
+                    49.7623927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.550568,
+                    49.8473584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3521616,
+                    49.8186087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4211427,
+                    50.0744806
+                ]
+            },
+            "properties": {
+                "name": "\u00dastav hematologie a krevn\u00ed transfuze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.729863,
+                    48.9449625
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Hustope\u010de p.o."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8252387,
+                    50.2208144
+                ]
+            },
+            "properties": {
+                "name": "\u00dazemn\u00ed zdravotnick\u00e1 z\u00e1chrann\u00e1 slu\u017eba Karlovarsk\u00e9ho kraje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4469908,
+                    50.4084779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9815841,
+                    50.1519337
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrick\u00e1 nemocnice Kosmonosy, pracovi\u0161t\u011b Sadsk\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4218997,
+                    50.076267
+                ]
+            },
+            "properties": {
+                "name": "Fakultn\u00ed poliklinika V\u0161eobecn\u00e9 fakultn\u00ed nemocnice v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3530019,
+                    50.597823
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Semily"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5002767,
+                    50.611914
+                ]
+            },
+            "properties": {
+                "name": "Masarykova m\u011bstsk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6044714,
+                    49.748712
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Rokycany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4738018,
+                    49.4573797
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice P\u0159erov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4262538,
+                    49.6589587
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Sedl\u010dany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9265332,
+                    50.44363
+                ]
+            },
+            "properties": {
+                "name": "Psychiatrick\u00e1 nemocnice Kosmonosy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0045747,
+                    49.0150235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2534881,
+                    49.9461837
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Kutn\u00e1 Hora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7359708,
+                    50.044252
+                ]
+            },
+            "properties": {
+                "name": "Le\u010debn\u00ed \u00fastav \u010cerven\u00e1 Voda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1493817,
+                    49.3069591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5507565,
+                    50.6856752
+                ]
+            },
+            "properties": {
+                "name": "E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.551813,
+                    50.6856724
+                ]
+            },
+            "properties": {
+                "name": "G"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5497375,
+                    50.6855252
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice \u010cesk\u00e1 L\u00edpa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2625307,
+                    49.7163751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4270855,
+                    50.0741991
+                ]
+            },
+            "properties": {
+                "name": "\u2160. stomatologick\u00e1 klinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.420813,
+                    50.0691561
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice svat\u00e9 Al\u017eb\u011bty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3610606,
+                    50.0896654
+                ]
+            },
+            "properties": {
+                "name": "Vojensk\u00e1 nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3124798,
+                    50.2428297
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3789147,
+                    49.7627323
+                ]
+            },
+            "properties": {
+                "name": "Fakultn\u00ed nemocnice Lochot\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1897125,
+                    50.8901664
+                ]
+            },
+            "properties": {
+                "name": "L\u00e1zn\u011b Libverda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4207437,
+                    50.0725321
+                ]
+            },
+            "properties": {
+                "name": "V\u0161eobecn\u00e1 fakultn\u00ed nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.501245,
+                    50.0800265
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.424102,
+                    50.0695163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.459971,
+                    50.0280995
+                ]
+            },
+            "properties": {
+                "name": "Thomayerova nemocnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.428892,
+                    50.0700357
+                ]
+            },
+            "properties": {
+                "name": "Klinika d\u011btsk\u00e9ho a dorostov\u00e9ho l\u00e9ka\u0159stv\u00ed VFN a 1. LF UK v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5891272,
+                    49.1944797
+                ]
+            },
+            "properties": {
+                "name": "Masaryk\u016fv onkologick\u00fd \u00fastav"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5709656,
+                    49.6098287
+                ]
+            },
+            "properties": {
+                "name": "Okresn\u00ed nemocnice Havl\u00ed\u010dk\u016fv Brod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5259923,
+                    49.2300094
+                ]
+            },
+            "properties": {
+                "name": "nemocnice Su\u0161ice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0512891,
+                    48.8694012
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Znojmo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.356505,
+                    50.4401074
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Ji\u010d\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9080819,
+                    49.266172
+                ]
+            },
+            "properties": {
+                "name": "nemocnice Strakonice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9080685,
+                    49.4380216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.088163,
+                    50.9262757
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Fr\u00fddlant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6538401,
+                    49.3621402
+                ]
+            },
+            "properties": {
+                "name": "Nemocnice Blansko"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,966 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.434088,
+                    63.4138994
+                ]
+            },
+            "properties": {
+                "name": "Institutt for L\u00e6rerutdanning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.222146,
+                    60.269878
+                ]
+            },
+            "properties": {
+                "name": "Marinbiologisk stasjon, Universitetet i Bergen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6937667,
+                    58.9377085
+                ]
+            },
+            "properties": {
+                "name": "Universitetet i Stavanger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0792842,
+                    61.4252023
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i Innlandet, studiested Evenstad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7431524,
+                    59.9334006
+                ]
+            },
+            "properties": {
+                "name": "Det odontologiske fakultet (Universitetet i Oslo)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2362647,
+                    62.4720659
+                ]
+            },
+            "properties": {
+                "name": "NTNU i \u00c5lesund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.0597647,
+                    59.4088067
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i S\u00f8r\u00f8st-Norge, Campus B\u00f8"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7144053,
+                    59.9310325
+                ]
+            },
+            "properties": {
+                "name": "Politih\u00f8gskolen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0185163,
+                    60.174197
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i Innlandet, Studiested Kongsvinger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4036574,
+                    63.4345312
+                ]
+            },
+            "properties": {
+                "name": "NTNU Musikkteknologi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6742442,
+                    60.7892251
+                ]
+            },
+            "properties": {
+                "name": "Publiseringslab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6746506,
+                    60.7893923
+                ]
+            },
+            "properties": {
+                "name": "Lab for universell utforming"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6712047,
+                    60.7891671
+                ]
+            },
+            "properties": {
+                "name": "NISlab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9669029,
+                    63.5881653
+                ]
+            },
+            "properties": {
+                "name": "Fosen Folkeh\u00f8gskole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3488417,
+                    60.3863326
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8yskolen Kristiania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4834767,
+                    63.4388929
+                ]
+            },
+            "properties": {
+                "name": "NTNU, Institutt for l\u00e6rerutdanning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3327697,
+                    60.3857555
+                ]
+            },
+            "properties": {
+                "name": "Institutt for informasjons- og medievitenskap"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5368891,
+                    60.8817619
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i Innlandet, Studiested Elverum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7334266,
+                    59.9210847
+                ]
+            },
+            "properties": {
+                "name": "Oslo Metropolitan University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.6057917,
+                    59.4808139
+                ]
+            },
+            "properties": {
+                "name": "Seljord folkeh\u00f8gskule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3182118,
+                    60.3892046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5769882,
+                    58.3350653
+                ]
+            },
+            "properties": {
+                "name": "Universitetet i Agder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6546013,
+                    78.2225288
+                ]
+            },
+            "properties": {
+                "name": "Universitetssenteret p\u00e5 Svalbard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5810895,
+                    58.3379564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.97403,
+                    69.6818356
+                ]
+            },
+            "properties": {
+                "name": "Universitetet i Troms\u00f8 - Norges arktiske universitet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7139896,
+                    59.9324246
+                ]
+            },
+            "properties": {
+                "name": "Norges musikkh\u00f8gskole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.713455,
+                    59.9328826
+                ]
+            },
+            "properties": {
+                "name": "Det teologiske menighetsfakultet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3987831,
+                    63.4153843
+                ]
+            },
+            "properties": {
+                "name": "NTNU Handelsh\u00f8yskolen i Trondheim"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.6777209,
+                    60.7868052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.3481394,
+                    63.441106
+                ]
+            },
+            "properties": {
+                "name": "Norges teknisk-naturvitenskapelige universitet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4080666,
+                    63.4104346
+                ]
+            },
+            "properties": {
+                "name": "Norges teknisk-naturvitenskapelige universitet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4537308,
+                    63.4477313
+                ]
+            },
+            "properties": {
+                "name": "NTNU Ringve botaniske hage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0748889,
+                    60.7967155
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i Innlandet, Studiested Hamar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4349314,
+                    68.435895
+                ]
+            },
+            "properties": {
+                "name": "UiT Norges arktiske universitet, campus Narvik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9301716,
+                    59.2127964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7294091,
+                    59.9665139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9222296,
+                    69.6365328
+                ]
+            },
+            "properties": {
+                "name": "L\u00e6rerskolen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4343723,
+                    63.4233756
+                ]
+            },
+            "properties": {
+                "name": "Norges teknisk-naturvitenskapelige universitet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7315877,
+                    59.9683477
+                ]
+            },
+            "properties": {
+                "name": "Olympiatoppen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7319746,
+                    59.967712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7321036,
+                    59.966803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8455389,
+                    59.9479949
+                ]
+            },
+            "properties": {
+                "name": "Krigsskolen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.388976,
+                    63.4203126
+                ]
+            },
+            "properties": {
+                "name": "Norges teknisk-naturvitenskapelige universitet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4220796,
+                    61.150276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4412424,
+                    59.3686966
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i Vestfold"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0022297,
+                    58.1636395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7302081,
+                    59.9669655
+                ]
+            },
+            "properties": {
+                "name": "Norges idrettsh\u00f8gskole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.292857,
+                    60.3616437
+                ]
+            },
+            "properties": {
+                "name": "VID Bergen, Betanien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.2158662,
+                    69.5839885
+                ]
+            },
+            "properties": {
+                "name": "EISCAT Ramfjordmoen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1799834,
+                    60.819455
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i Innlandet, Studiested Bl\u00e6stad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0451854,
+                    59.9752594
+                ]
+            },
+            "properties": {
+                "name": "Universitetssenteret p\u00e5 Kjeller"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5258085,
+                    59.8174725
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskulen p\u00e5 Vestlandet Campus Stord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.783646,
+                    63.1114718
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8yskolesenteret i Kristiansund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36338,
+                    60.3780767
+                ]
+            },
+            "properties": {
+                "name": "VID Bergen, Haraldsplass"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9151049,
+                    69.6357144
+                ]
+            },
+            "properties": {
+                "name": "Konservatoriet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6963792,
+                    58.9379071
+                ]
+            },
+            "properties": {
+                "name": "Universitetet i Stavanger"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0805014,
+                    62.1484085
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskulen i Volda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2882372,
+                    69.9689964
+                ]
+            },
+            "properties": {
+                "name": "UiT Norges arktiske universitet, campus Alta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6746488,
+                    70.6738139
+                ]
+            },
+            "properties": {
+                "name": "Norges Arktiske Universitet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2737486,
+                    60.3827989
+                ]
+            },
+            "properties": {
+                "name": "Nyg\u00e5rdslien skole"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.67325,
+                    59.1377721
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i S\u00f8r\u00f8st-Norge campus Porsgrunn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4209522,
+                    60.6301264
+                ]
+            },
+            "properties": {
+                "name": "Ole Bull Akademiet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0138564,
+                    60.2190298
+                ]
+            },
+            "properties": {
+                "name": "Politih\u00f8gskolen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3537468,
+                    59.1291199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.42166,
+                    61.149771
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i Innlandet, Studiested Lillehamar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2762772,
+                    59.4090263
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskulen p\u00e5 Vestlandet Campus Haugesund"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7570661,
+                    59.7993824
+                ]
+            },
+            "properties": {
+                "name": "Norges milj\u00f8- og biovitenskapelige universitet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.0037402,
+                    58.1630979
+                ]
+            },
+            "properties": {
+                "name": "Universitetet i Agder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3532465,
+                    60.3793567
+                ]
+            },
+            "properties": {
+                "name": "Fakultet for kunst, musikk og design"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1936352,
+                    59.7434138
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i S\u00f8r\u00f8st-Norge campus Drammen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3381844,
+                    60.3823313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5351802,
+                    62.1083682
+                ]
+            },
+            "properties": {
+                "name": "Norges teknisk-naturvitenskapelige universitet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.1084629,
+                    62.7365956
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i Molde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.4718305,
+                    63.4247895
+                ]
+            },
+            "properties": {
+                "name": "Norges teknisk-naturvitenskapelige universitet, Tunga campus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7258123,
+                    59.929503
+                ]
+            },
+            "properties": {
+                "name": "Universitetet i Oslo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.2777693,
+                    59.5692465
+                ]
+            },
+            "properties": {
+                "name": "H\u00f8gskolen i S\u00f8r\u00f8st-Norge, Campus Notodden"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

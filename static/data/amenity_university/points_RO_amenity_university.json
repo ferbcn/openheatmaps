@@ -1,0 +1,5006 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0971213,
+                    44.4474544
+                ]
+            },
+            "properties": {
+                "name": "Academia de Studii Economice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0891592,
+                    44.4352235
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Sociologie \u0219i Asisten\u021b\u0103 Social\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3167242,
+                    46.1727378
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be ale Naturii, Inginerie \u0219i Informatic\u0103 a Universit\u0103\u021bii \"Vasile Goldi\u0219\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3160619,
+                    46.1729986
+                ]
+            },
+            "properties": {
+                "name": "Vasile Goldi\u0219: Facultatea de \u0218tiin\u021be Juridice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5998172,
+                    45.65551
+                ]
+            },
+            "properties": {
+                "name": "Corpul V"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5975675,
+                    45.6544562
+                ]
+            },
+            "properties": {
+                "name": "Campus Colina Universit\u0103\u021bii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.58497,
+                    46.7709025
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Tehnic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0576738,
+                    45.4388725
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Medicin\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9145365,
+                    45.7580179
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Alma Mater"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.794708,
+                    44.3047594
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Medicin\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2449267,
+                    47.6410428
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \u0218tefan cel Mare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8998933,
+                    45.7530732
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9728023,
+                    45.2673862
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5840556,
+                    46.7621613
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Medicin\u0103 \u0219i Farmacie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1560431,
+                    45.7955892
+                ]
+            },
+            "properties": {
+                "name": "Decanat - Facultatea de Medicin\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3102576,
+                    46.384432
+                ]
+            },
+            "properties": {
+                "name": "Castelul Cernovici - Universitatea de Vest \u201eVasile Goldi\u0219\u201d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1560881,
+                    45.788691
+                ]
+            },
+            "properties": {
+                "name": "Academia For\u021belor Terestre \"Nicolae B\u0103lcescu\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1459658,
+                    45.7906191
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \"Lucian Blaga\" Sibiu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1605663,
+                    45.7961469
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Geografia Turismului"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1445961,
+                    45.7924217
+                ]
+            },
+            "properties": {
+                "name": "Laboratoare ULBS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1501313,
+                    45.7874694
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be Economice (ULBS)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1463091,
+                    45.7905054
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Litere \u0219i Arte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1456654,
+                    45.7903678
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Istorie \u0219i Patrimoniu \"Nicolae Lupu\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1465409,
+                    45.7898052
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie \"Hermann Oberth\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1561796,
+                    45.7932864
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Medicin\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0522473,
+                    45.4458002
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021ba Calculatoarelor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0532859,
+                    45.4475165
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Drept"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5923744,
+                    45.6452058
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Transilvania Corp T"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.176766,
+                    45.677536
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \"George Bari\u021biu\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0575098,
+                    44.4339362
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Electronic\u0103 \u0219i Tehnologia Informa\u021biei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0574714,
+                    44.4336458
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Jurnalism"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0514632,
+                    44.4384184
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Politehnica Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.052754,
+                    44.439628
+                ]
+            },
+            "properties": {
+                "name": "UPB - Facultatea de Transporturi, F.I.L.S., Facultatea de \u0218tiin\u021b\u0103 \u0219i Ingineria Materialelor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.047922,
+                    44.437132
+                ]
+            },
+            "properties": {
+                "name": "UPB - Facultatea de Energetic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1154205,
+                    44.4145789
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \"Dimitrie Cantemir\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.922709,
+                    47.0570222
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Cre\u0219tin\u0103 Partium - Cl\u0103direa Sulyok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5664553,
+                    47.1763947
+                ]
+            },
+            "properties": {
+                "name": "Institutul Teolog Romano-Catolic Sf Iosif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0836188,
+                    44.4332839
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Biologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0820687,
+                    44.4364765
+                ]
+            },
+            "properties": {
+                "name": "UTCB - Facultatea de Utilaj Tehnologic pentru Construc\u021bii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2447389,
+                    47.6415922
+                ]
+            },
+            "properties": {
+                "name": "Corp D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8807001,
+                    44.8546836
+                ]
+            },
+            "properties": {
+                "name": "Corp I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8805359,
+                    44.8552569
+                ]
+            },
+            "properties": {
+                "name": "Universitatea din Pite\u0219ti corp S"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0437785,
+                    44.4401353
+                ]
+            },
+            "properties": {
+                "name": "U \"Spiru Haret\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0458813,
+                    44.4360906
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie Electrica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5801271,
+                    46.7643029
+                ]
+            },
+            "properties": {
+                "name": "Institutul de Speologie Emil Racovi\u021b\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5878373,
+                    46.7709838
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Sapientia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5869052,
+                    46.7755675
+                ]
+            },
+            "properties": {
+                "name": "UBB Teologie Reformat\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.586989,
+                    46.7752769
+                ]
+            },
+            "properties": {
+                "name": "UBB Business"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6210238,
+                    46.7731141
+                ]
+            },
+            "properties": {
+                "name": "UBB \u0218tiin\u021be Economice \u0219i Gestiunea Afacerilor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5890086,
+                    46.7621626
+                ]
+            },
+            "properties": {
+                "name": "UBB Biologie \u0219i Geologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5625305,
+                    46.7658139
+                ]
+            },
+            "properties": {
+                "name": "UBB Educa\u021bie Fizica \u0219i Sport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5923974,
+                    46.7671274
+                ]
+            },
+            "properties": {
+                "name": "Institutul Culturii Clujene \u00een Europa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5926891,
+                    46.7687669
+                ]
+            },
+            "properties": {
+                "name": "Academia de Muzic\u0103 Gheorghe Dima"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1018953,
+                    44.4358496
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Geografie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5856779,
+                    46.7692926
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Tehnic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.584994,
+                    46.7701366
+                ]
+            },
+            "properties": {
+                "name": "UMF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5903676,
+                    46.783085
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Cre\u0219tin\u0103 \u201eDimitrie Cantemir\u201d - Facultatea de Drept"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.584315,
+                    46.7696701
+                ]
+            },
+            "properties": {
+                "name": "UBB Facultatea de Psihologie \u0219i \u0218tiin\u021be ale Educa\u021biei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5954732,
+                    46.7728287
+                ]
+            },
+            "properties": {
+                "name": "Institutul Teologic Protestant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5871909,
+                    46.7552852
+                ]
+            },
+            "properties": {
+                "name": "UT Facultatea de Construc\u021bii \u0219i Facultatea de Arhitectur\u0103 \u0219i Urbanism"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1254889,
+                    44.4327388
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Hyperion"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6259006,
+                    46.7964529
+                ]
+            },
+            "properties": {
+                "name": "UT Facultatea de Mecanic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5803253,
+                    46.7639908
+                ]
+            },
+            "properties": {
+                "name": "UBB Biologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.5911787,
+                    44.8968759
+                ]
+            },
+            "properties": {
+                "name": "Marine and Fluvial Research Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1003697,
+                    44.4353069
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Istorie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0996594,
+                    44.4355783
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Matematic\u0103-Informatic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0892828,
+                    44.4339103
+                ]
+            },
+            "properties": {
+                "name": "Universitatea din Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1008331,
+                    44.4358862
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Limbi \u0219i Literaturi Str\u0103ine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1431749,
+                    44.4676173
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Lumina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5850179,
+                    47.1644686
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Arte \u201eGeorge Enescu\u201c Ia\u0219i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.573884,
+                    47.1749901
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Geografie \u0219i Geologie UAIC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5736239,
+                    47.175311
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Economie \u0219i Administrarea Afacerilor UAIC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5741603,
+                    47.1746382
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Biologie UAIC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5722682,
+                    47.1753914
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Istorie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5855561,
+                    46.7720272
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Construc\u021bii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1013919,
+                    44.4380828
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Popular\u0103 \"Ioan I. Dalles\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1144382,
+                    44.4137028
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Titu Maiorescu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1142262,
+                    44.4145898
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Nicolae Titulescu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1237863,
+                    44.4631389
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Hidrotehnic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1247374,
+                    44.463606
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Construc\u021bii Civile"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.125761,
+                    44.4640657
+                ]
+            },
+            "properties": {
+                "name": "UTCB - Departamentul de Rezistenta Materialelor, Poduri si Tuneluri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0651485,
+                    44.4291073
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Na\u021bional\u0103 de Aparare \"Carol I\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1015816,
+                    44.4355402
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Chimie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0998864,
+                    44.4352419
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0591505,
+                    44.4405049
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Ecologic\u0103 din Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0853192,
+                    44.4358018
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Medicin\u0103 Dentar\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0699824,
+                    44.4345844
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Moa\u0219e \u0219i Asisten\u021b\u0103 Medical\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5723463,
+                    47.1752719
+                ]
+            },
+            "properties": {
+                "name": "Departamentul de Limb\u0103 Rom\u00e2n\u0103 pentru studen\u021bi str\u0103ini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5722161,
+                    47.1753029
+                ]
+            },
+            "properties": {
+                "name": "Centrul Cultural al Americii Latine \u0219i Caraibelor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5723984,
+                    47.1771226
+                ]
+            },
+            "properties": {
+                "name": "Centrul de Studii Canadiene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5730791,
+                    47.1741362
+                ]
+            },
+            "properties": {
+                "name": "Direc\u021bia Financiar Contabil\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.573053,
+                    47.1742314
+                ]
+            },
+            "properties": {
+                "name": "Direc\u021bia Resurse Umane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5732452,
+                    47.1743045
+                ]
+            },
+            "properties": {
+                "name": "Serviciul Achizi\u021bii Publice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5731475,
+                    47.1742801
+                ]
+            },
+            "properties": {
+                "name": "Serviciul Audit Intern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5731768,
+                    47.1741584
+                ]
+            },
+            "properties": {
+                "name": "Control Financiar Preventiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5733299,
+                    47.1743244
+                ]
+            },
+            "properties": {
+                "name": "Biroul Investi\u021bii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1262276,
+                    44.4398771
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie a Instala\u021biilor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5721108,
+                    47.1746215
+                ]
+            },
+            "properties": {
+                "name": "University Al. I. Cuza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2766782,
+                    45.0431973
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Litere \u0219i \u0218tiin\u021be Sociale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0783535,
+                    44.4478
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Chimie Industrial\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0787956,
+                    44.4477928
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie Aerospa\u021bial\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0785267,
+                    44.447461
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie Medical\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8814791,
+                    44.8548967
+                ]
+            },
+            "properties": {
+                "name": "Corp T"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5711701,
+                    46.7608107
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de \u0218tiin\u021be Agricole \u0219i Medicin\u0103 Veterinar\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5960981,
+                    46.7673303
+                ]
+            },
+            "properties": {
+                "name": "Centrul de Cooperare Interna\u021bional\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5912156,
+                    46.7702077
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Teologie Romano-Catolica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5913504,
+                    46.7571332
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Arhitectur\u0103 \u0219i Urbanism"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5978637,
+                    46.7670945
+                ]
+            },
+            "properties": {
+                "name": "Sapientia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5908011,
+                    46.7696596
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Art\u0103 \u0219i Design"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1039088,
+                    44.4488061
+                ]
+            },
+            "properties": {
+                "name": "CROS - Universitatea Alternativa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6763509,
+                    45.1546084
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Titu Maiorescu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0981083,
+                    44.430514
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Ecologic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5868282,
+                    46.7714115
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de art\u0103 \u0219i design Cluj-Napoca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5990732,
+                    45.6464197
+                ]
+            },
+            "properties": {
+                "name": "American Hotel Academy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7865155,
+                    44.3194629
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Agronomie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0990896,
+                    44.4478376
+                ]
+            },
+            "properties": {
+                "name": "ASE - Cibernetic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1050417,
+                    44.4613939
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Atenaeum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6256524,
+                    46.7966679
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Ingineria Materialelor \u0219i a Mediului"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6088352,
+                    46.7752231
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Psihologie \u0219i \u0218tiin\u021be ale Educa\u021biei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6087217,
+                    46.7753864
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Sociologie \u0219i Asisten\u021b\u0103 Social\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5857568,
+                    45.6399128
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Silvicultur\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6078916,
+                    46.773981
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Tehnica din Cluj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5833441,
+                    45.6386774
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Muzic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.8177764,
+                    45.1390952
+                ]
+            },
+            "properties": {
+                "name": "LICEUL MILITAR NEAGOE BASARAB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.862698,
+                    44.8544772
+                ]
+            },
+            "properties": {
+                "name": "Universitatea din Pite\u0219ti - Corp D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5923046,
+                    46.7753883
+                ]
+            },
+            "properties": {
+                "name": "Institutul de Iudaistic\u0103 \u0219i istorie evreiasc\u0103 \"De. Moshe Carmilly\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5923717,
+                    46.7754108
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Istorie \u0219i Filozofie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8803437,
+                    47.9277594
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Babe\u0219-Bolyai  Sighetu Marma\u021biei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2268378,
+                    45.747286
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Automatic\u0103 \u0219i Calculatoare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2268345,
+                    45.7472438
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Electronic\u0103 \u0219i Telecomunica\u021bii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2278309,
+                    45.7471755
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Electrotehnic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3516036,
+                    45.2412391
+                ]
+            },
+            "properties": {
+                "name": "\u0218coala cu clasele I-VIII Jiblea Veche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0728419,
+                    44.4452296
+                ]
+            },
+            "properties": {
+                "name": "Institutul Medico-Militar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0820948,
+                    44.4351995
+                ]
+            },
+            "properties": {
+                "name": "Rectoratul Univ. Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5841549,
+                    46.5309112
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Dimitrie Cantemir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1332059,
+                    44.3802307
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Spiru Haret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0191073,
+                    44.4449807
+                ]
+            },
+            "properties": {
+                "name": "Colegiu Penticostal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0495431,
+                    44.4393984
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Politehnica din Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0554046,
+                    44.4332378
+                ]
+            },
+            "properties": {
+                "name": "Complexul Studen\u021besc Leu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0702312,
+                    44.4352501
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Medicin\u0103 \u0219i Farmacie \"Carol Davila\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0803168,
+                    44.435199
+                ]
+            },
+            "properties": {
+                "name": "C\u0103min B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0807928,
+                    44.4363309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0940243,
+                    44.4499389
+                ]
+            },
+            "properties": {
+                "name": "\u0218coala Na\u021bional\u0103 de Studii Politice \u0219i Administrative"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0660659,
+                    44.4712751
+                ]
+            },
+            "properties": {
+                "name": "Campus Universitatea de \u0218tiinte Agronomice \u0219i Medicin\u0103 Veterinar\u0103 Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1143742,
+                    44.3948696
+                ]
+            },
+            "properties": {
+                "name": "Institutul de Studii pentru Ordine Public\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0788442,
+                    44.4482675
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Politehnic\u0103 - Polizu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0515715,
+                    44.4384917
+                ]
+            },
+            "properties": {
+                "name": "Rectorat Universitatea Politehnica Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0478045,
+                    44.4367852
+                ]
+            },
+            "properties": {
+                "name": "Energetic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0505129,
+                    44.4393417
+                ]
+            },
+            "properties": {
+                "name": "Corpurile AN \u0219i BN din Univeristatea Politehnica Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0471535,
+                    44.4359077
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Automatic\u0103 \u0219i Calculatoare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.046065,
+                    44.4363693
+                ]
+            },
+            "properties": {
+                "name": "Inginerie Electric\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0529383,
+                    44.439065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1242798,
+                    44.4622646
+                ]
+            },
+            "properties": {
+                "name": "UTCB-Laborator de Hidraulic\u0103 \u0219i Protec\u021bia Mediului"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.152384,
+                    44.4302036
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \"Titu Maiorescu\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0553209,
+                    44.4340298
+                ]
+            },
+            "properties": {
+                "name": "C\u0103minul Studen\u021besc Leu corp A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0635459,
+                    44.4301526
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Chimie a UB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0640823,
+                    44.4299216
+                ]
+            },
+            "properties": {
+                "name": "C\u0103min"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.063363,
+                    44.430601
+                ]
+            },
+            "properties": {
+                "name": "Sala de Sport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0621612,
+                    44.4307002
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Administra\u021bie \u0219i Afaceri "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0629809,
+                    44.4310521
+                ]
+            },
+            "properties": {
+                "name": "Laborator al Facultatii de Chimie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0908727,
+                    44.4393278
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Na\u021bional\u0103 de Muzic\u0103 Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.123947,
+                    44.4629838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1025739,
+                    44.4242578
+                ]
+            },
+            "properties": {
+                "name": "Academia de Studii Economice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1248168,
+                    44.46333
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Tehnic\u0103 de Construc\u021bii Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1257442,
+                    44.4640548
+                ]
+            },
+            "properties": {
+                "name": "UTCB - Departamentul de Rezistenta Materialelor, Poduri si Tuneluri - UTCB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1255468,
+                    44.4636607
+                ]
+            },
+            "properties": {
+                "name": "UTCB - Facultatea de Geodezie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0373022,
+                    44.9140628
+                ]
+            },
+            "properties": {
+                "name": "UPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0374028,
+                    44.9147119
+                ]
+            },
+            "properties": {
+                "name": "UPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0382661,
+                    44.9141468
+                ]
+            },
+            "properties": {
+                "name": "Sala de sport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2296209,
+                    45.7595771
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Arte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9181672,
+                    47.0446276
+                ]
+            },
+            "properties": {
+                "name": "Universitatea din Oradea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0530545,
+                    45.4474369
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Arte / Drept"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0169751,
+                    45.4039293
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Danubius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0526373,
+                    45.4464567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0526668,
+                    45.4477793
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Mecanic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0517484,
+                    45.4475986
+                ]
+            },
+            "properties": {
+                "name": "corp E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0518483,
+                    45.4469203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0522487,
+                    45.4469053
+                ]
+            },
+            "properties": {
+                "name": "corp H/G"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0519899,
+                    45.4462459
+                ]
+            },
+            "properties": {
+                "name": "corp G/H"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0515952,
+                    45.443293
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be Economice (A.S.E)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0497991,
+                    45.4432092
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Educa\u021bie Fizic\u0103 \u0219i Sport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5963761,
+                    47.1542666
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Tehnic\u0103 \u201eGheorghe Asachi\u201d din Ia\u0219i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5917285,
+                    47.1536102
+                ]
+            },
+            "properties": {
+                "name": "Departamentul de Ingineria Instala\u021biilor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5933448,
+                    47.1531433
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie Electric\u0103, Energetic\u0103 \u0219i Informatic\u0103 Aplicat\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5935836,
+                    47.1539225
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Automatic\u0103 \u0219i Calculatoare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5955231,
+                    47.15347
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Textile-Piel\u0103rie \u0219i Management Industrial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5947779,
+                    47.1539561
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Textile-Piel\u0103rie \u0219i Management Industrial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5968097,
+                    47.1539587
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Construc\u021bii de Ma\u0219ini \u0219i Management Industrial"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5979702,
+                    47.1541836
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Mecanic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5986465,
+                    47.1545962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5995474,
+                    47.1546577
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Tehnic\u0103 \"Gheorghe Asachi\" din Ia\u0219i (Rectorat)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6000243,
+                    47.155727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6028915,
+                    47.1555876
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie Chimic\u0103 \u0219i Protec\u021bia Mediului"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6065734,
+                    47.155735
+                ]
+            },
+            "properties": {
+                "name": "Complexul Studen\u021besc Tudor Vladimirescu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6104332,
+                    47.1546508
+                ]
+            },
+            "properties": {
+                "name": "Catedra de Ed Fiz \u0219i Sport - Univ Tehn Gh Asachi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5560746,
+                    47.192597
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de \u0218tiin\u021be Agricole \u0219i Medicin\u0103 Veterinar\u0103 \"Ion Ionescu de la Brad\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5573706,
+                    47.1939661
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de \u0218tiin\u021be Agricole \u0219i Medicin\u0103 Veterinar\u0103 \"Ion Ionescu de la Brad\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0482048,
+                    44.4357262
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Automatic\u0103 \u0219i Calculatoare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5957795,
+                    47.1601516
+                ]
+            },
+            "properties": {
+                "name": "Funda\u021bia Academic\u0103 \u201ePetre Andrei\u201d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5749888,
+                    47.169591
+                ]
+            },
+            "properties": {
+                "name": "Univ Al. I. Cuza - Corpul E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5723049,
+                    47.1753594
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Alexandru Ioan Cuza - Corpul H"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5727598,
+                    47.1754114
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Alexandru Ioan Cuza - Corpul G"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5719799,
+                    47.1725663
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \"Aexandru Ioan Cuza\" din Ia\u0219i - Corp D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5707051,
+                    47.1760592
+                ]
+            },
+            "properties": {
+                "name": "Univ Al. I. Cuza - Corp I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5787608,
+                    46.7704356
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Art\u0103 \u0219i Design"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0515694,
+                    45.446983
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1442642,
+                    44.4081115
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Rom\u00e2n\u0103 de \u0218tiin\u021be \u0219i Arte \"Gheorghe Cristea\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5682523,
+                    46.5471689
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Petru Maior"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.086432,
+                    44.4182395
+                ]
+            },
+            "properties": {
+                "name": "Academia Tehnic\u0103 Militar\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0905042,
+                    44.4444435
+                ]
+            },
+            "properties": {
+                "name": "\u0218coala de \u00cenalte Studii Postuniversitare de Management"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1015016,
+                    44.4247689
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Teologie Ortodox\u0103 \"Justinian Patriarhul\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.038134,
+                    44.9142652
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Petrol \u0219i Gaze (UPG)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0380028,
+                    44.9152594
+                ]
+            },
+            "properties": {
+                "name": "Cantina UPG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0376782,
+                    44.9142202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0374569,
+                    44.9139751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1171723,
+                    44.4370117
+                ]
+            },
+            "properties": {
+                "name": "Universitatea din Bucure\u0219ti - Facultatea de \u0218tiin\u021be Politice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1304586,
+                    44.4378938
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Na\u021bional\u0103 de Art\u0103 Teatral\u0103 \u0219i Cinematografic\u0103 \u201cI.L. Caragiale\u201d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0334683,
+                    44.9140954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0341467,
+                    44.9137808
+                ]
+            },
+            "properties": {
+                "name": "CCS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9009631,
+                    45.8824095
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Ecologic\u0103 Traian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5818179,
+                    46.5549513
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Medicin\u0103 \u0219i Farmacie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1348152,
+                    45.7781979
+                ]
+            },
+            "properties": {
+                "name": "Institutul Militar de \u00cenv\u0103\u021b\u0103m\u00e2nt Superior de Artilerie \u0219i Geodezie \"Ioan Vod\u0103\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.147779,
+                    45.7832331
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Romano-Germana Sibiu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1432202,
+                    45.7907792
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be Agricole, Protec\u021bia Mediului, \u0218tiin\u021be Economice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1467628,
+                    45.7822935
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Drept \"Simion B\u0103rnu\u021biu\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1523292,
+                    45.8006014
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Jurnalistic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2165281,
+                    45.7829548
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de \u0218tiin\u021be Agricole \u0219i Medicin\u0103 Veterinar\u0103 a Banatului"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2312903,
+                    45.7472256
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Vest din Timi\u0219oara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2334693,
+                    45.7474801
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Chimie Industrial\u0103 \u0219i Ingineria Mediului"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2307982,
+                    45.7458558
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Construc\u021bii \u0219i Arhitectur\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6525976,
+                    44.1974256
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Spiru Haret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6460806,
+                    44.2093976
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \"Spiru Haret\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.650993,
+                    44.182545
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Maritim\u0103 Constan\u021ba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.0529114,
+                    45.4457263
+                ]
+            },
+            "properties": {
+                "name": "C\u0103min L.S.G."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2276082,
+                    45.746089
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Politehnica Timi\u0219oara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0570388,
+                    44.4404022
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Artifex"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5507467,
+                    46.7682907
+                ]
+            },
+            "properties": {
+                "name": "Institutul de cercet\u0103ri \u00een chimie Raluca Ripan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2157818,
+                    45.7834516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2163718,
+                    45.7830323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1480133,
+                    45.7871145
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \"Alma Mater\" Sibiu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6033077,
+                    47.1602531
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Mihail Kog\u0103lniceanu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6203087,
+                    44.1844493
+                ]
+            },
+            "properties": {
+                "name": "\u0218coala Mai\u0219tri Militari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5795494,
+                    46.7645172
+                ]
+            },
+            "properties": {
+                "name": "UBB Geografie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5801204,
+                    46.7654239
+                ]
+            },
+            "properties": {
+                "name": "UMF Stomatologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5846341,
+                    46.7649594
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Medicin\u0103 \u0219i Farmacie- rectorat, decanate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5804039,
+                    46.7644369
+                ]
+            },
+            "properties": {
+                "name": "Laboratoarele de Biochimie-Biofizic\u0103-Biologie Molecular\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5898065,
+                    46.7665546
+                ]
+            },
+            "properties": {
+                "name": "UBB Drept"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2388925,
+                    45.7469538
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Drept"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.244892,
+                    45.754111
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Chimie-Biologie-Geografie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2449322,
+                    45.7538703
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Economie \u0219i de Administrarea a Afacerilor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2287312,
+                    45.7489298
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Hidrotehnic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6011894,
+                    47.1558706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0695866,
+                    44.439717
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Na\u021bional\u0103 de Educa\u021bie Fizic\u0103 \u0219i Sport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1008168,
+                    44.435651
+                ]
+            },
+            "properties": {
+                "name": "Universitatea din Bucure\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9148066,
+                    46.5544268
+                ]
+            },
+            "properties": {
+                "name": "block B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0647388,
+                    44.4396885
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Biologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6162747,
+                    44.1794869
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Cre\u0219tin\u0103 \"Dimitrie Cantemir\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.63488,
+                    44.1836581
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Andrei \u0218aguna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6162113,
+                    44.1829783
+                ]
+            },
+            "properties": {
+                "name": "Academia Naval\u0103 \"Mircea cel B\u0103tr\u00e2n\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.867389,
+                    44.8539179
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be ale Educa\u021biei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6523554,
+                    44.196448
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Construc\u021bii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8008684,
+                    44.319031
+                ]
+            },
+            "properties": {
+                "name": "Universitatea din Craiova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6205565,
+                    46.7730474
+                ]
+            },
+            "properties": {
+                "name": "FSEGA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6208692,
+                    46.774918
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Cre\u0219tin\u0103 Dimitrie Cantemir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0914457,
+                    44.4428305
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Na\u021bional\u0103 de Arte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1005029,
+                    44.4417923
+                ]
+            },
+            "properties": {
+                "name": "Centrul de Limbi Str\u0103ine Ariel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0660477,
+                    44.4414125
+                ]
+            },
+            "properties": {
+                "name": "Institutul de chimie Organica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0679508,
+                    44.4407559
+                ]
+            },
+            "properties": {
+                "name": "Institutul de Chimie Fizic\u0103 \"Ilie Murgulescu\" - ICF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0653549,
+                    44.4419674
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Bucure\u0219ti - Facultatea de Filosofie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0691426,
+                    44.4412751
+                ]
+            },
+            "properties": {
+                "name": "ICECHIM - Institutul Na\u021bional de Cercetare - Dezvoltare pentru Chimie si Petrochimie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5957019,
+                    45.6426208
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Psihologie \u0219i \u0218tiin\u021bele Educa\u021biei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5986551,
+                    46.5227875
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Sapientia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3434239,
+                    46.1764022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9141757,
+                    46.5541346
+                ]
+            },
+            "properties": {
+                "name": "Unversitatea \"Vasile Alecsandri\" din Bac\u0103u"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5616044,
+                    46.5429967
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Arte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7753745,
+                    45.8607959
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \"Babe\u0219-Bolyai\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6071061,
+                    46.7718541
+                ]
+            },
+            "properties": {
+                "name": "UBB Facultatea de \u0218tiin\u021be Politice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5890192,
+                    47.152282
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Construc\u021bii \u0219i Instala\u021bii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0511508,
+                    44.4385661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.086972,
+                    44.445588
+                ]
+            },
+            "properties": {
+                "name": "FADD Facultatea de Arte Decorative si Design"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1433231,
+                    44.4675975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5863992,
+                    46.7783749
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \u201eBabe\u0219-Bolyai\u201d - Facultatea de litere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3549613,
+                    46.6662728
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Oradea Filiala Beiu\u0219"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0809847,
+                    44.4300503
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de medicin\u0103 veterinar\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0905239,
+                    44.4406282
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be Politice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0650927,
+                    44.4400966
+                ]
+            },
+            "properties": {
+                "name": "Institutul de Biodinamica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5856347,
+                    46.7654866
+                ]
+            },
+            "properties": {
+                "name": "UMF stomatologie - disciplinele de parodontologie, materiale dentare \u0219i ergonomie, reabilitare oral\u0103 \u0219i management, preven\u021bie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5853515,
+                    46.76365
+                ]
+            },
+            "properties": {
+                "name": "UMF- Facultatea de Farmacie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5841918,
+                    46.761778
+                ]
+            },
+            "properties": {
+                "name": "UMF- Catedra de Informatic\u0103 Medical\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5835955,
+                    46.7617006
+                ]
+            },
+            "properties": {
+                "name": "UMF- catedra de biologie celulara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5838889,
+                    46.7616747
+                ]
+            },
+            "properties": {
+                "name": "UMF- Catedra de biochimie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5835121,
+                    46.7621026
+                ]
+            },
+            "properties": {
+                "name": "UMF- catedra de microbiologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5836921,
+                    46.7620764
+                ]
+            },
+            "properties": {
+                "name": "UMF- catedra de biofizica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5838658,
+                    46.7620198
+                ]
+            },
+            "properties": {
+                "name": "UMf- catedra de genetica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2272922,
+                    45.7563072
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Muzic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.05382,
+                    44.4388278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0538772,
+                    44.4392309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5852432,
+                    46.772644
+                ]
+            },
+            "properties": {
+                "name": "Faculty of Automation and Computer Science"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5805364,
+                    47.1623731
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Teologie Ortodox\u0103 \"Dumitru Staniloae\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2366854,
+                    45.7573269
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Medicin\u0103 \u0219i Farmacie Victor Babe\u0219"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5880029,
+                    46.770905
+                ]
+            },
+            "properties": {
+                "name": "Sapientia Erd\u00e9lyi Magyar Tudom\u00e1nyegyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5886828,
+                    46.7677714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5773912,
+                    47.1647501
+                ]
+            },
+            "properties": {
+                "name": "Institutul de Preg\u0103tire Psihopedagogic\u0103 \u0219i Consiliere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5958029,
+                    47.1601516
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \u201ePetre Andrei\u201d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5798819,
+                    47.1734541
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Medicin\u0103 \u0219i Farmacie \u201eGr. T.  Popa\u201d Facultatea de Bioinginerie Medical\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.9757148,
+                    45.2709019
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Constantin Br\u00e2ncoveanu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.577852,
+                    47.1644421
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Teatru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5773469,
+                    47.1645744
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Interpretare, Compozi\u021bie \u0219i Studii Muzicale Teoretice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.577658,
+                    47.16459
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Arte \u201eGeorge Enescu\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5718023,
+                    47.1741646
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Aexandru Ioan Cuza din Ia\u0219i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3759368,
+                    45.4203642
+                ]
+            },
+            "properties": {
+                "name": "Corpul D"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3741543,
+                    45.4182763
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Petro\u0219ani - Corpul B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3732251,
+                    45.4165691
+                ]
+            },
+            "properties": {
+                "name": "Cas\u0103 Studen\u021beasc\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8818256,
+                    44.8546482
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Pite\u0219ti Rectorat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.376782,
+                    45.4202049
+                ]
+            },
+            "properties": {
+                "name": "Alelier"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3787454,
+                    45.4207473
+                ]
+            },
+            "properties": {
+                "name": "Sal\u0103 de Sport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.378413,
+                    45.4202669
+                ]
+            },
+            "properties": {
+                "name": "Corp E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5726908,
+                    46.068896
+                ]
+            },
+            "properties": {
+                "name": "Universitatea 1 Decembrie 1918"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0321839,
+                    44.3499695
+                ]
+            },
+            "properties": {
+                "name": "Universitatea din Bucure\u0219ti, Facultatea de fizic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3743853,
+                    45.41875
+                ]
+            },
+            "properties": {
+                "name": "Cantina Studen\u021beasc\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6195477,
+                    45.6627831
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Construc\u021bii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6015057,
+                    45.6493028
+                ]
+            },
+            "properties": {
+                "name": "Corp P, Universitatea Transilvania"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0985061,
+                    44.4473601
+                ]
+            },
+            "properties": {
+                "name": "ASE - Facultatea de Comer\u021b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1023962,
+                    44.4385129
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Farmacie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6077512,
+                    46.7755908
+                ]
+            },
+            "properties": {
+                "name": "UT Facultatea de Instala\u021bii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1018186,
+                    44.4389369
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Geologie \u0219i Geofizic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0620147,
+                    44.4997982
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Bioterra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7977006,
+                    44.3088289
+                ]
+            },
+            "properties": {
+                "name": "UMF Craiova - Medicina Veche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5921604,
+                    46.7671441
+                ]
+            },
+            "properties": {
+                "name": "UBB Teatru \u0219i Televiziune"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5737777,
+                    47.1749279
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Aexandru Ioan Cuza din Ia\u0219i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0870459,
+                    44.4450746
+                ]
+            },
+            "properties": {
+                "name": "FADD Facultatea de Arte Decorative si Design"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0713697,
+                    44.4354347
+                ]
+            },
+            "properties": {
+                "name": "Amfiteatrul SUUB"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0806093,
+                    44.4348464
+                ]
+            },
+            "properties": {
+                "name": "C\u0103min A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0806853,
+                    44.4354642
+                ]
+            },
+            "properties": {
+                "name": "C\u0103min C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.592331,
+                    46.7681745
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Studii Europene"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3848556,
+                    44.56718
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Bioterra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1498061,
+                    45.7837124
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be Agroalimentare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6148971,
+                    45.6646647
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Spiru Haret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8758319,
+                    44.8545013
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be Economice \u0219i Administrative"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5825348,
+                    46.7707128
+                ]
+            },
+            "properties": {
+                "name": "UBB Chimie \u0219i Inginerie Chimic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5710087,
+                    46.7606816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5727772,
+                    46.7613434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5471656,
+                    46.7562293
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Bogdan Vod\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6252486,
+                    45.645236
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \"George Bari\u021biu\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6242188,
+                    44.2160301
+                ]
+            },
+            "properties": {
+                "name": "Campus Universitatea Ovidius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6028669,
+                    45.6510203
+                ]
+            },
+            "properties": {
+                "name": "Aula Universit\u0103\u021bii \u201cTransilvania\u201d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5992633,
+                    45.655435
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Transilvania Corp V"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5987452,
+                    46.7734313
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Spiru Haret"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5979086,
+                    46.7669555
+                ]
+            },
+            "properties": {
+                "name": "Sapientia Erd\u00e9lyi Magyar Tudom\u00e1nyegyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.597516,
+                    46.7668688
+                ]
+            },
+            "properties": {
+                "name": "Sapientia Erd\u00e9lyi Magyar Tudom\u00e1nyegyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5979707,
+                    46.7669437
+                ]
+            },
+            "properties": {
+                "name": "Sapientia Erd\u00e9lyi Magyar Tudom\u00e1nyegyetem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6087739,
+                    46.7753022
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Babe\u0219-Bolyai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6691474,
+                    44.6271368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7946659,
+                    44.3048247
+                ]
+            },
+            "properties": {
+                "name": "Campus Medicin\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7980006,
+                    44.3088313
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Medicin\u0103 \u0219i Farmacie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8226006,
+                    44.3167356
+                ]
+            },
+            "properties": {
+                "name": "Campus Mecanic\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3436087,
+                    46.1766685
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Vest Aurel Vlaicu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3014801,
+                    46.1993404
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Aurel Vlaicu C\u0103mine Studen\u021be\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6190215,
+                    44.216369
+                ]
+            },
+            "properties": {
+                "name": "Baza nautic\u0103 UMC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6190768,
+                    44.2157926
+                ]
+            },
+            "properties": {
+                "name": "Baza nautic\u0103 UMC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3443642,
+                    46.203868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6457119,
+                    44.1779856
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Medicin\u0103 Dentar\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5953557,
+                    45.644117
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Transilvania Corp N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1252255,
+                    44.4542949
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Spiru Haret - Facultatea de Medicin\u0103 veterinar\u0103"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.641278,
+                    44.1924525
+                ]
+            },
+            "properties": {
+                "name": "Universitatea \"Tomis\" Constan\u021ba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7855657,
+                    44.3195146
+                ]
+            },
+            "properties": {
+                "name": "Campus Agronomie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7945307,
+                    44.3053225
+                ]
+            },
+            "properties": {
+                "name": "UMF Craiova - Medicina Noua"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9556286,
+                    47.0271156
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Emanuel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5648535,
+                    47.6602127
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021be \u0219i Litere - Centrul Universitar Nord din Baia Mare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0656036,
+                    44.473178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5445737,
+                    47.6601328
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie - Centrul Universitar Nord din Baia Mare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2225893,
+                    45.7455845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9034273,
+                    45.6891203
+                ]
+            },
+            "properties": {
+                "name": "Universitatea European\u0103 Dr\u0103gan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8839233,
+                    45.2929773
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Eftimie Murgu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.216526,
+                    45.4171771
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Teologie, \u0218tiin\u021be Sociale \u0219i ale Educa\u021biei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1261237,
+                    44.4394784
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Inginerie a Instala\u021biilor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5976487,
+                    46.5227547
+                ]
+            },
+            "properties": {
+                "name": "Caminul Sapientia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6503169,
+                    44.1944139
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Ovidius"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5846383,
+                    47.1683972
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Medicin\u0103 \u0219i Famacie \u201cGrigore T. Popa\u201d Ia\u0219i"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0971763,
+                    44.4477805
+                ]
+            },
+            "properties": {
+                "name": "ASE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1003791,
+                    44.4362573
+                ]
+            },
+            "properties": {
+                "name": "Universitatea de Arhitectur\u0103 \u0219i Urbanism \"Ion Mincu\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2249632,
+                    45.7535399
+                ]
+            },
+            "properties": {
+                "name": "Rectoratul Universit\u0103\u021bii Politehnica Timi\u0219oara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5912737,
+                    46.767778
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Babe\u0219-Bolyai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5711574,
+                    47.1747903
+                ]
+            },
+            "properties": {
+                "name": "Universitatea Tehnic\u0103 \u201cGheorghe Asachi\u201d din Ia\u0219i \u2013 Corpul A Facultatea de Electronic\u0103, Telecomunica\u021bii \u0219i Tehnologia Informa\u021biei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5971549,
+                    47.1548
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de \u0218tiin\u021ba \u0219i Ingineria Materialelor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5895814,
+                    47.1527304
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Arhitectur\u0103 \"G.M. Cantacuzino\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.6230319,
+                    44.2158117
+                ]
+            },
+            "properties": {
+                "name": "Corp B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.623421,
+                    44.217082
+                ]
+            },
+            "properties": {
+                "name": "Corp A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5907029,
+                    46.7669561
+                ]
+            },
+            "properties": {
+                "name": "Centrul Cultural German din Cluj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8223417,
+                    44.3163524
+                ]
+            },
+            "properties": {
+                "name": "Facultatea de Mecanic\u0103"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

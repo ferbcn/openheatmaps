@@ -1,0 +1,216 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.9274705,
+                    52.8361751
+                ]
+            },
+            "properties": {
+                "name": "Temptations"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -9.0333776,
+                    53.2860319
+                ]
+            },
+            "properties": {
+                "name": "Jade Winters"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.7353552,
+                    54.9469458
+                ]
+            },
+            "properties": {
+                "name": "The Adult Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.2523198,
+                    52.6504962
+                ]
+            },
+            "properties": {
+                "name": "Play Blue"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.291199,
+                    53.3429032
+                ]
+            },
+            "properties": {
+                "name": "Sweet Sensations Adult Store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6244482,
+                    52.6647067
+                ]
+            },
+            "properties": {
+                "name": "Utopia Adult Store"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -7.117051,
+                    52.2629629
+                ]
+            },
+            "properties": {
+                "name": "Pillow Talk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2646802,
+                    53.3442773
+                ]
+            },
+            "properties": {
+                "name": "Condom Power"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4663194,
+                    51.8989279
+                ]
+            },
+            "properties": {
+                "name": "Utopia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.4671295,
+                    51.8987703
+                ]
+            },
+            "properties": {
+                "name": "Secrets"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2624527,
+                    53.3583271
+                ]
+            },
+            "properties": {
+                "name": "Private Moments"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2687344,
+                    53.3477228
+                ]
+            },
+            "properties": {
+                "name": "Good Vibrationas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2686866,
+                    53.3476008
+                ]
+            },
+            "properties": {
+                "name": "SOHO"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2631203,
+                    53.3417234
+                ]
+            },
+            "properties": {
+                "name": "Miss Fantasia's Adult Boutique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.2650035,
+                    53.3447309
+                ]
+            },
+            "properties": {
+                "name": "Basic Instincts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -8.6216929,
+                    52.6632068
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

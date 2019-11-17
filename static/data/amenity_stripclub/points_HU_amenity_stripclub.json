@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0514077,
+                    47.4999741
+                ]
+            },
+            "properties": {
+                "name": "Dolce Vita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0546157,
+                    47.5027356
+                ]
+            },
+            "properties": {
+                "name": "P1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1210335,
+                    47.5267427
+                ]
+            },
+            "properties": {
+                "name": "Belami B\u00e1r"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0687837,
+                    47.4883387
+                ]
+            },
+            "properties": {
+                "name": "Magnum Szauna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0608224,
+                    47.491076
+                ]
+            },
+            "properties": {
+                "name": "Action Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0627062,
+                    47.4896961
+                ]
+            },
+            "properties": {
+                "name": "Marilyn Night Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0662206,
+                    47.4965855
+                ]
+            },
+            "properties": {
+                "name": "Coxx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0363539,
+                    47.4896548
+                ]
+            },
+            "properties": {
+                "name": "Mambo Cafe Strip Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0523425,
+                    47.5001463
+                ]
+            },
+            "properties": {
+                "name": "P2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.0666515,
+                    47.4891949
+                ]
+            },
+            "properties": {
+                "name": "Glory Cafe"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

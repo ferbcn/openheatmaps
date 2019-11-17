@@ -1,0 +1,366 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4668177,
+                    58.5357782
+                ]
+            },
+            "properties": {
+                "name": "Raamat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7447724,
+                    59.4361694
+                ]
+            },
+            "properties": {
+                "name": "Raamatukoi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7471942,
+                    59.4396534
+                ]
+            },
+            "properties": {
+                "name": "Slothrops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7477547,
+                    59.4348663
+                ]
+            },
+            "properties": {
+                "name": "Rahva Raamat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7436964,
+                    59.4376031
+                ]
+            },
+            "properties": {
+                "name": "Raamatukoi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6843964,
+                    59.3877621
+                ]
+            },
+            "properties": {
+                "name": "N\u00f5mme Raamat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7186541,
+                    59.5822761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7391913,
+                    59.4306358
+                ]
+            },
+            "properties": {
+                "name": "Antikvariaat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7395593,
+                    59.4305353
+                ]
+            },
+            "properties": {
+                "name": "Lugemisvara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3619649,
+                    59.3487243
+                ]
+            },
+            "properties": {
+                "name": "Tammeri raamat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.724117,
+                    58.380278
+                ]
+            },
+            "properties": {
+                "name": "Kriso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4643495,
+                    58.0984447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4194019,
+                    59.3279351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6006624,
+                    58.3651296
+                ]
+            },
+            "properties": {
+                "name": "Raamatud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7943903,
+                    59.4219942
+                ]
+            },
+            "properties": {
+                "name": "Apollo Raamatud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5971983,
+                    58.3700273
+                ]
+            },
+            "properties": {
+                "name": "Apollo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3539819,
+                    58.1261693
+                ]
+            },
+            "properties": {
+                "name": "Odamees"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1910595,
+                    59.3766041
+                ]
+            },
+            "properties": {
+                "name": "Raamat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7653507,
+                    59.4303154
+                ]
+            },
+            "properties": {
+                "name": "Second hand"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5986078,
+                    58.3681069
+                ]
+            },
+            "properties": {
+                "name": "Rahva Raamat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7566647,
+                    59.4363511
+                ]
+            },
+            "properties": {
+                "name": "Rahva raamat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7567737,
+                    59.4343819
+                ]
+            },
+            "properties": {
+                "name": "Varrak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7230012,
+                    59.4272198
+                ]
+            },
+            "properties": {
+                "name": "Varrak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5421104,
+                    58.940504
+                ]
+            },
+            "properties": {
+                "name": "Apollo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7170104,
+                    59.4516702
+                ]
+            },
+            "properties": {
+                "name": "Rudiit"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7495402,
+                    59.4360023
+                ]
+            },
+            "properties": {
+                "name": "Raamatupood Pu\u00e4nt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7251183,
+                    59.4263809
+                ]
+            },
+            "properties": {
+                "name": "Apollo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6816851,
+                    59.4107925
+                ]
+            },
+            "properties": {
+                "name": "Rahva raamat"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

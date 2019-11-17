@@ -1,0 +1,3981 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6058409,
+                    45.1420332
+                ]
+            },
+            "properties": {
+                "name": "Koversada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5009217,
+                    44.5158063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.022559,
+                    43.2921148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9878854,
+                    45.8092991
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja studenata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5433379,
+                    46.0219673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4954403,
+                    45.453119
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja Duga Resa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0974605,
+                    45.4890758
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Na\u0161ice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9747292,
+                    45.8052317
+                ]
+            },
+            "properties": {
+                "name": "Fizikalna terapija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7775458,
+                    43.7593113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5243602,
+                    45.6636602
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Kri\u017e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9514724,
+                    45.7907758
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Zagreb-Zapad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6365375,
+                    43.7033671
+                ]
+            },
+            "properties": {
+                "name": "Fizikalna terapija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4206025,
+                    45.3486569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6844949,
+                    45.5607542
+                ]
+            },
+            "properties": {
+                "name": "KBO Odjel za oftalmologiju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6843858,
+                    45.556421
+                ]
+            },
+            "properties": {
+                "name": "Privatna internisticka i kardioloska ordinacija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4792189,
+                    45.6124801
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Ozalj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3978512,
+                    43.9103491
+                ]
+            },
+            "properties": {
+                "name": "Zdravstveni dom Vrlika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0510386,
+                    44.4415603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6843781,
+                    45.5548542
+                ]
+            },
+            "properties": {
+                "name": "Medicina rada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2270514,
+                    45.5973152
+                ]
+            },
+            "properties": {
+                "name": "Daruvarske toplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2325474,
+                    45.5992497
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Arcadia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6054475,
+                    46.2814903
+                ]
+            },
+            "properties": {
+                "name": "Ordinacija op\u0107e medicine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6623979,
+                    45.1453959
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta \u0160ilo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8916749,
+                    42.7665866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9614349,
+                    45.8098206
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja \u010crnomerec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.896911,
+                    43.7339115
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Mikulandra"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.23136,
+                    45.257712
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a Bolnica Ogulin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7670456,
+                    45.3581573
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Jak\u0161i\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9907586,
+                    45.8061768
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6696429,
+                    46.3826013
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Gori\u010dan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1210273,
+                    46.1316714
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Belec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9099108,
+                    46.0281308
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6919624,
+                    45.0735974
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Panaceja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5784779,
+                    45.2953264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4603236,
+                    43.5063291
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Blatine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1872288,
+                    44.0794432
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Preko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7578929,
+                    44.7637944
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja Rab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9407349,
+                    45.2390057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5469696,
+                    45.3816943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9297338,
+                    45.8019381
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Voltino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7002359,
+                    45.0737366
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja \u017dupanja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1534429,
+                    43.8590723
+                ]
+            },
+            "properties": {
+                "name": "hitna pomo\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1537755,
+                    43.859111
+                ]
+            },
+            "properties": {
+                "name": "dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.221346,
+                    42.5780495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.242547,
+                    45.9614841
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6982424,
+                    43.4395712
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Omi\u0161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4110423,
+                    44.963447
+                ]
+            },
+            "properties": {
+                "name": "Cres ambulance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6687798,
+                    45.5651889
+                ]
+            },
+            "properties": {
+                "name": "Tonus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7042117,
+                    45.7051514
+                ]
+            },
+            "properties": {
+                "name": "Doma zdravlja Slatina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0180279,
+                    45.9748644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9082699,
+                    46.0829915
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Zabok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6051765,
+                    45.7664157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8891889,
+                    42.9258686
+                ]
+            },
+            "properties": {
+                "name": "GP Doctor, Stomatologist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1115204,
+                    42.6424883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.437073,
+                    43.5090209
+                ]
+            },
+            "properties": {
+                "name": "Splitske toplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.963625,
+                    45.4086631
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4424071,
+                    43.172413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9952638,
+                    45.8092395
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6119165,
+                    44.0351953
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Benkovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6868488,
+                    44.39103
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta op\u0107e medicine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5633867,
+                    42.9446959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.281909,
+                    43.3922119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1362661,
+                    42.9493428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4555217,
+                    46.4772158
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Vrati\u0161inec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9974297,
+                    46.0431923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9076073,
+                    45.2691171
+                ]
+            },
+            "properties": {
+                "name": "dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1190481,
+                    45.7042343
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Novo \u010ci\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0771651,
+                    42.6501254
+                ]
+            },
+            "properties": {
+                "name": "Hitna medicinska pomo\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0764355,
+                    42.6483894
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica Dubrovnik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.3641566,
+                    45.2203608
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3134832,
+                    45.3640563
+                ]
+            },
+            "properties": {
+                "name": "Nemec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1270304,
+                    46.2242772
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Ivanec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.004822,
+                    45.8201191
+                ]
+            },
+            "properties": {
+                "name": "Arithera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.564728,
+                    45.4239506
+                ]
+            },
+            "properties": {
+                "name": "HGSS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.897013,
+                    45.7976861
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Cedar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9874597,
+                    45.8229864
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Medikol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2061388,
+                    43.4469203
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Imotski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3030072,
+                    45.334168
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Opatija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9716098,
+                    45.982636
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Donja Stubica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7109079,
+                    45.1650229
+                ]
+            },
+            "properties": {
+                "name": "Terme Selce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2280326,
+                    45.2640806
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Ogulin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9518776,
+                    43.3580625
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Ba\u0161ka Voda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5447688,
+                    45.165724
+                ]
+            },
+            "properties": {
+                "name": "Tourist ambulance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0853387,
+                    44.2982181
+                ]
+            },
+            "properties": {
+                "name": "small medical center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7679314,
+                    45.4854835
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4594797,
+                    45.581213
+                ]
+            },
+            "properties": {
+                "name": "Lje\u010dili\u0161te Bizova\u010dke toplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3130681,
+                    44.0463942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1606481,
+                    45.4133901
+                ]
+            },
+            "properties": {
+                "name": "Bolnica Lipik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1058355,
+                    42.6755654
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Moko\u0161ica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6672009,
+                    43.8171687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6404323,
+                    45.0809389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8389049,
+                    45.1233473
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5062073,
+                    46.3285533
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Orehovica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9821747,
+                    45.8295573
+                ]
+            },
+            "properties": {
+                "name": "Specijalna bolnica za plu\u0107ne bolesti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.108417,
+                    45.8264422
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Sesvete"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4169282,
+                    45.6610569
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Valpovo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1827301,
+                    45.18257
+                ]
+            },
+            "properties": {
+                "name": "DOM ZDRAVLJA SLAVONSKI BROD, AMBULANTA GAR\u010cIN"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0118834,
+                    45.158748
+                ]
+            },
+            "properties": {
+                "name": "Odjel za reumatske bolesti, fizikalnu medicinu i rehabilitaciju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4407669,
+                    45.3779881
+                ]
+            },
+            "properties": {
+                "name": "Psihijatrijska bolnica Lopa\u010da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9685794,
+                    45.2887325
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja Topusko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7510667,
+                    45.6823971
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta( zubar,op\u0107a medicina)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6914096,
+                    45.5576734
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Rosso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3147194,
+                    45.3644867
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Matulji"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4738638,
+                    43.5065924
+                ]
+            },
+            "properties": {
+                "name": "Salus ST"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8071807,
+                    45.8066202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8498212,
+                    45.9014513
+                ]
+            },
+            "properties": {
+                "name": "Hitna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7009605,
+                    46.221617
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.653331,
+                    45.23407
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.91131,
+                    45.2601719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5365382,
+                    45.1146307
+                ]
+            },
+            "properties": {
+                "name": "Ordinacija op\u0107e medicine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3335236,
+                    43.499852
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7410058,
+                    45.2260741
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7697485,
+                    45.2911727
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Novo Selo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2325504,
+                    44.1198289
+                ]
+            },
+            "properties": {
+                "name": "Hitna pomo\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2326684,
+                    44.1197135
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6530683,
+                    45.5638965
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Retfala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9604372,
+                    44.5531541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2067802,
+                    43.4469456
+                ]
+            },
+            "properties": {
+                "name": "Hitna pomo\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2150015,
+                    43.4481823
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Meter"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8917961,
+                    44.546472
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0771773,
+                    42.6597951
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Glavi\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5974107,
+                    43.1856541
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Stari Grad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6388198,
+                    45.08138
+                ]
+            },
+            "properties": {
+                "name": "ambulanca"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9069609,
+                    45.8139813
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Vrap\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8769732,
+                    45.8158283
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Gajnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.846098,
+                    45.8155796
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Podsused"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8334912,
+                    45.849672
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Ivanec Bistranski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8022395,
+                    45.8575877
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Zapre\u0161i\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8016389,
+                    45.8575985
+                ]
+            },
+            "properties": {
+                "name": "Hitna pomo\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9047384,
+                    45.7933148
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Pre\u010dko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6765273,
+                    45.1862357
+                ]
+            },
+            "properties": {
+                "name": "Thalassotherapia Crikvenica - Specijalna bolnica za medicinsku rehabilitaciju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6745378,
+                    45.3329969
+                ]
+            },
+            "properties": {
+                "name": "Hitna pomo\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.911918,
+                    45.9943019
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8808185,
+                    45.5318989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3107487,
+                    43.7927401
+                ]
+            },
+            "properties": {
+                "name": "Kljake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3994757,
+                    45.2552132
+                ]
+            },
+            "properties": {
+                "name": "Lokalna ambulanta Pi\u0161korevci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5977945,
+                    45.2173103
+                ]
+            },
+            "properties": {
+                "name": "Dentist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2437108,
+                    43.3863113
+                ]
+            },
+            "properties": {
+                "name": "Ambulance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2767459,
+                    45.4230205
+                ]
+            },
+            "properties": {
+                "name": "Specijalna bolnica za kroni\u010dne bolesti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0887095,
+                    42.6521454
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Marin Med"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0221113,
+                    43.2923839
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Makarska"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7994188,
+                    45.2869545
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Pleternica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6946527,
+                    45.175457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.941554,
+                    45.7913557
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Srednjaci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.386583,
+                    45.7066872
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Ivani\u0107 Grad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3511124,
+                    43.5531723
+                ]
+            },
+            "properties": {
+                "name": "Ustanova za hitnu medicinsku pomo\u0107 Ka\u0161tel Stari"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2432252,
+                    43.5190063
+                ]
+            },
+            "properties": {
+                "name": "HMP Trogir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9806067,
+                    45.795969
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Centar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6609958,
+                    45.8059601
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Popovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.164024,
+                    45.4112531
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja Lipik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.0700544,
+                    46.0416346
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja \u0110ur\u0111evac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4480718,
+                    44.2898517
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Zadar - Ambulanta Starigrad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0063433,
+                    45.8246273
+                ]
+            },
+            "properties": {
+                "name": "Rebro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9393196,
+                    45.8204465
+                ]
+            },
+            "properties": {
+                "name": "Klini\u010dka bolnica Sveti Duh"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9342804,
+                    45.7895906
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Gajevo-Jarun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9278924,
+                    45.7868964
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Sunce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0088251,
+                    45.7882711
+                ]
+            },
+            "properties": {
+                "name": "Borovje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.690679,
+                    45.5588592
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6327667,
+                    43.6999235
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Sinj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2461756,
+                    43.5180019
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Trogir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4619379,
+                    45.5826252
+                ]
+            },
+            "properties": {
+                "name": "Specijalna bolnica za rehabilitaciju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6325019,
+                    43.699726
+                ]
+            },
+            "properties": {
+                "name": "Bolnica Sinj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4929098,
+                    43.5404802
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Solin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4701428,
+                    45.3258443
+                ]
+            },
+            "properties": {
+                "name": "Su\u0161a\u010dka bolnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8484485,
+                    45.9020675
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica Bjelovar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0053554,
+                    45.1595838
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Slavonski Brod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.09905,
+                    44.1111919
+                ]
+            },
+            "properties": {
+                "name": "Psihijatrijska bolnica Ugljan"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6971063,
+                    44.3761396
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Silba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0036847,
+                    45.7996263
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Sige\u010dica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0525585,
+                    45.830549
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Zagreb - istok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7133928,
+                    45.5587425
+                ]
+            },
+            "properties": {
+                "name": "Klini\u010dko bolni\u010dki centar Osijek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8976876,
+                    45.8167676
+                ]
+            },
+            "properties": {
+                "name": "Psihijatrijska bolnica Vrap\u010de"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.964722,
+                    45.8098067
+                ]
+            },
+            "properties": {
+                "name": "Klinika za dje\u010dje bolesti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9500899,
+                    45.7970605
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0354094,
+                    45.834625
+                ]
+            },
+            "properties": {
+                "name": "Klini\u010dka bolnica Dubrava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9400629,
+                    45.806249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9515318,
+                    45.8159869
+                ]
+            },
+            "properties": {
+                "name": "Klini\u010dki bolni\u010dki centar Sestre milosrdnice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.237287,
+                    45.806691
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Dugo Selo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9844278,
+                    45.8189969
+                ]
+            },
+            "properties": {
+                "name": "Klini\u010dki bolni\u010dki centar \u0160alata"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7261619,
+                    43.6149846
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0034109,
+                    45.825785
+                ]
+            },
+            "properties": {
+                "name": "Jordanovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9813679,
+                    45.8302211
+                ]
+            },
+            "properties": {
+                "name": "Klinika za infektivne bolesti Dr. Fran Mihaljevi\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4396948,
+                    43.5158198
+                ]
+            },
+            "properties": {
+                "name": "Dje\u010dji dispanzer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4395327,
+                    43.5163692
+                ]
+            },
+            "properties": {
+                "name": "\u0160kolska poliklinika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1640119,
+                    45.763294
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9444329,
+                    45.8111199
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja \u010crnomerec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2246948,
+                    45.5899601
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Daruvar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7436239,
+                    45.5044136
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Tenja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7499299,
+                    45.606602
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.4169425,
+                    45.6610938
+                ]
+            },
+            "properties": {
+                "name": "Hitna pomo\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.819062,
+                    45.2926279
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Vinkovci"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2149613,
+                    44.0521332
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica Hrvatski ponos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.712401,
+                    45.5472431
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4338255,
+                    46.3936081
+                ]
+            },
+            "properties": {
+                "name": "\u017dupanijska bolnica \u010cakovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0131059,
+                    43.5866545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2783181,
+                    45.2990724
+                ]
+            },
+            "properties": {
+                "name": "Klinika za ortopediju Lovran"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4689661,
+                    43.5055502
+                ]
+            },
+            "properties": {
+                "name": "KBC Split - Kri\u017eine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3107414,
+                    43.7927747
+                ]
+            },
+            "properties": {
+                "name": "Kljake"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4500292,
+                    43.511049
+                ]
+            },
+            "properties": {
+                "name": "Zavod za javno zdravstvo Splitsko-Dalmatinske \u017eupanije"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4538308,
+                    43.5195533
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Sunce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8370237,
+                    44.8601165
+                ]
+            },
+            "properties": {
+                "name": "Mornari\u010dka bolnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9717188,
+                    45.8421147
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Nemetova / Aviva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4275816,
+                    45.3323808
+                ]
+            },
+            "properties": {
+                "name": "Rije\u010dka bolnica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.920542,
+                    45.7970536
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Rude\u0161"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3695023,
+                    45.476428
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica ''Dr. Ivo Pedi\u0161i\u0107''"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8551131,
+                    44.8655364
+                ]
+            },
+            "properties": {
+                "name": "Zarazni odjel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.855107,
+                    44.8669157
+                ]
+            },
+            "properties": {
+                "name": "Psihijatrija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8562578,
+                    44.8655786
+                ]
+            },
+            "properties": {
+                "name": "Rodili\u0161te"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8560851,
+                    44.8666291
+                ]
+            },
+            "properties": {
+                "name": "Hitna pomo\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8573524,
+                    44.8659485
+                ]
+            },
+            "properties": {
+                "name": "Laboratorij Rengen Ultrazvuk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4592869,
+                    43.5040538
+                ]
+            },
+            "properties": {
+                "name": "KBC Split - Firule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5559918,
+                    43.3822677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7129368,
+                    45.8057478
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Samobor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5588964,
+                    45.1949949
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Omi\u0161alj Dina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.569812,
+                    45.0285149
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Krk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8524062,
+                    44.8678592
+                ]
+            },
+            "properties": {
+                "name": "Stomatologija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9773006,
+                    45.8334036
+                ]
+            },
+            "properties": {
+                "name": "Poliklinika Hipokrat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7150194,
+                    45.5559703
+                ]
+            },
+            "properties": {
+                "name": "Odjel za ko\u017ene i spolne bolesti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5415026,
+                    45.4920165
+                ]
+            },
+            "properties": {
+                "name": "Bolnica Dubovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6058545,
+                    45.2274098
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Pore\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1188868,
+                    45.1001085
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Labin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4602495,
+                    45.3226046
+                ]
+            },
+            "properties": {
+                "name": "Dje\u010dji dispanzer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9964625,
+                    45.8204012
+                ]
+            },
+            "properties": {
+                "name": "Vuk Vrhovac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9845381,
+                    45.8103273
+                ]
+            },
+            "properties": {
+                "name": "Klinika za traumatologiju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0941045,
+                    42.6473074
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5831479,
+                    45.1121313
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Slunj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0255149,
+                    45.155413
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica \"Dr. Josip Ben\u010devi\u0107\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.5587559,
+                    43.0168812
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8951699,
+                    45.8029168
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1361781,
+                    42.9496221
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6472281,
+                    43.0536067
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Metkovi\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6270486,
+                    44.8749731
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Plitvi\u010dka jezera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8755678,
+                    46.1599639
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Krapina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3860642,
+                    45.7063288
+                ]
+            },
+            "properties": {
+                "name": "Specijalna bolnica za ko\u017ena i reumatska oboljenja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6696416,
+                    46.3826115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9045361,
+                    45.9167848
+                ]
+            },
+            "properties": {
+                "name": "Specijalna bolnica za kroni\u010dne bolesti dje\u010dje dobi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9440141,
+                    45.8123702
+                ]
+            },
+            "properties": {
+                "name": "Klinika za tumore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3673186,
+                    45.3418202
+                ]
+            },
+            "properties": {
+                "name": "Djecja bolnica Kantrida"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8142755,
+                    45.799143
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Rakitje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8376038,
+                    46.1627366
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica Dr. Tomislav Bardek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8389954,
+                    46.1630004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6610545,
+                    45.4075602
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja Buje - Ambulatorio Medico Buie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3322217,
+                    46.1634195
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Novi Marof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6473535,
+                    43.0536081
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Metkovi\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3848742,
+                    45.4912322
+                ]
+            },
+            "properties": {
+                "name": "Odjel za fizikalnu medicinu i rehabilitaciju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6267008,
+                    45.5695582
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Popova\u010da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5246363,
+                    45.4327022
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja Umag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7624024,
+                    45.796802
+                ]
+            },
+            "properties": {
+                "name": "Poliklina Sveta Nedelja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4176573,
+                    45.8867898
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Vrbovec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1888263,
+                    45.430562
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a \u017eupanijska bolnica Pakrac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6403291,
+                    45.0807781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3449955,
+                    46.3055847
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3267377,
+                    46.3029924
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica Vara\u017edin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8397172,
+                    44.8843114
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Gunja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4357153,
+                    43.1730318
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Hvar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9933142,
+                    45.3576963
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a \u017eupanijska bolnica Vukovar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3433985,
+                    46.2923873
+                ]
+            },
+            "properties": {
+                "name": "Medicina rada"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7892858,
+                    45.8101616
+                ]
+            },
+            "properties": {
+                "name": "Zdravstvena stanica Strmec"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3806505,
+                    46.3771961
+                ]
+            },
+            "properties": {
+                "name": "Lje\u010dnik, zubar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7203162,
+                    44.7793329
+                ]
+            },
+            "properties": {
+                "name": "Psihijatrijska bolnica Rab"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9602753,
+                    45.8004054
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja MUP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2460844,
+                    44.0333877
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Kukljica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6424703,
+                    43.7996051
+                ]
+            },
+            "properties": {
+                "name": "Ambulance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.9650732,
+                    45.3756198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.290024,
+                    45.8230116
+                ]
+            },
+            "properties": {
+                "name": "dom zdravlja Brckovljani"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.8371587,
+                    45.1925897
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6882326,
+                    45.8378065
+                ]
+            },
+            "properties": {
+                "name": "Ambulanta Bregana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3375048,
+                    46.1661426
+                ]
+            },
+            "properties": {
+                "name": "Specijalna bolnica za kroni\u010dne bolesti Novi Marof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4211066,
+                    46.2105248
+                ]
+            },
+            "properties": {
+                "name": "Specijalna bolnica za medicinsku rehabilitaciju Vara\u017edinske Toplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6444113,
+                    45.5956566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6946688,
+                    45.1755883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.538167,
+                    45.4775344
+                ]
+            },
+            "properties": {
+                "name": "Bolnica \u0160var\u010da"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8041222,
+                    45.3979167
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja \"Dr. J. Kajfe\u017e\""
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0848414,
+                    45.333687
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Glina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3753026,
+                    43.2019227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2343091,
+                    44.1075084
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica Zadar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0666162,
+                    46.1203232
+                ]
+            },
+            "properties": {
+                "name": "Dom za psihi\u010dki bolesne odrasle osobe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9933686,
+                    45.8251671
+                ]
+            },
+            "properties": {
+                "name": "Dje\u010dja bolnica Srebrnjak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1778599,
+                    42.977111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.985299,
+                    45.7986372
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Trnje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3893778,
+                    45.8284522
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica Virovitica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2060663,
+                    43.4469324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2067317,
+                    43.4468942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9928561,
+                    45.815907
+                ]
+            },
+            "properties": {
+                "name": "Klinika za \u017eenske bolesti i porode"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9921858,
+                    45.8131846
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Centar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3906209,
+                    45.3429838
+                ]
+            },
+            "properties": {
+                "name": "Slu\u017eba \u0161kolske medicine, Ambulanta Zamet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3812349,
+                    45.3446557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6815054,
+                    43.1662538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4472319,
+                    43.9476557
+                ]
+            },
+            "properties": {
+                "name": "Specijalna bolnica za ortopediju"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0096934,
+                    45.4274647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4362412,
+                    45.3340424
+                ]
+            },
+            "properties": {
+                "name": "Hospicij Marija K. Kozuli\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4996964,
+                    45.4534659
+                ]
+            },
+            "properties": {
+                "name": "SB Duga Resa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6990107,
+                    45.3437527
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a \u017eupanijska bolnica Po\u017eega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8380196,
+                    46.093434
+                ]
+            },
+            "properties": {
+                "name": "Specijalna bolnica za medicinsku rehabilitaciju Krapinske Toplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1269914,
+                    46.2242872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9001739,
+                    43.7324773
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica \u0160ibenik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6339448,
+                    45.0982786
+                ]
+            },
+            "properties": {
+                "name": "Bolnica za ortopediju i rehabilitaciju Prim. dr. Martin Horvat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.640682,
+                    45.0807157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1607641,
+                    45.413392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6203692,
+                    46.245464
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6389621,
+                    45.5738446
+                ]
+            },
+            "properties": {
+                "name": "Neuropsihijatrijska bolnica dr. Ivan Barbot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.6906859,
+                    45.558852
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Osijek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.7124005,
+                    45.5471948
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8202689,
+                    46.3482446
+                ]
+            },
+            "properties": {
+                "name": "Ordinacija Dentalne Medicine Helga Golubi\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3623068,
+                    44.5439513
+                ]
+            },
+            "properties": {
+                "name": "OB Gospi\u0107"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.935571,
+                    45.977517
+                ]
+            },
+            "properties": {
+                "name": "Specijalna bolnica za medicinsku rehabilitaciju Stubi\u010dke Toplice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.3900098,
+                    45.2611467
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica Nova Gradi\u0161ka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9406952,
+                    46.017755
+                ]
+            },
+            "properties": {
+                "name": "Op\u0107a bolnica Zabok"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9974352,
+                    45.8205117
+                ]
+            },
+            "properties": {
+                "name": "Klini\u010dka bolnica Merkur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0661452,
+                    45.714056
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Velika Gorica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7119531,
+                    42.9683608
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja - Vela Luka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0187894,
+                    45.8056611
+                ]
+            },
+            "properties": {
+                "name": "Dom Zdravlja Pe\u0161\u0107enica-\u017ditnjak"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0122984,
+                    45.8002829
+                ]
+            },
+            "properties": {
+                "name": "Ustanova za hitnu medicinsku pomo\u0107 Zagreb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7919648,
+                    42.9382983
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Blato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9792922,
+                    45.7730105
+                ]
+            },
+            "properties": {
+                "name": "Dom zdravlja Siget"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8764913,
+                    45.8060084
+                ]
+            },
+            "properties": {
+                "name": "Psihijatrijska bolnica Sveti Ivan"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

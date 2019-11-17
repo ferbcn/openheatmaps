@@ -1,0 +1,76 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7132546,
+                    58.3748897
+                ]
+            },
+            "properties": {
+                "name": "Desiree"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6012788,
+                    58.3647578
+                ]
+            },
+            "properties": {
+                "name": "Eclipse Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.6751215,
+                    58.3584507
+                ]
+            },
+            "properties": {
+                "name": "Sinu Saladus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7621968,
+                    59.4374799
+                ]
+            },
+            "properties": {
+                "name": "Sex Max"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7366547,
+                    59.4259567
+                ]
+            },
+            "properties": {
+                "name": "Planet Amor"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

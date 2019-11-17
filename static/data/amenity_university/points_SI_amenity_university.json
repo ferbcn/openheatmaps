@@ -1,0 +1,953 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6382152,
+                    46.5590744
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za elektrotehniko, ra\u010dunalni\u0161tvo in informatiko Maribor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5706586,
+                    46.3930169
+                ]
+            },
+            "properties": {
+                "name": "Ljudska univerza Slovenska Bistrica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6241238,
+                    46.5637439
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za naravoslovje in matematiko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8715359,
+                    46.4196491
+                ]
+            },
+            "properties": {
+                "name": "Ljudska univerza Ptuj"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6235642,
+                    46.5638713
+                ]
+            },
+            "properties": {
+                "name": "Filozofska fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6245943,
+                    46.5634784
+                ]
+            },
+            "properties": {
+                "name": "Pedago\u0161ka fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7268097,
+                    45.5480962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5133379,
+                    46.0548167
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za varnostne vede"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4950763,
+                    46.0416627
+                ]
+            },
+            "properties": {
+                "name": "Mednarodna poslovna \u0161ola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5902403,
+                    46.1374919
+                ]
+            },
+            "properties": {
+                "name": "Glasbena \u0161ola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7293651,
+                    45.5483191
+                ]
+            },
+            "properties": {
+                "name": "Universa na primorskem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6401029,
+                    46.5591185
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za strojni\u0161tvo Maribor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6392875,
+                    46.5594173
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za kemijo in kemijsko tehnologijo Maribor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6406072,
+                    46.5590189
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za gradbeni\u0161tvo, prometno in\u017eenirstvo in arhitekturo Maribor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6464021,
+                    46.5577463
+                ]
+            },
+            "properties": {
+                "name": "Vi\u0161ja strokovna \u0161ola Academia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6224898,
+                    46.5054737
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za kmetijstvo in biosistemske vede"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4902152,
+                    46.042072
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za matematiko in fiziko, oddelek za matematiko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4897762,
+                    46.0426472
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za matematiko in fiziko, oddelek za fiziko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4978215,
+                    46.0471354
+                ]
+            },
+            "properties": {
+                "name": "Naravoslovnotehni\u010dna fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4987439,
+                    46.0473481
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za strojni\u0161tvo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4986637,
+                    46.0469685
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za strojni\u0161tvo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4982542,
+                    46.0471076
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za strojni\u0161tvo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6460438,
+                    46.5627805
+                ]
+            },
+            "properties": {
+                "name": "Pravna fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4982108,
+                    46.0465664
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za farmacijo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4973854,
+                    46.0464329
+                ]
+            },
+            "properties": {
+                "name": "Naravoslovnotehni\u0161ka fakulteta - Oddelek za tekstilstvo, grafiko in oblikovanje."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4985619,
+                    46.0461593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4876633,
+                    46.0405047
+                ]
+            },
+            "properties": {
+                "name": "Veterinarska fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5048546,
+                    46.0524821
+                ]
+            },
+            "properties": {
+                "name": "Akademija za gledali\u0161\u010de, radio, film in televizijo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4965672,
+                    46.0499913
+                ]
+            },
+            "properties": {
+                "name": "Akademija za likovno umetnost in oblikovanje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5169851,
+                    46.0742039
+                ]
+            },
+            "properties": {
+                "name": "UL Ekonomska fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5039138,
+                    46.0457639
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za arhitekturo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5142175,
+                    46.0742937
+                ]
+            },
+            "properties": {
+                "name": "UL Fakulteta za dru\u017ebene vede"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6525284,
+                    46.5617893
+                ]
+            },
+            "properties": {
+                "name": "Ekonomsko-poslovna fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6538329,
+                    46.5617147
+                ]
+            },
+            "properties": {
+                "name": "Ekonomsko-poslovna fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5181776,
+                    46.0666397
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za socialno delo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4893628,
+                    46.0446568
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za elektrotehniko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.500246,
+                    46.0467189
+                ]
+            },
+            "properties": {
+                "name": "Filozofska fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6472337,
+                    46.5548948
+                ]
+            },
+            "properties": {
+                "name": "Medicinska fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6431947,
+                    46.5592271
+                ]
+            },
+            "properties": {
+                "name": "Univerza v Mariboru"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5959871,
+                    46.0937762
+                ]
+            },
+            "properties": {
+                "name": "Nuclear Training Center ICJT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6442771,
+                    46.5496665
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za zdravstvene vede"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4923618,
+                    46.0419034
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za gradbeni\u0161tvo in geodezijo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4922243,
+                    46.0415973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4917803,
+                    46.0414595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5231769,
+                    46.054318
+                ]
+            },
+            "properties": {
+                "name": "Medicinska Fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5044448,
+                    46.0456962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4934185,
+                    46.0450709
+                ]
+            },
+            "properties": {
+                "name": "Univerza v Ljubljani, Fakulteta za strojni\u0161tvo, Katedra za modeliranje v tehniki in medicini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4904107,
+                    46.0419721
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za matematiko in fiziko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4887284,
+                    46.039307
+                ]
+            },
+            "properties": {
+                "name": "Visoka \u0161ola za storitve"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.498331,
+                    46.046368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5114652,
+                    46.0511354
+                ]
+            },
+            "properties": {
+                "name": "Pravna fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5110702,
+                    46.0515158
+                ]
+            },
+            "properties": {
+                "name": "Pravna fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.532438,
+                    46.0508559
+                ]
+            },
+            "properties": {
+                "name": "Univerza v Ljubljani, Fakulteta za \u0161port"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4954442,
+                    46.0460425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4949365,
+                    46.0457825
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za gradbeni\u0161tvo in geodezijo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5151828,
+                    46.0745641
+                ]
+            },
+            "properties": {
+                "name": "UL Fakulteta za upravo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5142961,
+                    46.0747394
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za dru\u017ebene vede"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5134464,
+                    46.0747197
+                ]
+            },
+            "properties": {
+                "name": "Dom Podiplomcev"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4681784,
+                    46.0502718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6577873,
+                    45.5312029
+                ]
+            },
+            "properties": {
+                "name": "famnit & pint"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6578843,
+                    45.5313024
+                ]
+            },
+            "properties": {
+                "name": "\u0160tudentski kampus Izola (LIvade)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6462256,
+                    45.9321159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2677799,
+                    46.2338845
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za logistiko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3494644,
+                    46.2512272
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za organizacijske vede"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9018121,
+                    45.8908438
+                ]
+            },
+            "properties": {
+                "name": "Ljudska univerza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6356971,
+                    46.237688
+                ]
+            },
+            "properties": {
+                "name": "Ljudska univerza, zavod za izobra\u017eevanje in kulturo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1135708,
+                    46.3617427
+                ]
+            },
+            "properties": {
+                "name": "\u0160olski Center Velenje Elektro In Ra\u010dunalni\u0161ka \u0160ola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.19534,
+                    46.5190887
+                ]
+            },
+            "properties": {
+                "name": "Glasbena \u0161ola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.591707,
+                    46.1388989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4839608,
+                    45.9678455
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za energetiko"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4963288,
+                    46.0500286
+                ]
+            },
+            "properties": {
+                "name": "Akademija za likovno umetnost in oblikovanje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5182386,
+                    46.0753416
+                ]
+            },
+            "properties": {
+                "name": "UL Pedago\u0161ka fakulteta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5921084,
+                    45.9054832
+                ]
+            },
+            "properties": {
+                "name": "Fakulteta za turizem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5185432,
+                    46.0512065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5041119,
+                    46.048986
+                ]
+            },
+            "properties": {
+                "name": "Univerza v Ljubljani"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

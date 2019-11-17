@@ -1,0 +1,3531 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5772569,
+                    49.1934783
+                ]
+            },
+            "properties": {
+                "name": "Ekonomicko-spr\u00e1vn\u00ed fakulta MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2360354,
+                    49.5864454
+                ]
+            },
+            "properties": {
+                "name": "UPOL - L\u00e9ka\u0159sk\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.829772,
+                    50.2038397
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Hradec Kr\u00e1lov\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8351215,
+                    50.2133737
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Karlova, L\u00e9ka\u0159sk\u00e1 Fakulta, Hradec Kr\u00e1lov\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3929788,
+                    50.1026303
+                ]
+            },
+            "properties": {
+                "name": "Fakulta elektrotechnick\u00e1 \u010cVUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3916818,
+                    50.1033264
+                ]
+            },
+            "properties": {
+                "name": "Fakulta strojn\u00ed \u010cVUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3919974,
+                    50.1014965
+                ]
+            },
+            "properties": {
+                "name": "Klokner\u016fv v\u00fdzkumn\u00fd a zku\u0161ebn\u00ed \u00fastav hmot a konstrukc\u00ed stavebn\u00edch \u010cVUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3907509,
+                    50.1017395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0360361,
+                    50.6751297
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Jana Evangelisty Purkyn\u011b v \u00dast\u00ed nad Labem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1048053,
+                    50.1352124
+                ]
+            },
+            "properties": {
+                "name": "\u010cVUT - FBMI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4196751,
+                    50.0845966
+                ]
+            },
+            "properties": {
+                "name": "North Carolina State University - Prague Institute"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3329965,
+                    50.0529861
+                ]
+            },
+            "properties": {
+                "name": "Bankovn\u00ed Institut Vysok\u00e1 \u0161kola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4241854,
+                    50.0870575
+                ]
+            },
+            "properties": {
+                "name": "FF UK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0879708,
+                    50.2311476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2864292,
+                    49.8376738
+                ]
+            },
+            "properties": {
+                "name": "Ostravsk\u00e1 univerzita - Padagogick\u00e1 fakulta - D\u011bkan\u00e1t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7683238,
+                    50.0500552
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Pardubice - FCHT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7665578,
+                    50.0495781
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Pardubice - Aula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2553698,
+                    49.5908899
+                ]
+            },
+            "properties": {
+                "name": "Vy\u0161\u0161\u00ed odborn\u00e1 \u0161kola soci\u00e1ln\u00ed a teologick\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4020164,
+                    50.0878924
+                ]
+            },
+            "properties": {
+                "name": "Hudebn\u00ed a tane\u010dn\u00ed fakulta AMU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0612752,
+                    50.7721805
+                ]
+            },
+            "properties": {
+                "name": "Technick\u00e1 univerzita v Liberci, budova H"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.072035,
+                    50.7728554
+                ]
+            },
+            "properties": {
+                "name": "Technick\u00e1 univerzita v Liberci, budova A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8357898,
+                    50.2017148
+                ]
+            },
+            "properties": {
+                "name": "Faculty of Pharmacy, Charles University"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2437639,
+                    49.5968551
+                ]
+            },
+            "properties": {
+                "name": "UPOL - FTV"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4012684,
+                    50.0875481
+                ]
+            },
+            "properties": {
+                "name": "Akademie m\u016fzick\u00fdch um\u011bn\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4023543,
+                    50.087649
+                ]
+            },
+            "properties": {
+                "name": "Akademie m\u00fazick\u00fdch um\u011bn\u00ed v\u00a0Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.997259,
+                    49.5891285
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola podnik\u00e1n\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4248772,
+                    50.0682137
+                ]
+            },
+            "properties": {
+                "name": "P\u0159\u00edrodov\u011bdeck\u00e1 fakulta Univerzity Karlovy - budova chemick\u00e9 sekce"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4197917,
+                    50.0705482
+                ]
+            },
+            "properties": {
+                "name": "P\u0159\u00edrodov\u011bdeck\u00e1 fakulta Univerzity Karlovy - studijn\u00ed odd\u011blen\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5389237,
+                    50.0521306
+                ]
+            },
+            "properties": {
+                "name": "Koleje a menzy UK - kolej Hostiva\u0159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3698734,
+                    49.7624911
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Karlova, L\u00e9ka\u0159sk\u00e1 fakulta v Plzni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3701309,
+                    49.7628203
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Karlova, L\u00e9ka\u0159sk\u00e1 fakulta v Plzni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.41321,
+                    50.0816826
+                ]
+            },
+            "properties": {
+                "name": "Filmov\u00e1 a televizn\u00ed fakulta Akademie m\u00fazick\u00fdch um\u011bn\u00ed v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4272526,
+                    50.0731797
+                ]
+            },
+            "properties": {
+                "name": "1. L\u00e9ka\u0159sk\u00e1 fakulta UK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.477457,
+                    48.9711638
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta Jiho\u010desk\u00e9 univerzity"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3507307,
+                    49.7248019
+                ]
+            },
+            "properties": {
+                "name": "Fakulta strojn\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.7997084,
+                    48.7962694
+                ]
+            },
+            "properties": {
+                "name": "Zahradnick\u00e1 fakulta Medelovy lesnick\u00e9 a zem\u011bd\u011blsk\u00e9 univerzity"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4416791,
+                    50.0450469
+                ]
+            },
+            "properties": {
+                "name": "Husitsk\u00e1 teologick\u00e1 fakulta UK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1007816,
+                    50.14608
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola finan\u010dn\u00ed a spr\u00e1vn\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.095403,
+                    50.13557
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola mana\u017eersk\u00e9 informatiky, ekonomiky a pr\u00e1va"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3914277,
+                    50.1023118
+                ]
+            },
+            "properties": {
+                "name": "V\u0160CHT budova B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3897933,
+                    50.1033176
+                ]
+            },
+            "properties": {
+                "name": "V\u0160CHT budova A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.386038,
+                    50.101115
+                ]
+            },
+            "properties": {
+                "name": "\u010cVUT M\u00daVS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3322611,
+                    50.052923
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola ekonomie a managementu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6042559,
+                    49.2073125
+                ]
+            },
+            "properties": {
+                "name": "BIBS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4203339,
+                    50.0797102
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta Univerzity Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4279842,
+                    50.069643
+                ]
+            },
+            "properties": {
+                "name": "Matematicko-fyzik\u00e1ln\u00ed fakulta Univerzity Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4254009,
+                    50.0834346
+                ]
+            },
+            "properties": {
+                "name": "Newton College"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.391267,
+                    50.1021757
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola chemicko-technologick\u00e1 v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.420339,
+                    50.0807505
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola obchodn\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3704568,
+                    49.7630469
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Karlova, L\u00e9ka\u0159sk\u00e1 fakulta v Plzni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4173696,
+                    50.0858399
+                ]
+            },
+            "properties": {
+                "name": "Divadeln\u00ed fakulta Akademie m\u00fazick\u00fdch um\u011bn\u00ed v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0865123,
+                    50.1376123
+                ]
+            },
+            "properties": {
+                "name": "\u010cVUT FBMI - are\u00e1l Kas\u00e1rna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5912001,
+                    49.1744777
+                ]
+            },
+            "properties": {
+                "name": "Vy\u0161\u0161\u00ed policejn\u00ed \u0161kola MV v Brn\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4340104,
+                    50.0734966
+                ]
+            },
+            "properties": {
+                "name": "University of New York in Prague"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4542642,
+                    50.0714761
+                ]
+            },
+            "properties": {
+                "name": "Business Institut EDU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3516009,
+                    50.1057897
+                ]
+            },
+            "properties": {
+                "name": "Mezin\u00e1rodn\u00ed baptistick\u00fd teologick\u00fd semin\u00e1\u0159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.351146,
+                    49.7248445
+                ]
+            },
+            "properties": {
+                "name": "Fakulta ekonomick\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2830727,
+                    49.8385097
+                ]
+            },
+            "properties": {
+                "name": "Jan\u00e1\u010dkova konzervato\u0159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2883078,
+                    49.8406473
+                ]
+            },
+            "properties": {
+                "name": "P\u0159\u00edrodov\u011bdeck\u00e1 fakulta, Ostravsk\u00e1 univerzita (Budova A)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2891312,
+                    49.8396121
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta, Ostravsk\u00e1 univerzita (budova B)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2916183,
+                    49.8395121
+                ]
+            },
+            "properties": {
+                "name": "V\u0160B-TU Ekonomick\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2931077,
+                    49.8401277
+                ]
+            },
+            "properties": {
+                "name": "V\u0160B-TU Ekonomick\u00e1 fakulta (budova E)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2872032,
+                    49.8368182
+                ]
+            },
+            "properties": {
+                "name": "V\u0160B-TU - kino Vesm\u00edr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2901697,
+                    49.8364324
+                ]
+            },
+            "properties": {
+                "name": "Filozofick\u00e1 fakulta a menza, Ostravsk\u00e1 univerzita (Budova DM)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.289188,
+                    49.8364255
+                ]
+            },
+            "properties": {
+                "name": "Ostravsk\u00e1 univerzita - Filozofick\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4492422,
+                    49.4525635
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola logistiky o.p.s."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3498461,
+                    49.7240179
+                ]
+            },
+            "properties": {
+                "name": "Fakulta Elektrotechnick\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4032151,
+                    50.0883397
+                ]
+            },
+            "properties": {
+                "name": "Matematicko-fyzik\u00e1ln\u00ed fakulta UK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4497953,
+                    50.1158014
+                ]
+            },
+            "properties": {
+                "name": "Matematicko-fyzik\u00e1ln\u00ed fakulta Univerzity Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4502543,
+                    50.1151493
+                ]
+            },
+            "properties": {
+                "name": "Matematicko-fyzik\u00e1ln\u00ed fakulta Univerzity Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6153164,
+                    49.2107539
+                ]
+            },
+            "properties": {
+                "name": "Mendelova univerzita v Brn\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5976802,
+                    49.2043486
+                ]
+            },
+            "properties": {
+                "name": "P\u0159\u00edrodov\u011bdeck\u00e1 fakulta Masarykovy univerzity"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5957626,
+                    49.2170281
+                ]
+            },
+            "properties": {
+                "name": "Veterin\u00e1rn\u00ed a farmaceutick\u00e1 univerzita Brno"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2627215,
+                    49.5905283
+                ]
+            },
+            "properties": {
+                "name": "UPOL - Pr\u00e1vnick\u00e1 f."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2144478,
+                    49.5943244
+                ]
+            },
+            "properties": {
+                "name": "UPOL - Are\u00e1l Ne\u0159ed\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3887847,
+                    50.1055467
+                ]
+            },
+            "properties": {
+                "name": "Studentsk\u00fd d\u016fm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3754726,
+                    50.1306713
+                ]
+            },
+            "properties": {
+                "name": "Mensa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3746633,
+                    50.1302327
+                ]
+            },
+            "properties": {
+                "name": "Aula"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3765509,
+                    50.1299425
+                ]
+            },
+            "properties": {
+                "name": "Kolej BCD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3778906,
+                    50.128781
+                ]
+            },
+            "properties": {
+                "name": "Kolej EFG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.373557,
+                    50.1300078
+                ]
+            },
+            "properties": {
+                "name": "Rektor\u00e1t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3731087,
+                    50.1311061
+                ]
+            },
+            "properties": {
+                "name": "Provozn\u011b ekonomick\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3698653,
+                    50.1300499
+                ]
+            },
+            "properties": {
+                "name": "Fakulta lesnick\u00e1 a d\u0159eva\u0159sk\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3691938,
+                    50.1296198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.380197,
+                    50.129669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3743402,
+                    50.1292616
+                ]
+            },
+            "properties": {
+                "name": "Technick\u00e1 Fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37656,
+                    50.1320681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.371732,
+                    50.1293994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.375199,
+                    50.130139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3740714,
+                    50.1302733
+                ]
+            },
+            "properties": {
+                "name": "\u010cesk\u00e1 zem\u011bd\u011blsk\u00e1 univerzita v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3760365,
+                    50.1287181
+                ]
+            },
+            "properties": {
+                "name": "Circle Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3708134,
+                    50.1312488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3772676,
+                    50.130351
+                ]
+            },
+            "properties": {
+                "name": "Kolej JIH"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3693431,
+                    50.1306681
+                ]
+            },
+            "properties": {
+                "name": "D\u0159eva\u0159sk\u00fd pavilon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3722553,
+                    50.1316618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3728337,
+                    50.1288136
+                ]
+            },
+            "properties": {
+                "name": "Studijn\u00ed a informa\u010dn\u00ed centrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3717118,
+                    50.1306384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3723004,
+                    50.1299347
+                ]
+            },
+            "properties": {
+                "name": "Fakultou agrobiologie, potravinov\u00fdch a p\u0159\u00edrodn\u00edch zdoj\u016f"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4298558,
+                    50.017475
+                ]
+            },
+            "properties": {
+                "name": "Policejn\u00ed akademie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.386777,
+                    50.1024043
+                ]
+            },
+            "properties": {
+                "name": "Katologick\u00e1 teologick\u00e1 fakulta UK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2633533,
+                    49.5923115
+                ]
+            },
+            "properties": {
+                "name": "UPOL - P\u0159\u00edrodov\u011bdeck\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5954475,
+                    49.2265209
+                ]
+            },
+            "properties": {
+                "name": "Fakulta informa\u010dn\u00edch technologi\u00ed VUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3977135,
+                    50.1053889
+                ]
+            },
+            "properties": {
+                "name": "Bubene\u010dsk\u00e1 kolej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4188026,
+                    50.0762387
+                ]
+            },
+            "properties": {
+                "name": "\u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze, budova A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.418023,
+                    50.0763865
+                ]
+            },
+            "properties": {
+                "name": "\u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4174266,
+                    50.0763298
+                ]
+            },
+            "properties": {
+                "name": "\u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4178789,
+                    50.0762852
+                ]
+            },
+            "properties": {
+                "name": "\u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4169365,
+                    50.0765343
+                ]
+            },
+            "properties": {
+                "name": "\u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze, budova G"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4982327,
+                    50.0689599
+                ]
+            },
+            "properties": {
+                "name": "Metropolitn\u00ed univerzita Praha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4161262,
+                    50.090897
+                ]
+            },
+            "properties": {
+                "name": "FJFI \u010cVUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4149027,
+                    50.0886173
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola um\u011bleckopr\u016fmyslov\u00e1 v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4156785,
+                    50.0776618
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.59504,
+                    49.2074892
+                ]
+            },
+            "properties": {
+                "name": "Univerzita obrany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6000562,
+                    49.1997109
+                ]
+            },
+            "properties": {
+                "name": "Filozofick\u00e1 fakulta MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5980006,
+                    49.2003792
+                ]
+            },
+            "properties": {
+                "name": "Filozofick\u00e1 fakulta MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5884808,
+                    49.1864829
+                ]
+            },
+            "properties": {
+                "name": "fakulta v\u00fdtvarn\u00fdch um\u011bn\u00ed VUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4512788,
+                    49.1847476
+                ]
+            },
+            "properties": {
+                "name": "Univerzitn\u00ed centrum Tel\u010d"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4242483,
+                    50.0671248
+                ]
+            },
+            "properties": {
+                "name": "Fakulta dopravn\u00ed, Masaryk\u016fv \u00fastav vy\u0161\u0161\u00edch studi\u00ed \u010cVUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6661794,
+                    49.2225991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6657255,
+                    49.222674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.416813,
+                    50.0833766
+                ]
+            },
+            "properties": {
+                "name": "Fakulta dopravn\u00ed \u010cVUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6574693,
+                    49.2210056
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Tom\u00e1\u0161e Bati"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5964807,
+                    49.2079579
+                ]
+            },
+            "properties": {
+                "name": "Univerzita obrany"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4738951,
+                    50.0742662
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Karlova v Praze \u2013 3. l\u00e9ka\u0159sk\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6648681,
+                    49.2225828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3326355,
+                    50.0529463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3730803,
+                    49.7599245
+                ]
+            },
+            "properties": {
+                "name": "\u00dastav t\u011blesn\u00e9 v\u00fdchovy, L\u00e9ka\u0159sk\u00e1 fakulta v Plzni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5782811,
+                    49.231712
+                ]
+            },
+            "properties": {
+                "name": "Fakulta chemick\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3742584,
+                    49.7472274
+                ]
+            },
+            "properties": {
+                "name": "Pr\u00e1vnick\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2618672,
+                    49.5901135
+                ]
+            },
+            "properties": {
+                "name": "UPOL - Pr\u00e1vnick\u00e1 fakulta - d\u011bkan\u00e1t"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7676823,
+                    50.0332516
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Pardubice - Fakulta elektrotechniky a informatiky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2598514,
+                    49.5946193
+                ]
+            },
+            "properties": {
+                "name": "UPOL - Filozofick\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7393374,
+                    50.0607935
+                ]
+            },
+            "properties": {
+                "name": "Fakulta chemicko-technologick\u00e1 UPCE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0060922,
+                    49.1487329
+                ]
+            },
+            "properties": {
+                "name": "V\u0160E v Praze - Fakulta managementu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4245556,
+                    50.1027552
+                ]
+            },
+            "properties": {
+                "name": "Akademie v\u00fdtvarn\u00fdch um\u011bn\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3718017,
+                    49.7450501
+                ]
+            },
+            "properties": {
+                "name": "D\u011bkan\u00e1t L\u00e9ka\u0159sk\u00e1 Fakulta v Plzni - Univerzita Karlova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2653232,
+                    49.5937206
+                ]
+            },
+            "properties": {
+                "name": "UPOL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3702181,
+                    49.7450992
+                ]
+            },
+            "properties": {
+                "name": "Fakulta ekonomick\u00e1 a filozofick\u00e1 Z\u010cU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0741235,
+                    50.7735324
+                ]
+            },
+            "properties": {
+                "name": "Technick\u00e1 univerzita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4528589,
+                    50.0710675
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola finan\u010dn\u00ed a spr\u00e1vn\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.600315,
+                    49.196814
+                ]
+            },
+            "properties": {
+                "name": "Fakulta v\u00fdtvarn\u00fdch um\u011bn\u00ed VUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6060448,
+                    49.199884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.603726,
+                    49.2009964
+                ]
+            },
+            "properties": {
+                "name": "Filozofick\u00e1 fakulta MU \u2013 budova N"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0465106,
+                    48.8559626
+                ]
+            },
+            "properties": {
+                "name": "Soukrom\u00e1 vysok\u00e1 \u0161kola ekonomick\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.83008,
+                    50.2036576
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta, UHK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5920205,
+                    49.1976364
+                ]
+            },
+            "properties": {
+                "name": "\u00dastav soudn\u00edho in\u017een\u00fdrstv\u00ed VUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8293518,
+                    50.2042601
+                ]
+            },
+            "properties": {
+                "name": "Fakulta informatiky a managementu, UHK, budova J"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0872559,
+                    50.7704861
+                ]
+            },
+            "properties": {
+                "name": "Vysoko\u0161kolsk\u00e9 koleje Harcov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0873017,
+                    50.7689717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4488215,
+                    50.1152444
+                ]
+            },
+            "properties": {
+                "name": "Matematicko-fyzik\u00e1ln\u00ed fakulta Univerzity Karlovy, FJFI \u010cVUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5827035,
+                    49.2080889
+                ]
+            },
+            "properties": {
+                "name": "Kaunicovy studentsk\u00e9 koleje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5959436,
+                    49.1871069
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.371206,
+                    49.7365791
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta Z\u010cU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3711361,
+                    49.7370266
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta Z\u010cU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.482524,
+                    48.97377
+                ]
+            },
+            "properties": {
+                "name": "Pedagogicka fakulta Jiho\u010desk\u00e9 univerzity"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.7382195,
+                    49.5519381
+                ]
+            },
+            "properties": {
+                "name": "Gymn\u00e1zium Hranice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8979119,
+                    49.9387569
+                ]
+            },
+            "properties": {
+                "name": "Slezsk\u00e1 univerzita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8977545,
+                    49.9368852
+                ]
+            },
+            "properties": {
+                "name": "Slezsk\u00e1 univerzita FPF"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2539264,
+                    49.5928613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.246842,
+                    49.5943627
+                ]
+            },
+            "properties": {
+                "name": "UPOL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2512885,
+                    49.5900818
+                ]
+            },
+            "properties": {
+                "name": "UPOL - D\u011bkan\u00e1t P\u0159\u00edrodov\u011bdeck\u00e9 fakulty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2545944,
+                    49.5942468
+                ]
+            },
+            "properties": {
+                "name": "Cyrilometod\u011bjsk\u00e1 teologick\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2547846,
+                    49.5945719
+                ]
+            },
+            "properties": {
+                "name": "Cyrilometod\u011bjsk\u00e1 teologick\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.248617,
+                    49.602562
+                ]
+            },
+            "properties": {
+                "name": "UPOL - kolej Ev\u017eena Ro\u0161ick\u00e9ho"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5969575,
+                    49.2268835
+                ]
+            },
+            "properties": {
+                "name": "Fakulta informa\u010dn\u00edch technologi\u00ed VUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4506146,
+                    50.1157071
+                ]
+            },
+            "properties": {
+                "name": "Matematicko-fyzik\u00e1ln\u00ed fakulta Univerzity Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4504216,
+                    50.0941703
+                ]
+            },
+            "properties": {
+                "name": "Matematicko-fyzik\u00e1ln\u00ed fakulta Univerzity Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4575766,
+                    48.9876239
+                ]
+            },
+            "properties": {
+                "name": "Jiho\u010desk\u00e1 univerzita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6605763,
+                    49.2246818
+                ]
+            },
+            "properties": {
+                "name": "UTB Fakulta technologick\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6670603,
+                    50.1848422
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta university Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.1613866,
+                    49.833275
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola b\u00e1\u0148sk\u00e1 - Technick\u00e1 univerzita Ostrava"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0143623,
+                    50.6670627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0131584,
+                    50.6658757
+                ]
+            },
+            "properties": {
+                "name": "koleje UJEP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0135281,
+                    50.6672263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0221706,
+                    50.6656955
+                ]
+            },
+            "properties": {
+                "name": "Univerzita J.E. Purkyn\u011b (UJEP)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4459397,
+                    48.9773127
+                ]
+            },
+            "properties": {
+                "name": "ZF J\u010cU budova O"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4462125,
+                    48.977039
+                ]
+            },
+            "properties": {
+                "name": "P\u0159F Budova A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4457268,
+                    48.9780614
+                ]
+            },
+            "properties": {
+                "name": "P\u0159F JCU Budova B"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5939402,
+                    49.1870943
+                ]
+            },
+            "properties": {
+                "name": "Fakulta architektury VUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5927808,
+                    49.1868793
+                ]
+            },
+            "properties": {
+                "name": "Centrum v\u00fdzkumu glob\u00e1ln\u00ed zm\u011bny AV \u010cR, v.v.i."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6362003,
+                    49.2921008
+                ]
+            },
+            "properties": {
+                "name": "\u0160LP K\u0159tiny"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5483249,
+                    49.8542668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.5333559,
+                    49.8652187
+                ]
+            },
+            "properties": {
+                "name": "Akademie J. A. Komensk\u00e9ho Karvin\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2479882,
+                    49.8108553
+                ]
+            },
+            "properties": {
+                "name": "L\u00e9ka\u0159sk\u00e1 fakulta OU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0206177,
+                    50.666022
+                ]
+            },
+            "properties": {
+                "name": "sportovn\u00ed hala UJEP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0319202,
+                    50.666379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0289082,
+                    50.6651953
+                ]
+            },
+            "properties": {
+                "name": "FSE"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1781579,
+                    49.1521659
+                ]
+            },
+            "properties": {
+                "name": "Fakulta ryb\u00e1\u0159stv\u00ed a ochrany vod"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2705334,
+                    49.8128914
+                ]
+            },
+            "properties": {
+                "name": "SO\u0160 AHOL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2670835,
+                    48.9725285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3879607,
+                    50.1039682
+                ]
+            },
+            "properties": {
+                "name": "\u010cVUT FSv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3896915,
+                    50.1050551
+                ]
+            },
+            "properties": {
+                "name": "\u010cVUT FA, FIT - budova T9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5887322,
+                    49.2149008
+                ]
+            },
+            "properties": {
+                "name": "Kolej Josefa Taufera, Mendelova univerzita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3669372,
+                    49.7679755
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Karlova, L\u00e9ka\u0159sk\u00e1 fakulta v Plzni - \u0160afrank\u016fv pavilon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3691735,
+                    49.7613556
+                ]
+            },
+            "properties": {
+                "name": "Proch\u00e1sk\u016fv pavilon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3679435,
+                    49.7616596
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Karlova, L\u00e9ka\u0159sk\u00e1 fakulta v Plzni - Pavlov\u016fv pavilon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8263833,
+                    50.2094344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8266147,
+                    50.2094384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8265521,
+                    50.2093024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8264391,
+                    50.209348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5824452,
+                    49.3990407
+                ]
+            },
+            "properties": {
+                "name": "V\u0160 Polytechnick\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0035754,
+                    50.6649188
+                ]
+            },
+            "properties": {
+                "name": "Katedra biologie UJEP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6014388,
+                    49.2005475
+                ]
+            },
+            "properties": {
+                "name": "Filozofick\u00e1 fakulta MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.575445,
+                    49.2245401
+                ]
+            },
+            "properties": {
+                "name": "Fakulta strojn\u00edho in\u017een\u00fdrstv\u00ed VUT v Brn\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7692933,
+                    50.0489406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.0079047,
+                    49.6065595
+                ]
+            },
+            "properties": {
+                "name": "Veterin\u00e1rn\u00ed a farmaceutick\u00e1 univerzita Brno \u0160koln\u00ed zem\u011bd\u011blsk\u00fd podnik Nov\u00fd Ji\u010d\u00edn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6602556,
+                    49.2252209
+                ]
+            },
+            "properties": {
+                "name": "Laboratorn\u00ed centrum fakulty technologick\u00e9 (LCFT)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4511101,
+                    48.976627
+                ]
+            },
+            "properties": {
+                "name": "Jiho\u010desk\u00e1 univerzita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2999797,
+                    50.0193928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4236072,
+                    50.0864979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.1255728,
+                    49.0117658
+                ]
+            },
+            "properties": {
+                "name": "Klva\u0148ovo gymn\u00e1zium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3703229,
+                    50.1296725
+                ]
+            },
+            "properties": {
+                "name": "Fakulta \u017eivotn\u00edho prost\u0159ed\u00ed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3374805,
+                    49.6651815
+                ]
+            },
+            "properties": {
+                "name": "\u0160koln\u00ed a v\u00fdcvikov\u00e9 za\u0159\u00edzen\u00ed HZS \u010cR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9125335,
+                    50.558941
+                ]
+            },
+            "properties": {
+                "name": "\u010cesk\u00e1 lesnick\u00e1 akademie Trutnov - vy\u0161\u0161\u00ed odborn\u00e1 \u0161kola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.34838,
+                    49.7252105
+                ]
+            },
+            "properties": {
+                "name": "Fakulta designu a um\u011bn\u00ed Ladislava Sutnara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3553358,
+                    49.6883487
+                ]
+            },
+            "properties": {
+                "name": "GOODWILL - vy\u0161\u0161\u00ed odborn\u00e1 \u0161kola, s. r. o."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3560422,
+                    49.6879889
+                ]
+            },
+            "properties": {
+                "name": "GOODWILL - vy\u0161\u0161\u00ed odborn\u00e1 \u0161kola, s. r. o."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4925224,
+                    50.0203384
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola ekonomick\u00e1 v Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.4688636,
+                    49.028874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8473271,
+                    49.2071062
+                ]
+            },
+            "properties": {
+                "name": "Z\u00e1padomoravsk\u00e1 vysok\u00e1 \u0161kola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8264346,
+                    50.2093313
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Hradec Kr\u00e1lov\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4368814,
+                    50.0894014
+                ]
+            },
+            "properties": {
+                "name": "Fakulta dopravn\u00ed \u010cVUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3941084,
+                    50.102832
+                ]
+            },
+            "properties": {
+                "name": "VN Laborato\u0159"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.391324,
+                    50.1058159
+                ]
+            },
+            "properties": {
+                "name": "\u00dastav organick\u00e9 chemie a biochemie AV \u010cR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3129829,
+                    49.8721483
+                ]
+            },
+            "properties": {
+                "name": "Piaristick\u00e1 kolej"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.3044681,
+                    49.8433668
+                ]
+            },
+            "properties": {
+                "name": "Katedra biologie a ekologie, P\u0159\u00edrodov\u011bdeck\u00e1 fakulta, Ostravsk\u00e1 univerzita v Ostrav\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3760434,
+                    50.1314065
+                ]
+            },
+            "properties": {
+                "name": "Kolej A"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2645877,
+                    49.5956171
+                ]
+            },
+            "properties": {
+                "name": "UPOL - fakulta Pedagogick\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4097335,
+                    50.1285362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0630656,
+                    50.7682014
+                ]
+            },
+            "properties": {
+                "name": "Technick\u00e1 univerzita v Liberci budova P"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0244547,
+                    50.6655349
+                ]
+            },
+            "properties": {
+                "name": "UJEP Kampus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4450731,
+                    48.9774303
+                ]
+            },
+            "properties": {
+                "name": "P\u0159F JCU Budova C"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4514813,
+                    50.0048685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6033637,
+                    49.2017568
+                ]
+            },
+            "properties": {
+                "name": "Rektor\u00e1t VUT v Brn\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4417526,
+                    50.0832748
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola ekonomick\u00e1 v\u00a0Praze"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3708216,
+                    49.7369475
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta Z\u010cU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3506991,
+                    49.7239982
+                ]
+            },
+            "properties": {
+                "name": "Fakulta Elektrotechnick\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9029845,
+                    50.4144988
+                ]
+            },
+            "properties": {
+                "name": "\u0160koda Auto Vysok\u00e1 \u0161kola"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2632872,
+                    49.5925066
+                ]
+            },
+            "properties": {
+                "name": "UPOL - P\u0159\u00edrodov\u011bdeck\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.263647,
+                    49.5923693
+                ]
+            },
+            "properties": {
+                "name": "UPOL - P\u0159\u00edrodov\u011bdeck\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6666449,
+                    49.2223734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.6659189,
+                    49.2223697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2827965,
+                    49.5749247
+                ]
+            },
+            "properties": {
+                "name": "P\u0159\u00edrodov\u011bdeck\u00e1 fakulta UP OL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0375998,
+                    50.6617829
+                ]
+            },
+            "properties": {
+                "name": "FZS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.449277,
+                    50.1148927
+                ]
+            },
+            "properties": {
+                "name": "Matematicko-fyzik\u00e1ln\u00ed fakulta Univerzity Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3744328,
+                    50.1286385
+                ]
+            },
+            "properties": {
+                "name": "Technick\u00e1 Fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6053881,
+                    49.1986566
+                ]
+            },
+            "properties": {
+                "name": "Rektor\u00e1t MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4177865,
+                    50.0768551
+                ]
+            },
+            "properties": {
+                "name": "\u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze, budova E"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4162621,
+                    50.0889123
+                ]
+            },
+            "properties": {
+                "name": "Filozofick\u00e1 fakulta Univerzity Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4169094,
+                    50.0914342
+                ]
+            },
+            "properties": {
+                "name": "Pr\u00e1vnick\u00e1 fakulta UK"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4206277,
+                    50.0797103
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta Univerzity Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4167019,
+                    50.0746328
+                ]
+            },
+            "properties": {
+                "name": "\u010cesk\u00e9 vysok\u00e9 u\u010den\u00ed technick\u00e9 v Praze Fakulta jadern\u00e1 a fyzik\u00e1ln\u011b in\u017een\u00fdrsk\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5927321,
+                    49.2083395
+                ]
+            },
+            "properties": {
+                "name": "Pr\u00e1vnick\u00e1 fakulta MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6026671,
+                    49.1965705
+                ]
+            },
+            "properties": {
+                "name": "Rektor\u00e1t MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4246163,
+                    50.0686605
+                ]
+            },
+            "properties": {
+                "name": "P\u0159\u00edrodov\u011bdeck\u00e1 fakulta Univerzity Karlovy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6201716,
+                    49.18922
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e1 \u0161kola Karla Engli\u0161e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3754157,
+                    49.7493754
+                ]
+            },
+            "properties": {
+                "name": "Fakulta pedagogick\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6022264,
+                    49.1975135
+                ]
+            },
+            "properties": {
+                "name": "Fakulta soci\u00e1ln\u00edch studi\u00ed MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5734211,
+                    49.2310819
+                ]
+            },
+            "properties": {
+                "name": "Fakulta podnikatelsk\u00e1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5989065,
+                    49.1863039
+                ]
+            },
+            "properties": {
+                "name": "Pedagogick\u00e1 fakulta MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0362885,
+                    50.674875
+                ]
+            },
+            "properties": {
+                "name": "Univerzita Jana Evangelisty Purkyn\u011b v \u00dast\u00ed nad Labem - rektor\u00e1t/Kolej K6"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2604969,
+                    49.5946507
+                ]
+            },
+            "properties": {
+                "name": "UPOL - Filozofick\u00e1 fakulta - katedra politologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2592537,
+                    49.5949211
+                ]
+            },
+            "properties": {
+                "name": "UPOL - Filozofick\u00e1 fakulta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2536185,
+                    49.5929203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.387665,
+                    50.1045844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.588413,
+                    49.2094905
+                ]
+            },
+            "properties": {
+                "name": "Vysok\u00e9 u\u010den\u00ed technick\u00e9 v Brn\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5746015,
+                    49.2270044
+                ]
+            },
+            "properties": {
+                "name": "Fakulta elektrotechniky a komunika\u010dn\u00edch technologi\u00ed VUT v Brn\u011b"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2554972,
+                    49.5948229
+                ]
+            },
+            "properties": {
+                "name": "b\u00fdval\u00fd jezuitsk\u00fd Konvikt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3931439,
+                    50.1036565
+                ]
+            },
+            "properties": {
+                "name": "Halov\u00e9 laborato\u0159e \u010cVUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5991791,
+                    49.2099906
+                ]
+            },
+            "properties": {
+                "name": "Fakulta informatiky MU"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4239126,
+                    50.0865067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.2600237,
+                    49.5954327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.26096,
+                    49.5947412
+                ]
+            },
+            "properties": {
+                "name": "UPOL - Filozofick\u00e1 fakulta - katedra nederlandistiky a \u017eurnalistiky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5714122,
+                    49.1778481
+                ]
+            },
+            "properties": {
+                "name": "Univerzitn\u00ed kampus Bohunice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5914849,
+                    49.2060972
+                ]
+            },
+            "properties": {
+                "name": "Fakulta stavebn\u00ed VUT"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3519555,
+                    49.7266416
+                ]
+            },
+            "properties": {
+                "name": "Fakulta aplikovan\u00fdch v\u011bd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.2829872,
+                    49.838501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.8969386,
+                    49.935986
+                ]
+            },
+            "properties": {
+                "name": "Slezsk\u00e1 univerzita FVP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3339897,
+                    50.0924249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3333813,
+                    50.0918154
+                ]
+            },
+            "properties": {
+                "name": "Fakulta t\u011blesn\u00e9 v\u00fdchovy a sportu Univerzity Karlovy"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

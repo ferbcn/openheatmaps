@@ -1,0 +1,1793 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.137441,
+                    59.44076
+                ]
+            },
+            "properties": {
+                "name": "Armenian Shashlik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7483999,
+                    59.440095
+                ]
+            },
+            "properties": {
+                "name": "Levist V\u00e4ljas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.418131,
+                    59.3281612
+                ]
+            },
+            "properties": {
+                "name": "Baar Risti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.748977,
+                    59.4366004
+                ]
+            },
+            "properties": {
+                "name": "Lokaal Helsinki"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4080287,
+                    59.3512016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7469848,
+                    59.4307861
+                ]
+            },
+            "properties": {
+                "name": "Peekri Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7483662,
+                    59.4407453
+                ]
+            },
+            "properties": {
+                "name": "KapriZ"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7454841,
+                    59.4364955
+                ]
+            },
+            "properties": {
+                "name": "Club 69"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7465735,
+                    59.4355575
+                ]
+            },
+            "properties": {
+                "name": "Easy Now - Gentlemens Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7474924,
+                    59.4354098
+                ]
+            },
+            "properties": {
+                "name": "360\u00ba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4237371,
+                    59.3238374
+                ]
+            },
+            "properties": {
+                "name": "Mesilane baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0467089,
+                    58.0518712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7439968,
+                    59.4388359
+                ]
+            },
+            "properties": {
+                "name": "Borsi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.745231,
+                    59.4392843
+                ]
+            },
+            "properties": {
+                "name": "Marco Vino"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.747503,
+                    59.4358937
+                ]
+            },
+            "properties": {
+                "name": "Baila"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7476309,
+                    59.435814
+                ]
+            },
+            "properties": {
+                "name": "Frank Underground"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7434365,
+                    59.4343916
+                ]
+            },
+            "properties": {
+                "name": "Priv\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7426963,
+                    59.4344475
+                ]
+            },
+            "properties": {
+                "name": "X-Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7501274,
+                    59.4362704
+                ]
+            },
+            "properties": {
+                "name": "ShamRock"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7701092,
+                    59.3978691
+                ]
+            },
+            "properties": {
+                "name": "Ranna"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.2056085,
+                    59.3837562
+                ]
+            },
+            "properties": {
+                "name": "Art Club Ro-Ro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4129598,
+                    59.3274824
+                ]
+            },
+            "properties": {
+                "name": "Tavern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7251295,
+                    59.5797681
+                ]
+            },
+            "properties": {
+                "name": "Lucky"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5016776,
+                    58.3805946
+                ]
+            },
+            "properties": {
+                "name": "Pizzahunt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.501072,
+                    58.384028
+                ]
+            },
+            "properties": {
+                "name": "\u00d6\u00f6baar Nastja"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4988262,
+                    58.3850473
+                ]
+            },
+            "properties": {
+                "name": "Caf\u00e9 XS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5037303,
+                    58.384645
+                ]
+            },
+            "properties": {
+                "name": "Cocoloco Snack Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5034018,
+                    58.3844694
+                ]
+            },
+            "properties": {
+                "name": "Citi baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4199629,
+                    58.2253548
+                ]
+            },
+            "properties": {
+                "name": "Valge baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4832952,
+                    58.2527708
+                ]
+            },
+            "properties": {
+                "name": "J. R. Pizza- ja burgeribaar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7071516,
+                    59.4541153
+                ]
+            },
+            "properties": {
+                "name": "Vesta Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.587698,
+                    58.3623363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0002854,
+                    57.8477116
+                ]
+            },
+            "properties": {
+                "name": "Bevega"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.486566,
+                    58.390922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.8014951,
+                    59.3892745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5419165,
+                    58.9383113
+                ]
+            },
+            "properties": {
+                "name": "N\u00e4ksi baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4180786,
+                    59.3572892
+                ]
+            },
+            "properties": {
+                "name": "Club Kruzo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7217343,
+                    58.3811696
+                ]
+            },
+            "properties": {
+                "name": "Vein ja Vine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.458616,
+                    58.0999131
+                ]
+            },
+            "properties": {
+                "name": "Pub Turist"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8363573,
+                    59.4363556
+                ]
+            },
+            "properties": {
+                "name": "Aami Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7464049,
+                    59.4317807
+                ]
+            },
+            "properties": {
+                "name": "Rock Stars"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7389202,
+                    59.4457487
+                ]
+            },
+            "properties": {
+                "name": "Tops"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7419301,
+                    59.4378513
+                ]
+            },
+            "properties": {
+                "name": "Luscher & Matiesen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4050124,
+                    59.3581131
+                ]
+            },
+            "properties": {
+                "name": "Leo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.0768089,
+                    59.4033462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3113357,
+                    59.4096038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4873844,
+                    58.2531539
+                ]
+            },
+            "properties": {
+                "name": "Nightclub Privilege"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4868853,
+                    58.2525965
+                ]
+            },
+            "properties": {
+                "name": "Club Diva"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3508941,
+                    59.3496364
+                ]
+            },
+            "properties": {
+                "name": "Mjau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6679334,
+                    59.4609703
+                ]
+            },
+            "properties": {
+                "name": "Baar Derevyashka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7518225,
+                    59.4376116
+                ]
+            },
+            "properties": {
+                "name": "Butterfly Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6800617,
+                    59.4554014
+                ]
+            },
+            "properties": {
+                "name": "Sirbi bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6847824,
+                    59.4423075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7062724,
+                    59.449035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6910105,
+                    59.4546844
+                ]
+            },
+            "properties": {
+                "name": "Kalinka"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7197211,
+                    59.4343045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6760062,
+                    59.457337
+                ]
+            },
+            "properties": {
+                "name": "S.O.S. Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7344655,
+                    59.4418891
+                ]
+            },
+            "properties": {
+                "name": "TIKS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7369112,
+                    59.4412951
+                ]
+            },
+            "properties": {
+                "name": "Leila bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.743982,
+                    59.4382284
+                ]
+            },
+            "properties": {
+                "name": "Koht"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5774865,
+                    58.3459052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5885844,
+                    58.3729629
+                ]
+            },
+            "properties": {
+                "name": "J\u00e4rve Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4967382,
+                    58.3921511
+                ]
+            },
+            "properties": {
+                "name": "Kohvik Uku"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.185308,
+                    59.376758
+                ]
+            },
+            "properties": {
+                "name": "Belgrad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.189296,
+                    59.3795101
+                ]
+            },
+            "properties": {
+                "name": "Lavazza"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7323042,
+                    59.4352764
+                ]
+            },
+            "properties": {
+                "name": "Cubano Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1663856,
+                    59.1853261
+                ]
+            },
+            "properties": {
+                "name": "Marxi Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3316888,
+                    59.3323226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.769132,
+                    59.3942379
+                ]
+            },
+            "properties": {
+                "name": "Randevuu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5379412,
+                    58.9481264
+                ]
+            },
+            "properties": {
+                "name": "A.P.T.E.K"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.537889,
+                    58.9482989
+                ]
+            },
+            "properties": {
+                "name": "Aed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5346308,
+                    58.9460812
+                ]
+            },
+            "properties": {
+                "name": "Obolon Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6746628,
+                    59.408641
+                ]
+            },
+            "properties": {
+                "name": "Black Mount Pub"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.679751,
+                    59.414777
+                ]
+            },
+            "properties": {
+                "name": "Veski K\u00f5rts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9436393,
+                    58.5335761
+                ]
+            },
+            "properties": {
+                "name": "Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.7797768,
+                    59.3921569
+                ]
+            },
+            "properties": {
+                "name": "Tri kruzkl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4203918,
+                    58.2252379
+                ]
+            },
+            "properties": {
+                "name": "EGO baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7904463,
+                    59.1294786
+                ]
+            },
+            "properties": {
+                "name": "Loone Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.613744,
+                    58.3781712
+                ]
+            },
+            "properties": {
+                "name": "Uueveski Puhkekeskus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0291238,
+                    57.7808174
+                ]
+            },
+            "properties": {
+                "name": "Tammi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7462607,
+                    59.4356098
+                ]
+            },
+            "properties": {
+                "name": "Labor Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7581629,
+                    59.4376203
+                ]
+            },
+            "properties": {
+                "name": "Cubanita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7412158,
+                    59.4361439
+                ]
+            },
+            "properties": {
+                "name": "L8 Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5417509,
+                    58.9412441
+                ]
+            },
+            "properties": {
+                "name": "Lemon Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5359627,
+                    58.9469823
+                ]
+            },
+            "properties": {
+                "name": "Vinoteek MULLiga ja MULLita"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7277148,
+                    58.3697107
+                ]
+            },
+            "properties": {
+                "name": "Barlova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.725861,
+                    58.3802185
+                ]
+            },
+            "properties": {
+                "name": "Little Cuba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5038395,
+                    58.3857577
+                ]
+            },
+            "properties": {
+                "name": "Wirre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7220698,
+                    58.3806591
+                ]
+            },
+            "properties": {
+                "name": "Lokaal Pirogov"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0197787,
+                    59.4727028
+                ]
+            },
+            "properties": {
+                "name": "Maardu Grill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7432874,
+                    59.4377697
+                ]
+            },
+            "properties": {
+                "name": "Brewery \u00f5lleklubi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7745188,
+                    59.4409432
+                ]
+            },
+            "properties": {
+                "name": "Pikne Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7367502,
+                    59.4413499
+                ]
+            },
+            "properties": {
+                "name": "Speakeasy by P\u00f5hjala"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7257314,
+                    59.4386506
+                ]
+            },
+            "properties": {
+                "name": "Shvips (wine bar)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.9406433,
+                    58.26115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7501039,
+                    59.4415934
+                ]
+            },
+            "properties": {
+                "name": "Wonderland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7485938,
+                    59.4397372
+                ]
+            },
+            "properties": {
+                "name": "Kultuurklubi Kelm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.747641,
+                    59.4359713
+                ]
+            },
+            "properties": {
+                "name": "Paar Veini"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7749614,
+                    58.3751552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.2924891,
+                    59.4096121
+                ]
+            },
+            "properties": {
+                "name": "Vagon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8340035,
+                    58.6861098
+                ]
+            },
+            "properties": {
+                "name": "S\u00e4rtsu baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7230957,
+                    58.3791902
+                ]
+            },
+            "properties": {
+                "name": "deTolly \u00d5llebaar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.3231402,
+                    58.578633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7601603,
+                    59.435025
+                ]
+            },
+            "properties": {
+                "name": "UFOPubi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6498077,
+                    59.4258817
+                ]
+            },
+            "properties": {
+                "name": "S. Patricks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7489808,
+                    59.4360203
+                ]
+            },
+            "properties": {
+                "name": "Calif lounge-baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7443112,
+                    59.4370974
+                ]
+            },
+            "properties": {
+                "name": "La Casa Del Habano"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7463066,
+                    59.4368488
+                ]
+            },
+            "properties": {
+                "name": "Lulu Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.758177,
+                    59.4387609
+                ]
+            },
+            "properties": {
+                "name": "Tallinn Brewdog"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7481773,
+                    59.4361267
+                ]
+            },
+            "properties": {
+                "name": "Sigmund Freud"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7483114,
+                    59.4361947
+                ]
+            },
+            "properties": {
+                "name": "Shot Bar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7472963,
+                    59.4356516
+                ]
+            },
+            "properties": {
+                "name": "Sazerac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7483301,
+                    59.43622
+                ]
+            },
+            "properties": {
+                "name": "BART Pianobar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7439661,
+                    59.4383642
+                ]
+            },
+            "properties": {
+                "name": "Patcave"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7526436,
+                    59.4369473
+                ]
+            },
+            "properties": {
+                "name": "Bronto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6006665,
+                    58.3658984
+                ]
+            },
+            "properties": {
+                "name": "mulks"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7216213,
+                    58.3778865
+                ]
+            },
+            "properties": {
+                "name": "Naiiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5028039,
+                    58.3850442
+                ]
+            },
+            "properties": {
+                "name": "T\u00fcrm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7495065,
+                    59.4318021
+                ]
+            },
+            "properties": {
+                "name": "PEPS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5994179,
+                    58.363435
+                ]
+            },
+            "properties": {
+                "name": "Cheers Viljandi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6011862,
+                    58.3649513
+                ]
+            },
+            "properties": {
+                "name": "Viljandi Lossikelder"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.75181,
+                    59.6458339
+                ]
+            },
+            "properties": {
+                "name": "Viinistu Korts"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7447125,
+                    59.4342533
+                ]
+            },
+            "properties": {
+                "name": "Tuum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7526592,
+                    59.4369954
+                ]
+            },
+            "properties": {
+                "name": "Sauna Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7967093,
+                    59.4262733
+                ]
+            },
+            "properties": {
+                "name": "Majaka 54"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7926266,
+                    59.4276356
+                ]
+            },
+            "properties": {
+                "name": "Baar 36"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7930196,
+                    59.4315537
+                ]
+            },
+            "properties": {
+                "name": "Sassi Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7640888,
+                    59.4333604
+                ]
+            },
+            "properties": {
+                "name": "Peemot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7458694,
+                    59.4317922
+                ]
+            },
+            "properties": {
+                "name": "F.U.B.A.R."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7473905,
+                    59.435639
+                ]
+            },
+            "properties": {
+                "name": "Home Sweet BaR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9522214,
+                    58.1485358
+                ]
+            },
+            "properties": {
+                "name": "Resto Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.732507,
+                    59.440729
+                ]
+            },
+            "properties": {
+                "name": "Sveta Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5930772,
+                    58.3652009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7470455,
+                    59.4358299
+                ]
+            },
+            "properties": {
+                "name": "Wildflower Lounge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6104899,
+                    58.3603162
+                ]
+            },
+            "properties": {
+                "name": "Kohvik Bangalo"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.1876555,
+                    59.3780287
+                ]
+            },
+            "properties": {
+                "name": "Grand Prix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4938598,
+                    58.3766186
+                ]
+            },
+            "properties": {
+                "name": "Kuursaal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6570175,
+                    58.9520395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3134075,
+                    59.117361
+                ]
+            },
+            "properties": {
+                "name": "Silmsi Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7422069,
+                    58.5728578
+                ]
+            },
+            "properties": {
+                "name": "Vatla Baar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7290047,
+                    58.3768281
+                ]
+            },
+            "properties": {
+                "name": "Boost"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

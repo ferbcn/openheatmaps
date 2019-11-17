@@ -1,0 +1,7 @@
+numpy
+bokeh
+pyproj==1.9.6
+Flask
+Flask-Session
+requests
+gunicorn==19.9.0

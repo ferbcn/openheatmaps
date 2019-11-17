@@ -1,0 +1,5956 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3729365,
+                    50.706423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6118401,
+                    50.6377915
+                ]
+            },
+            "properties": {
+                "name": "Librairie de la Gare"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4732055,
+                    50.7679341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6128589,
+                    50.6695961
+                ]
+            },
+            "properties": {
+                "name": "Chapitre.be"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6147144,
+                    50.6699204
+                ]
+            },
+            "properties": {
+                "name": "Slumberland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3814173,
+                    50.7578913
+                ]
+            },
+            "properties": {
+                "name": "bookstore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9391758,
+                    50.6191341
+                ]
+            },
+            "properties": {
+                "name": "L'Yves de Poche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5995847,
+                    51.1411435
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7088517,
+                    50.8759313
+                ]
+            },
+            "properties": {
+                "name": "Acco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.700195,
+                    50.875788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3292296,
+                    50.924712
+                ]
+            },
+            "properties": {
+                "name": "Dagbladhandel Veronique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5297038,
+                    50.9811871
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4743215,
+                    51.1287489
+                ]
+            },
+            "properties": {
+                "name": "Bazarke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2914334,
+                    50.8038128
+                ]
+            },
+            "properties": {
+                "name": "De Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2232077,
+                    50.7433138
+                ]
+            },
+            "properties": {
+                "name": "Melpom\u00e8ne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2340186,
+                    51.0997266
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2338477,
+                    51.0983707
+                ]
+            },
+            "properties": {
+                "name": "Frank's Bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4092212,
+                    51.2173614
+                ]
+            },
+            "properties": {
+                "name": "De Slegte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.397466,
+                    50.8384788
+                ]
+            },
+            "properties": {
+                "name": "Message Media"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6994609,
+                    50.8807587
+                ]
+            },
+            "properties": {
+                "name": "Gobelijn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3819817,
+                    50.8380195
+                ]
+            },
+            "properties": {
+                "name": "Bouquinerie Thomas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4768906,
+                    51.0249434
+                ]
+            },
+            "properties": {
+                "name": "De Slegte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6029892,
+                    50.8453545
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7068274,
+                    50.4807131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3548333,
+                    50.8501106
+                ]
+            },
+            "properties": {
+                "name": "Sterling Books"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7900682,
+                    50.5043034
+                ]
+            },
+            "properties": {
+                "name": "Chez Nathalie - nouvelle librairie siraultoise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8636904,
+                    50.4650245
+                ]
+            },
+            "properties": {
+                "name": "Slumberland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8608269,
+                    50.4646572
+                ]
+            },
+            "properties": {
+                "name": "Point Virgule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8738701,
+                    50.4532499
+                ]
+            },
+            "properties": {
+                "name": "BD world"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4107934,
+                    51.2218268
+                ]
+            },
+            "properties": {
+                "name": "Universitas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5746503,
+                    50.6399216
+                ]
+            },
+            "properties": {
+                "name": "Agora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2152751,
+                    50.918385
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3961508,
+                    50.8433375
+                ]
+            },
+            "properties": {
+                "name": "The European Bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.82022,
+                    50.4468136
+                ]
+            },
+            "properties": {
+                "name": "Quartier Latin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.397967,
+                    50.7186867
+                ]
+            },
+            "properties": {
+                "name": "Librairie Graffiti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4021184,
+                    50.7025411
+                ]
+            },
+            "properties": {
+                "name": "La Main Blanche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0736677,
+                    50.5800558
+                ]
+            },
+            "properties": {
+                "name": "Cordovero"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7043269,
+                    50.8795783
+                ]
+            },
+            "properties": {
+                "name": "Boekenvoordeel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8690118,
+                    50.462997
+                ]
+            },
+            "properties": {
+                "name": "Oxfam Bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8641881,
+                    50.4630752
+                ]
+            },
+            "properties": {
+                "name": "AdHoc"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8660523,
+                    50.4646159
+                ]
+            },
+            "properties": {
+                "name": "Libris Agora"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8184146,
+                    51.1875814
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5710026,
+                    50.5900548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5001535,
+                    51.2521797
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0399867,
+                    50.6938575
+                ]
+            },
+            "properties": {
+                "name": "Zig Zag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3267735,
+                    50.88931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.86331,
+                    50.4645096
+                ]
+            },
+            "properties": {
+                "name": "L'aurore Boreale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8665228,
+                    50.4639532
+                ]
+            },
+            "properties": {
+                "name": "Belgique Loisirs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8659885,
+                    50.4637667
+                ]
+            },
+            "properties": {
+                "name": "Bibliopolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2883964,
+                    51.3449468
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2886966,
+                    51.3470088
+                ]
+            },
+            "properties": {
+                "name": "Press Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2986093,
+                    51.3545035
+                ]
+            },
+            "properties": {
+                "name": "Press Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2271079,
+                    51.2067248
+                ]
+            },
+            "properties": {
+                "name": "Brugse Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9552425,
+                    50.4595866
+                ]
+            },
+            "properties": {
+                "name": "Floril\u00e8ge"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8209691,
+                    51.1766861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.94897,
+                    50.451413
+                ]
+            },
+            "properties": {
+                "name": "Scientia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9520568,
+                    50.4537575
+                ]
+            },
+            "properties": {
+                "name": "Press shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1872777,
+                    50.8566794
+                ]
+            },
+            "properties": {
+                "name": "Supra Bazar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8444696,
+                    50.4220465
+                ]
+            },
+            "properties": {
+                "name": "Lecture Loisirs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8313475,
+                    51.1772825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9667699,
+                    51.1560099
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.815487,
+                    49.6835173
+                ]
+            },
+            "properties": {
+                "name": "La Lettre \u00c9carlate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4110668,
+                    51.2222052
+                ]
+            },
+            "properties": {
+                "name": "Acco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5790043,
+                    51.0618348
+                ]
+            },
+            "properties": {
+                "name": "Onder De Linde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2880569,
+                    50.539337
+                ]
+            },
+            "properties": {
+                "name": "Librairie d'Ampsin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1412784,
+                    51.0916891
+                ]
+            },
+            "properties": {
+                "name": "Bij Josianne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4127722,
+                    50.8261862
+                ]
+            },
+            "properties": {
+                "name": "Book and Co."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354943,
+                    50.8481489
+                ]
+            },
+            "properties": {
+                "name": "Tropismes libraires"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5768844,
+                    50.646625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8870287,
+                    51.0050819
+                ]
+            },
+            "properties": {
+                "name": "Dagbladhandel Niessens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.936157,
+                    50.6720803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7237957,
+                    51.0521294
+                ]
+            },
+            "properties": {
+                "name": "De Slegte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1881913,
+                    50.972037
+                ]
+            },
+            "properties": {
+                "name": "Bookshop Mia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6217468,
+                    50.4234983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5869698,
+                    50.4249618
+                ]
+            },
+            "properties": {
+                "name": "Librairie d'aiseau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3274133,
+                    50.9247628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2792891,
+                    50.9435732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.463815,
+                    51.3638466
+                ]
+            },
+            "properties": {
+                "name": "Standaard boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2692584,
+                    50.4590092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2687702,
+                    50.4675742
+                ]
+            },
+            "properties": {
+                "name": "10/eleven"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.175245,
+                    50.5700051
+                ]
+            },
+            "properties": {
+                "name": "Librairie du Kiosque"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5423096,
+                    50.8925375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8232287,
+                    50.3898438
+                ]
+            },
+            "properties": {
+                "name": "Librairie Blampain"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1289128,
+                    51.1702549
+                ]
+            },
+            "properties": {
+                "name": "All Magazines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1835414,
+                    51.1793789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7132612,
+                    51.0744734
+                ]
+            },
+            "properties": {
+                "name": "'t Pierke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6201562,
+                    50.6671505
+                ]
+            },
+            "properties": {
+                "name": "Chapitre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0356734,
+                    50.6320829
+                ]
+            },
+            "properties": {
+                "name": "Idea Kirsch-Dreessen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8108139,
+                    49.6852818
+                ]
+            },
+            "properties": {
+                "name": "Libraire des Faubourgs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5734075,
+                    50.6204296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5819285,
+                    50.567693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3734439,
+                    50.9337017
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8231522,
+                    50.3898602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8231603,
+                    50.3898551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0612529,
+                    50.5740459
+                ]
+            },
+            "properties": {
+                "name": "Librairie Biber"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3407839,
+                    51.1428383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0373638,
+                    51.0679001
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3299317,
+                    51.1334425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3559523,
+                    50.853591
+                ]
+            },
+            "properties": {
+                "name": "Waterstones"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2232462,
+                    51.2088845
+                ]
+            },
+            "properties": {
+                "name": "Fnac"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6399709,
+                    50.5805138
+                ]
+            },
+            "properties": {
+                "name": "Librairie du Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4542959,
+                    51.2247464
+                ]
+            },
+            "properties": {
+                "name": "Den Boekenhoek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7225772,
+                    51.04972
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.7282259,
+                    50.8547258
+                ]
+            },
+            "properties": {
+                "name": "De Standaard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5420632,
+                    50.8879211
+                ]
+            },
+            "properties": {
+                "name": "Standaard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5383863,
+                    51.2503918
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6419641,
+                    50.6418841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9484964,
+                    50.4476336
+                ]
+            },
+            "properties": {
+                "name": "Librairie de Messine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8070313,
+                    50.6917122
+                ]
+            },
+            "properties": {
+                "name": "Librairie 2000"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8550558,
+                    50.5918296
+                ]
+            },
+            "properties": {
+                "name": "Les Augustins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5103993,
+                    50.8243358
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8834457,
+                    51.004138
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8328623,
+                    50.484192
+                ]
+            },
+            "properties": {
+                "name": "Papeterie Moulin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8888659,
+                    50.4670598
+                ]
+            },
+            "properties": {
+                "name": "Librairie Sainte-Camille"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3751746,
+                    50.6845182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3749004,
+                    50.6850594
+                ]
+            },
+            "properties": {
+                "name": "Press Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4024572,
+                    51.2222123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0087383,
+                    50.4744866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8691312,
+                    50.4629927
+                ]
+            },
+            "properties": {
+                "name": "Papyrus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.567793,
+                    50.6427727
+                ]
+            },
+            "properties": {
+                "name": "Livre aux tr\u00e9sors"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6102091,
+                    50.5252575
+                ]
+            },
+            "properties": {
+                "name": "Le Tempresse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7222216,
+                    51.0465152
+                ]
+            },
+            "properties": {
+                "name": "De Poort"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396387,
+                    51.2110259
+                ]
+            },
+            "properties": {
+                "name": "Buchbar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17474,
+                    50.4786813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3865812,
+                    50.5057031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7453516,
+                    50.9953648
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8819664,
+                    51.0110311
+                ]
+            },
+            "properties": {
+                "name": "Dagbladhandel Passarella"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2748814,
+                    50.1669343
+                ]
+            },
+            "properties": {
+                "name": "La Parenth\u00e8se"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5144557,
+                    50.6101546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4783445,
+                    51.0261528
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3736479,
+                    51.1180513
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3893011,
+                    51.1315887
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8608154,
+                    50.593607
+                ]
+            },
+            "properties": {
+                "name": "Pom - Pom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1861398,
+                    50.474709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3487718,
+                    50.845298
+                ]
+            },
+            "properties": {
+                "name": "Bibliopolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4344374,
+                    49.8429814
+                ]
+            },
+            "properties": {
+                "name": "Oxyg\u00e8ne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7917222,
+                    50.6389367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5133721,
+                    50.781321
+                ]
+            },
+            "properties": {
+                "name": "De Kelle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5754389,
+                    50.641682
+                ]
+            },
+            "properties": {
+                "name": "La Librairie Pax"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1804968,
+                    51.1970588
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6956657,
+                    50.5612362
+                ]
+            },
+            "properties": {
+                "name": "Presse des 3 Clefs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9069356,
+                    50.3259275
+                ]
+            },
+            "properties": {
+                "name": "Dejalle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4345846,
+                    50.8949794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3652361,
+                    51.0883138
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1290541,
+                    50.8805917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8512687,
+                    51.1802665
+                ]
+            },
+            "properties": {
+                "name": "'t Boekenstalleke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1778378,
+                    50.8710327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5860235,
+                    50.6434184
+                ]
+            },
+            "properties": {
+                "name": "D'ici et D'ailleurs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.944068,
+                    51.3231786
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9432205,
+                    51.3220854
+                ]
+            },
+            "properties": {
+                "name": "Boekuil"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3386402,
+                    50.8889772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9632208,
+                    50.4873647
+                ]
+            },
+            "properties": {
+                "name": "Librairie de Maisi\u00e8res"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6389532,
+                    51.1135588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5450573,
+                    50.7307737
+                ]
+            },
+            "properties": {
+                "name": "Calipresse SPRL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7906799,
+                    50.1296798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3961857,
+                    50.5063576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1085968,
+                    50.5023606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1377664,
+                    50.6063182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.137262,
+                    50.6084527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354962,
+                    50.8178057
+                ]
+            },
+            "properties": {
+                "name": "Candide"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2663268,
+                    50.8268743
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9725879,
+                    50.9799725
+                ]
+            },
+            "properties": {
+                "name": "Bolleboos"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5922529,
+                    51.1008823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5923118,
+                    51.1002725
+                ]
+            },
+            "properties": {
+                "name": "Press Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0712134,
+                    49.7956797
+                ]
+            },
+            "properties": {
+                "name": "Au Bord du Livre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7422169,
+                    49.5598231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2832139,
+                    51.2287248
+                ]
+            },
+            "properties": {
+                "name": "Lommel Press"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.867322,
+                    50.4232812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5039692,
+                    51.0948811
+                ]
+            },
+            "properties": {
+                "name": "Standard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2362879,
+                    50.7454791
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0449646,
+                    50.9340747
+                ]
+            },
+            "properties": {
+                "name": "Drukkerij Vervecken Aalst"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7860964,
+                    50.3986003
+                ]
+            },
+            "properties": {
+                "name": "Librairie de Trich\u00e8res"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7808108,
+                    50.3990252
+                ]
+            },
+            "properties": {
+                "name": "Neopolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8377116,
+                    50.7103999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2328883,
+                    50.9585146
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2197793,
+                    51.1977421
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.779132,
+                    50.3965092
+                ]
+            },
+            "properties": {
+                "name": "Info Cado"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9647276,
+                    51.2210082
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5885475,
+                    50.6442754
+                ]
+            },
+            "properties": {
+                "name": "La carotte - Librairie d'Art"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3548926,
+                    50.8444749
+                ]
+            },
+            "properties": {
+                "name": "La Crypte Tonique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.876719,
+                    50.7244344
+                ]
+            },
+            "properties": {
+                "name": "L'Apostrophe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3623943,
+                    50.8190321
+                ]
+            },
+            "properties": {
+                "name": "P\u00eale-M\u00eale Ixelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4373031,
+                    50.847979
+                ]
+            },
+            "properties": {
+                "name": "Cook & Book"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4015844,
+                    50.8336491
+                ]
+            },
+            "properties": {
+                "name": "Librairie TaPage"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3870607,
+                    50.8456057
+                ]
+            },
+            "properties": {
+                "name": "Piola Libri"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.158607,
+                    50.342292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.501948,
+                    50.7845081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7039757,
+                    49.5585696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9240047,
+                    50.6495879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9067723,
+                    50.2674989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3653961,
+                    50.8357641
+                ]
+            },
+            "properties": {
+                "name": "Librairie Hankard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8109631,
+                    49.6804595
+                ]
+            },
+            "properties": {
+                "name": "Papeterie Lorraine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1127925,
+                    50.0814353
+                ]
+            },
+            "properties": {
+                "name": "Le quotidien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.330512,
+                    50.8250143
+                ]
+            },
+            "properties": {
+                "name": "Librairie coop\u00e9rative Par Chemins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.931164,
+                    50.4562367
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3543093,
+                    50.8419759
+                ]
+            },
+            "properties": {
+                "name": "Taschen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3331128,
+                    51.1699777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0312354,
+                    50.6306679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4056819,
+                    51.2301806
+                ]
+            },
+            "properties": {
+                "name": "AltaVia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.232872,
+                    51.2250149
+                ]
+            },
+            "properties": {
+                "name": "Dagbladhandel Newsflash"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3130017,
+                    51.2150429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3928897,
+                    50.9249376
+                ]
+            },
+            "properties": {
+                "name": "XOD bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8781775,
+                    51.0020486
+                ]
+            },
+            "properties": {
+                "name": "At the movies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8782044,
+                    51.0020621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8841018,
+                    51.2132537
+                ]
+            },
+            "properties": {
+                "name": "Boekhandel Dorine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8141295,
+                    49.6838219
+                ]
+            },
+            "properties": {
+                "name": "Le Point Virgule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7615263,
+                    51.0100331
+                ]
+            },
+            "properties": {
+                "name": "Dallas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8225034,
+                    51.2431501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2955366,
+                    50.8598757
+                ]
+            },
+            "properties": {
+                "name": "La Palette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9538229,
+                    50.4538285
+                ]
+            },
+            "properties": {
+                "name": "Andr\u00e9 Leto"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9549426,
+                    50.4531098
+                ]
+            },
+            "properties": {
+                "name": "L'oiseau lire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2350464,
+                    50.7339106
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.951959,
+                    50.4526021
+                ]
+            },
+            "properties": {
+                "name": "Polar & co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9498332,
+                    50.4520739
+                ]
+            },
+            "properties": {
+                "name": "Bibliopolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1307597,
+                    51.3137579
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9611407,
+                    50.4559493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9497102,
+                    50.4513389
+                ]
+            },
+            "properties": {
+                "name": "Belgique loisirs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9497141,
+                    50.4514287
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9493113,
+                    50.4505042
+                ]
+            },
+            "properties": {
+                "name": "Ligne claire"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8586882,
+                    50.4630821
+                ]
+            },
+            "properties": {
+                "name": "CDD Centre Dioc\u00e9sain de Documentation"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0256559,
+                    50.4256712
+                ]
+            },
+            "properties": {
+                "name": "Au Fil d'Ariane"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4814162,
+                    49.6028209
+                ]
+            },
+            "properties": {
+                "name": "Sur mon \u00e9tag\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7064164,
+                    50.8799054
+                ]
+            },
+            "properties": {
+                "name": "De Slegte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3759947,
+                    50.6140599
+                ]
+            },
+            "properties": {
+                "name": "La Bourse aux livres"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4143977,
+                    51.2200526
+                ]
+            },
+            "properties": {
+                "name": "Mekanik-Strip"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7109016,
+                    50.8815845
+                ]
+            },
+            "properties": {
+                "name": "In 't Profijtelijk Boeksken"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1372461,
+                    51.1418782
+                ]
+            },
+            "properties": {
+                "name": "Jeukiboek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3429819,
+                    50.1283748
+                ]
+            },
+            "properties": {
+                "name": "Librairie Hugot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7125184,
+                    50.8809073
+                ]
+            },
+            "properties": {
+                "name": "Peeters"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3726812,
+                    50.8284465
+                ]
+            },
+            "properties": {
+                "name": "Br\u00fcsel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3693623,
+                    50.8278438
+                ]
+            },
+            "properties": {
+                "name": "Ptyx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3450404,
+                    50.8442125
+                ]
+            },
+            "properties": {
+                "name": "P\u00eale-M\u00eale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6552677,
+                    51.1176201
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7257684,
+                    51.0493462
+                ]
+            },
+            "properties": {
+                "name": "World's end comics Gent"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7297869,
+                    51.0487861
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2485001,
+                    51.2143135
+                ]
+            },
+            "properties": {
+                "name": "De Reyghere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6174152,
+                    50.4682114
+                ]
+            },
+            "properties": {
+                "name": "Librairie les p'tits papiers (Vincent le libraire)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3566234,
+                    50.8514679
+                ]
+            },
+            "properties": {
+                "name": "Librairie Quartiers Latins"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1411781,
+                    51.1630948
+                ]
+            },
+            "properties": {
+                "name": "De Wase"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9367633,
+                    50.396618
+                ]
+            },
+            "properties": {
+                "name": "Libraire de l'all\u00e9e verte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4052381,
+                    50.6132429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7074095,
+                    50.880849
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4680221,
+                    50.8400857
+                ]
+            },
+            "properties": {
+                "name": "Gutenberg Buchhandlung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2607039,
+                    51.2088733
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6170705,
+                    50.6685924
+                ]
+            },
+            "properties": {
+                "name": "Le Bouquiniste"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3778249,
+                    50.6807653
+                ]
+            },
+            "properties": {
+                "name": "Le Baobab Livres Jeunesse sprl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4482272,
+                    51.0855304
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4935801,
+                    51.2917388
+                ]
+            },
+            "properties": {
+                "name": "Standard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4191801,
+                    51.27925
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.747745,
+                    51.0374803
+                ]
+            },
+            "properties": {
+                "name": "Boekhandel I*BOEKS"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3591343,
+                    50.8238869
+                ]
+            },
+            "properties": {
+                "name": "Nijinski"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3450907,
+                    50.827338
+                ]
+            },
+            "properties": {
+                "name": "Tipi Bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3585521,
+                    50.8247768
+                ]
+            },
+            "properties": {
+                "name": "Peinture fra\u00eeche"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4357883,
+                    50.844068
+                ]
+            },
+            "properties": {
+                "name": "Slumberland Tome 2"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3677715,
+                    50.81423
+                ]
+            },
+            "properties": {
+                "name": "Slumberland Tome 4"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3600382,
+                    50.8511432
+                ]
+            },
+            "properties": {
+                "name": "Slumberland Tome 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3468093,
+                    50.8496253
+                ]
+            },
+            "properties": {
+                "name": "Passa Porta"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3427063,
+                    50.822455
+                ]
+            },
+            "properties": {
+                "name": "Hors Format"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3694854,
+                    50.8302435
+                ]
+            },
+            "properties": {
+                "name": "Oxfam Bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3506992,
+                    50.8140735
+                ]
+            },
+            "properties": {
+                "name": "Oxfam Bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3488748,
+                    50.8454291
+                ]
+            },
+            "properties": {
+                "name": "Evasions"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3521849,
+                    50.8455439
+                ]
+            },
+            "properties": {
+                "name": "Le Wolf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3440187,
+                    50.8310585
+                ]
+            },
+            "properties": {
+                "name": "Les Yeux Gourmands"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354227,
+                    50.8140311
+                ]
+            },
+            "properties": {
+                "name": "Am stram gram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3549736,
+                    50.8447698
+                ]
+            },
+            "properties": {
+                "name": "Pierre Genicot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3552372,
+                    50.8448994
+                ]
+            },
+            "properties": {
+                "name": "Librairie Pierre Coumans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3594088,
+                    50.8229914
+                ]
+            },
+            "properties": {
+                "name": "Les Petits Riens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8112825,
+                    49.6843386
+                ]
+            },
+            "properties": {
+                "name": "Le Dalhia Noir"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8121497,
+                    49.6842716
+                ]
+            },
+            "properties": {
+                "name": "Belgique Loisirs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7898695,
+                    49.6825927
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7162348,
+                    51.0563976
+                ]
+            },
+            "properties": {
+                "name": "Carmelitana"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6993361,
+                    50.8788966
+                ]
+            },
+            "properties": {
+                "name": "Het Besloten Land"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3260311,
+                    51.2189534
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344809,
+                    50.851738
+                ]
+            },
+            "properties": {
+                "name": "Passa Porta bookshop II"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3584107,
+                    50.8196614
+                ]
+            },
+            "properties": {
+                "name": "Filigranes Corner"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3390566,
+                    50.8032161
+                ]
+            },
+            "properties": {
+                "name": "Le Petit Filigranes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1191625,
+                    50.9627143
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6122777,
+                    50.6693403
+                ]
+            },
+            "properties": {
+                "name": "Les Fleurs Du Mal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3976477,
+                    50.7182179
+                ]
+            },
+            "properties": {
+                "name": "BD World"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3548778,
+                    50.8502595
+                ]
+            },
+            "properties": {
+                "name": "Anticyclone des A\u00e7ores"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3899807,
+                    50.6831938
+                ]
+            },
+            "properties": {
+                "name": "Librairie le passe temps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3398944,
+                    50.8404828
+                ]
+            },
+            "properties": {
+                "name": "Librairie du Midi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3746879,
+                    50.6850237
+                ]
+            },
+            "properties": {
+                "name": "Ladbrokes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3145269,
+                    50.7941604
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7815878,
+                    50.6370083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2212549,
+                    51.2061914
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3668715,
+                    50.8355961
+                ]
+            },
+            "properties": {
+                "name": "La Borgne Agasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3746092,
+                    50.7896867
+                ]
+            },
+            "properties": {
+                "name": "Cook and Book Fort Jaco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3365265,
+                    50.8049193
+                ]
+            },
+            "properties": {
+                "name": "La Licorne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34981,
+                    50.8522917
+                ]
+            },
+            "properties": {
+                "name": "Het Ivoren Aapje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9590506,
+                    50.7370611
+                ]
+            },
+            "properties": {
+                "name": "Librairie Defaweux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9718806,
+                    50.6606362
+                ]
+            },
+            "properties": {
+                "name": "Librairie Grignard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3342765,
+                    50.2241749
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4112824,
+                    50.8434378
+                ]
+            },
+            "properties": {
+                "name": "\u00c0 fond d'bulles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5828543,
+                    50.9617584
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel "
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2078335,
+                    50.905958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3516721,
+                    50.8481144
+                ]
+            },
+            "properties": {
+                "name": "Bruxelles Accueil Porte Ouverte - Brussel Onthaal Open Deur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1602232,
+                    50.0070783
+                ]
+            },
+            "properties": {
+                "name": "L'archiVistr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1602608,
+                    50.0070926
+                ]
+            },
+            "properties": {
+                "name": "Bouquinerie G\u00e9n\u00e9rale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3672172,
+                    50.8342148
+                ]
+            },
+            "properties": {
+                "name": "Tulibris"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5977779,
+                    50.642795
+                ]
+            },
+            "properties": {
+                "name": "point poste de bressoux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1545214,
+                    50.8052213
+                ]
+            },
+            "properties": {
+                "name": "standaard boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3975044,
+                    51.2180561
+                ]
+            },
+            "properties": {
+                "name": "Stad Leest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4819128,
+                    51.0247098
+                ]
+            },
+            "properties": {
+                "name": "Boekenvoordeel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3523312,
+                    50.8440499
+                ]
+            },
+            "properties": {
+                "name": "Librairie du Lombard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3486277,
+                    50.8470863
+                ]
+            },
+            "properties": {
+                "name": "MultiBD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3500318,
+                    50.8466279
+                ]
+            },
+            "properties": {
+                "name": "Utopia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3501221,
+                    50.846715
+                ]
+            },
+            "properties": {
+                "name": "Dong Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3484581,
+                    50.8469105
+                ]
+            },
+            "properties": {
+                "name": "Multi-BD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3576367,
+                    50.8451968
+                ]
+            },
+            "properties": {
+                "name": "Bibliopolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3485607,
+                    50.8447877
+                ]
+            },
+            "properties": {
+                "name": "Le D\u00e9p\u00f4t Bandes Desin\u00e9es"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3567503,
+                    50.8516274
+                ]
+            },
+            "properties": {
+                "name": "Libraire Polytechnique"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3492183,
+                    50.8476826
+                ]
+            },
+            "properties": {
+                "name": "Br\u00fcsel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4990958,
+                    50.9647323
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel Genk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4040275,
+                    51.2183287
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4116144,
+                    51.217719
+                ]
+            },
+            "properties": {
+                "name": "Boekenvoordeel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2326113,
+                    50.4802971
+                ]
+            },
+            "properties": {
+                "name": "Librairie du Pav\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3842414,
+                    50.6061646
+                ]
+            },
+            "properties": {
+                "name": "Librarie La Procure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7027064,
+                    50.8796141
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7035632,
+                    50.8783014
+                ]
+            },
+            "properties": {
+                "name": "De Kleine Johannes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7076713,
+                    50.9935009
+                ]
+            },
+            "properties": {
+                "name": "Bookshop De Loft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6982649,
+                    50.8775308
+                ]
+            },
+            "properties": {
+                "name": "Oxfam Bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3750398,
+                    50.6837802
+                ]
+            },
+            "properties": {
+                "name": "Night & Day"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3598782,
+                    50.8400627
+                ]
+            },
+            "properties": {
+                "name": "Belgique Loisirs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0902842,
+                    51.3199481
+                ]
+            },
+            "properties": {
+                "name": "Hulsmans"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7067026,
+                    50.8789851
+                ]
+            },
+            "properties": {
+                "name": "Boekarest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3552722,
+                    50.8448486
+                ]
+            },
+            "properties": {
+                "name": "Librairie Van der Elst"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3750479,
+                    50.86652
+                ]
+            },
+            "properties": {
+                "name": "Le printemps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9929062,
+                    51.1038867
+                ]
+            },
+            "properties": {
+                "name": "The Press Factory"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9874994,
+                    51.1062683
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9873728,
+                    51.1067948
+                ]
+            },
+            "properties": {
+                "name": "Press Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9805339,
+                    51.102834
+                ]
+            },
+            "properties": {
+                "name": "Marina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3791824,
+                    50.8226613
+                ]
+            },
+            "properties": {
+                "name": "Bouquinerie Plume de Paon"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3863014,
+                    50.8141997
+                ]
+            },
+            "properties": {
+                "name": "Librairie de l'Universit\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3677021,
+                    50.8364002
+                ]
+            },
+            "properties": {
+                "name": "Librebook"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8575631,
+                    50.5925448
+                ]
+            },
+            "properties": {
+                "name": "Au fil d'arianne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9769315,
+                    51.0325222
+                ]
+            },
+            "properties": {
+                "name": "Abdijwinkel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5820308,
+                    50.6388125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4393394,
+                    50.4067701
+                ]
+            },
+            "properties": {
+                "name": "Slumberland;Borne acc\u00e8s Ph\u00e9nix 1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6126827,
+                    50.6695949
+                ]
+            },
+            "properties": {
+                "name": "Belgique Loisirs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6119515,
+                    50.6697224
+                ]
+            },
+            "properties": {
+                "name": "\u00c9ditions Academia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3705137,
+                    50.8395145
+                ]
+            },
+            "properties": {
+                "name": "Librairie de France"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4132052,
+                    51.1005075
+                ]
+            },
+            "properties": {
+                "name": "De Griffel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7200827,
+                    51.0512251
+                ]
+            },
+            "properties": {
+                "name": "English book shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0907192,
+                    51.0670691
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4800363,
+                    51.022965
+                ]
+            },
+            "properties": {
+                "name": "De Zondvloed"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.357152,
+                    50.5793464
+                ]
+            },
+            "properties": {
+                "name": "Chez B. D."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2620152,
+                    50.8256241
+                ]
+            },
+            "properties": {
+                "name": "Boekenhuis Theoria"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.546065,
+                    50.676311
+                ]
+            },
+            "properties": {
+                "name": "Robin des Bois"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4274538,
+                    50.9280864
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4120697,
+                    50.3523696
+                ]
+            },
+            "properties": {
+                "name": "Librairie et point poste de Jamioulx"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3530837,
+                    50.8397803
+                ]
+            },
+            "properties": {
+                "name": "Vasco & Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6111445,
+                    50.713257
+                ]
+            },
+            "properties": {
+                "name": "Night and day"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6312963,
+                    50.8658055
+                ]
+            },
+            "properties": {
+                "name": "' t Roddelkot Dagbladhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3679819,
+                    50.8435189
+                ]
+            },
+            "properties": {
+                "name": "Filigranes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7956445,
+                    50.4329035
+                ]
+            },
+            "properties": {
+                "name": "Librairie de la Place"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3814262,
+                    50.844555
+                ]
+            },
+            "properties": {
+                "name": "Punto y Coma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6215544,
+                    50.7084333
+                ]
+            },
+            "properties": {
+                "name": "Papyrus SCRL"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.161695,
+                    51.1040152
+                ]
+            },
+            "properties": {
+                "name": "'t Leesgenot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3112235,
+                    51.2299536
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.464895,
+                    50.781703
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.718581,
+                    51.0413737
+                ]
+            },
+            "properties": {
+                "name": "Atlas & Zanzibar"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3997897,
+                    51.2173762
+                ]
+            },
+            "properties": {
+                "name": "Copyright"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.568177,
+                    50.6422617
+                ]
+            },
+            "properties": {
+                "name": "BDscope"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9612472,
+                    51.1606281
+                ]
+            },
+            "properties": {
+                "name": "Campinia Media"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0517104,
+                    50.9848127
+                ]
+            },
+            "properties": {
+                "name": "Boekhandel Grote Markt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0838686,
+                    50.8718514
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0515034,
+                    50.9836104
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel Diest"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3977498,
+                    51.2129234
+                ]
+            },
+            "properties": {
+                "name": "De 3 Leli\u00ebn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3973961,
+                    51.2189467
+                ]
+            },
+            "properties": {
+                "name": "De Markies"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4028137,
+                    51.2217091
+                ]
+            },
+            "properties": {
+                "name": "De Groene Waterman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3537526,
+                    50.8234632
+                ]
+            },
+            "properties": {
+                "name": "Papyrus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3893815,
+                    50.8153779
+                ]
+            },
+            "properties": {
+                "name": "Bibliopolis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3801439,
+                    50.85966
+                ]
+            },
+            "properties": {
+                "name": "Librairie Grande Muraille - Grote Muur Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7280586,
+                    51.0403483
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5927185,
+                    50.6162158
+                ]
+            },
+            "properties": {
+                "name": "Press Shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3869675,
+                    50.6064591
+                ]
+            },
+            "properties": {
+                "name": "Decallonne"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5948916,
+                    50.6155502
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2021667,
+                    51.0158233
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.920262,
+                    51.2287232
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.902776,
+                    50.4755819
+                ]
+            },
+            "properties": {
+                "name": "Au petit bonheur la chance"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5704657,
+                    50.6425119
+                ]
+            },
+            "properties": {
+                "name": "Slumberland"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8715799,
+                    50.456425
+                ]
+            },
+            "properties": {
+                "name": "Au Bia Bouquin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4062309,
+                    50.6029164
+                ]
+            },
+            "properties": {
+                "name": "Ludorama"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.462794,
+                    50.6815581
+                ]
+            },
+            "properties": {
+                "name": "Club"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7426795,
+                    51.0551476
+                ]
+            },
+            "properties": {
+                "name": "Riot"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6136341,
+                    50.6690456
+                ]
+            },
+            "properties": {
+                "name": "DUC"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3538907,
+                    50.850184
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9345101,
+                    50.4567273
+                ]
+            },
+            "properties": {
+                "name": "BD World"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2238543,
+                    51.2083532
+                ]
+            },
+            "properties": {
+                "name": "De Reyghere"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5731889,
+                    50.6467894
+                ]
+            },
+            "properties": {
+                "name": "Entre-Temps"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3475621,
+                    50.8260561
+                ]
+            },
+            "properties": {
+                "name": "Forbidden Zone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3505281,
+                    50.824413
+                ]
+            },
+            "properties": {
+                "name": "The Skull"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8375487,
+                    50.4222198
+                ]
+            },
+            "properties": {
+                "name": "Librairie du Stade"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5763238,
+                    50.6455814
+                ]
+            },
+            "properties": {
+                "name": "Planet Video"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.7186211,
+                    50.0035008
+                ]
+            },
+            "properties": {
+                "name": "Croisy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6582412,
+                    50.6194924
+                ]
+            },
+            "properties": {
+                "name": "Librairie du Baty"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3899748,
+                    50.6267092
+                ]
+            },
+            "properties": {
+                "name": "Librairie Kain-Tombe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6589583,
+                    51.1183689
+                ]
+            },
+            "properties": {
+                "name": "'t Boekenwinkeltje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5670252,
+                    51.1334511
+                ]
+            },
+            "properties": {
+                "name": "Boekenvoordeel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3836398,
+                    50.8138943
+                ]
+            },
+            "properties": {
+                "name": "Presses Universitaires de Bruxelles"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5849948,
+                    50.5693917
+                ]
+            },
+            "properties": {
+                "name": "Librairie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2352209,
+                    51.1530125
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5674441,
+                    50.6395526
+                ]
+            },
+            "properties": {
+                "name": "oxfam"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2749414,
+                    50.1669259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1622022,
+                    51.1608873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0113535,
+                    50.439212
+                ]
+            },
+            "properties": {
+                "name": "La librairie des Chiconniers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5749593,
+                    50.6405837
+                ]
+            },
+            "properties": {
+                "name": "Librairie Thalie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5739783,
+                    50.6398392
+                ]
+            },
+            "properties": {
+                "name": "La Parenth\u00e8se"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4329932,
+                    51.2276671
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5731608,
+                    50.6427637
+                ]
+            },
+            "properties": {
+                "name": "Press shop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9905247,
+                    50.703761
+                ]
+            },
+            "properties": {
+                "name": "Librairie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6194018,
+                    50.7163937
+                ]
+            },
+            "properties": {
+                "name": "Librairie des Princes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9206376,
+                    50.4075167
+                ]
+            },
+            "properties": {
+                "name": "Centre Technique et P\u00e9dagogique de la Communaut\u00e9 Fran\u00e7aise"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8339311,
+                    50.9495368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5331857,
+                    49.5544555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.323706,
+                    50.8730631
+                ]
+            },
+            "properties": {
+                "name": "Mot Passant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4358856,
+                    50.8438979
+                ]
+            },
+            "properties": {
+                "name": "Le Rat Conteur"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.3356114,
+                    50.929106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8743573,
+                    50.7716914
+                ]
+            },
+            "properties": {
+                "name": "Standaard boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3292104,
+                    50.4895669
+                ]
+            },
+            "properties": {
+                "name": "Librairie de Gouy"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6915178,
+                    50.5604643
+                ]
+            },
+            "properties": {
+                "name": "Antigone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2505209,
+                    50.6933163
+                ]
+            },
+            "properties": {
+                "name": "Papeterie Maximum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3465344,
+                    50.8518155
+                ]
+            },
+            "properties": {
+                "name": "Tulitu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3625178,
+                    51.3306534
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4049275,
+                    50.3890286
+                ]
+            },
+            "properties": {
+                "name": "Librairie Huwart"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3255142,
+                    50.8244007
+                ]
+            },
+            "properties": {
+                "name": "Wiels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6800324,
+                    50.8640566
+                ]
+            },
+            "properties": {
+                "name": "Acco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6798184,
+                    50.51897
+                ]
+            },
+            "properties": {
+                "name": "217ds"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2408921,
+                    50.5177605
+                ]
+            },
+            "properties": {
+                "name": "La D\u00e9rive"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9537892,
+                    50.1903834
+                ]
+            },
+            "properties": {
+                "name": "L'Alphabet"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3896717,
+                    50.3220429
+                ]
+            },
+            "properties": {
+                "name": "Librairie de l'Eau d'Heure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1270638,
+                    50.9465192
+                ]
+            },
+            "properties": {
+                "name": "Boekenvoordeel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1266235,
+                    50.9462468
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7223413,
+                    51.0500506
+                ]
+            },
+            "properties": {
+                "name": "Paard van Troje"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4211354,
+                    50.5133188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5860937,
+                    50.7013255
+                ]
+            },
+            "properties": {
+                "name": "BD World"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4814686,
+                    51.0283335
+                ]
+            },
+            "properties": {
+                "name": "Salvator"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1674777,
+                    50.4120053
+                ]
+            },
+            "properties": {
+                "name": "Librairie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.171217,
+                    50.4120487
+                ]
+            },
+            "properties": {
+                "name": "Art-Technic"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1696782,
+                    50.4118967
+                ]
+            },
+            "properties": {
+                "name": "Cubitus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.869746,
+                    50.3719948
+                ]
+            },
+            "properties": {
+                "name": "Librairie La Rime"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7125262,
+                    51.0370797
+                ]
+            },
+            "properties": {
+                "name": "Boekhandel Limerick"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7216064,
+                    51.0773868
+                ]
+            },
+            "properties": {
+                "name": "Het Voorwoord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8368505,
+                    50.9849165
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2227017,
+                    51.209739
+                ]
+            },
+            "properties": {
+                "name": "Boekhandel Raaklijn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9177668,
+                    51.087674
+                ]
+            },
+            "properties": {
+                "name": "Standard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.334805,
+                    50.9322062
+                ]
+            },
+            "properties": {
+                "name": "Oxfam Bookshop"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7617619,
+                    51.401459
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0786452,
+                    50.6714124
+                ]
+            },
+            "properties": {
+                "name": "Librairie Hesbignone"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0768625,
+                    50.6715779
+                ]
+            },
+            "properties": {
+                "name": "Night and Day"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0817723,
+                    50.6701369
+                ]
+            },
+            "properties": {
+                "name": "Librairie Mordant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6935665,
+                    51.2966574
+                ]
+            },
+            "properties": {
+                "name": "Frank-i-sport"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6920437,
+                    51.2968071
+                ]
+            },
+            "properties": {
+                "name": "Standaard Boekhandel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.719832,
+                    51.0763722
+                ]
+            },
+            "properties": {
+                "name": "Standaard boekhandel Heist-op-den-Berg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.912039,
+                    50.5923609
+                ]
+            },
+            "properties": {
+                "name": "Night &Day Presse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3703281,
+                    50.6830547
+                ]
+            },
+            "properties": {
+                "name": "Librairie de l'Ancien Bourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.1849425,
+                    50.4755721
+                ]
+            },
+            "properties": {
+                "name": "Librairie du Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3674774,
+                    50.6807727
+                ]
+            },
+            "properties": {
+                "name": "Librairie Bonaventure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6934192,
+                    50.5605432
+                ]
+            },
+            "properties": {
+                "name": "Bande \u00e0 part"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6931994,
+                    50.5605132
+                ]
+            },
+            "properties": {
+                "name": "L'Apostrophe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8695888,
+                    50.7246065
+                ]
+            },
+            "properties": {
+                "name": "Librairie de la Bruy\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8715319,
+                    50.7247858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8681657,
+                    50.7244538
+                ]
+            },
+            "properties": {
+                "name": "Librairie Archibald & Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.8679868,
+                    50.7243335
+                ]
+            },
+            "properties": {
+                "name": "Librairie du Ch\u00e2teau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5711123,
+                    50.5900497
+                ]
+            },
+            "properties": {
+                "name": "Librairie du Sart Tilman"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7240838,
+                    51.0447049
+                ]
+            },
+            "properties": {
+                "name": "Acco"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2866287,
+                    50.644225
+                ]
+            },
+            "properties": {
+                "name": "Librairie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4106157,
+                    50.6047075
+                ]
+            },
+            "properties": {
+                "name": "Rive Droite"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4403045,
+                    50.4070275
+                ]
+            },
+            "properties": {
+                "name": "Librairie Fafouille"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4407473,
+                    50.4091667
+                ]
+            },
+            "properties": {
+                "name": "Tropica BD"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4431302,
+                    50.4077276
+                ]
+            },
+            "properties": {
+                "name": "Librairie Moli\u00e8re"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.521952,
+                    50.6599633
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

@@ -1,0 +1,7379 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3610633,
+                    48.2578444
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4006914,
+                    48.1962536
+                ]
+            },
+            "properties": {
+                "name": "B\u00fcchereien Wien, Rabenhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2396007,
+                    47.2682182
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Zirl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.145168,
+                    48.3011314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5696997,
+                    48.5702446
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Mistelbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4213378,
+                    47.1026581
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Andritz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3175276,
+                    48.3333078
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Dornach/Auhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4500277,
+                    47.0677885
+                ]
+            },
+            "properties": {
+                "name": "TUG Universit\u00e4tsbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2830522,
+                    48.3101259
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Urfahr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7451629,
+                    47.4936833
+                ]
+            },
+            "properties": {
+                "name": "Vorarlberger Landesbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3463945,
+                    48.0851365
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Biedermannsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5376742,
+                    46.7821764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3823489,
+                    48.2142868
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Zirkusgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4633929,
+                    47.5744869
+                ]
+            },
+            "properties": {
+                "name": "Stiftsbibliothek Admont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3911971,
+                    47.2649372
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Innsbruck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8756028,
+                    48.1158465
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Marc Aurel"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8451823,
+                    46.6147931
+                ]
+            },
+            "properties": {
+                "name": "Alpen-Adria Mediathek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.655218,
+                    47.4301131
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Lustenau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9672681,
+                    48.6370409
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.392756,
+                    48.2027496
+                ]
+            },
+            "properties": {
+                "name": "B\u00fcchereien Wien, Erdbergstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4075574,
+                    48.2215447
+                ]
+            },
+            "properties": {
+                "name": "B\u00fcchereien Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.431524,
+                    47.0698331
+                ]
+            },
+            "properties": {
+                "name": "Hauptbibliothek Zanklhof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4106353,
+                    48.2783813
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei der Stadt Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3994528,
+                    48.2610665
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4dtische B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2107672,
+                    47.9653695
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3542803,
+                    48.1975751
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Mariahilf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2422663,
+                    48.221163
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Traun"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3776481,
+                    48.1991054
+                ]
+            },
+            "properties": {
+                "name": "Arnold Sch\u00f6nberg Center"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.359734,
+                    48.2255474
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4dtische B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5301389,
+                    46.8553089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.304282,
+                    48.0948528
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Maria Enzersdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7089377,
+                    47.1057574
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4232762,
+                    48.041051
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3737638,
+                    47.8697014
+                ]
+            },
+            "properties": {
+                "name": "Stadtarchiv, Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.064835,
+                    47.8659317
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Elixhausen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5862543,
+                    48.408416
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4254809,
+                    47.0720299
+                ]
+            },
+            "properties": {
+                "name": "AK-Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5367828,
+                    46.9070497
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Gm\u00fcnd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0683926,
+                    47.7815139
+                ]
+            },
+            "properties": {
+                "name": "Lesessaal Mozarteum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3126246,
+                    46.6164099
+                ]
+            },
+            "properties": {
+                "name": "AK Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6774983,
+                    48.318433
+                ]
+            },
+            "properties": {
+                "name": "Inzersdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4510647,
+                    47.0782306
+                ]
+            },
+            "properties": {
+                "name": "Fakult\u00e4tsbibliothek ReSoWi"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4502641,
+                    47.0783529
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.486173,
+                    48.2176632
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Aspern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.361043,
+                    47.1648754
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei der Gemeinde Telfes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.733512,
+                    47.4769008
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Lauterach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3772987,
+                    48.2064385
+                ]
+            },
+            "properties": {
+                "name": "Stiftsb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3905341,
+                    47.2641071
+                ]
+            },
+            "properties": {
+                "name": "kontakt+co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6228159,
+                    48.2038696
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3892866,
+                    47.3720828
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.1535766,
+                    47.3233912
+                ]
+            },
+            "properties": {
+                "name": "Weltladen-B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7743691,
+                    47.8125055
+                ]
+            },
+            "properties": {
+                "name": "Gemeinde- und Pfarrb\u00fccherei Ebensee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3426393,
+                    48.2088204
+                ]
+            },
+            "properties": {
+                "name": "Anarchistische Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0414228,
+                    47.7990643
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3673042,
+                    48.2335206
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4dtische B\u00fccherei Pappenheimgasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2565921,
+                    47.8403104
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3059159,
+                    48.2215524
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Sandleiten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6925515,
+                    47.5864574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7046794,
+                    47.5679612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2883884,
+                    48.2908899
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.098634,
+                    47.3587524
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek G\u00f6\u00df"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6894607,
+                    47.3194972
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1246384,
+                    47.8642839
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Eugendorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2478071,
+                    48.2793067
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Leonding"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0303866,
+                    48.2833655
+                ]
+            },
+            "properties": {
+                "name": "Pfadfinderheim Freundorf/Baumgarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3669446,
+                    48.1795771
+                ]
+            },
+            "properties": {
+                "name": "st\u00e4dtische B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2588817,
+                    48.2511973
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Doppl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1670574,
+                    47.8315634
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.720467,
+                    47.490103
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Reutte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2801251,
+                    47.2325964
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Axams"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2844907,
+                    48.8142078
+                ]
+            },
+            "properties": {
+                "name": "Waidhofner Stadtbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3405987,
+                    48.2261278
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Weimarerstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2882911,
+                    47.4393454
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.218067,
+                    48.3870157
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei der Stadt Stockerau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7484737,
+                    47.5031501
+                ]
+            },
+            "properties": {
+                "name": "Stadtarchiv Bregenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4815507,
+                    47.2814602
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Mittersill"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4072346,
+                    47.0698966
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Graz West"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4324008,
+                    47.0456722
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Graz S\u00fcd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4585998,
+                    47.0694503
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Graz Ost"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4319586,
+                    47.0836474
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Graz Nord"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3766162,
+                    48.2086337
+                ]
+            },
+            "properties": {
+                "name": "\u00d6TK-Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3644954,
+                    48.2542913
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.083464,
+                    47.7211902
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei \u201eam Stiergraben\u201c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5376412,
+                    48.4428465
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3217621,
+                    48.1987604
+                ]
+            },
+            "properties": {
+                "name": "Kinderb\u00fccherei der Weltsprachen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8714826,
+                    48.1224359
+                ]
+            },
+            "properties": {
+                "name": "Stadt- und \u00d6GB-B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1710234,
+                    47.8666339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.880163,
+                    46.6284774
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek NMS Landskron"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3636055,
+                    48.2102043
+                ]
+            },
+            "properties": {
+                "name": "Schulbuch- und Schulschriftensammlung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4120454,
+                    48.1739673
+                ]
+            },
+            "properties": {
+                "name": "B\u00fcchereien Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6628215,
+                    46.9308683
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Kirchbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2827044,
+                    48.2710123
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek - Volkshaus Keferfeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5314953,
+                    47.2883084
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Mils"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0568432,
+                    48.0725861
+                ]
+            },
+            "properties": {
+                "name": "Pfarrbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3686551,
+                    48.1955722
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Wieden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6556454,
+                    48.0076839
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.68954,
+                    47.2742403
+                ]
+            },
+            "properties": {
+                "name": "Pfarrb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3666909,
+                    48.2061679
+                ]
+            },
+            "properties": {
+                "name": "Prunksaal der \u00d6sterreichischen Nationalbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4284436,
+                    47.5239287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.9380481,
+                    48.1469894
+                ]
+            },
+            "properties": {
+                "name": "Haydn-Bibliothek Hainburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8886989,
+                    47.5415583
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1173178,
+                    47.9898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2504894,
+                    48.2045258
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Ansfelden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4463153,
+                    47.1657346
+                ]
+            },
+            "properties": {
+                "name": "Deutsch Sch\u00fctzen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2558938,
+                    46.929972
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei St.Stefan ob Stainz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1905808,
+                    48.1109531
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei der Pfarre Kematen / Krems"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1999541,
+                    47.4580695
+                ]
+            },
+            "properties": {
+                "name": "Gemeindebibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3720732,
+                    46.6261156
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1218559,
+                    48.8663694
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Heidenreichstein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3189057,
+                    47.253833
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei V\u00f6ls"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9721047,
+                    46.6853576
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5176537,
+                    48.3673582
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek der Pfarre und Gemeinde Hagenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9117422,
+                    47.7889555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1572886,
+                    48.3505142
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Walding"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6453449,
+                    47.5271342
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Kroatisch Minihof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5168067,
+                    48.2030637
+                ]
+            },
+            "properties": {
+                "name": "Gemeindebibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6062141,
+                    48.1049272
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3858294,
+                    48.1908762
+                ]
+            },
+            "properties": {
+                "name": "B\u00fcchereien Wien, Rabengasse"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9442214,
+                    47.9396022
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Oberndorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6447765,
+                    47.305282
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Klaus-Weiler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3273304,
+                    46.6240784
+                ]
+            },
+            "properties": {
+                "name": "Slovenska Studijska Knjiznica - Slowenische Studienbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0577789,
+                    48.331653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3002509,
+                    46.6229511
+                ]
+            },
+            "properties": {
+                "name": "Philo Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9034588,
+                    47.4061485
+                ]
+            },
+            "properties": {
+                "name": "Pfarrbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.349436,
+                    48.2383678
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Billrothstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.709577,
+                    47.3464173
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.084806,
+                    48.4507376
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei der Pfarre und Gemeinde Niederwaldkirchen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2161833,
+                    47.630196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2774289,
+                    48.4127365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3305063,
+                    48.1911725
+                ]
+            },
+            "properties": {
+                "name": "Freizeit- u. Kulturverein der Alten S\u00e4cke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3705213,
+                    48.190988
+                ]
+            },
+            "properties": {
+                "name": "Sadocc Dokumentations- und Koperationszentrum s\u00fcdliches Afrika"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.448917,
+                    47.5584469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7321445,
+                    47.4878727
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Breitenwang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3770267,
+                    48.2004995
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek der Universit\u00e4t f\u00fcr Musik und darstellende Kunst"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.567715,
+                    48.1122642
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3494614,
+                    47.8577671
+                ]
+            },
+            "properties": {
+                "name": "Pfarrbibliothek Mondsee"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3755094,
+                    47.0170881
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Pr\u00e4graten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.3770214,
+                    47.017811
+                ]
+            },
+            "properties": {
+                "name": "Pfarrb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3149102,
+                    48.151182
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Alterlaa"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9683787,
+                    47.2809172
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.559604,
+                    47.5455047
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7361541,
+                    48.143332
+                ]
+            },
+            "properties": {
+                "name": "Pfarrb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5727223,
+                    47.2585588
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Nofels"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2828532,
+                    48.1356414
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Liesing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4060779,
+                    48.7910174
+                ]
+            },
+            "properties": {
+                "name": "Stadtbuecherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5653684,
+                    48.2467647
+                ]
+            },
+            "properties": {
+                "name": "KiBi Raasdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1360838,
+                    47.9030058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4599935,
+                    47.0587237
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Inffeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6793046,
+                    48.4447405
+                ]
+            },
+            "properties": {
+                "name": "Pfarrb\u00fccherrei St.Leonhard"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7457592,
+                    47.1897131
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Zeltweg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6495862,
+                    47.3542499
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Altach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.286764,
+                    48.1702887
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4dtische B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.724049,
+                    48.3404022
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei G\u00e4nserndorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6695447,
+                    48.3486391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3347532,
+                    48.3450823
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2476926,
+                    47.8392679
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek - FH Wr. Neustadt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3857222,
+                    47.2642707
+                ]
+            },
+            "properties": {
+                "name": "Hauptbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3857962,
+                    47.2637329
+                ]
+            },
+            "properties": {
+                "name": "Historischer Lesesaal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2504747,
+                    48.204489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4879752,
+                    48.2107243
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3682026,
+                    48.2128095
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek von unten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5351216,
+                    48.410322
+                ]
+            },
+            "properties": {
+                "name": "Pfarrb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4074784,
+                    48.2215219
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Engerthstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4027979,
+                    48.2190879
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek der Fachhochschule des BFI Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6965378,
+                    46.7110773
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Lichendorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9834097,
+                    48.1725825
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2956662,
+                    46.6229165
+                ]
+            },
+            "properties": {
+                "name": "Di\u00f6zesanbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1028075,
+                    48.5678909
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei St. Stefan am Walde"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5404375,
+                    46.8341229
+                ]
+            },
+            "properties": {
+                "name": "Schulbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3237315,
+                    47.062472
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3347627,
+                    48.2362597
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Sozial-, Wirtschafts- und Rechtswissenschaften"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3676773,
+                    48.2466876
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Lebensmittel- und Biotechnologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3348414,
+                    48.236745
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Landschaftsplanung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3318561,
+                    48.2378437
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Wald-Natur-Technik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3312715,
+                    48.2375024
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek der Universit\u00e4t f\u00fcr Bodenkultur Wien \u2013 Hauptbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.368707,
+                    48.2469663
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Wasserwirtschaft und Hydrologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0069324,
+                    47.1714892
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1186002,
+                    47.5103695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1186896,
+                    47.5104139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.141676,
+                    47.5974447
+                ]
+            },
+            "properties": {
+                "name": "Pfarrb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7907599,
+                    46.963402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.9803515,
+                    47.7924764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6604515,
+                    47.2848717
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Muntlix"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5337226,
+                    48.1738423
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek St. Valentin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4411861,
+                    47.067444
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Frauengesundheitszentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4646785,
+                    47.0771637
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Odilieninstitut"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4417062,
+                    47.0718818
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek des Priesterseminars"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4377076,
+                    47.0820328
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek f\u00fcr Religionsp\u00e4dagogik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4369622,
+                    47.0665108
+                ]
+            },
+            "properties": {
+                "name": "Frauenbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4465756,
+                    47.0679817
+                ]
+            },
+            "properties": {
+                "name": "IFZ-Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4406932,
+                    47.0743764
+                ]
+            },
+            "properties": {
+                "name": "Ludovico"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4054085,
+                    47.0939572
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek G\u00f6sting"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4385104,
+                    47.068357
+                ]
+            },
+            "properties": {
+                "name": "Steierm\u00e4rkische Landesbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4391554,
+                    47.0727676
+                ]
+            },
+            "properties": {
+                "name": "Steirisches Volksliedwerk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4339232,
+                    47.0822465
+                ]
+            },
+            "properties": {
+                "name": "Studienbibliothek der P\u00e4dagogischen Hochschule"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4573608,
+                    47.0706963
+                ]
+            },
+            "properties": {
+                "name": "Uni-Fachbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4484778,
+                    47.0729878
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek - UBKUG"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0269053,
+                    47.8132479
+                ]
+            },
+            "properties": {
+                "name": "Stadt:Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4472926,
+                    47.0797682
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Germanistik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4475699,
+                    47.0785857
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Geschichte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4537588,
+                    47.0812414
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek r\u00f6m.-kath. Theologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4514907,
+                    47.0747008
+                ]
+            },
+            "properties": {
+                "name": "Franz-Nabl-Institut f\u00fcr Literaturforschung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.455418,
+                    47.0601164
+                ]
+            },
+            "properties": {
+                "name": "Haus der Baubiologie - Fachbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4332484,
+                    47.0724687
+                ]
+            },
+            "properties": {
+                "name": "H\u00f6rbibliothek Mariahilf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.428478,
+                    47.0693975
+                ]
+            },
+            "properties": {
+                "name": "Interkulturelle Fachbibliothek ISOP"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4368771,
+                    47.0724491
+                ]
+            },
+            "properties": {
+                "name": "Neue Galerie Zeitschriftensammlung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4367913,
+                    47.0838397
+                ]
+            },
+            "properties": {
+                "name": "Steirische entwicklungspolitische Mediathek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3241592,
+                    48.1901328
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Schwendermarkt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3197276,
+                    48.2111352
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4dtische B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1849353,
+                    47.1872688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1296186,
+                    48.0540844
+                ]
+            },
+            "properties": {
+                "name": "Stiftsbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6582654,
+                    47.4251356
+                ]
+            },
+            "properties": {
+                "name": "Historisches Archiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6592186,
+                    48.0095955
+                ]
+            },
+            "properties": {
+                "name": "Pfarrzentrum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6197839,
+                    47.9081181
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Hohenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6215781,
+                    47.3508842
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei und Spielothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1863565,
+                    47.328483
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Seefeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0789405,
+                    48.5632546
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7474661,
+                    48.6872126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5707182,
+                    48.5445936
+                ]
+            },
+            "properties": {
+                "name": "Pfarrbibliothek Esternberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.186144,
+                    48.7568024
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Vitis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.6893466,
+                    48.2241323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9421533,
+                    48.6516926
+                ]
+            },
+            "properties": {
+                "name": "Volks- und Ferienb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5130635,
+                    47.1415464
+                ]
+            },
+            "properties": {
+                "name": "Grinner Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3595806,
+                    48.231189
+                ]
+            },
+            "properties": {
+                "name": "Fachbereichsbibliothek Erdwissenschaften und Meteorologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.359494,
+                    48.2313722
+                ]
+            },
+            "properties": {
+                "name": "Fachbereichsbibliothek Pharmazie und Ern\u00e4hrungswissenschaften"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.836337,
+                    47.210786
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8292189,
+                    47.215141
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4783707,
+                    48.2123002
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Enns"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2709263,
+                    48.1987968
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4dtische B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3249231,
+                    47.7721294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7967954,
+                    47.3216992
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.561316,
+                    48.5856824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9540472,
+                    47.4422807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.620209,
+                    47.2593853
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Altenstadt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2658238,
+                    48.121875
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5335458,
+                    48.1140601
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2716842,
+                    47.2534475
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Kematen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9708536,
+                    47.0719368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0359534,
+                    47.7404181
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Gr\u00f6dig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4488783,
+                    47.078327
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Experimentalphysik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4485037,
+                    47.0781529
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Theoretische Physik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3099782,
+                    48.0448162
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Sierning"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9912227,
+                    48.4564429
+                ]
+            },
+            "properties": {
+                "name": "Pfarr- und Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6352593,
+                    48.3020548
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei Riedau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8199973,
+                    47.1519437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3013975,
+                    47.0348376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4785024,
+                    48.2126275
+                ]
+            },
+            "properties": {
+                "name": "Alte B\u00fccherwelt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2863491,
+                    47.9284981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6462586,
+                    47.335982
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek G\u00f6tzis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1179216,
+                    47.3829591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.447649,
+                    47.0784611
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Philosophie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.407719,
+                    48.0214414
+                ]
+            },
+            "properties": {
+                "name": "Pfarrbibliothek Garsten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7080113,
+                    47.1821332
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.638419,
+                    47.098561
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9427663,
+                    48.132741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.723263,
+                    48.0135079
+                ]
+            },
+            "properties": {
+                "name": "Pfarrb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9912581,
+                    48.5730493
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Rohrbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6347721,
+                    48.2463139
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Perg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2149519,
+                    47.8184561
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Hof-Koppl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9329144,
+                    48.083394
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Euratsfeld"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.173423,
+                    48.2063233
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1882643,
+                    47.4776754
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1327259,
+                    48.0588041
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei im Rathaus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5803994,
+                    47.2262546
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Tisis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.9288158,
+                    47.2972773
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Obsteig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3674414,
+                    48.2192639
+                ]
+            },
+            "properties": {
+                "name": "Fachbereichsbibliothek Wirtschaftswissenschaften und Mathematik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4385374,
+                    48.2406605
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4467568,
+                    48.2726829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4085809,
+                    48.2134891
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek der Wirtschaftsuniversit\u00e4t Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2823652,
+                    46.9864001
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche und Pfarrb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4298258,
+                    48.4564836
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3801397,
+                    48.2411323
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei der Stadt Wien - Leystra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4337134,
+                    47.0707579
+                ]
+            },
+            "properties": {
+                "name": "She Drup Ling"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.8210162,
+                    47.2183196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3391868,
+                    47.5569864
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Turnau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3310747,
+                    48.2189024
+                ]
+            },
+            "properties": {
+                "name": "st\u00e4dtische B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3697675,
+                    48.1687938
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4dtische B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.0067848,
+                    46.9675933
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek S\u00f6lden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.4043327,
+                    47.6691416
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek K\u00f6ssen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4207025,
+                    48.228716
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Kaiserm\u00fchlen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2182138,
+                    48.1387344
+                ]
+            },
+            "properties": {
+                "name": "\u00f6ffentliche Pfarrbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2059343,
+                    48.3180659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.357176,
+                    48.2114775
+                ]
+            },
+            "properties": {
+                "name": "Wienbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.532833,
+                    48.1743205
+                ]
+            },
+            "properties": {
+                "name": "Pfarrb\u00fccherei St. Valentin"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6740682,
+                    47.6077046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7743529,
+                    46.7077721
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1728298,
+                    47.5831801
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6884058,
+                    47.3640341
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.307594,
+                    47.1110069
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Neustift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7462762,
+                    47.5006081
+                ]
+            },
+            "properties": {
+                "name": "Vorarlberger Landesarchiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0172137,
+                    47.9608769
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei der Pfarre Pettenbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7056636,
+                    46.799166
+                ]
+            },
+            "properties": {
+                "name": "Mediathek Radenthein"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0632162,
+                    48.6673937
+                ]
+            },
+            "properties": {
+                "name": "Buch-Media Schweiggers"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0847922,
+                    48.1782537
+                ]
+            },
+            "properties": {
+                "name": "Stadt- und \u00d6GB B\u00fccherei Ybbs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2168884,
+                    47.419015
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Bischofshofen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4190726,
+                    47.0369744
+                ]
+            },
+            "properties": {
+                "name": "Patientenbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1170575,
+                    48.1562358
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Pfarrbibliothek Uttendorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9572206,
+                    47.8978933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5605363,
+                    48.297836
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei und Spielothek Deutsch-Wagram"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5187308,
+                    48.3826538
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Wolkersdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9353281,
+                    48.443944
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8962866,
+                    47.4138729
+                ]
+            },
+            "properties": {
+                "name": "Andelsb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8161459,
+                    47.154845
+                ]
+            },
+            "properties": {
+                "name": "AK-Bibliothek Bludenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3488413,
+                    47.1531112
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Fulpmes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3680902,
+                    48.2034005
+                ]
+            },
+            "properties": {
+                "name": "Archiv des \u00d6sterreichischen Volksliedwerkes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3635633,
+                    48.2006447
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Chemie und Maschinenbau (CheMaB)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.7730448,
+                    47.3911466
+                ]
+            },
+            "properties": {
+                "name": "jen.buch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3815541,
+                    48.2073773
+                ]
+            },
+            "properties": {
+                "name": "MAK-Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3844132,
+                    48.2079458
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek der Bundesanstalt f\u00fcr Agrarwirtschaft"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.383075,
+                    48.2082729
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek der Universit\u00e4t f\u00fcr angewandte Kunst Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.2745629,
+                    47.2525508
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3581074,
+                    48.2313355
+                ]
+            },
+            "properties": {
+                "name": "Fachbereichsbibliothek Biologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.152337,
+                    47.0498835
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Voitsberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8410798,
+                    47.0533993
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Markt Hartmannsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3560747,
+                    47.2681537
+                ]
+            },
+            "properties": {
+                "name": "Pfarrbibliothek Allerheiligen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3449581,
+                    48.2295101
+                ]
+            },
+            "properties": {
+                "name": "Verein von Krippenfreunden Wien-Nieder\u00f6sterreich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3558483,
+                    48.2174783
+                ]
+            },
+            "properties": {
+                "name": "Fachbereichsbibliothek Kunstgeschichte der Universit\u00e4t Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3309102,
+                    48.1752634
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4dtische B\u00fccherei Philadelphiabr\u00fccke"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8177022,
+                    48.3192333
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4162054,
+                    47.0255614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2793008,
+                    48.1447092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3331617,
+                    48.3015507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8953074,
+                    47.9476675
+                ]
+            },
+            "properties": {
+                "name": "Rudolf-Kremayr-B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0880077,
+                    47.4490036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.9401597,
+                    47.3962898
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8636164,
+                    47.167736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7465604,
+                    47.1498869
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3627279,
+                    48.210752
+                ]
+            },
+            "properties": {
+                "name": "Fachbereichsbibliothek Katholische und Evangelische Theologie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0269935,
+                    47.6999207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4164993,
+                    47.0841854
+                ]
+            },
+            "properties": {
+                "name": "MOSAIK Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6898813,
+                    47.491725
+                ]
+            },
+            "properties": {
+                "name": "Spielothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6874122,
+                    47.4915111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5701461,
+                    48.484609
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei der Pfarre / Gemeinde M\u00fcnzkirchen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4655178,
+                    48.2257946
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Stadlau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0321324,
+                    47.8092023
+                ]
+            },
+            "properties": {
+                "name": "Robert-Jungk-Bibliothek f\u00fcr Zukunftsfragen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3101064,
+                    47.236185
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei G\u00f6tzens"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.1949895,
+                    47.2736312
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Inzing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.2993422,
+                    47.2357663
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei der Pfarre und Gemeinde Birgitz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3934947,
+                    47.2622403
+                ]
+            },
+            "properties": {
+                "name": "AK-Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3778042,
+                    48.1426737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3840704,
+                    48.1525295
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4dtische B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2411759,
+                    48.3114274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7423312,
+                    48.3508601
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Traismauer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4521925,
+                    47.0650296
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek NAWI"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4502277,
+                    47.077499
+                ]
+            },
+            "properties": {
+                "name": "Institutsbibliothek Kunstgeschichte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4504056,
+                    47.0775784
+                ]
+            },
+            "properties": {
+                "name": "FB Germanistik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.8342137,
+                    47.2231783
+                ]
+            },
+            "properties": {
+                "name": "Walserbibliothek Blons"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1083565,
+                    47.171162
+                ]
+            },
+            "properties": {
+                "name": "Kirchenbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6884467,
+                    47.9904865
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Regau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2318078,
+                    47.1759266
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei der Gemeinde H\u00fcttschlag"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8011337,
+                    47.9189467
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Gmunden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2974345,
+                    48.197817
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Penzing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0607443,
+                    47.7285378
+                ]
+            },
+            "properties": {
+                "name": "Mini-Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3607667,
+                    48.2016974
+                ]
+            },
+            "properties": {
+                "name": "Friedrich Kiesler Stiftung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1898214,
+                    47.9015518
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Henndorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4514639,
+                    47.0657769
+                ]
+            },
+            "properties": {
+                "name": "Sektion Graz Alpenvereinsb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1273887,
+                    48.0546748
+                ]
+            },
+            "properties": {
+                "name": "Pfarrb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3853646,
+                    48.200406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1758137,
+                    47.7908763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.653798,
+                    48.3216219
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Strasshof"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.5164494,
+                    47.4995768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0916013,
+                    47.3833271
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4221378,
+                    47.0517879
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek kunstGarten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3418691,
+                    48.1989042
+                ]
+            },
+            "properties": {
+                "name": "Sprachakademie Pizzera"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3448952,
+                    48.2034155
+                ]
+            },
+            "properties": {
+                "name": "Zweigstelle B\u00fccherei Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3424534,
+                    48.2044131
+                ]
+            },
+            "properties": {
+                "name": "Calvary"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3911552,
+                    48.1979829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3599297,
+                    48.2124853
+                ]
+            },
+            "properties": {
+                "name": "Lehrbuchsammlung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.8594065,
+                    47.9991678
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2212566,
+                    47.9429226
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Neumarkt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5168064,
+                    47.2811477
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Passail"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.597036,
+                    48.4112708
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Krems"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.0390221,
+                    47.5053414
+                ]
+            },
+            "properties": {
+                "name": "Jukie B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.5968155,
+                    47.2377766
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7445088,
+                    47.4057874
+                ]
+            },
+            "properties": {
+                "name": "FH Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.7630382,
+                    47.2653252
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Tarrenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.1532476,
+                    47.9530782
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3536145,
+                    48.2165058
+                ]
+            },
+            "properties": {
+                "name": "Fachbereichsbibliothek Zeitgeschichte"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0256139,
+                    48.7718362
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3568452,
+                    48.2250539
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Alserbachstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8244092,
+                    48.6290896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4130464,
+                    47.2834602
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei M\u00fchlau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3706,
+                    48.2237324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9226063,
+                    48.003946
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Vorchdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.762127,
+                    48.5453528
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Zistersdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8488753,
+                    47.3457408
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0582304,
+                    48.3316956
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Tulln"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.203907,
+                    47.3481787
+                ]
+            },
+            "properties": {
+                "name": "Stadt B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4608725,
+                    47.5760454
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei Admont"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7621887,
+                    47.4454917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.994835,
+                    46.6860431
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Bad Radkersburg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8029877,
+                    46.8361089
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Nussdorf-Debant"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5528131,
+                    46.7212261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6253988,
+                    46.7498905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6283234,
+                    46.7295398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2458677,
+                    46.686887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4018358,
+                    46.6770912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3992151,
+                    46.7034518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.440526,
+                    46.7358268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2147931,
+                    46.8147685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3676625,
+                    46.7517726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2994706,
+                    46.728054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2704493,
+                    46.7183159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.757561,
+                    46.7999369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.87131,
+                    46.806263
+                ]
+            },
+            "properties": {
+                "name": "BIM - B\u00fccherreich im Mesnerhaus Straden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7379378,
+                    46.8545054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9458292,
+                    46.7869024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9763888,
+                    46.8388485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9101765,
+                    46.8779095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0090869,
+                    46.9365605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8283824,
+                    46.8727067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8559251,
+                    46.8646909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.8839002,
+                    46.8730613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6333549,
+                    46.9106341
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Frannach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7098474,
+                    46.9058136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.885434,
+                    46.9551925
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Feldbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3848845,
+                    46.830826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2959301,
+                    46.7564931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2540911,
+                    46.8259689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2219806,
+                    46.869528
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3171381,
+                    46.8235588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5117425,
+                    46.8870825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4490601,
+                    46.8698505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3336977,
+                    46.9431469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3774497,
+                    46.9477723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4824326,
+                    46.921664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3361791,
+                    46.9748014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3996999,
+                    46.970082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.7635981,
+                    46.9879846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4987326,
+                    46.9732808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4783516,
+                    46.964449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4780162,
+                    46.9625583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5874385,
+                    46.9548908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5560916,
+                    47.0149635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4982227,
+                    47.0314951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6638425,
+                    47.1507984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6004478,
+                    47.122928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5233253,
+                    47.0462592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6101716,
+                    47.0588017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.8931956,
+                    47.440449
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Rattenberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8364923,
+                    47.0751871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6969574,
+                    47.0798065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7483956,
+                    47.0714912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.6889947,
+                    47.393401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8753656,
+                    47.4229455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9038044,
+                    47.4446199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0823364,
+                    47.1576707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4008662,
+                    47.0989746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0502757,
+                    47.0214829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9580776,
+                    47.0194165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1256048,
+                    47.0726431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0829218,
+                    47.0635962
+                ]
+            },
+            "properties": {
+                "name": "Kunsthaus Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3591546,
+                    47.1304527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1675319,
+                    47.1103403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1153459,
+                    47.18147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4074118,
+                    47.1487088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4454683,
+                    47.1986282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2819572,
+                    47.2049883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6585195,
+                    47.1694454
+                ]
+            },
+            "properties": {
+                "name": "Stadt B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5789388,
+                    47.2206072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.4879802,
+                    47.2509456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7381449,
+                    47.1549299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8595192,
+                    47.2687871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0926705,
+                    47.140504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9352535,
+                    47.3070299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.7552665,
+                    47.4268995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.8241953,
+                    47.398324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6163624,
+                    47.6899536
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei St.Gallen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.745437,
+                    47.6042377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5466322,
+                    47.4913122
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2634834,
+                    47.5262056
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Lassing"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3100214,
+                    47.5486036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3580657,
+                    47.525468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1074052,
+                    47.5339095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.0790145,
+                    47.5330888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1628708,
+                    47.4713037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2651634,
+                    47.4107889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4903407,
+                    47.1402578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.466474,
+                    47.0930687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4688891,
+                    47.0842025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4522052,
+                    47.0721988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4510148,
+                    47.0462141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4712448,
+                    47.0220967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5153237,
+                    46.9913109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4828785,
+                    47.0023971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4439865,
+                    47.011375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4046177,
+                    47.0113389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2188303,
+                    47.1025673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2171901,
+                    47.0465336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.226813,
+                    47.0103587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2072531,
+                    46.9914267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3359635,
+                    47.114057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3366836,
+                    47.1123873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.450437,
+                    47.5052445
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Kindberg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3730656,
+                    47.4752394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4998465,
+                    47.4665805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2787411,
+                    47.3236978
+                ]
+            },
+            "properties": {
+                "name": "Friedensbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7944284,
+                    48.1808218
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.5351595,
+                    47.1597352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0955442,
+                    48.3968331
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Hausleiten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9255826,
+                    47.0874244
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Ilz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.37134,
+                    48.2852924
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4725735,
+                    48.1431079
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Schwechat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7686167,
+                    47.4103126
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei und Wintersportmuseum"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7436976,
+                    47.5020055
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Bregenz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7392997,
+                    47.4018911
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei und Spielothek Hatlerdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7326983,
+                    47.3927427
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei und Spielothek Wallenmahd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.073375,
+                    47.3069445
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei & Spielothek Telfs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3621003,
+                    48.2113031
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek Wien - Au\u00dfenstelle Teinfaltstra\u00dfe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.523218,
+                    47.285836
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Sch\u00f6negg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.5064906,
+                    47.2810767
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Hall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8103652,
+                    47.1271925
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.6457706,
+                    47.0047953
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Kals"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3851428,
+                    48.202485
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek mdw"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4248847,
+                    47.267108
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4ts- und Landesbibliothek Tirol: Fachbibliothek Atrium"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3424015,
+                    47.2642665
+                ]
+            },
+            "properties": {
+                "name": "Bibliothekszentrum West"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3986388,
+                    47.2697801
+                ]
+            },
+            "properties": {
+                "name": "Sowi Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4514999,
+                    47.0745162
+                ]
+            },
+            "properties": {
+                "name": "\u00d6KA-\u00d6sterreichisches Kabarettarchiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3874905,
+                    47.2612031
+                ]
+            },
+            "properties": {
+                "name": "Medizinisch-Biologische Fachbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.4052619,
+                    47.1864143
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.00772,
+                    47.4259409
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Trofaiach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3254785,
+                    47.2703846
+                ]
+            },
+            "properties": {
+                "name": "Buch & Co"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3547505,
+                    48.1920529
+                ]
+            },
+            "properties": {
+                "name": "Geschichte der ArbeiterInnenbewegung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.327,
+                    48.1608624
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei am Sch\u00f6pfwerk"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8731909,
+                    48.5159635
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Pfarre Putzleinsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6121339,
+                    48.3659627
+                ]
+            },
+            "properties": {
+                "name": "Graphische Sammlung Stift G\u00f6ttweig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8501139,
+                    46.73086
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3840327,
+                    48.1856319
+                ]
+            },
+            "properties": {
+                "name": "Wotruba-Studiensaal"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.0172073,
+                    48.1539769
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.6070407,
+                    47.9364576
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Maria Neustift"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3860002,
+                    47.2651457
+                ]
+            },
+            "properties": {
+                "name": "Bibiliothek Institut f\u00fcr Tranlsationswissenschaften"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0067821,
+                    48.3081063
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Langenrohr"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3333885,
+                    46.9434635
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Lannach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.1819219,
+                    47.6813547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.635126,
+                    48.021651
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Trautmannsdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3372205,
+                    48.202973
+                ]
+            },
+            "properties": {
+                "name": "Hauptb\u00fccherei der Stadt Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3211605,
+                    48.3380509
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek Linz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3676204,
+                    48.1995096
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek der TU Wien"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6321392,
+                    48.2007649
+                ]
+            },
+            "properties": {
+                "name": "N\u00d6 Landes-Archiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6321004,
+                    48.2011025
+                ]
+            },
+            "properties": {
+                "name": "N\u00d6 Landesbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.1073352,
+                    48.2857235
+                ]
+            },
+            "properties": {
+                "name": "Pfarrzentrum St. Margaretha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2343045,
+                    47.5675385
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.3683693,
+                    48.4624695
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccher im G'w\u00f6lb"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4350142,
+                    48.087243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6879445,
+                    47.4900176
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei am Dorfbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3787875,
+                    48.0299079
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9801461,
+                    48.0443761
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2856674,
+                    48.2996336
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei am Dom"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4310448,
+                    47.0698651
+                ]
+            },
+            "properties": {
+                "name": "Mediathek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.290714,
+                    48.2971905
+                ]
+            },
+            "properties": {
+                "name": "Ober\u00f6sterreichische Landesbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.6872728,
+                    47.4915118
+                ]
+            },
+            "properties": {
+                "name": "Spielothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.3545842,
+                    46.767337
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3927078,
+                    47.2690956
+                ]
+            },
+            "properties": {
+                "name": "Stadtarchiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.94883,
+                    48.2729626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.8452944,
+                    47.4272711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9215307,
+                    47.0805602
+                ]
+            },
+            "properties": {
+                "name": "Pfarrb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.528623,
+                    47.2882544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9700433,
+                    48.4848345
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche B\u00fccherei Altenfelden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.4301838,
+                    48.2530134
+                ]
+            },
+            "properties": {
+                "name": "BA"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8231943,
+                    47.9825394
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7647655,
+                    46.8309281
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Lienz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8012742,
+                    47.9190267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.7398776,
+                    47.4107875
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Dornbirn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0990813,
+                    47.70091
+                ]
+            },
+            "properties": {
+                "name": "Filzhofg\u00fctl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4988362,
+                    46.9731679
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4312926,
+                    48.0262294
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.0162353,
+                    48.2555327
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.4913412,
+                    47.9336067
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherreich der Pfarre St. Georgen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.5506136,
+                    48.0586464
+                ]
+            },
+            "properties": {
+                "name": "Gemeindeb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.0918786,
+                    47.6815926
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.6230263,
+                    47.5683102
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2703281,
+                    48.4664722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4483968,
+                    47.0790041
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Anglistik/Amerikanistik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.448758,
+                    47.0791597
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Geografie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4485828,
+                    47.0790818
+                ]
+            },
+            "properties": {
+                "name": "Fachbibliothek Mathematik"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.273297,
+                    46.589243
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Viktring"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.3858437,
+                    47.2638464
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4ts- und Landesbibliothek Tirol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.2630575,
+                    46.8966096
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek Stainz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5388688,
+                    48.4713895
+                ]
+            },
+            "properties": {
+                "name": "Pfarrbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.264825,
+                    46.6159808
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek Klagenfurt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2919623,
+                    48.1864173
+                ]
+            },
+            "properties": {
+                "name": "Villa Fantastica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.8277929,
+                    48.2346069
+                ]
+            },
+            "properties": {
+                "name": "Bibliothek Zentrum 2010"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7539413,
+                    47.5213572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.9861339,
+                    48.7714242
+                ]
+            },
+            "properties": {
+                "name": "St\u00e4dtische B\u00fccherei Gm\u00fcnd"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9524941,
+                    48.7567813
+                ]
+            },
+            "properties": {
+                "name": "Stadtbibliothek Retz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.7835524,
+                    47.6108002
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei und Ludothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.5539194,
+                    47.9879927
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Gampern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.2064034,
+                    47.4586189
+                ]
+            },
+            "properties": {
+                "name": "Schulbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.7614516,
+                    47.4381123
+                ]
+            },
+            "properties": {
+                "name": "\u00d6ffentliche Bibliothek der Pfarre Leogang"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2359741,
+                    48.0103584
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Baden"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3655564,
+                    48.2094206
+                ]
+            },
+            "properties": {
+                "name": "Sammlung f\u00fcr Plansprachen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3655435,
+                    48.209383
+                ]
+            },
+            "properties": {
+                "name": "Musiksammlung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3653569,
+                    48.2053957
+                ]
+            },
+            "properties": {
+                "name": "\u00d6sterreichische Nationalbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3639658,
+                    48.2050673
+                ]
+            },
+            "properties": {
+                "name": "Bildarchiv und Grafiksammlung"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.2369233,
+                    48.4267859
+                ]
+            },
+            "properties": {
+                "name": "B\u00fccherei Eidenberg - Geng"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3574364,
+                    48.2118623
+                ]
+            },
+            "properties": {
+                "name": "Artothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.961011,
+                    47.9040639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3597525,
+                    48.2132599
+                ]
+            },
+            "properties": {
+                "name": "Universit\u00e4tsbibliothek"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1673351,
+                    48.0053336
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei Scheibbs"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.9185237,
+                    47.4506877
+                ]
+            },
+            "properties": {
+                "name": "Lindohus"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.1071586,
+                    47.9449434
+                ]
+            },
+            "properties": {
+                "name": "Stadtb\u00fccherei"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.4412371,
+                    47.0744217
+                ]
+            },
+            "properties": {
+                "name": "Landesarchiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.5036844,
+                    48.5103563
+                ]
+            },
+            "properties": {
+                "name": "Pfarramt"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

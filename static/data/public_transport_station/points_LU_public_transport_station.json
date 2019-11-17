@@ -1,0 +1,853 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1659779,
+                    49.6150126
+                ]
+            },
+            "properties": {
+                "name": "Cents-Hamm"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.050847,
+                    49.5080338
+                ]
+            },
+            "properties": {
+                "name": "Noertzange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9531842,
+                    49.9653607
+                ]
+            },
+            "properties": {
+                "name": "Paradiso"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0352682,
+                    49.4857693
+                ]
+            },
+            "properties": {
+                "name": "Kayl"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0072032,
+                    50.0168584
+                ]
+            },
+            "properties": {
+                "name": "Drauffelt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8434629,
+                    49.5510868
+                ]
+            },
+            "properties": {
+                "name": "Rodange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2117485,
+                    49.5990906
+                ]
+            },
+            "properties": {
+                "name": "Sandweiler-Contern"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1011522,
+                    49.5160933
+                ]
+            },
+            "properties": {
+                "name": "Bettembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1540133,
+                    49.8648017
+                ]
+            },
+            "properties": {
+                "name": "Diekirch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.934747,
+                    49.5015555
+                ]
+            },
+            "properties": {
+                "name": "Belval Lyc\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9246001,
+                    49.5584333
+                ]
+            },
+            "properties": {
+                "name": "Bascharage-Sanem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2685246,
+                    49.6305492
+                ]
+            },
+            "properties": {
+                "name": "Munsbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8940808,
+                    49.5369053
+                ]
+            },
+            "properties": {
+                "name": "Niederkorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8608746,
+                    49.5534157
+                ]
+            },
+            "properties": {
+                "name": "Lamadelaine"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0097453,
+                    49.5063978
+                ]
+            },
+            "properties": {
+                "name": "Schifflange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3875875,
+                    49.700068
+                ]
+            },
+            "properties": {
+                "name": "Wecker"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.995144,
+                    49.5725401
+                ]
+            },
+            "properties": {
+                "name": "Dippach-Reckange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0590174,
+                    49.5870299
+                ]
+            },
+            "properties": {
+                "name": "Leudelange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9602532,
+                    49.5735838
+                ]
+            },
+            "properties": {
+                "name": "Schouweiler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9854808,
+                    49.493976
+                ]
+            },
+            "properties": {
+                "name": "Esch-sur-Alzette"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3486797,
+                    49.6888823
+                ]
+            },
+            "properties": {
+                "name": "Betzdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4232973,
+                    49.7064542
+                ]
+            },
+            "properties": {
+                "name": "Manternach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4793057,
+                    49.7032225
+                ]
+            },
+            "properties": {
+                "name": "Mertert"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.3031061,
+                    49.6665057
+                ]
+            },
+            "properties": {
+                "name": "Roodt"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.2580197,
+                    49.6027297
+                ]
+            },
+            "properties": {
+                "name": "Oetrange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9270829,
+                    49.9663637
+                ]
+            },
+            "properties": {
+                "name": "Wiltz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8915895,
+                    49.52253
+                ]
+            },
+            "properties": {
+                "name": "Differdange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9236701,
+                    49.5030979
+                ]
+            },
+            "properties": {
+                "name": "Belval-R\u00e9dange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9910136,
+                    50.1193506
+                ]
+            },
+            "properties": {
+                "name": "Troisvierges"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0259328,
+                    50.0944381
+                ]
+            },
+            "properties": {
+                "name": "Maulusm\u00fchle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0007319,
+                    49.9883021
+                ]
+            },
+            "properties": {
+                "name": "Wilwerwiltz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0922184,
+                    49.8966506
+                ]
+            },
+            "properties": {
+                "name": "Michelau"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0534791,
+                    49.9210564
+                ]
+            },
+            "properties": {
+                "name": "Goebelsm\u00fchle"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0223546,
+                    49.948413
+                ]
+            },
+            "properties": {
+                "name": "Kautenbach"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.4994052,
+                    49.7129031
+                ]
+            },
+            "properties": {
+                "name": "Wasserbillig"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1338106,
+                    49.5427666
+                ]
+            },
+            "properties": {
+                "name": "Berchem"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1199998,
+                    49.7961925
+                ]
+            },
+            "properties": {
+                "name": "Cruchten"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1394643,
+                    49.675144
+                ]
+            },
+            "properties": {
+                "name": "Heisdorf"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1402969,
+                    49.6983494
+                ]
+            },
+            "properties": {
+                "name": "Lorentzweiler"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.095329,
+                    49.829753
+                ]
+            },
+            "properties": {
+                "name": "Schieren"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1362958,
+                    49.6619472
+                ]
+            },
+            "properties": {
+                "name": "Walferdange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.100953,
+                    49.8151001
+                ]
+            },
+            "properties": {
+                "name": "Colmar-Berg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1368137,
+                    49.6337994
+                ]
+            },
+            "properties": {
+                "name": "Dommeldange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1228044,
+                    49.7215823
+                ]
+            },
+            "properties": {
+                "name": "Lintgen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0246738,
+                    50.0615608
+                ]
+            },
+            "properties": {
+                "name": "Clervaux"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9815629,
+                    49.9568324
+                ]
+            },
+            "properties": {
+                "name": "Merkholtz"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1103941,
+                    49.7518276
+                ]
+            },
+            "properties": {
+                "name": "Mersch"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9462903,
+                    49.499531
+                ]
+            },
+            "properties": {
+                "name": "Belval-Universit\u00e9"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9259002,
+                    49.5151574
+                ]
+            },
+            "properties": {
+                "name": "Belvaux-Soleuvre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0861927,
+                    49.4923869
+                ]
+            },
+            "properties": {
+                "name": "Burange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0830309,
+                    49.4834215
+                ]
+            },
+            "properties": {
+                "name": "Dudelange-Ville"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0793791,
+                    49.4726946
+                ]
+            },
+            "properties": {
+                "name": "Dudelange-Usines"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0821826,
+                    49.4787006
+                ]
+            },
+            "properties": {
+                "name": "Dudelange-Centre"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.9164322,
+                    49.6438982
+                ]
+            },
+            "properties": {
+                "name": "Kleinbettingen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0296967,
+                    49.6183823
+                ]
+            },
+            "properties": {
+                "name": "Mamer Lyc\u00e9e"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0201719,
+                    49.6257131
+                ]
+            },
+            "properties": {
+                "name": "Mamer"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.982391,
+                    49.6384454
+                ]
+            },
+            "properties": {
+                "name": "Capellen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.0604258,
+                    49.6129205
+                ]
+            },
+            "properties": {
+                "name": "Bertrange-Strassen"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1200199,
+                    49.5956369
+                ]
+            },
+            "properties": {
+                "name": "Hollerich"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.8909346,
+                    49.5107334
+                ]
+            },
+            "properties": {
+                "name": "Oberkorn"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1342493,
+                    49.5999681
+                ]
+            },
+            "properties": {
+                "name": "Luxembourg Gare Centrale"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1065209,
+                    49.8473403
+                ]
+            },
+            "properties": {
+                "name": "Ettelbruck"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.032671,
+                    49.4603105
+                ]
+            },
+            "properties": {
+                "name": "Rumelange"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.13451,
+                    49.5997493
+                ]
+            },
+            "properties": {
+                "name": "Luxembourg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.1101772,
+                    49.7522494
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

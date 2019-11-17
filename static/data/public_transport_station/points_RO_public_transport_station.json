@@ -1,0 +1,595 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8166865,
+                    44.3288256
+                ]
+            },
+            "properties": {
+                "name": "Craiova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5439583,
+                    47.1986376
+                ]
+            },
+            "properties": {
+                "name": "Liceul Agricol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.7924623,
+                    45.181009
+                ]
+            },
+            "properties": {
+                "name": "Autogara"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4227018,
+                    46.0221104
+                ]
+            },
+            "properties": {
+                "name": "Gara Raco\u0219"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5997917,
+                    45.3376865
+                ]
+            },
+            "properties": {
+                "name": "Tirol"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5859201,
+                    45.2647053
+                ]
+            },
+            "properties": {
+                "name": "Surduc Banat"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7027504,
+                    45.076552
+                ]
+            },
+            "properties": {
+                "name": "Agadici h."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6708309,
+                    45.0915584
+                ]
+            },
+            "properties": {
+                "name": "Ticvanu Mic h."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1198419,
+                    44.4387407
+                ]
+            },
+            "properties": {
+                "name": "Traian"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6647662,
+                    46.7947646
+                ]
+            },
+            "properties": {
+                "name": "Emerson"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5678334,
+                    46.7685678
+                ]
+            },
+            "properties": {
+                "name": "Uzinei Electrice"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5616431,
+                    46.7803959
+                ]
+            },
+            "properties": {
+                "name": "Bariera CFR"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.622256,
+                    47.1529956
+                ]
+            },
+            "properties": {
+                "name": "Vasile Lupu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.6019976,
+                    47.1652583
+                ]
+            },
+            "properties": {
+                "name": "Eternitate"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4685006,
+                    47.1810232
+                ]
+            },
+            "properties": {
+                "name": "Metro"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5887001,
+                    47.1599082
+                ]
+            },
+            "properties": {
+                "name": "Tudor Vladimirescu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5880904,
+                    47.1594908
+                ]
+            },
+            "properties": {
+                "name": "Moldova Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0815612,
+                    44.4176875
+                ]
+            },
+            "properties": {
+                "name": "Autogara Marina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0324867,
+                    44.4940238
+                ]
+            },
+            "properties": {
+                "name": "gura Metrou Laminorului"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0320767,
+                    44.4938449
+                ]
+            },
+            "properties": {
+                "name": "gura Metrou Laminorului"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3661068,
+                    44.4315274
+                ]
+            },
+            "properties": {
+                "name": "Sta\u021bia Spital"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1161278,
+                    45.8069346
+                ]
+            },
+            "properties": {
+                "name": "Magnolia"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1018438,
+                    44.5302082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.2778253,
+                    46.2100611
+                ]
+            },
+            "properties": {
+                "name": "Sta\u021bia Dun\u0103rii"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6303383,
+                    45.0999414
+                ]
+            },
+            "properties": {
+                "name": "Greoni h."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0038798,
+                    44.9256139
+                ]
+            },
+            "properties": {
+                "name": "Bozovici"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1415591,
+                    44.4482117
+                ]
+            },
+            "properties": {
+                "name": "Autogara Obor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3671646,
+                    45.3777164
+                ]
+            },
+            "properties": {
+                "name": "Livezeni"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.7776556,
+                    46.2585679
+                ]
+            },
+            "properties": {
+                "name": "Transmoldova"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1448718,
+                    44.4481555
+                ]
+            },
+            "properties": {
+                "name": "Sta\u021bie C&I"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.5704885,
+                    47.1670125
+                ]
+            },
+            "properties": {
+                "name": " Autogara Transbus Codreanu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.4308842,
+                    45.8404291
+                ]
+            },
+            "properties": {
+                "name": "Pensiunea Kristall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7820622,
+                    46.1366545
+                ]
+            },
+            "properties": {
+                "name": "Gara Brad"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.5638826,
+                    44.2249496
+                ]
+            },
+            "properties": {
+                "name": "Gara Luica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8844456,
+                    44.8515785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8838818,
+                    44.8516736
+                ]
+            },
+            "properties": {
+                "name": "Autogara Pite\u0219ti"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6734352,
+                    44.6311845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5951084,
+                    45.3661191
+                ]
+            },
+            "properties": {
+                "name": "Fizes"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3808605,
+                    45.3542973
+                ]
+            },
+            "properties": {
+                "name": "Str\u00e2mbu\u021ba"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4173392,
+                    47.3034763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.0740637,
+                    44.4468393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6143723,
+                    45.6609651
+                ]
+            },
+            "properties": {
+                "name": "Autogara Codreanu"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8863267,
+                    44.2689801
+                ]
+            },
+            "properties": {
+                "name": "Gara Carcea"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.388644,
+                    44.3872466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3889832,
+                    44.3873373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3888415,
+                    44.3873205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3239963,
+                    44.2548703
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

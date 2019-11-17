@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0446702,
+                    34.6769993
+                ]
+            },
+            "properties": {
+                "name": "\u0394\u03b7\u03bc\u03bf\u03c4\u03b9\u03ba\u03ae \u0391\u03b3\u03bf\u03c1\u03ac (\u03a4\u03b5\u03c0\u03b1\u03ba)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9975667,
+                    34.6508976
+                ]
+            },
+            "properties": {
+                "name": "My Mall"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9067804,
+                    34.990645
+                ]
+            },
+            "properties": {
+                "name": "\u039a\u03b1\u03ba\u03bf\u03c0\u03b5\u03c4\u03c1\u03b9\u03ac, \u03bb\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0391\u03c1\u03c7\u03b9\u03b5\u03c0\u03b9\u03c3\u03ba\u03cc\u03c0\u03bf\u03c5 \u039c\u03b1\u03ba\u03b1\u03c1\u03af\u03bf\u03c5 \u0384\u0393"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.8987108,
+                    34.9974911
+                ]
+            },
+            "properties": {
+                "name": "\u0393\u03b1\u03bb\u03ac\u03c4\u03b1"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    33.0158381,
+                    34.6941642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9948294,
+                    35.1928629
+                ]
+            },
+            "properties": {
+                "name": "G\u00fczelyurt Terminal Binas\u0131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.994664,
+                    35.1932132
+                ]
+            },
+            "properties": {
+                "name": "\u00c7imen Dolmu\u015flar\u0131 Dura\u011f\u0131"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    32.9942053,
+                    35.1929198
+                ]
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

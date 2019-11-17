@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7252561,
+                    37.963673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7242881,
+                    37.9629536
+                ]
+            },
+            "properties": {
+                "name": "Amor"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9277694,
+                    40.6435223
+                ]
+            },
+            "properties": {
+                "name": "Erotic Megastore"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7223113,
+                    37.9773184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6910133,
+                    37.9488457
+                ]
+            },
+            "properties": {
+                "name": "Aroma"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7592369,
+                    38.0466077
+                ]
+            },
+            "properties": {
+                "name": "A fil lingerie"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8061814,
+                    38.0453962
+                ]
+            },
+            "properties": {
+                "name": "EROS ART"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7385136,
+                    37.9493417
+                ]
+            },
+            "properties": {
+                "name": "Sex shop"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

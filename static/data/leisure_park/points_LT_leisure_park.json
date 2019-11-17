@@ -1,0 +1,6835 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0842,
+                    54.3927
+                ]
+            },
+            "properties": {
+                "name": "Mui\u017eel\u0117n\u0173 poilsio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9556041,
+                    54.8356465
+                ]
+            },
+            "properties": {
+                "name": "D\u016bk\u0161t\u0173 \u0105\u017euolynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2437198,
+                    54.7397178
+                ]
+            },
+            "properties": {
+                "name": "Visori\u0173 mi\u0161ko parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.238751,
+                    54.7463169
+                ]
+            },
+            "properties": {
+                "name": "Visori\u0173-Bajor\u0173 mi\u0161ko parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2867394,
+                    54.7339144
+                ]
+            },
+            "properties": {
+                "name": "Kalvarij\u0173 mi\u0161ko parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9434791,
+                    54.3077483
+                ]
+            },
+            "properties": {
+                "name": "Parkas Dainavos legenda"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1145664,
+                    55.5980018
+                ]
+            },
+            "properties": {
+                "name": "M\u0117nulio akmens parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0116768,
+                    54.5432531
+                ]
+            },
+            "properties": {
+                "name": "Trak\u0173 kra\u0161to mi\u0161ko parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2805797,
+                    54.6875762
+                ]
+            },
+            "properties": {
+                "name": "Vinco Kudirkos aik\u0161t\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2845396,
+                    54.6793926
+                ]
+            },
+            "properties": {
+                "name": "Vokie\u010di\u0173 g. skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2877657,
+                    54.6812592
+                ]
+            },
+            "properties": {
+                "name": "Konstantino Sirvydo skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2572283,
+                    54.6899701
+                ]
+            },
+            "properties": {
+                "name": "Eduardo Balsio skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2490091,
+                    54.7334858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3157858,
+                    54.6957744
+                ]
+            },
+            "properties": {
+                "name": "Antakalnio \u0160ilo mi\u0161ko parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2782288,
+                    54.6781858
+                ]
+            },
+            "properties": {
+                "name": "Malk\u0173 turgaus skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.27282,
+                    54.7335955
+                ]
+            },
+            "properties": {
+                "name": "Jomanto mi\u0161ko parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.950076,
+                    54.9232179
+                ]
+            },
+            "properties": {
+                "name": "Kalnie\u010di\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9701987,
+                    54.9155495
+                ]
+            },
+            "properties": {
+                "name": "Draugyst\u0117s parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9494445,
+                    54.6585588
+                ]
+            },
+            "properties": {
+                "name": "U\u017eutrakio dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1103102,
+                    54.6309458
+                ]
+            },
+            "properties": {
+                "name": "Trak\u0173 Vok\u0117s dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1021893,
+                    54.6299195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2856063,
+                    54.6837359
+                ]
+            },
+            "properties": {
+                "name": "Prezident\u016bros skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2854336,
+                    54.6856463
+                ]
+            },
+            "properties": {
+                "name": "Odmini\u0173 skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.276161,
+                    54.6815174
+                ]
+            },
+            "properties": {
+                "name": "Reformat\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.274161,
+                    54.6884523
+                ]
+            },
+            "properties": {
+                "name": "\u017demait\u0117s skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.285643,
+                    54.6756248
+                ]
+            },
+            "properties": {
+                "name": "\u0160v. Juozapo a."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2525956,
+                    54.6983442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2783751,
+                    55.0799574
+                ]
+            },
+            "properties": {
+                "name": "Muziejaus parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2793024,
+                    55.0777702
+                ]
+            },
+            "properties": {
+                "name": "Ramyb\u0117s kalnas - Veliuonos Piliakalnis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.274149,
+                    55.0807608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2567003,
+                    54.695851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2553483,
+                    54.6956478
+                ]
+            },
+            "properties": {
+                "name": "D\u017eocharo Dudajevo skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9725029,
+                    54.9064022
+                ]
+            },
+            "properties": {
+                "name": "Kovo 11-osios parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2804775,
+                    54.6820988
+                ]
+            },
+            "properties": {
+                "name": "S. Moniu\u0161kos skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2929385,
+                    54.6817904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2703585,
+                    54.6883263
+                ]
+            },
+            "properties": {
+                "name": "Auk\u0173 g. skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3026025,
+                    54.6982819
+                ]
+            },
+            "properties": {
+                "name": "Rimties parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2924981,
+                    54.683285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9438363,
+                    54.8990705
+                ]
+            },
+            "properties": {
+                "name": "\u0104\u017euolynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9269303,
+                    54.8924694
+                ]
+            },
+            "properties": {
+                "name": "Ramyb\u0117s parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9057946,
+                    54.8969885
+                ]
+            },
+            "properties": {
+                "name": "Muzikinio teatro sodelis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9302415,
+                    54.896602
+                ]
+            },
+            "properties": {
+                "name": "Vytauto parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4240548,
+                    54.6876778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5909033,
+                    55.9601811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2592888,
+                    54.679831
+                ]
+            },
+            "properties": {
+                "name": "Juozo Luk\u0161os - Daumanto skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2694491,
+                    54.6821249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5485381,
+                    55.8089011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.270596,
+                    54.6919384
+                ]
+            },
+            "properties": {
+                "name": "Va\u0161ingtono skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0898864,
+                    54.67303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0887817,
+                    54.6729721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9291734,
+                    54.8997107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0395031,
+                    54.6586916
+                ]
+            },
+            "properties": {
+                "name": "Lentvario dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2755191,
+                    55.9082885
+                ]
+            },
+            "properties": {
+                "name": "Liepori\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2889681,
+                    54.6736757
+                ]
+            },
+            "properties": {
+                "name": "Bazilijon\u0173 g. skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2805551,
+                    54.6798841
+                ]
+            },
+            "properties": {
+                "name": "Pranci\u0161kon\u0173 g. skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3118337,
+                    55.9265417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.274908,
+                    55.9189736
+                ]
+            },
+            "properties": {
+                "name": "Dain\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7974778,
+                    54.7853394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2556679,
+                    55.9111858
+                ]
+            },
+            "properties": {
+                "name": "Ber\u017eyn\u0117lis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2440814,
+                    54.6824301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2499907,
+                    55.9016707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9467846,
+                    54.6288641
+                ]
+            },
+            "properties": {
+                "name": "Revuonos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2843197,
+                    54.6838757
+                ]
+            },
+            "properties": {
+                "name": "L. Stuokos-Gucevi\u010diaus skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3179699,
+                    55.8176792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2841392,
+                    55.9148564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0383001,
+                    54.8470353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.603492,
+                    55.5060278
+                ]
+            },
+            "properties": {
+                "name": "Dauni\u0161kio e\u017eero parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3217864,
+                    56.3090935
+                ]
+            },
+            "properties": {
+                "name": "Melioratori\u0173 parkelis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3625162,
+                    55.7278659
+                ]
+            },
+            "properties": {
+                "name": "Laisv\u0117s aik\u0161t\u0117s skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.255258,
+                    54.6749826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5986864,
+                    55.4987028
+                ]
+            },
+            "properties": {
+                "name": "Utenos m. sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2843053,
+                    54.6715202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5393004,
+                    55.8075316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1392522,
+                    55.8573465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9540186,
+                    54.6441818
+                ]
+            },
+            "properties": {
+                "name": "Stadiono parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3198443,
+                    55.9221772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6317199,
+                    56.1479993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1564491,
+                    55.698451
+                ]
+            },
+            "properties": {
+                "name": "\u0104\u017euol\u0173 girait\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.030347,
+                    54.4046425
+                ]
+            },
+            "properties": {
+                "name": "Jaunimo parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1395974,
+                    55.7169016
+                ]
+            },
+            "properties": {
+                "name": "Skulpt\u016br\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3465689,
+                    54.5526372
+                ]
+            },
+            "properties": {
+                "name": "Vytauto Did\u017eiojo parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3161431,
+                    55.9289065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9751199,
+                    55.8388126
+                ]
+            },
+            "properties": {
+                "name": "L. Stuokos-Gucevi\u010diaus a."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8945558,
+                    54.9217718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0804445,
+                    54.7894241
+                ]
+            },
+            "properties": {
+                "name": "Akmens skulpt\u016br\u0173 parkas \u201eVilnoja\u201c"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9047906,
+                    54.9676898
+                ]
+            },
+            "properties": {
+                "name": "Domeikavos fortas (S662)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0485251,
+                    54.3933133
+                ]
+            },
+            "properties": {
+                "name": "Miesto sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0985311,
+                    55.5457258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3142749,
+                    55.9396273
+                ]
+            },
+            "properties": {
+                "name": "\u0160iauli\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3455578,
+                    55.9171317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8940028,
+                    54.8890167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8955241,
+                    54.8894472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3270219,
+                    55.8560214
+                ]
+            },
+            "properties": {
+                "name": "R\u0117kyvos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2916399,
+                    54.6825477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9384979,
+                    54.8917953
+                ]
+            },
+            "properties": {
+                "name": "Perk\u016bno parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2992102,
+                    55.9417269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3066468,
+                    55.9430507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3091064,
+                    55.9424006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2705136,
+                    54.6907901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2993727,
+                    54.6813785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.583094,
+                    55.9541792
+                ]
+            },
+            "properties": {
+                "name": "L. \u0160epkos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2842334,
+                    54.683221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2857337,
+                    54.674562
+                ]
+            },
+            "properties": {
+                "name": "Ukrainos skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3153938,
+                    55.9363787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2808256,
+                    54.7182397
+                ]
+            },
+            "properties": {
+                "name": "Ozo parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9785528,
+                    55.855191
+                ]
+            },
+            "properties": {
+                "name": "Uo\u0161v\u0117s lie\u017euvio dendroparkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1804365,
+                    54.7024844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5885226,
+                    55.9516524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8635529,
+                    54.7739448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9801145,
+                    54.0094047
+                ]
+            },
+            "properties": {
+                "name": "K. Dineikos sveikatingumo parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9597717,
+                    54.9055996
+                ]
+            },
+            "properties": {
+                "name": "Gri\u010diupio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9117394,
+                    54.8994845
+                ]
+            },
+            "properties": {
+                "name": "Karo muziejaus sodelis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1818253,
+                    55.4909026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9390029,
+                    54.9189176
+                ]
+            },
+            "properties": {
+                "name": "Jaunimo aik\u0161t\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2227807,
+                    54.9851585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8920261,
+                    54.9109713
+                ]
+            },
+            "properties": {
+                "name": "S\u0105jungos aik\u0161t\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.362524,
+                    55.7383382
+                ]
+            },
+            "properties": {
+                "name": "Marijon\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0548004,
+                    54.7237403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.981243,
+                    54.6396442
+                ]
+            },
+            "properties": {
+                "name": "Pae\u017eeri\u0173 dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5936575,
+                    55.5040729
+                ]
+            },
+            "properties": {
+                "name": "Vy\u017euon\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7318274,
+                    55.1359694
+                ]
+            },
+            "properties": {
+                "name": "\u017dalgirio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5679122,
+                    55.7975275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9069631,
+                    54.8921232
+                ]
+            },
+            "properties": {
+                "name": "Nemuno salos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9653857,
+                    54.9034264
+                ]
+            },
+            "properties": {
+                "name": "Girstupio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3550026,
+                    55.1217827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6149677,
+                    55.8279641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.491411,
+                    55.2557212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3462076,
+                    54.5578105
+                ]
+            },
+            "properties": {
+                "name": "Marijampol\u0117s poezijos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3762329,
+                    55.2979297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.02859,
+                    54.6020685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6920035,
+                    54.099079
+                ]
+            },
+            "properties": {
+                "name": "Veisiej\u0173 dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3062046,
+                    55.5117122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.575769,
+                    54.2129707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9785075,
+                    54.0184643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2913639,
+                    55.252284
+                ]
+            },
+            "properties": {
+                "name": "J. Kalvano parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2881269,
+                    55.2452017
+                ]
+            },
+            "properties": {
+                "name": "Senamies\u010dio Skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1217542,
+                    55.3838945
+                ]
+            },
+            "properties": {
+                "name": "Raseini\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1168574,
+                    55.3812367
+                ]
+            },
+            "properties": {
+                "name": "\u017demai\u010dio aik\u0161t\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0477949,
+                    54.9527098
+                ]
+            },
+            "properties": {
+                "name": "\u0160aki\u0173 miesto skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0452476,
+                    54.9567362
+                ]
+            },
+            "properties": {
+                "name": "Juozo Lingio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7106301,
+                    54.454457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7156897,
+                    55.6365503
+                ]
+            },
+            "properties": {
+                "name": "Baisogalos dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5400215,
+                    55.8099171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1648443,
+                    55.2087197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3402418,
+                    55.9182556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5780156,
+                    55.0386429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0671847,
+                    55.9206669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0635506,
+                    55.9141527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2641693,
+                    55.2522202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2848189,
+                    55.2486276
+                ]
+            },
+            "properties": {
+                "name": "Ba\u017eny\u010dios skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6552911,
+                    56.0043256
+                ]
+            },
+            "properties": {
+                "name": "Nepriklausomyb\u0117s a."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3974857,
+                    56.0557871
+                ]
+            },
+            "properties": {
+                "name": "Pasvalio smegduobi\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8980273,
+                    55.7817252
+                ]
+            },
+            "properties": {
+                "name": "Burbi\u0161kio dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1086571,
+                    55.9718371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5932154,
+                    55.5070039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2773664,
+                    54.6737558
+                ]
+            },
+            "properties": {
+                "name": "Jurgos Ivanauskait\u0117s skverelis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.601383,
+                    55.4951707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6008417,
+                    55.4979778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6023057,
+                    55.4975022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5974725,
+                    55.5001172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6048205,
+                    55.4961972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6065722,
+                    55.494684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6059176,
+                    55.4907537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5075542,
+                    55.8207909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5934213,
+                    55.510898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5968507,
+                    55.5023865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6020988,
+                    55.4987985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5871957,
+                    55.5047698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5805976,
+                    55.5024906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.594307,
+                    55.5111082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5016473,
+                    56.1062154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6058395,
+                    55.5021514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5990598,
+                    55.5048814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3949644,
+                    55.4732153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6105414,
+                    55.4938746
+                ]
+            },
+            "properties": {
+                "name": "Kra\u0161uonos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3580853,
+                    55.6792997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3647568,
+                    55.6811012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4948942,
+                    55.5773963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4945299,
+                    55.5857658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3575235,
+                    55.1210405
+                ]
+            },
+            "properties": {
+                "name": "Buv\u0119s dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3885342,
+                    55.4789253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2550447,
+                    56.3593757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.71888,
+                    55.5477941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2926545,
+                    54.70783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2632806,
+                    54.6902548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2735412,
+                    54.695923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5925296,
+                    55.4898134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3339147,
+                    56.3087852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.426193,
+                    55.2320526
+                ]
+            },
+            "properties": {
+                "name": "Mol\u0117t\u0173 skulpt\u016br\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4812236,
+                    55.34442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2934469,
+                    54.7381223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5197048,
+                    54.7988136
+                ]
+            },
+            "properties": {
+                "name": "Arvyd\u0173 - Bezdoni\u0173 dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8799616,
+                    54.9240192
+                ]
+            },
+            "properties": {
+                "name": "Santaros parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3265388,
+                    55.9262137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3410483,
+                    55.9356727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3681136,
+                    55.6817443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6278566,
+                    54.5320212
+                ]
+            },
+            "properties": {
+                "name": "A\u017euolynas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9859271,
+                    55.3539121
+                ]
+            },
+            "properties": {
+                "name": "Siruti\u0161kio dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9098866,
+                    54.785642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2949884,
+                    54.7131042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5521454,
+                    55.8079828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5484309,
+                    55.8057821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6158704,
+                    56.2419022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0381341,
+                    54.6434221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2233724,
+                    54.7029798
+                ]
+            },
+            "properties": {
+                "name": "A. Sacharovo skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0112368,
+                    56.2381178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2524739,
+                    54.5008928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1459878,
+                    56.0929524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2485117,
+                    55.988551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1369131,
+                    55.7115264
+                ]
+            },
+            "properties": {
+                "name": "Dan\u0117s skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5820869,
+                    55.0744593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6057703,
+                    56.0871364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8798928,
+                    55.6377168
+                ]
+            },
+            "properties": {
+                "name": "Va\u0161uok\u0117n\u0173 dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9483946,
+                    54.8667324
+                ]
+            },
+            "properties": {
+                "name": "Vilijos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9195863,
+                    54.9116
+                ]
+            },
+            "properties": {
+                "name": "A. Samulevi\u010diaus-Samuolio skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0378258,
+                    54.6527565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.768533,
+                    55.2500619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9200641,
+                    55.4293955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9375043,
+                    55.6322406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.936818,
+                    55.6399338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1657233,
+                    54.8572457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7670777,
+                    55.0832671
+                ]
+            },
+            "properties": {
+                "name": "Parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9227913,
+                    54.8960355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3635103,
+                    55.7275978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.364761,
+                    55.7270317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9808626,
+                    55.8345196
+                ]
+            },
+            "properties": {
+                "name": "Jono \u010cerniaus aik\u0161t\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9872994,
+                    55.8340864
+                ]
+            },
+            "properties": {
+                "name": "Kazio \u0160imonio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.890248,
+                    55.7994513
+                ]
+            },
+            "properties": {
+                "name": "Nori\u016bn\u0173 dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8937579,
+                    55.8015809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.896967,
+                    54.8972124
+                ]
+            },
+            "properties": {
+                "name": "Prezident\u016bros sodelis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8332961,
+                    54.9159977
+                ]
+            },
+            "properties": {
+                "name": "Kauno regiono kempingas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3056078,
+                    54.6935745
+                ]
+            },
+            "properties": {
+                "name": "Jono Pauliaus II a."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2916555,
+                    54.6866698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8088161,
+                    55.1683434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5705545,
+                    56.163913
+                ]
+            },
+            "properties": {
+                "name": "Akmen\u0173 skulpt\u016br\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3986017,
+                    56.062366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6098229,
+                    56.2398927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3571583,
+                    55.7339951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.430171,
+                    55.2295186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6757713,
+                    54.1045077
+                ]
+            },
+            "properties": {
+                "name": "Vaikyst\u0117s sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3875164,
+                    54.6072726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3573656,
+                    55.7326708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3569969,
+                    55.7321705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1011166,
+                    55.524938
+                ]
+            },
+            "properties": {
+                "name": "Vyskupo Skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8501257,
+                    55.9811777
+                ]
+            },
+            "properties": {
+                "name": "Sveikatingumo parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1928974,
+                    54.9364608
+                ]
+            },
+            "properties": {
+                "name": "Zypli\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8160289,
+                    54.7749255
+                ]
+            },
+            "properties": {
+                "name": "Lietuvos geologijos muziejaus teritorija"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4593353,
+                    55.6917317
+                ]
+            },
+            "properties": {
+                "name": "Li\u016bdyn\u0117s dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9854013,
+                    55.8354828
+                ]
+            },
+            "properties": {
+                "name": "Lietuvai pagra\u017einti draugijos 80-me\u010dio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2268877,
+                    54.4144855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9304368,
+                    54.9055937
+                ]
+            },
+            "properties": {
+                "name": "P. Vilei\u0161io a."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7067541,
+                    55.3598374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2801398,
+                    55.251576
+                ]
+            },
+            "properties": {
+                "name": "J\u016bros parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9097992,
+                    55.1351025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3569809,
+                    55.5970032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3634767,
+                    54.5597135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3031879,
+                    55.510568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3610909,
+                    54.5464437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3667005,
+                    54.5521256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9322218,
+                    55.7229374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9330399,
+                    55.7237368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4179804,
+                    55.3376854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9202366,
+                    54.8888595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.07203,
+                    54.9669695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9711496,
+                    54.0212087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4757098,
+                    54.617054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3960795,
+                    55.3621198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9989241,
+                    55.29865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8988425,
+                    54.9090068
+                ]
+            },
+            "properties": {
+                "name": "Neries krantin\u0117s parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9749353,
+                    55.2859901
+                ]
+            },
+            "properties": {
+                "name": "Knypavos Rinkos aik\u0161t\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2841866,
+                    54.6768154
+                ]
+            },
+            "properties": {
+                "name": "Geto Auk\u0173 a."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.975527,
+                    54.9015312
+                ]
+            },
+            "properties": {
+                "name": "Kry\u017ei\u0173 kalnelis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2516163,
+                    55.2799593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7201435,
+                    54.5943518
+                ]
+            },
+            "properties": {
+                "name": "\u0160umsko dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2776499,
+                    54.7395959
+                ]
+            },
+            "properties": {
+                "name": "Pasaulio Teisuoli\u0173 skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1726894,
+                    55.1023373
+                ]
+            },
+            "properties": {
+                "name": "Kulvos dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3774508,
+                    54.3095494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.131504,
+                    55.7099281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2864019,
+                    54.6787619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4037723,
+                    56.2362094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1874579,
+                    55.4936414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.840788,
+                    55.744557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7773975,
+                    55.887024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.910689,
+                    55.4626442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2211956,
+                    54.4112687
+                ]
+            },
+            "properties": {
+                "name": "Karali\u0161kas sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2231001,
+                    54.4110189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2275003,
+                    54.4234363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0808227,
+                    55.4804994
+                ]
+            },
+            "properties": {
+                "name": "Labirint\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3460909,
+                    54.564555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1851043,
+                    55.6615477
+                ]
+            },
+            "properties": {
+                "name": "S\u0105j\u016bd\u017eio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.342286,
+                    54.593217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8800582,
+                    54.8976738
+                ]
+            },
+            "properties": {
+                "name": "Santakos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8434227,
+                    54.9016788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5925663,
+                    54.1192208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7477706,
+                    54.7924928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2676802,
+                    54.6809253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3914585,
+                    55.7169032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4057817,
+                    55.7139018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0678505,
+                    54.3878175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8174391,
+                    56.0388617
+                ]
+            },
+            "properties": {
+                "name": "Plateli\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3844261,
+                    55.716222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.382741,
+                    55.7157658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3847146,
+                    55.7146739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3371802,
+                    55.3889584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4075307,
+                    55.7174518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7706587,
+                    54.9838256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6347154,
+                    54.9452214
+                ]
+            },
+            "properties": {
+                "name": "Kulautuvos Parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5472298,
+                    55.814894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2686981,
+                    54.6992849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6060444,
+                    54.8820012
+                ]
+            },
+            "properties": {
+                "name": "Parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3717548,
+                    55.7418433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3128483,
+                    55.2455732
+                ]
+            },
+            "properties": {
+                "name": "Jaunimo Parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0553581,
+                    54.8768508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.818461,
+                    54.8921272
+                ]
+            },
+            "properties": {
+                "name": "Marvos fortas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6354767,
+                    56.1887652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2596741,
+                    55.1150146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4661882,
+                    55.4639667
+                ]
+            },
+            "properties": {
+                "name": "Saug\u0173 Parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4637014,
+                    55.4638815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.4235013,
+                    55.2554477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.133858,
+                    55.7331977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5129312,
+                    55.3517672
+                ]
+            },
+            "properties": {
+                "name": "Bataki\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.086452,
+                    56.0284745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0859987,
+                    56.0296337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0871254,
+                    56.029536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2477201,
+                    55.9827191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3508699,
+                    56.312313
+                ]
+            },
+            "properties": {
+                "name": "Nepriklausomyb\u0117s skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3441317,
+                    56.3141464
+                ]
+            },
+            "properties": {
+                "name": "V. Burbos skverelis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7312459,
+                    55.7713288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3302876,
+                    55.3361997
+                ]
+            },
+            "properties": {
+                "name": "Meilel\u0117s vandens mal\u016bno parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.331065,
+                    55.3360123
+                ]
+            },
+            "properties": {
+                "name": "Meilel\u0117s vandens mal\u016bno parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.036198,
+                    55.4524034
+                ]
+            },
+            "properties": {
+                "name": "Paj\u016brio dvaro sodybos fragment\u0173 parko fragmentai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3190646,
+                    55.557045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0246754,
+                    55.4460162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3968255,
+                    55.5950848
+                ]
+            },
+            "properties": {
+                "name": "Supyni\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5600775,
+                    54.5703515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1741032,
+                    54.9486967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1765772,
+                    54.9494858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8117218,
+                    55.3478126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6444889,
+                    54.9237506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4928966,
+                    54.7572594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9797782,
+                    55.0772475
+                ]
+            },
+            "properties": {
+                "name": "Parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.9814866,
+                    55.0721694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5002583,
+                    54.751999
+                ]
+            },
+            "properties": {
+                "name": "Skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.1333671,
+                    55.5802056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5818417,
+                    55.2866428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5810781,
+                    55.2882389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.7118776,
+                    55.3581219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1043909,
+                    55.5249984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5314825,
+                    55.9487837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0916633,
+                    55.5176331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2518121,
+                    54.442921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2531685,
+                    54.4421173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2281632,
+                    54.7302653
+                ]
+            },
+            "properties": {
+                "name": "Ugnijos skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2215449,
+                    55.5062188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7968287,
+                    55.9405598
+                ]
+            },
+            "properties": {
+                "name": "Obeli\u0173 aik\u0161t\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5292632,
+                    54.8013472
+                ]
+            },
+            "properties": {
+                "name": "\u017dalgiris 600"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2754711,
+                    54.6893406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.6526469,
+                    55.7876679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7992431,
+                    55.9420776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0342613,
+                    55.3093423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1700382,
+                    55.2117931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1821483,
+                    55.49171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1950774,
+                    55.4958443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.579597,
+                    55.40679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9270713,
+                    55.7297184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2513623,
+                    54.6879472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2521896,
+                    54.6898318
+                ]
+            },
+            "properties": {
+                "name": "Tbilisio skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9957622,
+                    54.1693774
+                ]
+            },
+            "properties": {
+                "name": "Gegu\u017e\u0117s aik\u0161t\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9332446,
+                    55.7233198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5607427,
+                    54.2159066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5805036,
+                    55.072849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.5812449,
+                    55.072294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2146442,
+                    55.1862367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7634973,
+                    55.0806536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8374426,
+                    55.246562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3423562,
+                    55.7733662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3741617,
+                    55.7658062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1306244,
+                    55.1173174
+                ]
+            },
+            "properties": {
+                "name": "Parko fragmentai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.123007,
+                    55.0530151
+                ]
+            },
+            "properties": {
+                "name": "Parko fragmentai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6217238,
+                    55.5169285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2789754,
+                    54.6925152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2805888,
+                    54.6952989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2850823,
+                    54.7081529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2822862,
+                    54.8276963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0857209,
+                    54.6522982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.123537,
+                    54.6477675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2088573,
+                    54.6884036
+                ]
+            },
+            "properties": {
+                "name": "Joens\u016b skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.0360717,
+                    54.6501466
+                ]
+            },
+            "properties": {
+                "name": "Jono Basanavi\u010diaus a."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7925904,
+                    55.942549
+                ]
+            },
+            "properties": {
+                "name": "Obeli\u0173 miesto parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3191986,
+                    55.5534397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.3149707,
+                    55.5579687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3390477,
+                    54.6563921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2866784,
+                    55.0722584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2808512,
+                    55.0873526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9081105,
+                    55.1373341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9135204,
+                    55.1313507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2242534,
+                    54.7304613
+                ]
+            },
+            "properties": {
+                "name": "Taut\u0173 vienyb\u0117s parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7769456,
+                    55.4289545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8691097,
+                    55.2521517
+                ]
+            },
+            "properties": {
+                "name": "Lapgiri\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7977066,
+                    55.1619219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7975503,
+                    55.1633348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4995256,
+                    55.3420864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.58511,
+                    55.0742443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1113461,
+                    55.7235327
+                ]
+            },
+            "properties": {
+                "name": "Vit\u0117s senosios kapin\u0117s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5716026,
+                    54.5859977
+                ]
+            },
+            "properties": {
+                "name": "\u0160inkalaukio rekreacijos zona"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2453217,
+                    55.741966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1367699,
+                    55.7005154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3615543,
+                    55.2298361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9611262,
+                    55.2518437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3991239,
+                    55.3603502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4008456,
+                    55.3605776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4019018,
+                    55.3615223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4038707,
+                    55.3620152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4029732,
+                    55.3635869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4037409,
+                    55.3633271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4050442,
+                    55.3627683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.4033488,
+                    55.3612554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3992414,
+                    55.3628071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3991756,
+                    55.3590268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3467233,
+                    54.565115
+                ]
+            },
+            "properties": {
+                "name": "Pete\u0161os sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8326155,
+                    54.8926998
+                ]
+            },
+            "properties": {
+                "name": "Universiteto parkelis"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8204943,
+                    54.8972974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.400745,
+                    55.6771458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8087682,
+                    55.864104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9746073,
+                    54.0172029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4967254,
+                    54.7456626
+                ]
+            },
+            "properties": {
+                "name": "Stihl Virvi\u0173 Parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6232457,
+                    55.5015175
+                ]
+            },
+            "properties": {
+                "name": "Sm\u0117lyn\u0117s parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.6160185,
+                    55.4931546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1534987,
+                    55.7077036
+                ]
+            },
+            "properties": {
+                "name": "Mal\u016bno parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2217516,
+                    55.1798375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2712956,
+                    54.6958433
+                ]
+            },
+            "properties": {
+                "name": "\u010c. Sugiharos sakur\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0145367,
+                    56.318338
+                ]
+            },
+            "properties": {
+                "name": "\u017didik\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0153107,
+                    56.3209069
+                ]
+            },
+            "properties": {
+                "name": "Pirties parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.0101102,
+                    56.3243102
+                ]
+            },
+            "properties": {
+                "name": "Mokyklos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.263219,
+                    54.720118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2914024,
+                    55.9191207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2376826,
+                    56.0895996
+                ]
+            },
+            "properties": {
+                "name": "Gruzd\u017ei\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.475325,
+                    55.7151694
+                ]
+            },
+            "properties": {
+                "name": "V\u0117\u017eai\u010di\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1827482,
+                    55.3327039
+                ]
+            },
+            "properties": {
+                "name": "Bili\u016bn\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.3182275,
+                    55.5444858
+                ]
+            },
+            "properties": {
+                "name": "D\u016bk\u0161to dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4606093,
+                    55.3385648
+                ]
+            },
+            "properties": {
+                "name": "\u0160ilut\u0117s dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.264043,
+                    56.3617806
+                ]
+            },
+            "properties": {
+                "name": "\u017dagar\u0117s dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1515275,
+                    55.3491351
+                ]
+            },
+            "properties": {
+                "name": "Lan\u010di\u016bnavos dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1031054,
+                    55.7422871
+                ]
+            },
+            "properties": {
+                "name": "Naudvario dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.4026027,
+                    55.2220964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8056134,
+                    55.9099667
+                ]
+            },
+            "properties": {
+                "name": "Anta\u0161avos dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.8369951,
+                    55.7447348
+                ]
+            },
+            "properties": {
+                "name": "Duset\u0173 skulpt\u016br\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2646393,
+                    54.6905785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.8913288,
+                    55.467196
+                ]
+            },
+            "properties": {
+                "name": "Pienioni\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2086503,
+                    55.4723913
+                ]
+            },
+            "properties": {
+                "name": "Skaraiti\u0161k\u0117s dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6673324,
+                    55.6555185
+                ]
+            },
+            "properties": {
+                "name": "Raguv\u0117l\u0117s dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.569547,
+                    55.4684498
+                ]
+            },
+            "properties": {
+                "name": "Bijot\u0173 dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3975132,
+                    56.3083425
+                ]
+            },
+            "properties": {
+                "name": "Jono Vili\u016bno parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4711194,
+                    56.0693342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.4582525,
+                    56.0740055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2352232,
+                    55.6192312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5993328,
+                    55.1146686
+                ]
+            },
+            "properties": {
+                "name": "Sli\u017ei\u0173 dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9867712,
+                    56.0266309
+                ]
+            },
+            "properties": {
+                "name": "La\u0161menpam\u016b\u0161io dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9482213,
+                    55.5446209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9474891,
+                    55.5448326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9222226,
+                    55.4213432
+                ]
+            },
+            "properties": {
+                "name": "\u0160lapaber\u017e\u0117s dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2889221,
+                    55.0791076
+                ]
+            },
+            "properties": {
+                "name": "Atminimo parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5766319,
+                    55.1490342
+                ]
+            },
+            "properties": {
+                "name": "Am\u017ei\u0173 sand\u016bros skulpt\u016br\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.367342,
+                    56.2662759
+                ]
+            },
+            "properties": {
+                "name": "\u0160kilinpam\u016b\u0161io dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.0378633,
+                    54.1764663
+                ]
+            },
+            "properties": {
+                "name": "Gornostaji\u0161ki\u0173 parko fragmentai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9997897,
+                    55.0274087
+                ]
+            },
+            "properties": {
+                "name": "Pa\u0161irvin\u010dio I dvaro sodybos fragment\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5081552,
+                    56.0205002
+                ]
+            },
+            "properties": {
+                "name": "Balt\u0173 arena"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.789143,
+                    56.2487303
+                ]
+            },
+            "properties": {
+                "name": "Dabikin\u0117s dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9706805,
+                    55.2852116
+                ]
+            },
+            "properties": {
+                "name": "Ramyb\u0117s skv"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9775215,
+                    55.3037309
+                ]
+            },
+            "properties": {
+                "name": "K\u0117daini\u0173 centrinis parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8168302,
+                    55.8259822
+                ]
+            },
+            "properties": {
+                "name": "Ber\u017e\u0117n\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6959851,
+                    55.7313803
+                ]
+            },
+            "properties": {
+                "name": "Ablingos lurdas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.2690055,
+                    56.3689649
+                ]
+            },
+            "properties": {
+                "name": "Vy\u0161ni\u0173 sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2254033,
+                    56.0187042
+                ]
+            },
+            "properties": {
+                "name": "Pand\u0117lio dvaro sodybos fragment\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5522189,
+                    54.2468823
+                ]
+            },
+            "properties": {
+                "name": "Skulpt\u016br\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9764449,
+                    55.8405567
+                ]
+            },
+            "properties": {
+                "name": "Jaunimo skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9851462,
+                    55.8381179
+                ]
+            },
+            "properties": {
+                "name": "Kupos up\u0117s sl\u0117nio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.9851704,
+                    55.8439618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.08278,
+                    54.6743035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2760006,
+                    54.7528928
+                ]
+            },
+            "properties": {
+                "name": "\u0104\u017euol\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2793953,
+                    54.6889339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3971216,
+                    54.807259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1121026,
+                    55.7251986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1308178,
+                    55.7178099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1380524,
+                    55.7140905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1217229,
+                    55.7214415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2103404,
+                    54.7025815
+                ]
+            },
+            "properties": {
+                "name": "Suomijos a."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.9051372,
+                    55.1392851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.8458203,
+                    54.9014674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7808527,
+                    54.9368182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.187383,
+                    55.4900878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9277198,
+                    54.8962439
+                ]
+            },
+            "properties": {
+                "name": "Tibeto skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1449583,
+                    54.6322196
+                ]
+            },
+            "properties": {
+                "name": "Paneri\u0173 skulpt\u016br\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0333937,
+                    54.5979372
+                ]
+            },
+            "properties": {
+                "name": "Vytauto parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0338877,
+                    54.6007775
+                ]
+            },
+            "properties": {
+                "name": "Kneipo parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5962596,
+                    55.5975109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2845478,
+                    55.2532684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2913292,
+                    55.2533925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2832174,
+                    55.2517625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2765734,
+                    55.2600281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.157847,
+                    55.1347465
+                ]
+            },
+            "properties": {
+                "name": "Laisv\u0117s a."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4371804,
+                    55.6009351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2890841,
+                    54.6872243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.270786,
+                    54.6895464
+                ]
+            },
+            "properties": {
+                "name": "Luki\u0161ki\u0173 aik\u0161t\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5989631,
+                    55.9642925
+                ]
+            },
+            "properties": {
+                "name": "Roki\u0161kio dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3641302,
+                    55.7329054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.5372352,
+                    55.821573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9551111,
+                    54.9459818
+                ]
+            },
+            "properties": {
+                "name": "Kleboni\u0161kio mi\u0161ko parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2659407,
+                    55.0849143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1873216,
+                    55.4933857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2906625,
+                    54.68956
+                ]
+            },
+            "properties": {
+                "name": "Tbilisio skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3404978,
+                    55.9310495
+                ]
+            },
+            "properties": {
+                "name": "Salduv\u0117s parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3432898,
+                    55.9390011
+                ]
+            },
+            "properties": {
+                "name": "Tal\u0161os parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.300306,
+                    54.6864901
+                ]
+            },
+            "properties": {
+                "name": "Kaln\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3750788,
+                    56.0495854
+                ]
+            },
+            "properties": {
+                "name": "Pasvalio kult\u016bros ir poilsio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.136441,
+                    55.7514246
+                ]
+            },
+            "properties": {
+                "name": "Botanikos sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3113369,
+                    54.6991938
+                ]
+            },
+            "properties": {
+                "name": "Sapiegos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.7244561,
+                    56.2434423
+                ]
+            },
+            "properties": {
+                "name": "Akmen\u0117s gamtos ir kult\u016bros parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.901244,
+                    54.8864752
+                ]
+            },
+            "properties": {
+                "name": "Antakalnio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.240864,
+                    54.682994
+                ]
+            },
+            "properties": {
+                "name": "Vingio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6197935,
+                    55.5147378
+                ]
+            },
+            "properties": {
+                "name": "\u0160v\u0117k\u0161nos dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2940002,
+                    54.6816632
+                ]
+            },
+            "properties": {
+                "name": "Tibeto skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6249101,
+                    56.1994435
+                ]
+            },
+            "properties": {
+                "name": "Lik\u0117n\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3528808,
+                    55.7307404
+                ]
+            },
+            "properties": {
+                "name": "Atminimo skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3773519,
+                    55.7331749
+                ]
+            },
+            "properties": {
+                "name": "Skaistakalnio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.213906,
+                    54.6783705
+                ]
+            },
+            "properties": {
+                "name": "Dr. Eugenijos \u0160imk\u016bnait\u0117s skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.782884,
+                    54.9432489
+                ]
+            },
+            "properties": {
+                "name": "Raudondvario dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2614267,
+                    55.2325193
+                ]
+            },
+            "properties": {
+                "name": "Paj\u016brio Parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2958631,
+                    54.6775496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9012819,
+                    54.8973929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6240527,
+                    56.2995312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7288179,
+                    56.2080487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7284867,
+                    56.2134896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7601058,
+                    56.2045357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7581073,
+                    56.2075896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7580302,
+                    56.2038621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7495494,
+                    56.1962795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.7200969,
+                    54.9343443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3355235,
+                    54.7572074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.0573955,
+                    55.9071711
+                ]
+            },
+            "properties": {
+                "name": "Palangos Botanikos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7182124,
+                    56.1022043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9857465,
+                    54.9265496
+                ]
+            },
+            "properties": {
+                "name": "Dainavos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7470541,
+                    55.9800541
+                ]
+            },
+            "properties": {
+                "name": "\u017dolin\u0117s aik\u0161t\u0117"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3116488,
+                    54.71271
+                ]
+            },
+            "properties": {
+                "name": "Antakalnio skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2893477,
+                    54.6911269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9180099,
+                    54.9006531
+                ]
+            },
+            "properties": {
+                "name": "E. Levino skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2688643,
+                    54.6838534
+                ]
+            },
+            "properties": {
+                "name": "Liuteron\u0173 Sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5751936,
+                    55.9392761
+                ]
+            },
+            "properties": {
+                "name": "Porij\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5635749,
+                    55.4252319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.612391,
+                    55.5463647
+                ]
+            },
+            "properties": {
+                "name": "Jono \u0160imon\u0117lio skulpt\u016br\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2763692,
+                    54.6842089
+                ]
+            },
+            "properties": {
+                "name": "P. Cvirkos a."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.6936521,
+                    54.1007453
+                ]
+            },
+            "properties": {
+                "name": "Veisiej\u0173 skulpt\u016br\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0295905,
+                    54.6092042
+                ]
+            },
+            "properties": {
+                "name": "Bir\u0161tono miesto centrinis parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.1162663,
+                    55.7290167
+                ]
+            },
+            "properties": {
+                "name": "Klaip\u0117dos poilsio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2513661,
+                    54.7314497
+                ]
+            },
+            "properties": {
+                "name": "Fabijoni\u0161ki\u0173 mi\u0161ko parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2009149,
+                    54.6799931
+                ]
+            },
+            "properties": {
+                "name": "Pasak\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2947932,
+                    54.6896326
+                ]
+            },
+            "properties": {
+                "name": "Vilei\u0161i\u0173 skv."
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7693127,
+                    56.2195578
+                ]
+            },
+            "properties": {
+                "name": "Astravo dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9069069,
+                    54.8695898
+                ]
+            },
+            "properties": {
+                "name": "VDU Botanikos sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.2099051,
+                    55.3703711
+                ]
+            },
+            "properties": {
+                "name": "Vidi\u0161ki\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2946286,
+                    55.99671
+                ]
+            },
+            "properties": {
+                "name": "Degai\u010di\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9033922,
+                    54.8972663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.6810733,
+                    55.9998164
+                ]
+            },
+            "properties": {
+                "name": "\u0160ateiki\u0173 dvaro sodybos alaus darykla"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.7149151,
+                    55.0494037
+                ]
+            },
+            "properties": {
+                "name": "Arnioni\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8946324,
+                    54.5164724
+                ]
+            },
+            "properties": {
+                "name": "Balbieri\u0161kio dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6318425,
+                    56.1878887
+                ]
+            },
+            "properties": {
+                "name": "Aldonos Jaronyt\u0117s sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.5255029,
+                    56.26924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.1972399,
+                    54.7207814
+                ]
+            },
+            "properties": {
+                "name": "Buivydi\u0161ki\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1813258,
+                    55.983862
+                ]
+            },
+            "properties": {
+                "name": "D\u017eiugin\u0117n\u0173 dvaro sodybos parko fragmentai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7134874,
+                    54.7790155
+                ]
+            },
+            "properties": {
+                "name": "Abromi\u0161ki\u0173 dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.967621,
+                    54.0158172
+                ]
+            },
+            "properties": {
+                "name": "Vij\u016bn\u0117l\u0117s parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.8429761,
+                    55.9178098
+                ]
+            },
+            "properties": {
+                "name": "Plung\u0117s dvaro sodybos parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3154591,
+                    54.7189468
+                ]
+            },
+            "properties": {
+                "name": "Ligonin\u0117s parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.314906,
+                    54.7251015
+                ]
+            },
+            "properties": {
+                "name": "Spalvot\u0173j\u0173 \u0161altini\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9748109,
+                    54.87871
+                ]
+            },
+            "properties": {
+                "name": "J. Basanavi\u010diaus parkas (Panemun\u0117s \u0160ilas)"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.6458784,
+                    56.3756891
+                ]
+            },
+            "properties": {
+                "name": "Germani\u0161kio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.9874516,
+                    55.2521331
+                ]
+            },
+            "properties": {
+                "name": "Kaltan\u0117n\u0173 dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5301233,
+                    56.1392887
+                ]
+            },
+            "properties": {
+                "name": "Onu\u0161kio parko fragmentai"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.107292,
+                    55.5276966
+                ]
+            },
+            "properties": {
+                "name": "Anyk\u0161\u010di\u0173 miesto parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.879812,
+                    54.8586773
+                ]
+            },
+            "properties": {
+                "name": "Naugardi\u0161ki\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.5166843,
+                    54.5747516
+                ]
+            },
+            "properties": {
+                "name": "Auk\u0161tadvario dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.8797226,
+                    55.9875392
+                ]
+            },
+            "properties": {
+                "name": "Pakruojo dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.7740187,
+                    55.2400748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.9888438,
+                    54.0127951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.881701,
+                    55.5848809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2781097,
+                    55.0742342
+                ]
+            },
+            "properties": {
+                "name": "Ramyb\u0117s skveras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2961036,
+                    54.6836789
+                ]
+            },
+            "properties": {
+                "name": "Bernardin\u0173 sodas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.0745495,
+                    54.973944
+                ]
+            },
+            "properties": {
+                "name": "II - ojo Pasaulinio karo kari\u0173 kapin\u0117s"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3262868,
+                    55.7374955
+                ]
+            },
+            "properties": {
+                "name": "Kult\u016bros ir poilsio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.2835051,
+                    55.1281491
+                ]
+            },
+            "properties": {
+                "name": "Vaini\u0173 dvaro parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.3043997,
+                    55.1785261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.459939,
+                    55.3397786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.2784389,
+                    55.242706
+                ]
+            },
+            "properties": {
+                "name": "Vymerio parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.4604102,
+                    55.3369371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.2268789,
+                    54.7331272
+                ]
+            },
+            "properties": {
+                "name": "Pa\u0161ilai\u010di\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.3566951,
+                    54.4781749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.1798689,
+                    54.5545752
+                ]
+            },
+            "properties": {
+                "name": "Keturvalaki\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.3179542,
+                    54.7246721
+                ]
+            },
+            "properties": {
+                "name": "Skulpt\u016br\u0173-suoliuk\u0173 parkas"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.3486822,
+                    56.3163929
+                ]
+            },
+            "properties": {
+                "name": "Senamies\u010dio parkas"
+            }
+        }
+    ],
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    }
+}

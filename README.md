@@ -1,3 +1,3 @@
 # openheatmaps
 
-!(openheatmaps)[openheatmaps.png]
+![openheatmaps] (openheatmaps.png)

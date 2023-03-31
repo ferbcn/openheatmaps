@@ -7,14 +7,14 @@ import requests
 
 import bokeh
 from bokeh.plotting import figure, show, output_file, ColumnDataSource
-from bokeh.tile_providers import get_provider, Vendors
+# from bokeh.tile_providers import get_provider, Vendors
 from bokeh.models import GeoJSONDataSource, ColumnDataSource, HoverTool, LinearColorMapper
 from bokeh.embed import file_html
 from bokeh.resources import CDN
 
 import json
 import math
-from pyproj import Proj, transform
+from pyproj import Proj, transform, Transformer
 import numpy as np
 
 allCountries = [
@@ -95,8 +95,10 @@ def index():
         title = ("Heatmap Europe - Countries: {}, Fact: {}").format(country_in, fact)
 
         p = figure(title=title, background_fill_color="lightgrey", x_axis_type="mercator", y_axis_type="mercator",
-                   tools=['wheel_zoom', 'pan', 'box_zoom', 'zoom_in', 'zoom_out', 'reset'], plot_width=1200, plot_height=1000)
-        p.add_tile(get_provider(Vendors.CARTODBPOSITRON))
+                   tools=['wheel_zoom', 'pan', 'box_zoom', 'zoom_in', 'zoom_out', 'reset'])
+
+        #p.add_tile(get_provider(Vendors.CARTODBPOSITRON))
+        p.add_tile("CartoDB Positron", retina=True)
 
         dataFound = False
 
@@ -131,11 +133,13 @@ def index():
                     ydata = point['geometry']['coordinates'][1]
                     longs.append(xdata)
                     lats.append(ydata)
-                    if ydata > 20 and ydata<70 and xdata > -40 and xdata < 40: #limit data to "europe area"
-                        xd, xy = transform(Proj(init='epsg:4326'), Proj(init='epsg:3857'), xdata, ydata)
-                        #print(xd, xy)
-                        x.append(xd)
-                        y.append(xy)
+                    #if ydata > 20 and ydata<70 and xdata > -40 and xdata < 40: #limit data to "europe area"
+                        #xd, yd = transform(Proj(init='epsg:4326'), Proj(init='epsg:3857'), xdata, ydata)
+                    trans = Transformer.from_crs("EPSG:4326", "EPSG:3857")
+                    xd, yd = trans.transform(ydata, xdata)
+                    # print(xd, yd)
+                    x.append(xd)
+                    y.append(yd)
 
         if dataFound == False:
 
@@ -146,7 +150,7 @@ def index():
 
         binCount = 100
         # heatmap conversion
-        H, xedges, yedges = np.histogram2d(x, y, bins=binCount, normed=False)
+        H, xedges, yedges = np.histogram2d(x, y, bins=binCount)
         xcenters = (xedges[:-1] + xedges[1:]) / 2
         ycenters = (yedges[:-1] + yedges[1:]) / 2
 
@@ -178,3 +182,7 @@ def index():
         html = file_html([p], CDN, "Heatmaps Europe: {}".format(tag_value))
         #return HttpResponse(html)
         return make_response(html)
+
+
+if __name__ == "__main__":
+    app.run(debug=True)
